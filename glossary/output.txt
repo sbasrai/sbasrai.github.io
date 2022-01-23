@@ -1,0 +1,1731 @@
+ACID
+A substance that: tends to lose a proton, dissolves in water with the formation of hydrogen ions (H+), contains hydrogen which may be replaced by metals to form salts. Highly corrosive.
+
+ACIDITY
+The capacity of water or wastewater to neutralize bases. Acidity is expressed in milligrams per liter of equivalent calcium carbonate.
+
+ACRE FOOT
+A volume of water one (1) foot deep and one (1) acre in area, or 43,560 cubic feet.
+
+***ACTIVATED SLUDGE
+Are the solids that are formed when microorganisms are used to treat wastewater during the process referred to as activated sludge treatment. It includes organisms, accumulated food materials and waste products from the aerobic decomposition process. 
+
+***ACTIVATED SLUDGE
+Sludge particles produced in raw or settled wastewater (primarily effluent) by the growth of organisms (including zoogleal bacteria) in aeration tanks in the presence of dissolved oxygen. The term “activated” comes from the fact that the particles are teeming with bacteria, fungi, and protozoa. Activated sludge is different from primary sludge in that the sludge particles contain many living organisms which can feed on the incoming wastewater.
+
+ACTIVATED SLUDGE PROCESS
+A biological wastewater treatment process which speeds up the decomposition of wastes in the wastewater being treated. Activated sludge is added to wastewater and the mixture (mixed liquor) is aerated and agitated. After some time in the aeration tank, the activated sludge is allowed to settle out by sedimentation and is disposed of (wasted) or refused (returned to the aeration tank) as needed. The remaining wastewater then undergoes more treatment.
+
+ACTUATOR
+ Device used to operate a valve using electric, pneumatic or hydraulic means. Often used for remote control or sequencing of valve operations.
+
+ADAPTER SPOOL
+ An extension which is added to a short face-to-face valve, to conform to standard API 6D face-to-face dimensions.
+
+***ADVANCED WASTE TREATMENT
+A treatment technology used to produce an extremely high-quality discharge. 
+
+***ADVANCED WASTE TREATMENT
+Any process of water renovation that upgrades treated wastewater to meet specific reuse requirements. Typical processes include chemical treatment and pressure filtration.  Also called tertiary treatment.
+
+***AERATION
+The process of adding air to wastewater to provide dissolved oxygen for aerobic bacterial treatment, to freshen wastewater and to keep solids in suspension.
+
+***AERATION
+The process of adding air to water. In wastewater treatment, air is added to refreshen wastewater and to keep solids in suspension. With mixtures of wastewater and activated sludge, adding air provides mixing and oxygen for the microorganisms treating the wastewater.
+
+AEROBES
+Bacteria that must have molecular (dissolved) oxygen (DO) to survive.
+
+***AEROBIC
+A condition in which atmospheric or dissolved molecular oxygen is present in the aquatic (water) environment. 
+
+***AEROBIC
+The condition in which free oxygen is dissolved in the water. Aerobic bacteria need free oxygen to live and multiply.
+
+AEROBIC BACTERIA
+Bacteria which will live and reproduce only in an environment containing oxygen which is available for their respiration (breathing), namely atmospheric oxygen or oxygen dissolved in water. Oxygen combined chemically, such as water molecules (H2O), cannot be used for respiration by aerobic bacteria.
+
+AIR AERATION
+A diffused air activated sludge plant takes air, compresses it, and then discharges the air below the water surface of the aerator through some type of air diffusion device.
+
+AIR LIFT
+A type of pump. This device consists of a vertical riser pipe in the wastewater or sludge to be pumped. Compressed air is injected into a tall piece at the bottom of the pipe.   Fine air bubbles mix with the wastewater or sludge to form a mixture lighter than the surrounding water which causes the mixture to rise in the discharge pipe to the outlet. An air-lift pump works like the center of a stand in a percolator coffee pot.
+
+AIR TEST
+A method of inspecting a sewer pipe for leaks. Inflatable or similar plugs are placed in the line, and the space between these plugs is pressurized with air. A drop in pressure indicates the line or run being tested has leaks. 
+
+***ALGAE
+A class of microscopic plant life that contain chlorophyll, live floating (suspended) in water or are attached to rocks, walls and other surfaces, and grow and multiply through photosynthesis. Algae produce oxygen during sunlight hours, use oxygen during darkness and affect the pH and DO levels in water.
+
+***ALGAE
+Microscopic plants which contain chlorophyll and live floating or are suspended in water. They also may be attached to structures, rocks, or other similar substances. Algae produce oxygen during sunlight hours and use oxygen during night hours. Their biological activities appreciably affect the pH and dissolve oxygen of the water.
+
+ALGAL BLOOM
+Sudden, massive growths of algae that develop in lagoons, lakes and reservoirs.
+
+ALIQUOT
+Portion of a sample. Often an equally divided portion of a sample.
+
+***ALKALINITY
+The capacity of water to neutralize acids; the buffering capacity of water to resist changes in pH, especially with regard to acids, the effects of chlorine addition and the DENITRIFICATION process.
+
+***ALKALINITY
+See Base.
+
+ALL WELDED CONSTRUCTION
+ Pertains to a valve construction in which the body is completely welded and cannot be disassembled and repaired in the field.
+
+***ANAEROBIC
+A condition in which atmospheric or dissolved molecular oxygen is NOT present in the aquatic (water) environment. 
+
+***ANAEROBIC
+The condition in which there is no, or very little, free dissolved oxygen in the water. Anaerobic bacteria live in the absence of free oxygen but they are able to obtain their oxygen from combined oxygen that exists in chemical compounds. Some treatment lagoons are purposely operated in an anaerobic state. Odors are often associated with anaerobic (septic) conditions due to formation of hazardous hydrogen sulfide gas.
+
+***ANAEROBIC
+A condition in which atmospheric or dissolved molecular oxygen is NOT present in the aquatic (water) environment.
+
+ANAEROBIC BACTERIA
+Bacteria that live and reproduce in an environment containing no “free” or dissolved oxygen. Anaerobic bacteria obtain their oxygen supply by breaking down chemical compounds which contain oxygen, such as sulfate (SO 2-).
+
+ANAEROBIC DECOMPOSITION
+The decay or breaking down of organic material in an environment containing no “free” or dissolved oxygen. 
+
+***ANAEROBIC DIGESTION
+Anaerobic bacteria (saprophytic and methane fermenters) decompose wastewater solids (complex organic material) in two steps into: 1) volatile acids, and 2) methane gas, carbon dioxide and water in the absence of dissolved oxygen. Specially designed basins, digesters, are used to carry out the digestion processes, prevent air from entering and to capture the methane gas. The sludge layer at the bottom of lagoons provides for similar solids stabilization processes.
+
+***ANAEROBIC DIGESTION
+Wastewater solids and water (about 5% solids, 95% water) are placed in a large tank where bacteria decompose the solids in the absence of dissolved oxygen.
+
+ANCHOR PIN
+ A pin welded onto the body of ball valves. This pin aligns the adapter plate and restrains the plate and gear operator from moving while the valve is being operated.
+
+ANGLE VALVE
+ A variation of the globe valve, in which the end connections are at right angles to each other, rather than being inline.
+
+***ANOXIC
+Oxygen deficient or lacking sufficient oxygen. 
+
+***ANOXIC
+Oxygen deficient or lacking sufficient oxygen.
+
+AOD
+ AOD stands for Air Operated Diaphragm (pump). These types of pumps are powered by compressed air or gas, making them ideal for hazardous applications such as petroleum based products and other flammable materials. With certain materials of construction, such as steel or conductive plastics, they are easily converted into fully explosion proof (Ex-Proof) pumps. Additionally, they can pull a suction lift and are submersible when installed properly. AOD’s can also handle slurries with solids concentrations up to 30% and can be run against a closed suction or “dead head” situation.
+
+AODD
+ AODD stands for Air Operated Double Diaphragm (pump). These types of pumps are powered by compressed air or gas, making them ideal for hazardous applications such as petroleum based products and other flammable materials. With certain materials of construction, such as steel or conductive plastics, they are easily converted into fully explosion proof (Ex-Proof) pumps. Additionally, they can pull a suction lift and are submersible when installed properly. AOD’s can also handle slurries with solids concentrations up to 30% and can be run against a closed suction or “dead head” situation.
+
+AQUIFER
+A natural underground layer of porous materials usually capable of yielding a supply of water.
+
+ASPHYXIATION
+An extreme condition often resulting in death due to a lack of oxygen and excess carbon dioxide in the blood from any cause. 
+
+AVAILABLE CHLORINE
+The amount of chlorine available in compound chlorine sources compared with that of elemental (liquid or gaseous) chlorine.
+
+AVERAGE MONTHLY DISCHARGE LIMITATION
+The highest allowable discharge over a calendar month 
+
+AVERAGE WEEKLY DISCHARGE LIMITATION
+The highest allowable discharge over a calendar week. 
+
+BACKFILL
+(1) Material used to full in a trench or excavation. (2) The act of filling a trench or excavation, usually after a pipe or some type of structure has been placed in the trench or excavation. 
+
+BACKFILL COMPACTION
+(1) Tamping, rolling or otherwise mechanically compressing material used as backfill for a trench of excavation. Backfill is compressed to increase its density so that it will support the weight of machinery or other loads after the material is in place in the 222 
+
+BACKFLOW
+A reverse flow condition, created by a difference in water pressures, which causes water to flow back into the distribution pipes of a potable water supply from any source or sources other than an intended source. Also see BACKSIPHONAGE.
+
+BACKFLUSHING
+A procedure used to wash settled waste matter off upstream to prevent odors from developing after a main line stoppage has been cleared. 
+
+BACKSEAT
+ A Shoulder on the stem of a valve which seals against a mating surface inside the bonnet to permit replacement, under pressure, of stem seals or packing.
+
+BACKSIPHONAGE
+A form of backflow caused by a negative or below atmospheric pressure within a water system. Also see BACKFLOW.
+
+***BACTERIA
+Bacteria are living organisms, microscopic in size, which usually consist of a single cell. Most bacteria use organic matter for their food and produce waste products as a result of their life processes. 
+
+***BACTERIA
+Bacteria are single-celled, living, microscopic organisms which use organic matter for food and produce waste products. The three main types are: aerobic, anaerobic and facultative.
+
+***BACTERIA
+Bacteria are living organisms, microscopic in size, which usually consist of a single cell. Most bacteria use organic matter for their food and produce waste products as the result of their life processes.
+
+BAFFLE
+A flat board or plate, deflector, guide or similar device constructed or placed in flowing water, wastewater, or slurry systems to cause more uniform flow velocities, to absorb energy, and to divert, guide, or agitate liquids (water, chemical solutions, slurry).
+
+BALL
+ The spherical closure element of a ball valve.
+
+BALL CHECK
+ A fitting with a small ball that seals against a seat preventing flow in one direction and allowing flow in the other direction.
+
+BALL VALVE
+ A valve using a spherical closure element (ball) which is rotated thru 90° to open and close the valve.
+
+BALLING
+A method of hydraulically cleaning a sewer or storm drain by using the pressure of a water head to create a high cleansing velocity of water around the ball. In normal operation, the ball is restrained by a cable while water washes past the ball at high velocity. Special sewer cleaning balls have an outside tread that causes them to spin or rotate, resulting in a “scrubbing” action of the flowing water along the pipe wall. 
+
+BAR RACK
+A screen composed of parallel bars, either vertical or inclined, placed in a sewer or other waterway to catch debris. The screenings may be raked from it. 
+
+BARREL
+(1) The cylindrical part of a pipe that may have a bell on one end. (2) The cylindrical part of a manhole between the cone at the top and the shelf at the bottom. 
+
+BASE
+A substance that takes up or accepts protons, dissociates in water to produce hydroxyl (OH-) ions, reacts with metals and is corrosive.
+
+BDV
+BLOW DOWN VALVE:  A small ball valve that is installed on the aboveground end of an extended drain line. This valve also serves to vent body cavity pressure in the "block and bleed" mode.
+
+BEDDING
+The prepared base or bottom of a trench or excavation on which a pipe or other underground structure is supported. 
+
+BEDDING COMPACTION
+(1) Tamping, rolling or otherwise mechanically compressing material used as bedding for a pipe or other underground structure to a density that will support expected loads. (2) Bedding compaction can be expressed as a percentage of the maximum load capacity of the bedding material. (3) Bedding compaction also can be expressed in load capacity or pounds per square foot. 
+
+BEDDING GRADE
+(1) In a gravity-flow sewer system, pipe bedding is constructed and compacted to the design grade of the pipe. This is usually expressed in a percentage. A 0.5 percent grade would be a drop of one-half of foot per hundred feet of pipe. (2) Bedding grade for a gravity-flow sewer pipe can also be specified as elevation above mean sea level at specific points. 
+
+BELL
+(1) In pipe fitting, the enlarged female end of a pipe into which the male end fits. (2) In plumbing, the expanded female end of a wiped joint. 
+
+BELLEVILLE SPRING
+ A spring resembling a dished washer, used in some ball valves to push the seats against the ball.
+
+BERM
+The earthen dike that surrounds ponds, lagoons and containment areas for hazardous material.
+
+BEVEL GEAR OPERATOR
+ Device facilitating operation of a gate or globe valve by means of a set of bevel gears having the axis of the pinion gear at right angles to that of the larger ring gear. The reduction ratio of this gearsetdetermines the multiplication of torque achieved.
+
+BHP
+ BHP is the actual amount of horsepower being consumed by the pump as measured on a pony brake or dynamometer.
+
+***BIOMASS
+Amass or clump of living organisms feeding on wastes in wastewater, dead organisms and other debris. The mass may protect the organisms, as well as store food supplies. Also called ZOOGLEAL MASS.
+
+***BIOMASS
+A mass or clump of organic material consisting of living organisms feeding on the wastes in wastewater, dead organisms and other debris.
+
+***BIOSOLIDS
+Organic matter recovered from a sewage treatment process. 
+
+***BIOSOLIDS
+A primarily organic solid product, produced by wastewater treatment processes, that can be beneficially recycled. The word biosolids is replacing the word sludge.
+
+BIOSOLIDS CAKE
+Solid discharge from a dewatering apparatus. 
+
+BIT
+(1) Cutting blade used in rodding (pipe cleaning) operations. (2) Cutting teeth on the auger head of a sewer boring tool. 
+
+BLANK
+A bottle containing only dilution water or distilled water, but the sample being tested is not added. Tests are frequently run on a SAMPLE and a BLANK and the differences are compared.
+
+BLOCK AND BLEED
+ The capability of obtaining a seal across the upstream and downstream seat rings of a valve when the body pressure is bled off to atmosphere thru blow down valves or vent plugs. Useful in testingfor integrityof seat seals and in accomplishing minor repairs under pressure.
+
+BLOCKAGE
+(1) Partial or complete interruption of flow as a result of some obstruction in a sewer. (2) When a collection system becomes plugged and the flow backs up, “blockage.” 
+
+***BOD
+Biochemical Oxygen Demand. The rate at which organisms use the oxygen in water or wastewater while stabilizing decomposable organic matter under aerobic conditions. In decomposition, organic matter serves as food for the bacteria and energy results from its oxidation. BOD measurements are used as a measure of the organic strength of wastes in water. 
+
+***BOD
+(Pronounce letters separately.) The BIOCHEMICAL OXYGEN DEMAND test measures the rate at which microorganisms use oxygen while decomposing organic matter under aerobic conditions. BOD is used as a measure the organic strength of wastewater.
+
+***BOD
+Biochemical Oxygen Demand. The rate at which organisms use the oxygen in water or wastewater while stabilizing decomposable organic matter under aerobic conditions. In decomposition, organic matter serves as food for the bacteria and energy results from its oxidation. BOD measurements are used as a measure of the organic strength of wastes in water.
+
+***BOD
+BOD5
+
+***BOD
+Biochemical Oxygen Demand. The rate at which organisms use the oxygen in water or wastewater while stabilizing decomposable organic matter under aerobic conditions. In decomposition, organic matter serves as food for the bacteria and energy results from its oxidation. BOD measurements are used as a measure of the organic strength of wastes in water.
+
+BODY
+ The principal pressure containing part of a valve, in which the closure element and seats are located.
+
+BODY RELIEF VALVE
+ A relief valve (optional) installed on ball valves used in liquid service to provide for the relief of excess body pressure caused by thermal expansion.
+
+BOLTED BONNET
+ A bonnet which is connected to a valve body with bolts or studs and nuts.
+
+BOLTED CONSTRUCTION
+ Describes a valve construction in which the pressure shell elements are bolted together, and thus can be taken apart and repaired in the field.
+
+BONNET
+ The top part of a valve, attached to the body, which contains the packing gland, guides the stem, and adapts to extensions or operators.
+
+BOWLUS FLUME
+A flow measuring device consisting of a preformed flume.
+
+BRANCH MANHOLE
+A sewer or drain manhole which has more than one pipe feeding into it. A standard manhole will have one outlet and one inlet. A branch manhole will have one outlet and two or more inlets. 
+
+BRANCH SEWER
+A sewer that receives wastewater from a relatively small area and discharges into a main sewer servicing more than one branch sewer area. 
+
+BUCKET
+(1) A special device designed to be pulled along a sewer for the removal of debris from the sewer. The bucket has one end open with the opposite end having a set of jaws. When pulled from the jaw end, the jaws are automatically opened. When pulled from the other end, the jaws close. In operation, the bucket is pulled into the debris from the jaw end and to a point where some of the debris has been forced into the bucket. The bucket is then pulled out of the sewer from the other end, causing the jaws to close and retain the debris. Once removed from the manhole, the bucket is emptied and the process repeated. (2) A conventional pail or bucket used in BUCKETING OUT and also for lowering and raising tools and materials from manholes and excavations. 
+
+BUCKET BAIL
+The pulling handle on a bucket machine. 
+
+BUCKETING OUT
+An expression used to describe removal of debris from a manhole with a pail on a rope. In balling or high-velocity cleaning of sewers, debris is washed into the downstream manhole. Removal of this debris by scooping it into pails and hauling debris out is called “bucketing out.” 
+
+***BUFFER
+A substance or solution that resists changes in pH. 
+
+***BUFFER
+A solution or liquid whose chemical makeup neutralizes acids or bases without a great change in pH.
+
+BULKING
+Clouds of billowing sludge that occur throughout secondary clarifiers and sludge thickeners when the sludge does not settle properly.   In the activated sludge process bulking is usually caused by filamentous bacteria or bound water.
+
+BURIED SERVICE
+ An application in which valves are installed in lines which are buried below ground level.
+
+BUTTERFLY VALVE
+ A short face-to-face valve which has a movable vane, in the center of the flow stream, which rotates 90 degrees as the butterfly valve opens and closes.
+
+BVR
+BALL VALVE REGULATOR:  An automatic throttling valve controlling flow or pressure in a pipeline; comprising a package involving al ball valve actuator, positioner, and controlling instrument.
+
+***BYPASS
+A pipe, valve, gate, weir, trench or other device designed to permit all or part of a wastewater flow to be diverted from usual channels or flow. Sometimes refers to a special line which carries the flow around a facility or device that needs maintenance or repair. 
+
+***BYPASS
+ A system of pipes and valves permitting the diversion of flow or pressure around a line valve.
+
+BYPASSING
+The act of causing all or part of a flow to be diverted from its usual channels. In a wastewater treatment plant, overload flows should be bypassed into a holding pond for future treatment. 224 
+
+CARBON DIOXIDE
+A common gas, CO2, found abundantly in air, is a product of bacterial respiration and used by algae in photosynthesis. The concentration of carbon dioxide in the lagoon water governs the pH of the lagoon.
+
+CARCINOGEN
+Any substance that tends to produce cancer in an organism.
+
+CAST
+ The form of a particular part of a valve, where the basic shape is formed by molding rather than fabricating.
+
+CASTING
+ A product or the act of producing a product made by pouring molten metal into a mold and allowing it to solidify, thus taking the shape of the mold.
+
+CATCH BASIN
+A chamber or well used with storm or combined sewers as a means of removing grit which might otherwise enter and be deposited in sewers. 
+
+***CAVITATION
+The formation and collapse of a gas pocket or bubble on the blade of an impeller or gate of a valve. The collapse of the bubble drives water into the impeller or gate with a terrific force that can cause pitting of the surface. Cavitation is indicated by loud hammering noises.
+
+***CAVITATION
+The formation and collapse of a gas pocket or bubble on the blade of an impeller or the gate of a valve. The collapse of this gas pocket or bubble drives water into the impeller or gate with a terrific force that can cause pitting on the impeller or gate surface. Cavitation is accompanied by loud noises that sound like someone is pounding on the impeller or gate with a hammer.
+
+CENTRIFUGE
+A mechanical device that uses centrifugal or rotational forces to separate solids from liquids.
+
+CHAIN WHEEL OPERATED VALVE
+ An overhead valve operated by a chain drive wheel instead of a handwheel.
+
+CHARACTERIZED GATE OR BALL
+ A ball or gate, the shape of whose port has been specially altered to provide a specific throttling capability.
+
+CHECK VALVE
+ A one-directional valve which is opened by the fluid flow in one direction and closed automatically when the flow stops or is reversed.
+
+CHEMICAL GROUT
+Two chemical solutions that form a solid when combined. Solidification time is controlled by the strength of the mixtures used and the temperature. 
+
+***CHLORINATION
+The application of chlorine to water for disinfection or oxidation of undesirable compounds. Chlorine compounds are gas and liquid or solid (hypochlorites).
+
+***CHLORINATION
+The application of chlorine to water or wastewater, generally for the purpose of disinfection, but frequently for accomplishing other biological or chemical results.
+
+CHLORINATOR
+A metering device which is used to add chlorine to water.
+
+CHLORINE CONTACT UNIT
+A baffled basin that provides sufficient time for disinfection to occur.
+
+***CHLORINE DEMAND
+The difference between the amount of chlorine added to water and the amount of chlorine residual remaining after a given contact time.
+
+***CHLORINE DEMAND
+Chlorine demand is the difference between the amount of chorine added to wastewater and the amount of residual chlorine remaining after a given contact time. Chlorine demand may change with dosage, time temperature, pH, and nature and amount of the impurities in the water.
+
+***CHLORINE REQUIREMENT
+The amount of chlorine needed for a particular treatment.
+
+***CHLORINE REQUIREMENT
+  The amount of chlorine which is needed for a particular purpose. Some reasons for adding chlorine are reducing the number of coliform bacteria (Most Probable Number), obtaining a particular chlorine residual, or oxidizing some substance in the water. In each case a definite dosage of chlorine will be necessary. This dosage is the chlorine requirement.
+
+CHLORINE RESIDUAL
+The amount of free chlorine remaining after meeting chlorine demand under given conditions and is necessary to complete disinfection.
+
+***CIRCUITING
+A hydraulic condition in which water may find a short path between the inlet and outlet of a cell with subsequent shortened time of retention.
+
+***CIRCUITING
+A condition that occurs in tanks or basins when some of the water travels faster than the rest of the flowing water. This is usually undesirable since it may result in shorter contact, reaction, or settling times in comparison with the theoretical (calculated) or presumed detention times.
+
+CITY GATE
+CITY GATE STATION:  The metering and pressure reducing station where gas is transferred from a high pressure cross-country transmission line to a low pressure distribution piping system within a city.
+
+CLAPPER
+ The hinged closure element of a swing check valve.
+
+CLARIFICATION
+Any process or processes used to reduce the concentration of suspended matter in a liquid, such as quiescent settling or sedimentation. Lagoons provide clarification across the cells and in quiescent zones in aerated systems, allowing solids to settle into a sludge layer
+
+CLARIFIER
+Settling Tank, Sedimentation Basin. A tank or basin in which wastewater is held for a period of time during which the heavier solids settle to the bottom and the lighter material will float to the water surface.
+
+CLEAN WATER ACT
+Federal legislation passed in 1972 creating the Environmental Protection Agency, requiring a nationwide system for controlling pollutant discharges and providing for construction and regulation of publicly owned treatment works.
+
+CLEANING
+Sewer line cleaning, commonly done by high-velocity cleaners, that is done prior to the TV inspection of a pipeline to remove grease, slime, and grit to allow for a clearer and more accurate identification of defects and problems. 235 
+
+***CLEANOUT
+An opening (usually covered or capped) in a wastewater collection system used for inserting tools, rods or snakes while cleaning a pipeline or clearing a stoppage. 
+
+***CLEANOUT
+When a manhole is not provided at the upstream end of a sewer main, a cleanout is usually provided. This is called a “terminal cleanout.” 
+
+CLOSURE ELEMENT
+ The moving part of a valve, positioned in the flowstream which controls flow thru the valve. Ball. Gate, Plug, Clapper, Disc, etc., are specific names for closure elements.
+
+COAGULANTS
+Chemicals that cause very fine particles to clump (floc) together into larger particles. This makes it easier to separate the solids from the water by settling, skimming, draining or filtering.
+
+COAGULATION
+The clumping together of very fine particles into large particles (floc) caused by the use of chemicals (coagulants).
+
+***COLIFORM
+The presence of coliform bacteria indicates that the water is polluted, may contain pathogenic organisms and indicate the possible presence of human or animal waste. Fecal coliform are specific to feces from warm-blooded animals, including humans. The E.coli test is a specific coliform test used to regulate and protect public health from WWTP discharges containing pathogens.
+
+***COLIFORM
+A type of bacteria. The presence of coliform-group bacteria is an indication of possible pathogenic bacterial contamination. The human intestinal tract is one of the main habitats of coliform bacteria. They may also be found in the intestinal tracts of warm-blooded animals, and in plants, soil, air, and the aquatic environment. Fecal coliforms are those coliforms found in the feces of various warm-blooded animals; whereas the term “coliform” also includes various other environmental sources.
+
+COLLECTION SYSTEM
+A network of pipes, manholes, cleanouts, traps, siphons, lift stations and other structures used to collect all wastewater and wastewater-carried wastes of an area and transport them to a treatment plant or disposal system. The collection system includes land, wastewater lines and appurtenances, pumping stations and general property. 
+
+COLORIMETRIC MEASUREMENT
+A means of measuring unknown chemical concentrations in water by MEASURING A SAMPLE’S COLOR INTENSITY. The specific color of the sample, developed by addition of chemical reagents, is measured with a photoelectric colorimeter or is compared with “color standards” using, or corresponding with, known concentrations of the chemical.
+
+COMBINED SEWER
+A sewer designed to carry both sanitary wastewater and storm- or surface-water runoff.
+
+COMMINUTOR
+A device used to reduce the size of the solid chunks in wastewater by shredding (comminuting). The shredding action is like many scissors cutting or chopping to shreds all the large influent solids material in the wastewater.
+
+COMPOSITE
+A composite sample is a collection of individual samples obtained at regular intervals, usually every one or two hours during a 24-hour time span. Each individual sample is combined with the others in proportion to the rate of flow when the sample was collected. The resulting mixture (composite sample) forms a representative sample and is analyzed to determine the average conditions during the sample period.
+
+COMPUTED TOTAL CONTRIBUTION
+The total anticipated load on a wastewater treatment plant or the total anticipated flow in any collection system area based on the combined computed contributions of all connections to the system. 
+
+CONCRETE CRADLE
+A device made of concrete that is designed to support sewer pipe. 225 
+
+CONDUIT
+ An expression characterizing valves when in the open position, wherein the bore presents a smooth uninterrupted interior surface across seat rings and thru the valve port, thus affording minimum pressuredrop. There are no cavities or large gaps in the bore between seat rings and body closures or between seat rings and ball/gate. Consequently, there are no areas that can accumulate debris to impede pipeline cleaning equipment or restrict the valve's motion.
+
+***CONFINED SPACE
+Confined space means a space that: 
+
+***CONFINED SPACE
+Confined space means a space that:
+
+CONNECTION
+A connection between a drinking water system and an unapproved system.
+
+CONTAMINATION
+The introduction into water of microorganisms, chemicals, toxic substances, wastes, or wastewater in a concentration that makes the water unfit for its next intended use.
+
+CONTROL VALVE
+ A valve that controls a process variable, such as pressure, flow or temperature by modulating its opening in response to a signal from a controller.
+
+CONTROLLER
+ A device that measures a controlled variable, compares it with a predetermined setting and signals the actuator to read just the opening of the valve in order to re-establish the original control setting.
+
+CORROSION
+The gradual decomposition or destruction of a material due to chemical action, often due to an electrochemical reaction. Corrosion starts at the surface of a material and moves inward, such as the chemical action upon manholes and sewer pipe materials. 
+
+COULISSE
+ Of or using runners or slides as a guiding mechanism; as in a "Coulisse" style gate valve.
+
+COUPLING
+(1) A threaded sleeve used to connect two pipes. (2) A device used to connect two adjacent parts, such as pipe coupling, hose coupling or drive coupling. 
+
+COUPON
+A steel specimen inserted into wastewater to measure the corrosiveness of the wastewater. The rate of corrosion is measured as the loss of weight of the coupon or change in its physical characteristics. Measure the weight loss (in milligrams) per surface area (in square decimeters) exposed to the wastewater per day. 
+
+CREST
+The bottom edge of a weir plate.
+
+***CROSS CONNECTION
+A connection between a storm drain system and a sanitary collection system. 
+
+***CROSS CONNECTION
+A connection between a drinking (potable) water system and an unapproved water supply. For example, if you have a pump moving nonpotable water and hook into the drinking water system to supply water for the pump seal, a cross connection or mixing between the two water systems can occur. This mixing may lead to contamination of the drinking water.
+
+CRUSTACEANS
+A class of microscopic water animals that consume large quantities of bacteria and algae.
+
+CRYOGENIC VALVE
+ A valve capable of functioning at cryogenic temperatures.
+
+CYCLE
+ A single complete operation or process returning to the starting point. A valve, stroked from full open to full close and back to full open, has undergone one cycle.
+
+CYLINDER OPERATOR
+ A power-piston valve operator using either hydraulic or pneumatic pressure. A sealed piston converts applied pressure into a linear piston rod (stem) motion.
+
+DAPHNIA
+A crustacean commonly found in wastewater lagoons.
+
+DEADEND MANHOLE
+A manhole located at the upstream end of a sewer and having no inlet pipe. 
+
+DEBRIS
+Any material in wastewater found floating, suspended, settled, or moving along the bottom of a sewer. This material may cause stoppages by getting hung up on roots or settling out in a sewer. Debris includes grit, paper, rubber, silt, and all materials except liquid. 
+
+DECHLORINATION
+The removal of chlorine from the effluent of a treatment plant.
+
+DENITRIFICATION
+An anaerobic process that occurs when nitrite and nitrate ions are reduced to nitrogen gas and bubbles are formed. These bubbles attach to sludge flocs, causing rising sludge that floats to the surface of secondary clarifiers.
+
+DEQ
+Department of Environmental Quality. 
+
+***DETENTION TIME
+The theoretical time that water may stay in a basin such as lagoon. It is the total volume of the lagoon divided by the flow rate. Usually expressed in days of time or in hours.
+
+***DETENTION TIME
+The time required to fill a tank at a given flow or the theoretical time required for a given flow of wastewater to pass through a tank.
+
+DETRITUS
+  The heavy, coarse mixture of grit and organic material carried by wastewater. (also called grit).
+
+DEWATER
+To drain or remove water from an enclosure. A structure may be dewatered so that it can be inspected or repaired. Dewater also means draining or removing water from sludge to increase the solids concentration. 226 
+
+DIAPHRAGM
+ A round, thin flexible sealing device secured and sealed around its outer edge - and sometimes around a central hole in the diaphragm - with its unsupported area free to move by flexing.
+
+DIFFUSER
+A device used to break the air stream from the blower system into fine bubbles in an aeration tank or reactor.
+
+DIGESTER
+A tank in which sludge is placed to allow decomposition by microorganisms. Digestion may occur under anaerobic (more common) or aerobic conditions.
+
+DIP
+A point in the sewer pipe where a drain grade defect results in a puddle of standing water when there is no flow. 
+
+DIP TUBE
+ Extending the blow down valve on large gate valves requires a tube which is located inside of the valve. The tube is called the "dip tube" and extends through the bonnet to the bottom of the body cavity.
+
+DISC
+ The closure element of a globe angle or small regulator valve. The disc (sometimes referred to as "valve," "poppet" or "plug") moves to and from the seat in a direction perpendicular to the seat face. Depends on stem force for tight shutoff.
+
+***DISINFECTION
+The process designed to kill or inactivate most microorganisms in water, including essentially all pathogenic (disease-causing) bacteria. There are several ways to disinfect, with chlorine being the most frequently used method in both water and wastewater systems. 
+
+***DISINFECTION
+The process designed to kill most microorganisms in water, including the destruction or inactivation of pathogenic bacteria. Disinfection differs from sterilization which destroys all living forms.
+
+***DISINFECTION
+The process designed to kill or inactivate most microorganisms in wastewater, including essentially all pathogenic (disease-casing) bacteria.   There are several ways to disinfect, with chlorination being the most frequently used in water and wastewater treatment plants.
+
+DISSOLVED OXYGEN
+Molecular (atmospheric) oxygen dissolved in water or wastewater, usually abbreviated as DO.
+
+DISSOLVED SOLIDS
+The salts and other residues left after evaporation of water that has been passed through a laboratory filter. Dissolved solids cannot be filtered out. Some colloidal solids may not be in true solution, but if they pass through the standard membrane filter, they are considered dissolved solids. (See suspended solids)
+
+DIURNAL
+Having a daily cycle; usually a 24-hour period from 12:00am to 12:00pm.
+
+DO
+Dissolved Oxygen:  An indication of how much oxygen is present in water. If a facility discharges directly to a stream or river, it will usually have a permit limit related to dissolved oxygen.
+
+DRAGLINE
+A machine that drags a bucket down the intended line of a trench to dig or excavate the trench. Also used to dig holes and move soil or aggregate. 
+
+DRAIN PLUG
+ A fitting at the bottom of a valve, the removal of which permits draining and flushing the body cavity.
+
+DRIVE PINS
+ The two pins which fit into the bottom of a ball valve stem and engage corresponding holes in the ball. As the operator turns the stem, the drive pins turn the ball.
+
+DROOP
+ A drop in set (outlet) pressure of a regulator or control valve due to the travel of its valve or poppet, as the required flow increases from low to maximum. A slight change in the control spring length due to the valve travel, will result in spring force variations, translating into a change of set (outlet) pressure.
+
+DROP MANHOLE
+A main line or house service line lateral entering a manhole at a higher elevation than the main flow line or channel. If the higher elevation flow is routed to the main manhole channel outside of the manhole, it is called an “outside drop.” If the flow is routed down through the manhole barrel, the pipe down to the manhole channel is called an “inside drop.” 
+
+DRY WELL
+A dry room or compartment in a lift station, near or below the water level, where the pumps are located. 
+
+DUCKWEED
+A water plant with single small leaf that floats and accumulates on the surface of lagoons.
+
+EASEMENT
+Legal right to use the property of others for a specific purpose. For example, a utility company may have a five-foot easement along the property line of a home. This gives the utility the legal right to install and maintain a sewer line within the easement. 
+
+***EFFLUENT
+Wastewater or other liquid—raw (untreated), partially, or completely treated—flowing FROM a reservoir, basin, treatment process, or treatment plant. 
+
+***EFFLUENT
+The treated water leaving the treatment plant.
+
+***EFFLUENT
+Wastewater or other liquid - raw (untreated), partially or completely treated - flowing
+
+ELASTOMER
+ A natural or synthetic elastic material, often used for o-ring seals. Typical materials are viton, buna-n, EPDM (ethylene propylene dimonomer), etc.
+
+ELEVATION
+The height to which something is elevated, such as the height above sea level. 
+
+ELUTRIATION
+The washing of digested sludge with fresh water, plant effluent or other wastewater. The goal is to remove fine particles and/or the alkalinity in the sludge. This process reduces the demand for conditioning chemicals and improves settling or filtering characteristics of the sludge.
+
+EMERGENCY SEAT SEAL
+ To obtain tight shut off in an emergency situation, a sealant can be injected into a specially designed groove in the seat rings. Available for most ball valves and gate valves.
+
+EODD
+ EODD stands for Electrically Operated Double Diaphragm (pumps). These are diaphragm pumps driven either directly or indirectly with an electric motor. Offering many of the same advantages as AOD/AODD pumps with less noise and no compressed air/gas requirements. They cannot run against a closed discharge, which air operated models can, except Graco’s e-Series models.
+
+EPA
+United States Environmental Protection Agency. 
+
+EQUALIZING BASIN
+A holding basin in which variations in flow and composition of a liquid are averaged. Such basins are used to provide a flow of reasonably uniform volume and composition to a treatment unit.  Also called a balancing reservoir.
+
+ESDV
+EMERGENCY SHUT DOWN VALVES:  A valve or a system of valves which, when activated, initiate a shut-down of the plant, process, or platform they are tied to.
+
+ESTUARY
+Bodies of water that are located at the lower end of a river and are subject to tidal fluctuations.
+
+EUTROPHICATION
+The increase of nutrient levels of a lake or other body of water; this usually causes in increase in the growth of aquatic animal and plant life.
+
+EXFILTRATION
+Liquid wastes and liquid-carried wastes which unintentionally leak out of a sewer pipe system and into the environment. 
+
+EXPANDING GATE VALVE
+ A gate valve that is comprised of a separate gate and segment that as the valve operates the gate and segment move without touching the seats, permitting the valve to be opened and closed without wear. In the closed position the gate and segment are forced against the seat. Continued downward movement of the gate causes the gate and segment to expand against the seats. When the valve reaches its full open position, the gate and segment seal off against the seats while the flow is isolated from the valve body.
+
+EXTENSIONS
+ The equipment applied to buried valves to provide above grade accessibility to operating gear, blowdown and seat lubrication systems.
+
+FACE
+ The overall dimension from the inlet face of a valve to the outlet face of the valve (one end to the other). This dimension is governed by ASME B16.10 and API-6D to ensure that such valves are mutually inter changeable, regardless of the manufacturer.
+
+FACULTATIVE
+A combination of both aerobic and anaerobic conditions. Facultative cells have both aerobic and anaerobic zones. Facultative bacteria are able to exist in both aerobic and anaerobic conditions. A facultative pond is commonly used to treat wastewater flows in small communities, It has an upper aerobic zone, a lower anaerobic zone, and algae provide most of the oxygen for the bacteria.
+
+FACULTATIVE ORGANISMS
+Organisms that can survive and function in the presence or absence of free, elemental oxygen. Basically, organisms that can switch from aerobic or anaerobic depending on its environment. 227 
+
+FAIL SAFE VALVE
+ A valve designed to fail in a preferred position (open or closed) in order to avoid an undesirable consequence in a piping system.
+
+FAIR LEAD PULLEY
+A pulley that is placed in a manhole to guide TV camera electric cables and the pull cable into the sewer when inspecting pipelines. 
+
+FERMENTATION
+A process of decomposition of organic solid materials by bacteria and other biological actions.
+
+FIELD SERVICEABLE
+ A statement indicating that normal repair of the valve or replacement of operating parts can be accomplished in the field without return to the manufacturer.
+
+FILAMENTOUS
+The property of growing in long strings, or filaments. Algae and bacteria have filamentous forms. Algae filaments can clog up equipment and be a nuisance in receiving waters. Bacterial filaments area common cause of bulking in activated sludge.
+
+FILAMENTOUS ORGANISMS
+Organisms that grow in a thread or filamentous form. Common types are Thiothrix and Actinomycetes. A common cause of sludge bulking in the activated sludge process.
+
+FIRE GATE
+ A gate or ball valve which is positioned in a pipeline at the entrance to a compressor station. This valve is closed in case of fire in the compressor station. Closing the valve prevents the gas in the pipeline from feeding the fire.
+
+FIRE SAFE
+ A statement associated with a valve design which is capable of passing certain specified leakage and operational tests after exposure to fire. Must be referenced to a particular specification.
+
+FLEXIBLE TUBE VALVE
+ A special valve using a flexible sleeve or tube which acts as the closure element. Pressure applied to the jacket space surrounding the outside of the tube, controls the opening and closing of the valve.
+
+FLOAT LINE
+A length of rope or heavy twine attached to a float, plastic jug or parachute to be carried by the flow in a sewer from one manhole to the next. This is called “stringing the line” and is used for pulling through winch cables, such as for a bucket machine work or closed-circuit television work. 
+
+FLOAT VALVE
+ A valve which automatically opens or closes as the level of a liquid changes. The valve is operated mechanically by a float which rests on the top of the liquid.
+
+FLOATING BALL
+ A ball valve having a non-trunnion mounted ball. The ball is free to float between the seat rings, and thus causes higher torques.
+
+***FLOC
+Clumps of bacteria and particulate impurities that have come together and formed a cluster.
+
+***FLOC
+Clumps of bacteria and particles or coagulants and impurities that have come together and formed a cluster. Found in aeration tanks, secondary clarifiers and chemical precipitation processes.
+
+FLOCCULATION
+The gathering together of fine particles after coagulation to form larger particles by a process of gentle mixing.
+
+FLOTATION
+(1) The stress or forces on a pipeline or manhole structure below a water table which tend to lift or float the pipeline or manhole structure. (2) The process of raising suspended matter to the surface of the liquid in a tank where it forms a scum layer that can be removed by skimming. The suspended matter is raised by aeration, the evolution of gas, the use of chemicals, electrolysis, heat or bacterial decomposition. 
+
+FLOW
+The continuous movement of a liquid from one place to another. 
+
+FLOW ISOLATION
+A procedure used to measure inflow and infiltration (I/I). A section of sewer is blocked off or isolated and the flow from the section is measured. 
+
+FLUSHER BRANCH
+A line built specifically to allow the introduction of large quantities of water to the collection system so the lines can be “flushed out” with water. Also installed to provide access for equipment to clear stoppages in a sewer. 
+
+FLUSHING
+The removal of deposits of material which have lodged in sewers because of inadequate velocity of flows. Water is discharged into the sewers at such rates that the larger flow and higher velocities are sufficient to remove the material. 
+
+***FORCE MAIN
+A pipe that carries wastewater under pressure from the discharge side of a pump to a point of gravity flow downstream. 228 
+
+***FORCE MAIN
+A pipe that carries wastewater under pressure from the discharge side of a pump to a point of gravity flow downstream.
+
+FREE AVAILABLE RESIDUAL CHLORINE
+That portion of the total available chlorine residual composed of dissolved chlorine gas (Cl2), hypochlorous acid (HOCl), and/or hypochlorite ion (OCl-) remaining in water after chlorination.
+
+FREE OXYGEN
+Oxygen can be dissolved in water as the soluble gas O2 when it is called free oxygen and measured as dissolved oxygen.
+
+FREEBOARD
+The vertical distance from the normal water surface to the top of the confining wall.
+
+FRICTION LOSS
+The head lost by water flowing in a stream or conduit as the result of the disturbances set up by the contact between the moving water and its containing conduit and by intermolecular friction. 
+
+FULL OPENING
+ Describes a valve whose bore (port) is nominally equal to the bore of the connecting pipe.
+
+GAC
+Granular Activated Carbon:  A material used to absorb organics from wastewater. This charcoal-like material can be used in filtration systems to remove solvent contamination.
+
+GATE
+ The closure element of a gate valve (sometimes called wedge or disc).
+
+GATE VALVE
+ A straight-thru pattern valve whose closure element is a wedge or parallel-sided slab, situated between two fixed seating surfaces, with means to move it in or out of the flow stream in a direction perpendicular to the pipeline axis.
+
+GLAND FOLLOWER OR GLAND FLANGE
+ The component used to hold down or retain the gland in the stuffing box.
+
+GLAND OR GLAND BUSHING
+ That part of a valve which retains or compresses the stem packing in a stuffing box (where used) or retains a stem O-ring, lip seal, or stem O-ring bushing. Sometimes manually adjustable.
+
+GLAND PLATE
+ The plate in a valve which retains the gland, gland bushing or stem seals and sometimes guides the stem.
+
+GLOBE VALVE
+ A valve whose closure element is a flat disc or conical plug sealing on a seat which is usually parallel to the flow axis. Can be used for throttling services.
+
+GO
+GEAR OPERATED:  The actuation of a valve thru a - ear set which multiplies the torque applied to the valve stem.
+
+***GRAB SAMPLE
+A single sample of water collected at a particular time and place which represents the composition of water only at that time and place.
+
+***GRAB SAMPLE
+A single sample of water collected at a particular time and place which represents the composition of the water only at that time and place.
+
+GRADE
+(1) The elevation of the invert (or bottom) of a pipeline, canal, culvert, sewer, or similar conduit. (2) The inclination of slope of a pipeline, conduit, stream channel, or natural ground surface; usually expressed in terms of the ratio or percentage of number of units of vertical rise or fall per unit of horizontal distance. A 0.5 percent grade would be a drop of one-half foot per hundred feet of pipe. 
+
+GRAVITY FLOW
+Water or wastewater flowing from a higher elevation to a lower elevation due to the force of gravity. The water does not flow due to energy provided by a pump. Wherever possible, wastewater collection systems are designed to use the force of gravity to convey waste liquids and solids. 
+
+GREASE
+In a collection system, grease is considered to be the residues of fats, detergents, waxes, free fatty acids, 
+
+GREASE BUILDUP
+Any point in a collection system where coagulated and solidified greases accumulate and build up. Many varieties of grease have high adhesive characteristics and collect other solids, forming restrictions and stoppages in collection systems. 
+
+GREASE FITTING
+ A fitting through which lubricant or sealant is injected.
+
+GREASE TRAP
+A receptacle designed to collect and retain grease and fatty substances usually found in kitchens or from similar wastes. It is installed in the drainage system between the kitchen or other point of production of the waste and the building wastewater collection line. Commonly used to control grease from restaurants. 
+
+***GREEN ALGAE
+Varieties of algae characterized by their bluish-green color. The appearance of blue-green algae indicates unhealthy conditions in lagoon cells, often associated with organic overloading and lack of adequate dissolved oxygen.
+
+***GREEN ALGAE
+The common forms of algae in an aerobic lagoon environment. Green algae are essential for lagoon treatment.
+
+***GRIT
+The heavy mineral material present in wastewater such as sand, coffee grounds, eggshells, gravel and cinders. Grit tends to settle out at flow velocities below 2 ft. /sec, 
+
+***GRIT
+Raw sewage carries a variable amount of solids such as sand, and other heavier settleable solids. These are generally classed as grit.
+
+***GRIT
+  The heavy material present in wastewater, such as sand, coffee grounds, eggshells, gravel and cinders.
+
+GRIT CATCHER
+A chamber usually placed at the upper end of a depressed collection line or at other points on combined or storm water collection lines where wear from grit is possible. The chamber is sized and shaped to reduce the velocity of flow through it and thus permit the settling out of grit. 
+
+GRIT REMOVAL
+Grit removal is accomplished by providing an enlarged channel or chamber which causes the flow velocity to be reduced and allows the heavier grit to settle to the bottom of the channel where it can be removed.
+
+GRIT TRAP
+A permanent structure built into a manhole (or other convenient location in a collection system) for the accumulation and easy removal of grit. 
+
+H
+The intensity of the basic or acid condition of a liquid.
+
+HAND WHEEL
+ A wheel-shaped valve operating device intended to be grasped with one or both hands which allows turning the valve stem or operator shaft to which it is attached.
+
+HARD FACING
+ A surface preparation in which an alloy is deposited on a metal surface usually by weld overlay to increase resistance to abrasion and or corrosion.
+
+HARD WATER
+Water having a high concentration of calcium and magnesium ions.
+
+HEAD
+The vertical distance (in feet) equal to the pressure (in psi) at a specific point. The pressure head is equal to the pressure in psi times 2.31 ft/psi.
+
+HEADWORKS
+The facilities where wastewater enters a wastewater treatment plant. The headworks may consist of bar screens, comminutors, a wet well and pumps.
+
+HUBS
+ The end connection tubes on a gate valve.
+
+HWO
+HANDWHEEL OPERATED:  A valve on which the handwheel drives the stem directly to operate the valve.
+
+HYDRAULIC LOADING
+The flow of water per acre of surface area.
+
+HYDROGEN SULFIDE
+A very odorous and poisonous gas. Commonly known as rotten egg gas. It is a combined form of hydrogen and sulfur with the formula H2S.
+
+HYDROLOGIC CYCLE
+The process of evaporation of water into the air and its return to earth by precipitation. (Also called the WATER CYCLE)
+
+HYPOCHLORINATORS
+Chlorine pumps, chemical feed pumps or devices used to dispense chlorine solutions made from hypochlorites into the water being treated.
+
+INCREMENTAL SEAT TEST
+ The leakage testing of valve seats in an assembled valve by increasing the applied pressure in prescribed pressure steps.
+
+***INFILTRATION
+The seepage of groundwater into a sewer system, including service connections. Seepage frequently occurs through defective or cracked pipes, pipe joints, connections, or manhole walls. 
+
+***INFILTRATION
+The gradual flow of water into the soil; also, the flow of groundwater as seepage into a sewer system.
+
+INFILTRATION HEAD
+The distance from a point of infiltration leaking into a collection system to the water table elevation. This is the pressure of the water being forced through the leak in the collection system. 
+
+INFLATABLE PIPE STOPPER
+An inflatable ball or bag used to form a plug to stop flows in a sewer pipe. 
+
+***INFLOW
+The total quantity of water from both infiltration and inflow without distinguishing the source. Abbreviated I&I or I/I. 
+
+***INFLOW
+Water discharged into a sewer system and service connections from such sources as, but not limited to, roof leaders, cellars, yard and area drains, foundation drains, cooling water discharges, drains from springs and swampy areas, around manhole covers or through holes in the covers, cross connections from storm and combined sewer systems, catch basins, storm waters, surface runoff, street wash waters or drainage. Inflow differs from infiltration in that it is a direct discharge into the sewer rather than a leak in the sewer itself. 
+
+***INFLOW
+Water discharged into the sewer system from sources other than regular connections, including yard drains, foundation drains and around manhole covers.
+
+***INFLOW
+Water discharged into a sewer system and service connections from sources other than regular connections. This includes flow from yard drains, foundation drains and around manhole covers. Inflow differs from infiltration in that it is a direct discharge into the sewer rather than a leak in the sewer itself.
+
+***INFLUENT
+Wastewater or other liquid—raw (untreated) or partially treated—flowing into a reservoir, basin, treatment process, or treatment plant. 
+
+***INFLUENT
+The flow coming into the system.
+
+***INFLUENT
+Wastewater or other liquid - raw (untreated) or partially treated - flowing INTO a reservoir, basin, treatment process or treatment plant.
+
+INLET
+(1) A surface connection to a drain pipe. (2) A chamber for collecting storm water with no well below the outlet pipe for collecting grit. Often connected to a CATCH BASIN or a “basin manhole” with a grit chamber. 
+
+INLET PORT
+ That end of a valve which is connected to the upstream pressure zone of a fluid system.
+
+INNER SEAT RING
+ The inner part of a two-piece valve seat assembly.
+
+***INORGANIC
+Material such as salts, metals, and all other substances of mineral origin. 
+
+***INORGANIC
+Material such as sand, salt, iron, calcium salts and other mineral materials and other than of plant or animal origin or of carbon compounds (ORGANIC).
+
+INSERTION PULLER
+A device used to pull long segments of flexible pipe material into a sewer line when sliplining to rehabilitate a deteriorated sewer. 
+
+INSITUFORM
+A method of installing a new pipe within an old pipe without excavation. The process involves the use of a polyester-fiber felt tube, lined on one side with polyurethane and fully impregnated with a liquid thermal setting resin. 
+
+INSPECTION TELEVISION EQUIPMENT
+Television equipment that is superior to standard commercial quality, providing 600 to 650 lines of resolution, and designed for industrial inspection applications. 
+
+INTERNAL PRESSURE RELIEF
+ A self relieving feature in non-independent seating valves that automatically relieves excessive internal body pressure caused by sudden changes in line pressures. By means of the piston effect principal the excessive body pressure will move the seat away from its seating surface and relieve it to the lower pressure side.
+
+INVERT
+The lowest point of the channel inside a pipe or manhole. 
+
+INVERTED SIPHON
+A pressure pipeline used to carry wastewater flowing in a gravity collection system under a depression such as a valley or roadway or under a structure such as a building. 230 
+
+ISRS
+ Inside screw, rising stem - common term for any valve design in which the stem threads are exposed to the fluid below the packing and the stem rises up through the packing when the valve is opened.
+
+KEY MANHOLE
+In collection system evaluation, a key manhole is one from which reliable or specific data can be obtained. 
+
+KEY STOP
+ A method of restricting the travel of a ball valve from fully open to fully closed. The stem key bears against the ends of an arc machined in the adaptor plate.
+
+KITE
+A device for hydraulically cleaning sewer lines. Resembling an airport wind sock and constructed of canvas-type material, the kite increases the velocity of a flow at its outlet to wash debris ahead of it. 
+
+***L
+A measure of the concentration by weight of a substance per unit volume. One thousandth of a gram in one liter. One mg/L is equal to one part per million (ppm).
+
+***L
+Chlorine Residual, mg/L
+
+LAMPING
+Using reflected sunlight or a powerful light beam to inspect a sewer between two adjacent manholes. The light is directed down the pipe from one manhole. If it can be seen from the next manhole, it indicates that the line is open and straight. 
+
+LATERAL
+(See LATERAL SEWER) 
+
+LATERAL CLEANOUT
+A capped opening in a building lateral, usually located on the property line, through which the pipelines can be cleaned. 
+
+LATERAL SEWER
+A sewer that discharges into a branch or other sewer and has no other common sewer tributary to it. Sometimes called a “street sewer” because it collects wastewater from individual homes. 
+
+LEVER
+ A handle type operating device for quarter-turn valves.
+
+LIFT STATION
+A wastewater pumping station that lifts the wastewater to a higher elevation when continuing the sewer at reasonable slopes would involve excessive depths of trench. Also, an installation of pumps that raise wastewater from areas too low to drain into available sewers. These stations may be equipped with air-operated ejectors or centrifugal pumps. Sometimes called a PUMP STATION, but this term is usually reserved for a similar type of facility that is discharging into a long FORCE MAIN, while a lift station has a discharge line or force main only up to the downstream gravity sewer. 
+
+LIFTING LUGS
+ Lugs provided on large ball, gate, and check valves, for lifting and positioning valves. Also called lifting eyes.
+
+LIMIT SWITCH
+ An electrical device providing a signal to a remote observation station indicating when the valve is in the fully open or fully closed position. Usually a component of a valve operator.
+
+LOK
+ A Sphere-Lok with two ports.
+
+MAIN LINE
+Branch or lateral sewers that collect wastewater from building sewers and service lines. 
+
+MAIN SEWER
+A sewer line that receives wastewater from many tributary branches and sewer lines and serves as an outlet for a large territory or is used to feed an intercepting sewer. 
+
+MANDREL
+(1) A special tool used to push bearings in or to pull sleeves out. (2) A gage used to measure for excessive deflection in a flexible conduit. 
+
+MANHOLE
+An opening in a sewer provided for the purpose of permitting operators or equipment to enter or leave a sewer. 
+
+MANHOLE ELEVATION
+The height (elevation) of the invert or lowest point in the bottom of a manhole above mean sea level. 
+
+MANHOLE FLOW
+(1) The depth or amount of wastewater flow in a manhole as observed at any selected time. (2) The total or the average flow through a manhole in gallons on any selected time interval. 231 
+
+MANHOLE INFLOW
+Surface waters flowing into a manhole, usually through the vent holes in the manhole lid. 
+
+MANHOLE INVERT
+The lowest point in a trough or flow channel in the bottom of a manhole. 
+
+MANHOLE LID
+The heavy cast-iron or forged-steel cover of a manhole. The lid may or may not have vent holes. 
+
+MANHOLE LID DUST PAN
+A sheet metal or cast-iron pan located under a manhole lid. This pan serves to catch and hold pebbles and other debris falling through vent holes, preventing them from getting into the pipe system. 
+
+MANHOLE VENTS
+One or a series of one-inch diameter holes through a manhole lid for purposes of venting dangerous gases found in sewers. 
+
+MASKING AGENTS
+Substances used to cover up or disguise unpleasant odors. Liquid masking agents are dripped into the wastewater, sprayed into the air, or evaporated (using heat) with the unpleasant fumes or odors and then discharged into the air by blowers to make an undesirable odor less noticeable.
+
+MBR
+Membrane Bio Reactor:  A wastewater treatment technology that combines biological treatment with physical treatment involving membrane filtration. It’s used primarily to treat BOD, COD, and suspended solids to very low levels where effluent may be able to be reused or recycled.
+
+MECHANICAL AERATION
+The use of machinery to mix air and water so that oxygen can be absorbed into the water.
+
+MECHANICAL CLEANING
+Clearing pipe by using equipment that scrapes, cuts, pulls or pushes the material out of the pipe. Mechanical cleaning devices or machines include bucket machines, power rodders and hand rods. 
+
+MECHANICAL PLUG
+A pipe plug used in sewer systems that is mechanically expanded to create a seal. 
+
+MECHANICAL SEAL
+ In a valve, a shut off that is accomplished by a mechanical means rather than with fluid or line pressure. The wedging action of a gate against the seats or the seat springs pushing the seat against the ball or gate are examples of mechanical seals in a valve.
+
+METAL SEAL
+ The seal produced by metal-to-metal contact between the sealing face of the seat ring and the closure element, without benefit of a synthetic seal.
+
+METHANE
+A combustible gas produced during anaerobic fermentation of organic matter, such as by anaerobic digestion of wastewater solids.
+
+MGO
+MANUAL GEAR OPERATOR:  A gear operator that is operated manually (with a handwheel).
+
+MGWPCS PERMIT
+Montana Groundwater Pollution Control System permit. This permit is issued to owners/operators of potential sources of pollution to state ground waters.
+
+***MICROORGANISMS
+Microscopic living organisms.
+
+***MICROORGANISMS
+Very small organisms that can be seen only through a microscope. Some microorganisms use the wastes in wastewater for food and thus remove or alter much of the undesired matter.
+
+MIXED LIQUOR
+When the activated sludge in an aeration tank is mixed with primary effluent or the raw wastewater and return sludge, this mixture is then referred to as mixed liquor as long as it is in the aeration tank. Mixed liquor may also refer to the contents of mixed aerobic or anaerobic digesters.
+
+MONITORING WELL
+Wells used to collect groundwater samples for analysis to determine the amount, type, and spread of contaminants in groundwater. Specific design is often determined by the Water Protection Bureau at MT DEQ.
+
+MPDES PERMIT
+Montana Pollutant Discharge Elimination System permit. This permit lists the conditions that must be met before treatment plants can discharge an effluent into state
+
+NEEDLE VALVE
+ A type of small valve, used for flow metering, having a tapered needle-point plug or closure element and a seat having a small orifice.
+
+NITRIFICATION
+An aerobic process in which bacteria change ammonia and organic nitrogen into nitrite and nitrate forms of nitrogen.
+
+NITRIFYING BACTERIA
+Bacteria that change the ammonia and organic nitrogen in wastewater into oxidized nitrogen (usually nitrate).
+
+NONPOINT DISCHARGE
+A source of wastewater that comes from a relatively large area and would have to be controlled by a management or conservation practice. Storm waters and most agricultural waters are nonpoint sources.
+
+NONPOTABLE
+Water that is considered unsafe and/or unpalatable for drinking.
+
+NORMALLY CLOSED SOLENOID VALVE
+ An electrically operated valve whose inlet orifice is closed when the solenoid coil is not energized. Energize to open.
+
+***NPDES
+National Pollutant Discharge Elimination System. NPDES permits are required by the Federal Water Pollution Control Act Amendments of 1972 with the intent of making the Nation’s water suitable for swimming and for fish and wildlife. The permits regulate discharges into navigable waters from all point sources of pollution, including industries, municipal treatment plants, large agricultural feed lots and return irrigation flows. 
+
+***NPDES
+National Pollutant Discharge Elimination System. Establishes national levels of treatment and conditions for discharges to receiving waters. (See MPDES)
+
+NPDES PERMIT
+National Pollutant Discharge Elimination System permit is the regulatory agency document issued by either a federal or state agency which is designed to control all discharges of pollutants from all point sources and storm water runoff into U.S. waterways. A treatment plant that discharges to a surface water will have a NPDES permit.
+
+NRS
+NON-RISING STEM:  A gate valve having its stem threaded into the gate. As the stem turns the gate moves but the stem does not rise. Stem threads are exposed to the line fluid.
+
+NUTRIENTS
+Substances required by living plants and organisms. Forms of nitrogen and phosphorous are nutrients that can cause problems in receiving waters.
+
+OBSTRUCTION
+Any solid object in or protruding into a wastewater flow in a collection line that prevents a smooth or even passage of the wastewater. 
+
+OFF
+ A phrase used in describing the sealing ability of a valve. During air pressure testing of a new valve in the closed position, leakage past the seats is collected and bubbled thru water. To qualify as "bubble tight," no bubbles should be observed in a prescribed time span.
+
+OFF VALVE
+ A valve designed only for on/off service. Not a throttling valve. Sometimes referred to as a "block valve."
+
+OFFSET
+(1) A combination of elbows or bends which brings one section of a line of pipe out of line with, but into a line parallel with, another section. (2) A pipe fitting in the approximate form of a reverse curve, made to accomplish the same purpose. (3) A pipe joint that has lost its bedding support and one of the pipe sections has dropped or slipped, thus creating a condition where the pipes no longer line up properly. 
+
+OPDES
+Oklahoma Pollutant Discharge Elimination System – A permit program established in accordance with Section 402 of the CWA and authorized in 27A O.S. Environment and Natural Resources. This program regulates discharges into Oklahoma’s waters from point sources, including municipal, industrial, commercial and certain agricultural sources. 
+
+OPERATOR
+ A device which converts manual, hydraulic, pneumatic or electrical energy into mechanical motion to open and close a valve.
+
+***ORGANIC
+Material which comes from mainly animal or plant sources and contains carbon. 
+
+***ORGANIC
+Substances from animal or plant sources. Organic substances contain carbon. (See INORGANIC)
+
+ORGANIC ACIDS
+Weak acids formed from organic compounds, such as acetic acid and citric acid. These acids form first in anaerobic digesters and then are converted to methane. The organic acids in wastewater lagoons are much more complex and generally weaker.
+
+OSANDY
+OUTSIDE SCREW AND YOKE:  A valve in which the fluid does not come in contact with the stem threads. The stem sealing elements is between the valve body and the stem threads.
+
+OUT AIR SEAT TEST
+ A pressure test that can be performed only on independent seating trunnion mounted ball valves. By closing the valve and pressurizing the body cavity, all of the seals in an independent seating ball valve can then be pressure tested.
+
+OUTFALL
+(1) The point, location or structure where wastewater or drainage discharges from a sewer, drain, or other conduit. (2) The conduit leading to the final disposal point or area. 
+
+OUTFALL SEWER
+A sewer that receives wastewater from a collection system or from a wastewater treatment plant and carries it to a point of ultimate or final discharge in the environment. 
+
+OUTLET
+Downstream opening or discharge end of a pipe, culvert, or canal. 
+
+OVERFLOW MANHOLE
+A manhole which fills and allows raw wastewater to flow out onto the street or ground. 
+
+OVERFLOW RELIEF LINE
+Where a system has overload conditions during peak flows, an outlet may be installed above the invert and leading to a less loaded manhole or part of the system. This is usually called an “overflow relief line.” 
+
+***OXIDATION
+Oxidation is the addition of oxygen, removal of hydrogen, or the removal of electrons from an element or compound. In wastewater treatment, organic matter is oxidized to more stable substances.PACKAGE TREATMENT PLANT: A small wastewater treatment plant often fabricated at the manufacturer’s factory, hauled to the site, and installed as one facility. The package may be either a small primary or a secondary wastewater treatment plant.
+
+***OXIDATION
+Oxidation is the addition of oxygen, removal of hydrogen, or the removal of electrons from an element or compound. In wastewater treatment, organic matter is oxidized to more stable substances.
+
+OXIDATION POND
+A term often used interchangeably with lagoon. Oxidation ponds are used after other treatment processes.
+
+PACKAGE TREATMENT PLANT
+A small wastewater treatment plant often fabricated at the manufacturer’s factory, hauled to the site, and installed as one facility. The package may be either a small primary or a secondary wastewater treatment plant.
+
+PACKING
+ The deformable sealing material inserted into a valve stem stuffing box, which, when compressed by a gland, provides a tight seal about the stem.
+
+PARACHUTE
+A device used to catch wastewater flow to pull a float line between manholes. 
+
+***PARSHALL FLUME
+A specially constructed flume or channel used to measure flows in open channels. 
+
+***PARSHALL FLUME
+A flow measuring device consisting of a preformed flume with restrictive area called the throat. The head of water at a stilling well just upstream from the narrow part of the throat is measured and a chart is used to obtain flow rate.
+
+***PATHOGENIC ORGANISMS
+Organisms capable of causing diseases in a host.
+
+***PATHOGENIC ORGANISMS
+bacteria, viruses or cysts, which can cause disease (typhoid, cholera, dysentery) in a host such as a human.  Also called Pathogens.
+
+PEAKING FACTOR
+Ratio of a maximum flow to the average flow, such as maximum hourly flow or maximum daily flow to the average daily flow. 
+
+***PERCOLATION
+The movement or flow of water through soil or rocks. A discharge option for many wastewater treatment systems. In Montana, a Montana Ground Water Pollution Control System (MGWPCS) permit and sampling in groundwater monitoring wells are required for permitted systems.
+
+***PERCOLATION
+The movement or flow of waster through soil or rocks.
+
+PHOTOGRAPHIC INSPECTIONS
+A method of obtaining photographs of a pipeline by pulling a time-lapse motion picture camera through the line. 
+
+PHOTOSYNTHESIS
+A complex process in all green plants that contain chlorophyll. The process uses sunlight as energy to convert carbon dioxide into plant growth. As a by-product oxygen is released.
+
+PIG
+Refers to a poly pig which is a bullet-shaped device made of hard rubber or similar material. 
+
+PIPE CAPACITY
+In a gravity-flow sewer system, pipe capacity is the total amount in gallons a pipe is able to pass in a specific time period. 
+
+PIPE CLEANING
+Removing grease, grit, roots and other debris from a pipe run by means of one of the hydraulic cleaning methods. 
+
+PIPE DIAMETER
+The nominal or commercially designated inside diameter of a pipe, unless otherwise stated. 
+
+PIPE DISPLACEMENT
+The cubic inches of soil or water displaced by one foot or one section of pipe. 
+
+PIPE GRADE
+The angle of a sewer or a single section of a sewer as installed. Usually expressed in a percentage figure to indicate the drop in feet or tenths of a foot per hundred feet. For example, 0.5 percent grade means a drop of one-half foot per 100 feet of length. 
+
+PIPE JOINT
+A place where two sections of pipe are coupled or joined together. 
+
+PIPE JOINT SEAL
+(1) The tightness or lack of leakage at a pipe joint. (2) The method of sealing a pipe coupling. 
+
+PIPE LINER
+A plastic liner pulled or pushed into a pipe to eliminate excessive infiltration or exfiltration. Other solutions to the problem of infiltration/exfiltration 
+
+PIPE PLUG
+(1) A temporary plug placed in a sewer pipe to stop a flow while repair work is being accomplished or other functions are performed. (2) In construction of a new sewer system, service saddles are sometimes installed before a building or a building lateral is in existence. Under such circumstances, a plug will be placed in the off-lead of the saddle of a “Y.” 
+
+PIPE RODDING
+A method of opening a plugged or blocked pipe by pushing a steel rod or snake, or pulling same, through the pipe with a tool attached to the end of the rod or snake. Rotating the rod or snake with a tool attached increases effectiveness. 234 
+
+PIPE RUN
+(1) The length of sewer pipe reaching from one manhole to the next. (2) Any length of pipe, generally assumed to be in a straight line. 
+
+PIPE SECTION
+A single length of pipe between two joints or couplers. 
+
+PISTON EFFECT
+ The sealing principle involved in utilizing line pressure to effect a seal across the floating seats of some valves.
+
+PLAN
+A drawing showing the TOP view of sewers, manholes and streets. Also means approved contract drawings, town standards, working drawings, detail sheets or exact reproductions thereof, which show the location, character, dimensions and details of the work to be done. 
+
+PLUG
+ The rotating closure element of a plug valve. Also a threaded fitting used to close off and seal an opening into a pressure containing chamber, e.g., pipe plug.
+
+PLUG VALVE
+ A quarter turn valve whose closure element is usually a tapered plug having a rectangular port.
+
+PNEUMATIC EJECTOR
+A device for raising wastewater, sludge or other liquid by compressed air. The liquid is alternately admitted through an inward-swinging check valve into the bottom of an airtight pot. When the pot is filled compressed air is applied to the top of the liquid. The compressed air forces the inlet valve closed and forces the liquid in the pot through an outward-swinging check valve, thus emptying the pot. 
+
+POLISHING POND
+A final lagoon cell after other treatment which completes the treatment, or "polishes" the effluent.
+
+POLY PAK STEM SEAL
+ An O-ring energized lip-seal which replaces O-ring stem seals in certain gate valves. Also used for stem seals in some ball valves.
+
+POLYMER
+Polymers are used with other chemical coagulants to aid in binding small suspended particles to larger chemical flocs for their removal from water.
+
+PONDING
+A condition occurring on trickling filters when the hollow spaces (voids) become plugged to the extent that water passage through the filter is inadequate. Ponding may be the result of excessive slime growths, trash, or media breakdown.
+
+POPULATION EQUIVALENT
+An average BOD contribution by each person to a domestic sewage. The accepted population equivalent is 0.17 pounds of BOD per person per day.
+
+PORCUPINE
+A sewer cleaning tool the same diameter as the pipe being cleaned. The tool is a steel cylinder having solid ends with eyes cast in them to which a cable can be attached and pulled by a winch. Many short pieces of cable or bristles protrude from the cylinder to form a round brush. 
+
+POTABLE WATER
+Water that is considered satisfactory for drinking.
+
+POWER OPERATOR
+ Powered valve operators are of the following general types.. Electric Motor, Pneumatic or Hydraulic Motor, Pheumatic or Hydraulic Cylinder. Operators can either be adapted directly to the valve stem or side mounted on existing gear or scotch-yoke operators.
+
+POWER RODDER
+A sewer cleaning machine fitted with auger rods which are inserted in a sewer line to dislodge and cut roots and debris. 
+
+PPM
+Abbreviation for Parts Per Million. See MILLIGRAMS PER LITER (mg/L)
+
+PRECIPITATION
+(1) The total measurable supply of water received directly from clouds as rain, snow, hail, or sleet; usually expressed as depth in a day, month, or year, and designated as daily, monthly, or annual precipitation. (2) The process by which atmospheric moisture is 
+
+PREVENTIVE MAINTENANCE
+Crews assigned the task of cleaning sewers (for example, balling or high-velocity cleaning crews) to prevent stoppages and odor complaints. Preventive maintenance is performing the most effective cleaning procedure, in the area where it is most needed, at the proper time in order to prevent failures and emergency situations. 
+
+PRIMARY CELL
+The first cell in a series, generally receiving raw wastewater.
+
+PRIMARY CONTAMINANTS
+The contaminants identified by the EPA as harmful to human health. In order to protect public health, the primary contaminants must not exceed certain specified levels known as Maximum Contaminant Levels (MCL). 
+
+PRIMARY TREATMENT
+A wastewater treatment process that takes the place in a rectangular or circular tank and allows those substances in wastewater that readily settle or float to be separated from the water being treated.
+
+PROFILE
+A drawing showing the SIDE view of sewers and manholes. 
+
+PROOF PPRESSURE
+ A hydrostatic test pressure, usually 1 ½ times the rated working pressure, applied to an assembled valve to verify the structural integrity of the pressure containing parts. Synonymous with hydrostatic shell test. (Table 5.1, API-6D).
+
+PROTECTIVE SLEEVES
+ A circular "pipe like" sleeve inserted in place of the ball and seats of a top entry ball valve. This protective sleeve remains in place inside the valve during valve installation and ultimate pigging of a pipeline to clear debris from the line before placing the pipeline into service. Once the pipeline has been purged of all debris, the protective sleeve is removed entirely from the ball valve cavity and operating trim (i.e. ball and seats) is then installed for normal service conditions.
+
+PUBLIC SEWER
+means a sewer in which all owners of abutting properties have equal rights and is controlled by acting as Sewer Commissioners, and maintained by the Public Works Superintendent. 
+
+PUMP
+A mechanical device for causing flow, for raising or lifting water or other fluid, or for applying pressure to fluids. 
+
+PUMP CONTROL VALVE
+ A ball valve that is not meant for on-off service, but whose specific function is to control flow and prevent cavitation in pumps on liquid pipelines.
+
+PUMP PIT
+A dry well, chamber or room below ground level in which a pump is located. 
+
+PUMP STATION
+Installation of pumps to lift wastewater to a higher elevation in places where flat land would require excessively deep sewer trenches. Also used to raise wastewater from areas too low to drain into available collection lines. These stations may be equipped with 
+
+RACHET DRIVE
+ A shaft or valve that is operated by means of a ratchet mechanism. The ratchet delivers an intermittent stepped rotation through a gear in one direction only.
+
+RAP
+Erosion control by placement of large rocks along an embankment.
+
+RAW WASTEWATER
+Plant influent or wastewater BEFORE any treatment.
+
+RECEIVING WATER
+A stream, river, lake, ocean or other surface or groundwater into which treated or untreated wastewater is discharged.
+
+RECIRCULATION
+The return of part of the effluent from a treatment process to the incoming flow.
+
+REDUCED PORT
+ A valve port opening that is smaller than the line size or the valve end connection size.
+
+REGULAR PORT VALVE
+ A term usually applied to plug valves. The "regular" port of such a valve is customarily about 40% of the line pipe area. Hence, it corresponds to a venture or reduced bor valveof like nominalpipe size. Venturi ball valves are often a logical alternative to plug valves with advantages in price, torque, and low maintenance.
+
+***REGULATOR
+A device used in combined sewers to control or regulate the diversion of flow. 
+
+***REGULATOR
+ A throttling valve which exercises automatic control over some variable (usually pressure). Not an on-off valve.
+
+RELIEF VALVE
+ A quick acting, spring loaded valve that opens (relieves) when the pressure exceeds the spring setting. Often installed on the body cavity of ball and gate valves to relieve thermal overpressure in liquid services.
+
+REMOTE CONTROL
+ The operation of a valve or other flow control device from a point at a distance from the device being controlled. Can be accomplished by electrical, pneumatic or hydraulic means.
+
+RESILIENT SEAT
+ A valve seat containing a soft seal, such as an o-ring, to assure tight shut-off.
+
+RETENTION
+(1) That part of the precipitation falling on a drainage area which does not escape as surface stream flow during a given period. It is the difference between total precipitation and total runoff during the period, and represents evaporation, transpiration, subsurface leakage, infiltration, and when short periods are considered, temporary surface or underground storage on the area. (2) The delay or holding of the flow of water and water carried wastes in a pipe system. This can be due to a restriction in the pipe, a stoppage or a dip. Also, the time water is held or stored in a basin or wet well. 
+
+RETENTION TIME
+The time water, sludge or solids are retained or held in a clarifier or sedimentation tank.
+
+RIM PULL
+ The force required at the edge of the handwheel to generate the required torque at the center of the handwheel.
+
+RISING SLUDGE
+Rising sludge occurs in the secondary clarifiers of activated sludge plants when the sludge settles to the bottom of the clarifier, is compacted, and then starts to rise to the surface, usually as a result of denitrification.
+
+***RISING STEM
+ A gate valve having its stem threaded into the gate. As the stem turns, the gate moves, but the stem does not rise. Stem threads are exposed to line fluids.
+
+***RISING STEM
+ A valve stem which rises as the valve is opened.  A valve stem with threads arranged so that as the stem turns, the threads engage a stationary threaded area and lift the stem along with the closure element attached to it.
+
+RISING STEM BALL VALVE
+ A single seated ball valve that is designed to seal by using the valves stem to mechanically wedge the valves ball into a stationary seat effecting a bubble tight seal. The valves stem operates througha guide sleeve assembly that guides the stem through a quarter turn of rotation as the stem is raised or lowered by a handwheel (or actuator). The mechanical action of the stem moves the ball away fromthe seat prior to the 90° rotation of the ball. This design provides lower operating torques and longer seat life while assuring bubble tight shut off.
+
+ROD GUIDE
+A bent pipe inserted in a manhole to guide hand and power rods into collection lines so the rods can dislodge obstructions. 
+
+RODDING MACHINE
+A machine designed to feed a rod into a pipe while rotating the rod. 236 
+
+RODDING TOOLS
+Special tools attached to the end of a rod or snake to accomplish various results in pipe rodding. 
+
+ROOF LEADER
+A downspout or pipe installed to drain a roof gutter to a storm drain or other means of disposal. 
+
+ROOT MOP
+When roots from plant life enter a sewer system, the roots frequently branch to form a growth that resembles a string mop. 
+
+ROOT SEWER
+Any part of a root system of a plant or tree that enters a collection system. 
+
+ROTIFER
+A form of microscopic animal that feeds on algae and bacteria. The free swimming protozoa are common in lagoons. Rotifers require aerobic conditions.
+
+SADDLE
+A fitting mounted on a pipe for attaching a new connection. This device makes a tight seal against the main pipe by use of a clamp, adhesive, or gasket and prevents the service pipe from protruding into the main. 
+
+SADDLE CONNECTION
+A building service connection made to a sewer main 
+
+SAFETY VALVE
+ A quick opening, pop action valve used for fast relief of excessive pressure.
+
+SAMPLE
+A collection of individual samples obtained at regular intervals during a 24-hour period. Each individual sample is combined with the others in proportion to the rate of flow when the sample was collected. The resulting mixture, or composite, forms a representative sample and is analyzed to determine the average conditions during the sampling period.
+
+SAND TRAP
+A device which can be placed in the outlet of a manhole to cause a settling pond to develop in the manhole invert, thus trapping sand, rocks and similar debris heavier than water. Also may be installed in outlets from car wash areas. 
+
+SANITARY COLLECTION SYSTEM
+The pipe system for collecting and carrying liquid and liquid-carried wastes from domestic sources to a wastewater treatment plant. 
+
+SANITARY SEWER
+A pipe or conduit (sewer) intended to carry wastewater or waterborne wastes from homes, businesses, and industries to the POTW. Storm water runoff or unpolluted water should be collected and transported in a separate system of pipes or conduits (storm sewers) to natural water courses. 
+
+SATURATION
+Oxygen saturation is the concentration of free dissolved oxygen in water that is in equilibrium with atmospheric oxygen. It is measured in milligrams per liter (mg/l). It varies with both temperature and atmospheric pressure.
+
+SCOOTER
+A sewer cleaning tool whose cleansing action depends on the development of high water velocity around the outside edge of a circular shield. The metal shield is rimmed with a rubber coating and is attached to a framework on wheels (like a child’s scooter). The angle of the shield is controlled by a chain-spring system which regulates the head of water behind the scooter and thus the cleansing velocity of the water flowing around the shield. 
+
+SCREEN
+A device used to retain or remove suspended or floating objects in wastewater. The screen has openings that are generally uniform in size. It retains or removes objects larger than the openings. A screen may consist of bars, rods, wires, gratings, wire mesh, or perforated plates.
+
+SCUM
+(1) A layer or film of foreign matter (such as grease, oil) that has risen to the surface of water or wastewater. (2) A residue deposited on the ledge of a sewer, channel, or wet well at the water surface. (3) A mass of solid matter that floats on the surface. 
+
+SEAT
+ That part of a valve against which the closure element (gate, ball) effects a tight shut-off. In many ball valves and gate valves, it is a floating member containing a soft seating element (usually an o-ring).
+
+SECONDARY
+The second in a series of cells.
+
+SECONDARY CONTAMINANTS
+Contaminants in drinking water that are not harmful to human health but are unpleasant. Secondary contaminants include substances that cause unpleasant tastes and odors or color the water. A Recommended Maximum Level (RCM) has been set for each of the secondary contaminants in order to make sure the water is pleasant to drink. 237 
+
+SECONDARY TREATMENT
+A wastewater treatment process used to convert dissolved or suspended materials into a form more readily separated from wastewater. Usually follows primary sedimentation treatment and uses biological processes to convert wastes to solids that settle in secondary clarifiers. Also occurs in lagoon systems.
+
+SEDIMENT
+Solid material settled from suspension in a liquid. 
+
+***SEDIMENTATION
+The process of settling and depositing of suspended matter carried by wastewater. Sedimentation usually occurs by gravity when the velocity of the wastewater is reduced below the point at which it can transport the suspended material. 
+
+***SEDIMENTATION
+A process in which solid particles settle out of water.
+
+SELECT BACKFILL
+Material used in backfilling of an excavation, selected for desirable compaction or other characteristics. 
+
+SELECT BEDDING
+Material used to provide a bedding or foundation for pipes or other underground structures. This material is of specified quality for desirable bedding or other characteristics and is often imported from a different location. 
+
+SELF RELIEVING
+ The process whereby excessive internal body pressure, in some valves, is automatically relieved either into the upstream or downstream line by forcing the seats away from the closure element.
+
+***SEPTIC
+A condition that exists when there is no dissolved oxygen (see anaerobic). Anaerobic bacteria and other microorganisms continue to use parts of the waste for food, but produce foul odors and black colored water. The waste in the common septic tank is typical of this condition.
+
+***SEPTIC
+A condition produced by anaerobic bacteria. If severe, the wastewater produces hydrogen sulfide, turns black, gives off foul odors, contains little or no dissolved oxygen, and creates a high oxygen demand.
+
+SERVICE ROOT
+A root entering the sewer system in a service line and growing down the pipe and into the sewer main. 
+
+***SEWAGE
+The used household water and water-carried solids that flow in sewers to a wastewater treatment plant. 
+
+***SEWAGE
+The used waster and waster-carried solids from homes that flow in sewers to a wastewater treatment plant.  The preferred term is WASTEWATER.
+
+SEWER
+A pipe or conduit that carries wastewater or drainage water. 
+
+SEWER BALL
+A spirally grooved, inflatable, semi-hard rubber ball designed for hydraulic cleaning of sewer pipes. 
+
+SEWER CLEANOUT
+A capped opening in a sewer main that allows access to the pipes for rodding and cleaning. Usually such cleanouts are located at terminal pipe ends or beyond terminal manholes. 
+
+SEWER GAS
+(1) Gas in collection lines (sewers) that results from the decomposition of organic matter in the wastewater. When testing for gases found in sewers, test for lack of oxygen and also for explosive and toxic gases. (2) Any gas present in the wastewater collection system, even though it is from such sources as gas mains, gasoline, and cleaning fluid. 
+
+SEWER JACK
+A device placed in manholes which supports a yoke or pulley that keeps wires or cables from rubbing against the inlet or outlet of a sewer. 
+
+SEWER MAIN
+A sewer pipe to which building laterals are connected. 
+
+SEWER USE DISCHARGE PERMIT
+Permit required or issued jointly by the Authority and a Municipality for the discharge of industrial waste. 238 
+
+SEWERAGE
+System of piping with appurtenances for collecting, moving and treating wastewater from source to discharge. 
+
+SEWERAGE SYSTEM
+Any device, equipment or works used in the transportation, pumping, storage, treatment, recycling, and reclamation of Wastewater and Industrial Wastes. 
+
+SHORING
+Material such as boards, planks or plates, and jacks used to hold back soil around trenches and to protect workers in a trench from cave-ins. 
+
+SHORT GATE
+ A gate valve whose seat rings contact the gate only in the closed position. Such valves are not through conduit, as the gate is completely withdrawn from the flow area in the open position.
+
+SHORT PATTERN VALVE
+ A valve whose face-to-face dimension is less than the API-6D standard.
+
+SILTING
+Silting takes place when the pressure of infiltrating waters is great enough to carry silt, sand and other small particles from the soil into the sewer system. Where lower velocities are present in the sewer pipes, settling of these materials results in silting of the sewer system. 
+
+SLAB GATE
+ A gate having flat, finely finished, parallel faces - as opposed to a wedge gate. Such a closure element slides across the seats and does not depend on stem force to achieve tight shut off.
+
+SLAM RETARDER
+ A device designed to prevent the clapper of a check valve from slamming as it closes upon flow reversal. Hydraulic damping cylinders, rotary vanes, and torsional springs are all used for this purpose.
+
+SLEEVE
+A pipe fitting for joining two pipes of the same nominal diameter in a straight line. 
+
+SLIPLINING
+A sewer rehabilitation technique accomplished by inserting flexible polyethylene pipe into an existing deteriorated sewer. 
+
+SLOPE
+The slope or inclination of a sewer trench excavation is the ratio of the vertical distance to the horizontal distance or “rise over run.” The inclination of a trench bottom or a trench sidewall, expressed as a ratio of vertical distance to the horizontal distance. For example, a 3:1 slope shall rise or fall 3’ vertical feet in a distance of 1’ horizontal foot. 
+
+SLUDGE
+The settleable solids separated from wastewater during treatment.
+
+SLUDGE DIGESTION
+The process of changing organic matter in sludge into a gas or liquid or a more stable solid form. These changes take place as microorganisms feed on sludge in anaerobic (more common) or aerobic digesters.
+
+SMOKE TEST
+A method of blowing smoke into a closed-off section of a sewer system to locate sources of surface inflow. 
+
+SNAKE
+A stiff but flexible cable that is inserted into sewers to clear stoppages. 
+
+SOAP BUILDUP
+A combination of detergents and greases that accumulate in sewer systems, build up over a period of time, and may cause severe flow restrictions. 
+
+SOIL POLLUTION
+The leakage (exfiltration) of raw wastewater into the soil or ground area around a sewer pipe. 
+
+SOLENOID VALVE
+ A small electrically operated valve used in the control piping of powered by hydraulic or pneumatic cylinder operators.
+
+SOLUBLE BOD
+Soluble BOD is the BOD of water that has been filtered in the standard suspended solids test.
+
+SOLUTION
+A liquid mixture of dissolved substances. In a solution it is impossible to see all the separated parts.
+
+SOUNDING ROD
+A T-shaped tool or shaft that is pushed or driven down through the soil to locate underground pipes and utility conduits. 
+
+SPIGOT JOINT
+A form of joint used on pipes which have an enlarged diameter or bell at one end, and a spigot at the other which fits into and is laid in the bell. The joint is then made tight by lead, cement, rubber O-ring, or other jointing compounds or materials. 
+
+SPOIL
+Excavated material such as soil from the trench of a sewer. 
+
+SPST
+SINGLE-POLE, SINGLE THROW:  Refers to the function of an electrical switch often used in the control system of electric valve operators.
+
+SPUR GEAR
+ The simplest of gears. In a gear set, the input spur gear and output spur gear are aligned on parallel shafts. An idler gear may be used to the direction of rotation on the two shafts is in the same direction.
+
+SQUARE OPERATING NUT
+ A nut, usually 2" x 2", which is attached to a valve stem or the pinion shaft of a gear operator allowing use of wrenches to quickly operate the valve.
+
+STABILIZATION
+The conversion of biodegradable materials into more stable solids. Stabilization is the primary function of wastewater lagoons and treatment plants. Lagoons are often called stabilization ponds.
+
+STATION
+A point of reference or location in a pipeline is sometimes called a “station.” As an example, a building service is located 51 feet downstream from a manhole could be reported to be at “station 51.” 
+
+STEM
+ A rod or shaft used to transmit motion from an operator to the closure element of a valve.
+
+STEM NUT
+ A one or two-piece nut which engages the stem threads of a valve and transmits torque from an operator to the valve stem.
+
+STILLING WELL
+A well or chamber which is connected to the main flow channel by a small inlet. Waves and surges in the main flow stream will not appear in the well due to the small diameter inlet. The liquid surface in the well will be quiet, but will follow all of the steady fluctuations of the open channel. The liquid level in the well is measured to determine the flow in the main channel. 
+
+STOP COLLAR
+ The collar on a ball valve which restricts the ball to 90° of rotation from the fully open to the fully closed position.
+
+STOPPAGE
+(1) Partial or complete interruption of flow as a result of some obstruction in a sewer. (2) When a sewer system becomes plugged and the flow backs up, it is said to have a “stoppage.” 
+
+STORM COLLECTION SYSTEM
+A system of gutters, catch basins, yard drains, culverts and pipes for the purpose of conducting storm waters from an area, but intended to exclude domestic and industrial wastes. 
+
+***STORM SEWER
+A separate pipe, conduit or open channel (sewer) that carries runoff from storms, surface drainage, and street wash, but does not include domestic and industrial wastes. Storm sewers are often the recipients of hazardous or toxic substances due to the illegal dumping of hazardous wastes or spills created by accidents involving vehicles and trains transporting these substances. 
+
+***STORM SEWER
+A separate pipe, conduit or open channel (sewer) that carries runoff from storms, surface drainage, and street wash, but does not include domestic and industrial wastes.
+
+STRATIFICATION
+The formation of indistinct layers of slightly variable density of waters. Often caused by warming of the surface with an absence of mixing.
+
+STRETCH
+Length of sewer from manhole to manhole. 240 
+
+STUFFING BOX
+ The annular chamber provided around a valve stem in a sealing system into which deformable packing is introduced.
+
+SUCKER RODS
+Rigid, coupled sewer rods of metal or wood used for clearing stoppages. Usually available in 3-ft, 39-in, 4-ft, 5-ft and 6-ft lengths. 
+
+SUCTION HEAD
+The POSITIVE pressure (in feet or pounds per square inch (psi)) on the suction side of a pump. The pressure can be measured from the centerline of the pump UP TO the elevation of the hydraulic grade line on the suction side of the pump. 
+
+SUCTION LIFT
+The NEGATIVE pressure (in feet or inches of mercury vacuum) on the suction side of the pump. The pressure can be measured from the centerline of the pump DOWN TO (lift) the elevation of the hydraulic grade line on the suction side of the pump. 
+
+SUPERNATANT
+Liquid removed from settling sludge. Supernatant commonly refers to the liquid between the sludge on the bottom and the scum on the surface of an anaerobic digester. The liquid is usually returned to the influent wet well or to the primary clarifier.
+
+SURCHARGE
+Sewers are surcharged when the supply of water to be carried is greater than the capacity of the pipes to carry the flow. The surface of the wastewater in manholes rises above the top of the sewer pipe, and the sewer is under pressure or a head, rather than at atmospheric pressure. 
+
+SURCHARGED MANHOLE
+A manhole in which the rate of the water entering is greater than the capacity of the outlet under gravity flow conditions. When the water in the manhole rises above the top of the outlet pipe, the manhole is said to be “surcharged.” 
+
+SURFACE LOADING
+Lagoon loading is rated organically in pounds of BOD per acre of surface area per day. Northern climates require lower loading rates than warmer areas, because cold weather slows down the stabilization processes of microorganisms. Treatment plants clarifiers are rated hydraulically in flow (gpd) per surface area (sq ft).
+
+SUSPENDED SOLID
+Solids that either float on the surface or are suspended in water, wastewater, or other liquids, and which are largely removable by laboratory filtering.
+
+***SUSPENDED SOLIDS
+(1) Solids that either float on the surface or are suspended in water, wastewater, or other liquids, and which are largely removable by laboratory filtering. (2) The quantity of material removed from wastewater in a laboratory test, as prescribed in STANDARD METHODS FOR THE EXAMINATION OF WATER AND WASTEWATER, and referred to as Total Suspended Solids Dried at 103-105 ºC. 
+
+***SUSPENDED SOLIDS
+Solid material so finely divided or light in weight that it does not settle, but can be filtered in a lab test and weighed. Also referred to as Total Suspended Solids (TSS).
+
+SWAB
+A circular sewer cleaning tool almost the same diameter as the pipe being cleaned. As a final cleaning procedure after a sewer line has been cleaned with a porcupine, a swab is pulled through the sewer and the flushing action of water flowing around the tool cleans the line. 
+
+SWING CHECK VALVE
+ A check valve in which the closure element is a hinged clapper which swings or rotates about a supporting shaft.
+
+TAG LINE
+A line, rope or cable that follows equipment through a sewer so that equipment can be pulled back out if it encounters an obstruction or becomes stuck. Equipment is pulled forward with a pull line. 
+
+TAP
+A small hole in a sewer where a wastewater service line from a building is connected (tapped) into a lateral or branch sewer. 
+
+TELEVISION INSPECTION
+An inspection of the inside of a sewer pipe made by pulling a closed-circuit television camera through the pipe. 
+
+THROTTLING
+ The intentional restriction of flow by partially closing or opening a valve. A wide range of throttling is accomplished automatically in regulators and control valves.
+
+THRUST
+ The net force applied to a part in a particular direction - e.g., on the end of a valve stem.
+
+TOP ENTRY
+ The design of a particular valve or regulator where the unit can be serviced or repaired by leaving its body in the line, and its internals can be accessed by removing a top portion of the unit.
+
+TORQUE
+ The turning effort required to operate a valve. Usually expressed in "pound-feet" and referred to the stem nut, handwheel or operator pinion shaft.
+
+TORQUE SWITCH
+ An electrical device on a motor operator which cuts off power to the operator when allowable torque is exceeded, thus preventing damage to the valve and/or the operator.
+
+TORSIONAL SPRING
+ A coiled spring which exerts a force by twisting about its axis rather than by compression or elongation. The spring in a check valve slam retarder which is restrained at one end and fastened tot he clappershaft on the other end. As the clapper opens, the spring resists the motion creating a closing force. During a rapid decrease in flow rate, the clapper is urged toward the closed position and is virtually closed just prior to the instant of actual flow reversal - thus slamming is avoided.
+
+***TOXIC
+A substance that is poisonous to an organism.
+
+***TOXIC
+A substance which is poisonous to a living organism.
+
+TOXICITY
+The relative degree of being poisonous or toxic. A condition which may exist in wastes and will inhibit or destroy the growth or function of certain organisms.
+
+TRANSPIRATION
+See Evapotranspiration.
+
+TRIM
+ Commonly refers to the valve's working parts and to their materials. Usually includes seat ring sealing surfaces, closure element sealing surfaces, stems, and back seats. Trim numbers which specifythe materials are defined in API 600 and API 602.
+
+TRUNNION
+ That part of a ball valve which holds the ball on a fixed vertical axis and about which the ball turns. The torque requirement of a trunnion mounted ball valve is significantly less than that for a floatingball design.
+
+TSS
+Abbreviation for TOTAL SUSPENDED SOLIDS, a test measuring the amount of filterable solids in wastewater.
+
+TURBID
+Having a cloudy or muddy appearance.
+
+TURBIDITY
+The cloudy appearance of water caused by the presence of suspended and colloidal matter. A turbidity measurement is used to indicate the clarity of water.
+
+TURNS TO OPERATE
+ The number of complete revolutions of a handwheel or the pinion shaft of a gear operator required to stroke a valve from fully open to fully closed or vice versa.
+
+UNION BONNET
+ A type of valve construction in which the bonnet is held on by a union nut with threads on the body.
+
+UV
+Ultraviolet light. UV is useful as a method of disinfection. It leaves no residual and is often used where no chlorine residual (or a very low residual) is allowed to be discharged.
+
+VALVE
+ A device used to control the flow of fluid contained in a pipe line.
+
+VARIABLE ORIFICE
+ A small variable profile valve put in a flow line and used with a pilot to restrict the flow into the pilot and make the pilot more or less sensitive to changing conditions.
+
+VDS
+VALVE DATA SHEET:  A data sheet defining the minimum level of a valve design, including the materials, testing, inspection, and certification requirements.
+
+VENT PLUG
+(VENT PLUG ASSEMBLY) - (SAFETY VENT PLUG):  A special pipe plug having a small allen-wrench operated vent valve. These special plugs are located at the bottom of most ball valves. With the line valve closed (and under pressure) the body cavity pressurecan be vented thru this small valve to check tightness of seat seals or to make minor repairs. Having vented the body pressure, the vent plug may be removed to blow out debris and foreign material or to flush the body cavity. On some gate valves, the vent plug is installed on the bonnet for the sole purpose of venting the body. Such valves have separate drain valves.
+
+VENTURI VALVE
+ A reduced bore valve. A valve having a bore smaller in diameter than the inlet or outlet. For example, an 8"x 6" x 8" ball valve has 8" inlet and outlet connections while the ball and seats are 6". The flow through a venture valve will be reduced because of the smaller port. Venturi valves can often be economically substituted for plug valves.
+
+VOLATILE SOLIDS
+Those solids in water, wastewater, or other liquids that are lost on ignition of the dry solids at 550oC.
+
+VPI
+VISIBLE POSITION INDICATOR):  A position indicating rod supplied with gate valves. It extends from the top of the valve stem and serves to indicate the relative position of the gate.
+
+WALL THICKNES
+ The thickness of the wall of the pressure vessel or valve. For steel valves, minimum thickness requirements are defined in ASME B16.34, API 600, and API 602.
+
+***WASTEWATER
+The used water and solids from a community that flow to a treatment plant. Storm water, surface water, and groundwater infiltration also may be included in the wastewater that enters a wastewater treatment plant. The term “sewage” usually refers to household wastes, but this word is being replaced by the term “wastewater.
+
+***WASTEWATER
+The used water and solids from a community that flow to a treatment plant. Storm water, surface water, and groundwater infiltration also may be included in the wastewater that enters a wastewater treatment plant. The term “sewage” usually refers to household wastes, but this word is being replaced by the term “wastewater.”
+
+WATER HAMMER
+ The physical effect, often accompanied by loud banging, produced by pressure waves generated within the piping by rapid change of velocity in a liquid system.
+
+WATER QUALITY ACT
+Montana's primary water pollution control legislation that parallels the federal CLEAN WATER ACT. It establishes the public policy for Montana to: 1) conserve water resources by protecting, maintaining and improving water quality for all its beneficial uses, and 2) provides a comprehensive program for the prevention, abatement and control of water pollution.
+
+WATER SYSTEM
+Means a public water system that is not a community water system and that regularly serves at least 25 of the same persons over six months per year, including schools, day care centers, factories, restaurants and hospitals. 232 
+
+WEDGE GATE
+ A gate whose seating surfaces are inclined to the direction of closing thrust so that mechanical force on the stem produces tight contact with the inclined seat rings.
+
+***WEIR
+(1) A wall or plate placed in an open channel and used to measure the flow of water. The depth of the flow over the weir can be used to calculate the flow rate, or a chart or conversion table may be used. (2) A wall or obstruction used to control flow (from settling tanks and clarifiers) to assure uniform flow rate and avoid short-circuiting.
+
+***WEIR
+ A wall or plate placed in an open channel and used to measure the flow of water. The depth of the flow over the weir can be used to calculate the flow rate, or a chart or conversion table may be used.  Weir can also be a wall or obstruction used to control flow (from settling tanks and clarifiers) to ensure uniform flow rate and avoid short-circuiting.
+
+WET OXIDATION
+A method of treating or conditioning sludge before the water is removed. Compressed air is blown into the sludge; the air and sludge mixture is fed into a pressure vessel where the organic material is stabilized.
+
+WET WELL
+A compartment or tank in which wastewater is collected. The suction pipe of a pump may be connected to the wet well or a submersible pump may be located in the wet well.
+
+WRENCH OPERATED
+ The operation of a valve by means of a handle or lever. Used on smaller size and lower pressure class valves.
+
+YOKE
+ That part of a gate valve which serves as a spacer between the bonnet and the operator or actuator.
+
+ZOOGLEAL MASS
+Jelly like masses of bacteria found in both the trickling filter and activated sludge processes. See also Biomass.
+
