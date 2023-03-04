@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6fKWpWZeSR0_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Primary Process - Introduction</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Primary Process - Introduction v1.0</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Primary_Process_-_Introduction_ORG">
+    <organization identifier="Primary_Process_-_Introduction_ORG">
+      <title>Primary Process - Introduction</title>
+      <item identifier="Plants_1_and_2_-_Primary_Process_-_Introduction_SCO" isvisible="true" identifierref="__6fKWpWZeSR0_course_id_RES">
+        <title>Primary Process - Introduction</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6fKWpWZeSR0_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6BaHSIg3Yqz_P_0_360_2048_644.jpg" />
+      <file href="story_content/5lGrupcdVaj.js" />
+      <file href="mobile/5ykTgMKJWTG.jpg" />
+      <file href="mobile/6cZvkepMxB5.jpg" />
+      <file href="mobile/5XGmv9kJARs.jpg" />
+      <file href="mobile/6PD4RPmCFVe_M_224_224.png" />
+      <file href="mobile/6PY8C98fEMV_M_154_154.png" />
+      <file href="story_content/video_6j08MJLnALU_18_56_844x582.mp4" />
+      <file href="mobile/poster_5jMgIhHOsOG_video_6j08MJLnALU_18_56_844x582.jpg" />
+      <file href="mobile/6JkIqMnMIxw_M_94_94.png" />
+      <file href="mobile/5zS8G5xraqb_M_108_108.png" />
+      <file href="mobile/5u2gj7A9uVt_FEFEFE.png" />
+      <file href="story_content/5kv2C0o6C4a.js" />
+      <file href="story_content/video_5pVvq3wGUS4_18_56_426x384.mp4" />
+      <file href="mobile/poster_66M9h0votOT_video_5pVvq3wGUS4_18_56_426x384.jpg" />
+      <file href="story_content/5tsqYUHnqTX.js" />
+      <file href="story_content/video_6l4tCIeLmIW_18_56_922x522.mp4" />
+      <file href="mobile/poster_5VMGcyRVMdj_video_6l4tCIeLmIW_18_56_922x522.jpg" />
+      <file href="story_content/6VTQAM1Jqfc.js" />
+      <file href="story_content/6Tm2zZbP0mD.js" />
+      <file href="story_content/6Figrw04QaQ.js" />
+      <file href="story_content/6o9UOGkeNmO.js" />
+      <file href="story_content/5bCuhCbgqSn.js" />
+      <file href="meta.xml" />
+      <file href="mobile/6U7X0otDwW0.jpg" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5y58TtANC6w.js" />
+      <file href="html5/data/js/63pktqljLQI.js" />
+      <file href="html5/data/js/660CTUdkSIb.js" />
+      <file href="html5/data/js/6bnLQFtJcFi.js" />
+      <file href="html5/data/js/6dZb3PFs1Gl.js" />
+      <file href="html5/data/js/6g4bPivisFi.js" />
+      <file href="html5/data/js/6i0MTxZx4pN.js" />
+      <file href="html5/data/js/6nVBv95Fs2M.js" />
+      <file href="html5/data/js/6Pdi2ER8Nvt.js" />
+      <file href="html5/data/js/6TpCND9ltgr.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
