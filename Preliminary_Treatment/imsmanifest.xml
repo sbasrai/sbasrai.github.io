@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5VOlsYmzhAW" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Preliminary_Treatment</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Preliminary_Treatment_ORG">
+    <organization identifier="Preliminary_Treatment_ORG">
+      <title>Preliminary_Treatment</title>
+      <item identifier="Preliminary_Treatment_SCO" isvisible="true" identifierref="__5VOlsYmzhAW_RES">
+        <title>Preliminary_Treatment</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5VOlsYmzhAW_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6aulCUVDFsh.png" />
+      <file href="mobile/5sfIc3pnc3k.png" />
+      <file href="mobile/5cUkGqvQ0oh.png" />
+      <file href="story_content/5uUClD0BjTr.js" />
+      <file href="mobile/5qTWzuYOqSF.png" />
+      <file href="mobile/5tC34fv2JCM.png" />
+      <file href="mobile/6erHZh2LpaD.png" />
+      <file href="mobile/6FL48X02V0A.png" />
+      <file href="story_content/video_6WLCj3CLg40_22_48_832x468.mp4" />
+      <file href="mobile/poster_6l4IUYugFAT_video_6WLCj3CLg40_22_48_832x468.jpg" />
+      <file href="story_content/video_6O61szjHFtR_22_48_632x468.mp4" />
+      <file href="mobile/poster_6IFRsivgIlu_video_6O61szjHFtR_22_48_632x468.jpg" />
+      <file href="mobile/5WYdOYkPO52.png" />
+      <file href="mobile/6ShjzYXh1tz.png" />
+      <file href="mobile/5w6trSzctRN.png" />
+      <file href="mobile/5YfhNx9PuA2.png" />
+      <file href="mobile/6QRjgeblEPX.png" />
+      <file href="mobile/5r216fxmvcQ.png" />
+      <file href="mobile/5zfUxsPCiez.png" />
+      <file href="mobile/5Wav6EvSrxY.png" />
+      <file href="mobile/6Q4NjQp5yA7.png" />
+      <file href="mobile/6hcYPTtJbg4_P_0_0_1025_1025.png" />
+      <file href="mobile/6C6pg3AVwKb.png" />
+      <file href="mobile/5elbbtbOnX3_P_0_0_783_283.png" />
+      <file href="mobile/6pL9vSCxKDi.png" />
+      <file href="mobile/5fgUtOQbCSa.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5atnkfChS65.js" />
+      <file href="html5/data/js/5cARH8zJLTc.js" />
+      <file href="html5/data/js/5cnjsvQnRZ2.js" />
+      <file href="html5/data/js/5ffj5RtUVKN.js" />
+      <file href="html5/data/js/5m0qlkx7ITA.js" />
+      <file href="html5/data/js/5mmvE1P1ZYV.js" />
+      <file href="html5/data/js/5p3jzecx6IY.js" />
+      <file href="html5/data/js/5pNLZWAfahN.js" />
+      <file href="html5/data/js/5sG7Mlzsy4n.js" />
+      <file href="html5/data/js/5teiGfdFC30.js" />
+      <file href="html5/data/js/5uSSQ4v5qQ7.js" />
+      <file href="html5/data/js/68EMK1xO9ue.js" />
+      <file href="html5/data/js/6f3udFghq7o.js" />
+      <file href="html5/data/js/6GYmxZw7ORr.js" />
+      <file href="html5/data/js/6jPRAXaASNC.js" />
+      <file href="html5/data/js/6OzMCEksdy5.js" />
+      <file href="html5/data/js/6qLiLurHj6N.js" />
+      <file href="html5/data/js/6SXk1QaKMbT.js" />
+      <file href="html5/data/js/6USEO8EH4fu.js" />
+      <file href="html5/data/js/6ZWIaI5boYf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
