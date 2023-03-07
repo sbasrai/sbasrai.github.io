@@ -1,19 +1,49 @@
 ACID
 A substance that: tends to lose a proton, dissolves in water with the formation of hydrogen ions (H+), contains hydrogen which may be replaced by metals to form salts. Highly corrosive.
 
-ACIDITY
+***ACIDITY
+The capacity of water or wastewater to neutralize bases. Acidity is expressed in milligrams per liter of equivalent calcium carbonate.
+
+***ACIDITY
+Measure of the ability to neutralize alkaline (hi pH) substances.
+
+***ACIDITY
 The capacity of water or wastewater to neutralize bases. Acidity is expressed in milligrams per liter of equivalent calcium carbonate.
 
 ACRE FOOT
 A volume of water one (1) foot deep and one (1) acre in area, or 43,560 cubic feet.
 
+ACTIVATED CARBON
+Form of carbon processed to have small, low-volume pores that increase the surface area available for adsorption or chemical reactions.
+
 ***ACTIVATED SLUDGE
 Are the solids that are formed when microorganisms are used to treat wastewater during the process referred to as activated sludge treatment. It includes organisms, accumulated food materials and waste products from the aerobic decomposition process. 
 
 ***ACTIVATED SLUDGE
+ The term “activated sludge” refers to a brownish flocculent culture of organisms developed in aeration tanks under controlled conditions. It is also Sludge floc produced in raw or settled wastewater by the growth of zoological bacteria and other organisms in the presence of dissolved oxygen. Activated sludge is normally brown in color.
+
+***ACTIVATED SLUDGE
+ Sludge withdrawn from the secondary clarifier in the activated sludge process, consisting of micro-organisms, non-living organic matter, and inorganic materials.
+
+***ACTIVATED SLUDGE
 Sludge particles produced in raw or settled wastewater (primarily effluent) by the growth of organisms (including zoogleal bacteria) in aeration tanks in the presence of dissolved oxygen. The term “activated” comes from the fact that the particles are teeming with bacteria, fungi, and protozoa. Activated sludge is different from primary sludge in that the sludge particles contain many living organisms which can feed on the incoming wastewater.
 
-ACTIVATED SLUDGE PROCESS
+***ACTIVATED SLUDGE
+Aerobic biological treatment process for domestic or industrial wastewater.
+
+***ACTIVATED SLUDGE
+ A biological water treatment technology commonly used in municipal wastewater treatment systems. Sometimes private industry will harness this technique to reduce certain pollutants, such as BOD and COD (see definitions below), but usually only due to compliance concerns.
+
+***ACTIVATED SLUDGE
+Sludge particles produced in raw or settled wastewater (primarily effluent) by the growth of organisms (including zoogleal bacteria) in aeration tanks in the presence of dissolved oxygen. The term “activated” comes from the fact that the particles are teeming with bacteria, fungi, and protozoa. Activated sludge is different from primary sludge in that the sludge particles contain many living organisms which can feed on the incoming wastewater.
+
+***ACTIVATED SLUDGE PROCESS
+ A common method of disposing of pollution in wastewaters. In the process, large quantities of air are bubbled through wastewaters that contain dissolved organic substances in open aeration tanks. Bacteria and other types of micro-organisms present in the system need oxygen to live, grow, and multiply in order to consume the dissolved organic “food” or pollutants in the waste. After several hours in a large holding tank, the water is separated from the sludge of bacteria and discharged from the system. Most of the activated sludge is returned to the treatment process, while the remainder is disposed of by one of several acceptable methods.
+
+***ACTIVATED SLUDGE PROCESS
+ A common method of disposing of pollutants in biological wastewaters. In the process, large quantities of air are bubbled through wastewaters that contain dissolved organic substances in open aeration tanks. Bacteria and other types of microorganisms present in the system need oxygen to live, grown, and multiply in order to consume the dissolved organic "food" or pollutants in the waste. After several hours in a large holding tank, the water is separated from the sludge of bacteria and discharged from the system. Most of the activated sludge is returned to the treatment process, while the remainder is disposed of by one of several acceptable methods.
+
+***ACTIVATED SLUDGE PROCESS
 A biological wastewater treatment process which speeds up the decomposition of wastes in the wastewater being treated. Activated sludge is added to wastewater and the mixture (mixed liquor) is aerated and agitated. After some time in the aeration tank, the activated sludge is allowed to settle out by sedimentation and is disposed of (wasted) or refused (returned to the aeration tank) as needed. The remaining wastewater then undergoes more treatment.
 
 ACTUATOR
@@ -32,7 +62,16 @@ Any process of water renovation that upgrades treated wastewater to meet specifi
 The process of adding air to wastewater to provide dissolved oxygen for aerobic bacterial treatment, to freshen wastewater and to keep solids in suspension.
 
 ***AERATION
+ The process or method of bringing about intimate contact between air and a liquid.
+
+***AERATION
+ The process of bringing about intimate contact between air and a liquid.
+
+***AERATION
 The process of adding air to water. In wastewater treatment, air is added to refreshen wastewater and to keep solids in suspension. With mixtures of wastewater and activated sludge, adding air provides mixing and oxygen for the microorganisms treating the wastewater.
+
+AERATION TANK
+ A chamber for injecting air into water.
 
 AEROBES
 Bacteria that must have molecular (dissolved) oxygen (DO) to survive.
@@ -43,11 +82,23 @@ A condition in which atmospheric or dissolved molecular oxygen is present in the
 ***AEROBIC
 The condition in which free oxygen is dissolved in the water. Aerobic bacteria need free oxygen to live and multiply.
 
-AEROBIC BACTERIA
+***AEROBIC
+requiring free oxygen for respiration. Refers to types of bacteria commonly found in water and wastewater treatment systems.
+
+***AEROBIC BACTERIA
+ Bacteria that requires free (elementary) oxygen for growth.
+
+***AEROBIC BACTERIA
+ Bacteria that require free (elementary) oxygen for growth.
+
+***AEROBIC BACTERIA
 Bacteria which will live and reproduce only in an environment containing oxygen which is available for their respiration (breathing), namely atmospheric oxygen or oxygen dissolved in water. Oxygen combined chemically, such as water molecules (H2O), cannot be used for respiration by aerobic bacteria.
 
 AIR AERATION
 A diffused air activated sludge plant takes air, compresses it, and then discharges the air below the water surface of the aerator through some type of air diffusion device.
+
+AIR END
+ A term referring to the side (or parts) of the pump that come into contact with shop/compressed air or natural gas. This applies to any air operated pump including Air Operated Diaphragm Pumps, air operated piston pumps and air operated drum pumps.
 
 AIR LIFT
 A type of pump. This device consists of a vertical riser pipe in the wastewater or sludge to be pumped. Compressed air is injected into a tall piece at the bottom of the pipe.   Fine air bubbles mix with the wastewater or sludge to form a mixture lighter than the surrounding water which causes the mixture to rise in the discharge pipe to the outlet. An air-lift pump works like the center of a stand in a percolator coffee pot.
@@ -71,6 +122,15 @@ Portion of a sample. Often an equally divided portion of a sample.
 The capacity of water to neutralize acids; the buffering capacity of water to resist changes in pH, especially with regard to acids, the effects of chlorine addition and the DENITRIFICATION process.
 
 ***ALKALINITY
+ The capacity of water to neutralize acids, a property imparted by the water’s content of carbonates, bicarbonates, hydroxides, and occasionally borates, silicates, and phosphates. Alkaline fluids have a pH value over 7.
+
+***ALKALINITY
+See Base.
+
+***ALKALINITY
+Measure of the ability of a substance to neutralize acids. Typically measured as ppm (mg/l) of CaCO3.
+
+***ALKALINITY
 See Base.
 
 ALL WELDED CONSTRUCTION
@@ -83,9 +143,24 @@ A condition in which atmospheric or dissolved molecular oxygen is NOT present in
 The condition in which there is no, or very little, free dissolved oxygen in the water. Anaerobic bacteria live in the absence of free oxygen but they are able to obtain their oxygen from combined oxygen that exists in chemical compounds. Some treatment lagoons are purposely operated in an anaerobic state. Odors are often associated with anaerobic (septic) conditions due to formation of hazardous hydrogen sulfide gas.
 
 ***ANAEROBIC
+ A biological environment that is deficient in all forms of oxygen, especially molecular oxygen, nitrates and nitrites. The decomposition by microorganisms of waste organic matter in wastewater in the absence of dissolved oxygen is classed as anaerobic.
+
+***ANAEROBIC
 A condition in which atmospheric or dissolved molecular oxygen is NOT present in the aquatic (water) environment.
 
-ANAEROBIC BACTERIA
+***ANAEROBIC
+Requiring absence of free oxygen for respiration. Refers to types of bacteria commonly found in water and wastewater treatment systems.
+
+***ANAEROBIC
+A condition in which atmospheric or dissolved molecular oxygen is NOT present in the aquatic (water) environment.
+
+***ANAEROBIC BACTERIA
+ Bacteria that grows in the absence of free oxygen and derive oxygen from breaking down complex substances.
+
+***ANAEROBIC BACTERIA
+ Bacteria that grow in the absence of free oxygen and derive oxygen from breaking down complex substances.
+
+***ANAEROBIC BACTERIA
 Bacteria that live and reproduce in an environment containing no “free” or dissolved oxygen. Anaerobic bacteria obtain their oxygen supply by breaking down chemical compounds which contain oxygen, such as sulfate (SO 2-).
 
 ANAEROBIC DECOMPOSITION
@@ -103,11 +178,26 @@ ANCHOR PIN
 ANGLE VALVE
  A variation of the globe valve, in which the end connections are at right angles to each other, rather than being inline.
 
+ANIONIC FLOCCULANT
+Negatively charged flocculant. Used in water treatment to aid solid / liquid separation
+
 ***ANOXIC
 Oxygen deficient or lacking sufficient oxygen. 
 
 ***ANOXIC
+ A biological environment that is deficient in molecular oxygen, but may contain chemically bound oxygen, such as nitrates and nitrites.
+
+***ANOXIC
 Oxygen deficient or lacking sufficient oxygen.
+
+***ANOXIC
+Description of an environment without oxygen. In wastewater treatment anoxic processes are typically used for the removal of nitrogen from wastewater.
+
+***ANOXIC
+Oxygen deficient or lacking sufficient oxygen.
+
+ANTISCALENT
+Material used to control scale formation in water systems such as boiler or cooling water systems.
 
 AOD
  AOD stands for Air Operated Diaphragm (pump). These types of pumps are powered by compressed air or gas, making them ideal for hazardous applications such as petroleum based products and other flammable materials. With certain materials of construction, such as steel or conductive plastics, they are easily converted into fully explosion proof (Ex-Proof) pumps. Additionally, they can pull a suction lift and are submersible when installed properly. AOD’s can also handle slurries with solids concentrations up to 30% and can be run against a closed suction or “dead head” situation.
@@ -117,6 +207,9 @@ AODD
 
 AQUIFER
 A natural underground layer of porous materials usually capable of yielding a supply of water.
+
+ARSENIC
+ A heavy metal commonly regulated by wastewater discharge permits, but not commonly found in industrial wastewaters. Other heavy metals include: Cadmium (Cd), Chromium(Cr), Copper (Cu), Lead (Pb), Nickel (Ni), and Zinc (Zn).
 
 ASPHYXIATION
 An extreme condition often resulting in death due to a lack of oxygen and excess carbon dioxide in the blood from any cause. 
@@ -129,6 +222,9 @@ The highest allowable discharge over a calendar month
 
 AVERAGE WEEKLY DISCHARGE LIMITATION
 The highest allowable discharge over a calendar week. 
+
+BACK WASH
+Part of water filter, ion exchange or softener cycle that lifts up media bed to release and wash away dirt and other foulants.
 
 BACKFILL
 (1) Material used to full in a trench or excavation. (2) The act of filling a trench or excavation, usually after a pipe or some type of structure has been placed in the trench or excavation. 
@@ -155,7 +251,13 @@ Bacteria are living organisms, microscopic in size, which usually consist of a s
 Bacteria are single-celled, living, microscopic organisms which use organic matter for food and produce waste products. The three main types are: aerobic, anaerobic and facultative.
 
 ***BACTERIA
+ Bacteria are microscopic living organisms They are a group of universally distributed, rigid, essentially unicellular, microscopic organisms lacking chlorophyll. They are characterized as spheroids, rod-like, or curved entities, but occasionally appearing as sheets, chains, or branched filaments.
+
+***BACTERIA
 Bacteria are living organisms, microscopic in size, which usually consist of a single cell. Most bacteria use organic matter for their food and produce waste products as the result of their life processes.
+
+BACTERIAL COUNT
+Number of bacteria developed under controlled conditions after 25 hours incubation period. In unpolluted waters count is frequently less than 10 per milliliter.
 
 BAFFLE
 A flat board or plate, deflector, guide or similar device constructed or placed in flowing water, wastewater, or slurry systems to cause more uniform flow velocities, to absorb energy, and to divert, guide, or agitate liquids (water, chemical solutions, slurry).
@@ -208,6 +310,18 @@ BEVEL GEAR OPERATOR
 BHP
  BHP is the actual amount of horsepower being consumed by the pump as measured on a pony brake or dynamometer.
 
+BIOCHEMICAL OXYGEN ON DEMAND
+ An indirect reading of the organic content present in wastewater. Specifically, it refers to the amount of oxygen consumed to biologically degrade the organic material. It’s very expensive to treat, typically requiring a biological treatment technology like activated sludge.
+
+BIOCIDE
+Chemical substance designed for killing living organisms in water. Often characterized by type of organism killed: bactericide, fungicide or algaecide.
+
+BIOLOGICAL OXIDAITON
+ The process by which bacteria and other types of micro-organisms consume dissolved oxygen and organic substances in wastewater, using the energy released to convert organic carbon into carbon dioxide and cellular material.
+
+BIOLOGICAL OXIDATION
+ The process by which bacteria and other types of microorganisms consume dissolved oxygen and organic substances in biological wasterwater.  The energy released is then used to convert organic carbon into carbon dioxide and cellular material. 
+
 ***BIOMASS
 Amass or clump of living organisms feeding on wastes in wastewater, dead organisms and other debris. The mass may protect the organisms, as well as store food supplies. Also called ZOOGLEAL MASS.
 
@@ -240,12 +354,6 @@ Biochemical Oxygen Demand. The rate at which organisms use the oxygen in water o
 
 ***BOD
 (Pronounce letters separately.) The BIOCHEMICAL OXYGEN DEMAND test measures the rate at which microorganisms use oxygen while decomposing organic matter under aerobic conditions. BOD is used as a measure the organic strength of wastewater.
-
-***BOD
-Biochemical Oxygen Demand. The rate at which organisms use the oxygen in water or wastewater while stabilizing decomposable organic matter under aerobic conditions. In decomposition, organic matter serves as food for the bacteria and energy results from its oxidation. BOD measurements are used as a measure of the organic strength of wastes in water.
-
-***BOD
-BOD5
 
 ***BOD
 Biochemical Oxygen Demand. The rate at which organisms use the oxygen in water or wastewater while stabilizing decomposable organic matter under aerobic conditions. In decomposition, organic matter serves as food for the bacteria and energy results from its oxidation. BOD measurements are used as a measure of the organic strength of wastes in water.
@@ -292,6 +400,9 @@ A solution or liquid whose chemical makeup neutralizes acids or bases without a 
 BULKING
 Clouds of billowing sludge that occur throughout secondary clarifiers and sludge thickeners when the sludge does not settle properly.   In the activated sludge process bulking is usually caused by filamentous bacteria or bound water.
 
+BULKING SLUDGE
+ A phenomenon that occurs in activated sludge plants whereby the sludge occupies excessive volumes and will not concentrate readily. This condition refers to a decrease in the ability of the sludge to settle and consequent loss over the settling tank weir. Bulking in activated sludge aeration tanks is caused mainly by excess suspended solids (SS) content. Sludge bulking in the final settling tank of an activated sludge plant may be caused by improper balance of the BOD load, SS concentration in the mixed liquor, or the amount of air used in aeration.
+
 BURIED SERVICE
  An application in which valves are installed in lines which are buried below ground level.
 
@@ -310,11 +421,17 @@ A pipe, valve, gate, weir, trench or other device designed to permit all or part
 BYPASSING
 The act of causing all or part of a flow to be diverted from its usual channels. In a wastewater treatment plant, overload flows should be bypassed into a holding pond for future treatment. 224 
 
+CADMIUM
+ A heavy metal commonly regulated by wastewater discharge permits and typically found in the metal finishing industry.  Other heavy metals include: Arsenic (As), Chromium(Cr), Copper (Cu), Lead (Pb), Nickel (Ni), and Zinc (Zn).
+
 CARBON DIOXIDE
 A common gas, CO2, found abundantly in air, is a product of bacterial respiration and used by algae in photosynthesis. The concentration of carbon dioxide in the lagoon water governs the pH of the lagoon.
 
 CARCINOGEN
 Any substance that tends to produce cancer in an organism.
+
+CASING
+ The body of the pump which encloses the impeller. Primarily used in reference to centrifugal pumps.
 
 CAST
  The form of a particular part of a valve, where the basic shape is formed by molding rather than fabricating.
@@ -325,11 +442,23 @@ CASTING
 CATCH BASIN
 A chamber or well used with storm or combined sewers as a means of removing grit which might otherwise enter and be deposited in sewers. 
 
+CATIONIC FLOCCULANT
+Positively charged high molecular weight polyelectrolyte water soluble organic polymer designed to agglomerate solids in water substrates.
+
 ***CAVITATION
 The formation and collapse of a gas pocket or bubble on the blade of an impeller or gate of a valve. The collapse of the bubble drives water into the impeller or gate with a terrific force that can cause pitting of the surface. Cavitation is indicated by loud hammering noises.
 
 ***CAVITATION
+ The sudden collapse of gas bubbles due to the pressure increase.  
+
+***CAVITATION
 The formation and collapse of a gas pocket or bubble on the blade of an impeller or the gate of a valve. The collapse of this gas pocket or bubble drives water into the impeller or gate with a terrific force that can cause pitting on the impeller or gate surface. Cavitation is accompanied by loud noises that sound like someone is pounding on the impeller or gate with a hammer.
+
+CENTRIFUGAL FORCE
+ A force associated with a rotating body. In the case of a pump, the rotating impeller pushes fluid on the back of the impeller blade, imparting motion. Since the motion is circular there is a centrifugal force associated with it. The force pushes the fluid against a fixed pump casing thereby pressurizing the fluid and forcing it through the outlet.
+
+CENTRIFUGAL PUMP
+ Centrifugal pumps are the most common type of pump in use today throughout the world. A centrifugal pump is a rotodynamic pump that uses a rotating impeller to increase the velocity of a fluid. Centrifugal pumps are commonly used to move liquids through a piping system. The fluid enters the pump impeller along or near to the rotating axis and is accelerated by the impeller, flowing radially outward into a diffuser or volute chamber, from there it exits into the downstream piping system. A centrifugal pump works by the conversion of the rotational kinetic energy, typically from an electric motor or engine, to an increased static fluid pressure. This action is described by Bernoulli’s principle. The rotation of the pump impeller imparts kinetic energy to the fluid as it is drawn in from the impeller eye (center) and is forced outward through the impeller vanes to the periphery. As the fluid exits the impeller, the fluid kinetic energy (velocity) is then converted to (static) pressure due to the change in area the fluid experiences in the volute section. Typically, the volute shape of the pump casing (increasing in volume), or the diffuser vanes (which serve to slow the fluid, converting to kinetic energy in to flow) are responsible for the energy conversion. The energy conversion results in an increased pressure on the downstream side of the pump, causing flow.
 
 CENTRIFUGE
 A mechanical device that uses centrifugal or rotational forces to separate solids from liquids.
@@ -346,8 +475,17 @@ CHECK VALVE
 CHEMICAL GROUT
 Two chemical solutions that form a solid when combined. Solidification time is controlled by the strength of the mixtures used and the temperature. 
 
+CHEMICAL OXYGEN DEMAND
+ An indirect reading of the organic content of wastewater. Specifically, it refers to the amount of oxygen that’s required to chemically degrade the organic material.
+
 ***CHLORINATION
 The application of chlorine to water for disinfection or oxidation of undesirable compounds. Chlorine compounds are gas and liquid or solid (hypochlorites).
+
+***CHLORINATION
+ The application of chlorine to water, sewage, or industrial wastes, generally for the purpose of disinfection, but frequently for accomplishing other biological or chemical results.
+
+***CHLORINATION
+ The application of chlorine to water, sewage, or industrial wastes, generally for the purpose of disinfection, but frequently for accomplishing other chemical or biological wasterwater treatment results.
 
 ***CHLORINATION
 The application of chlorine to water or wastewater, generally for the purpose of disinfection, but frequently for accomplishing other biological or chemical results.
@@ -373,6 +511,12 @@ The amount of chlorine needed for a particular treatment.
 CHLORINE RESIDUAL
 The amount of free chlorine remaining after meeting chlorine demand under given conditions and is necessary to complete disinfection.
 
+CHOPPER PUMP
+ A chopper pump is a centrifugal pump, which is equipped with a cutting system to facilitate chopping/maceration of solids that are present in the pumped liquid. The main advantage of this type of pump is that it prevents clogging of the pump itself and of the adjacent piping, as all the solids and stringy materials are macerated by the chopping system. Chopper pumps exist in various configurations, including submersible and dry-installed design and they are typically equipped with an electric motor to run the impeller and to provide torque for the chopping system. Due to its high solids handling capabilities, the chopper pump is often used for pumping sewage, sludge, manure slurries, and other liquids that contain large or tough solids.
+
+CHROMIUM
+ A heavy metal commonly regulated by wastewater discharge permits and found in metals-related industries and products (including stainless steel). It is typically regulated in two forms: total chromium and hexavalent chromium. Other heavy metals include: Arsenic (As), Cadmium (Cd), Copper (Cu), Lead (Pb), Nickel (Ni), and Zinc (Zn).
+
 ***CIRCUITING
 A hydraulic condition in which water may find a short path between the inlet and outlet of a cell with subsequent shortened time of retention.
 
@@ -388,7 +532,13 @@ CLAPPER
 CLARIFICATION
 Any process or processes used to reduce the concentration of suspended matter in a liquid, such as quiescent settling or sedimentation. Lagoons provide clarification across the cells and in quiescent zones in aerated systems, allowing solids to settle into a sludge layer
 
-CLARIFIER
+***CLARIFIER
+Settling Tank, Sedimentation Basin. A tank or basin in which wastewater is held for a period of time during which the heavier solids settle to the bottom and the lighter material will float to the water surface.
+
+***CLARIFIER
+ A large, circular or rectangular tank that separates solids from the waste stream by settling or flotation.
+
+***CLARIFIER
 Settling Tank, Sedimentation Basin. A tank or basin in which wastewater is held for a period of time during which the heavier solids settle to the bottom and the lighter material will float to the water surface.
 
 CLEAN WATER ACT
@@ -406,11 +556,29 @@ When a manhole is not provided at the upstream end of a sewer main, a cleanout i
 CLOSURE ELEMENT
  The moving part of a valve, positioned in the flowstream which controls flow thru the valve. Ball. Gate, Plug, Clapper, Disc, etc., are specific names for closure elements.
 
+COAGULANT
+Positively charged electrolytes (chemicals) most commonly associated with coagulation. Coagulants are generally categorized as inorganic (alum, aluminum chloride, polyaluminum chloride, ferric chloride) or organic (epiamines, polyamines or DADMACs – diallyl dimethyl ammonium chloride).
+
 COAGULANTS
 Chemicals that cause very fine particles to clump (floc) together into larger particles. This makes it easier to separate the solids from the water by settling, skimming, draining or filtering.
 
-COAGULATION
+***COAGULATION
+ The agglomeration of colloidal or suspended matter brought about by the addition of some chemical to the liquid, by contact, or by other means.
+
+***COAGULATION
+The agglomeration of colloidal or suspended matter brought about by the addition of some chemical to the liquid, by contact, or by other means.
+
+***COAGULATION
 The clumping together of very fine particles into large particles (floc) caused by the use of chemicals (coagulants).
+
+***COAGULATION
+Involves destabilization for repulsive electrical charges to permit agglomeration of colloid particles in water. This process aids the clarification of water.
+
+***COAGULATION
+The clumping together of very fine particles into large particles (floc) caused by the use of chemicals (coagulants).
+
+COLI OR ESCHERICHIA COLIFORM
+ A species of bacteria found in large numbers in the intestinal tract of warm-blooded animals.
 
 ***COLIFORM
 The presence of coliform bacteria indicates that the water is polluted, may contain pathogenic organisms and indicate the possible presence of human or animal waste. Fecal coliform are specific to feces from warm-blooded animals, including humans. The E.coli test is a specific coliform test used to regulate and protect public health from WWTP discharges containing pathogens.
@@ -418,14 +586,26 @@ The presence of coliform bacteria indicates that the water is polluted, may cont
 ***COLIFORM
 A type of bacteria. The presence of coliform-group bacteria is an indication of possible pathogenic bacterial contamination. The human intestinal tract is one of the main habitats of coliform bacteria. They may also be found in the intestinal tracts of warm-blooded animals, and in plants, soil, air, and the aquatic environment. Fecal coliforms are those coliforms found in the feces of various warm-blooded animals; whereas the term “coliform” also includes various other environmental sources.
 
+COLIFORM INDEX
+Escherichia Coli is an organism normally found in the intestinal tract of man and animals but rare elsewhere.  Indicators of this organism family most reliable as index of pollution, purification efficiency and potability of water.
+
+***COLIFORM ORGANISMS
+ A group of bacteria recognized as indicators of fecal pollution (see also escherichia coliform).
+
+***COLIFORM ORGANISMS
+ A group of bacteria recognized as indicators of fecal pollution.  (see also escherichia coliform).
+
 COLLECTION SYSTEM
 A network of pipes, manholes, cleanouts, traps, siphons, lift stations and other structures used to collect all wastewater and wastewater-carried wastes of an area and transport them to a treatment plant or disposal system. The collection system includes land, wastewater lines and appurtenances, pumping stations and general property. 
 
 COLORIMETRIC MEASUREMENT
 A means of measuring unknown chemical concentrations in water by MEASURING A SAMPLE’S COLOR INTENSITY. The specific color of the sample, developed by addition of chemical reagents, is measured with a photoelectric colorimeter or is compared with “color standards” using, or corresponding with, known concentrations of the chemical.
 
-COMBINED SEWER
+***COMBINED SEWER
 A sewer designed to carry both sanitary wastewater and storm- or surface-water runoff.
+
+***COMBINED SEWER
+ Carries both sanitary sewage and storm water run-off.
 
 COMMINUTOR
 A device used to reduce the size of the solid chunks in wastewater by shredding (comminuting). The shredding action is like many scissors cutting or chopping to shreds all the large influent solids material in the wastewater.
@@ -433,11 +613,23 @@ A device used to reduce the size of the solid chunks in wastewater by shredding 
 COMPOSITE
 A composite sample is a collection of individual samples obtained at regular intervals, usually every one or two hours during a 24-hour time span. Each individual sample is combined with the others in proportion to the rate of flow when the sample was collected. The resulting mixture (composite sample) forms a representative sample and is analyzed to determine the average conditions during the sample period.
 
+COMPOSITE SAMPLE
+ To have significant meaning, samples for laboratory tests on wastewater should be representative of the wastewater. The best method of sampling is proportional composite sampling over several hours during the day. Composite samples are collected because the flow and characteristics of the wastewater are continually changing. A composite sample will give a representative analysis of the wastewater conditions.
+
 COMPUTED TOTAL CONTRIBUTION
 The total anticipated load on a wastewater treatment plant or the total anticipated flow in any collection system area based on the combined computed contributions of all connections to the system. 
 
+CONCENTRATE
+The high TDS discharge from a reverse osmosis filtration process.
+
 CONCRETE CRADLE
 A device made of concrete that is designed to support sewer pipe. 225 
+
+CONDENSATE
+steam that has lost heat and condensed into water.
+
+CONDUCTIVITY
+Transmittance of an electric current through water. Usually measured in microsiemens per centimeter (uS/cm) or micromho per centimeter (umho/cm).
 
 CONDUIT
  An expression characterizing valves when in the open position, wherein the bore presents a smooth uninterrupted interior surface across seat rings and thru the valve port, thus affording minimum pressuredrop. There are no cavities or large gaps in the bore between seat rings and body closures or between seat rings and ball/gate. Consequently, there are no areas that can accumulate debris to impede pipeline cleaning equipment or restrict the valve's motion.
@@ -457,11 +649,20 @@ The introduction into water of microorganisms, chemicals, toxic substances, wast
 CONTROL VALVE
  A valve that controls a process variable, such as pressure, flow or temperature by modulating its opening in response to a signal from a controller.
 
+CONTROL VOLUME
+ Limits imposed for the theoretical study of a system. The limits are usually set to intersect the system at locations where conditions are known.
+
 CONTROLLER
  A device that measures a controlled variable, compares it with a predetermined setting and signals the actuator to read just the opening of the valve in order to re-establish the original control setting.
 
+COPPER
+ A heavy metal commonly regulated by wastewater discharge permits. It is found in the metal finishing and electrical industries. Other heavy metals include: Arsenic (As), Cadmium (Cd), Chromium(Cr), Lead (Pb), Nickel (Ni), and Zinc (Zn).
+
 CORROSION
 The gradual decomposition or destruction of a material due to chemical action, often due to an electrochemical reaction. Corrosion starts at the surface of a material and moves inward, such as the chemical action upon manholes and sewer pipe materials. 
+
+CORROSION INHIBITOR
+chemical additive designed to control / minimize metal corrosion in water system.
 
 COULISSE
  Of or using runners or slides as a guiding mechanism; as in a "Coulisse" style gate valve.
@@ -487,14 +688,26 @@ A class of microscopic water animals that consume large quantities of bacteria a
 CRYOGENIC VALVE
  A valve capable of functioning at cryogenic temperatures.
 
+CYANIDE
+ A toxic element often found in wastewater from metal finishing industries. It’s commonly regulated by wastewater permits.
+
 CYCLE
  A single complete operation or process returning to the starting point. A valve, stroked from full open to full close and back to full open, has undergone one cycle.
+
+CYCLES OF CONCENTRATION
+Ratio of boiler or cooling water to make up (feed water). Typically measured by monitoring total dissolved solids, conductivity, silica or chlorides.
 
 CYLINDER OPERATOR
  A power-piston valve operator using either hydraulic or pneumatic pressure. A sealed piston converts applied pressure into a linear piston rod (stem) motion.
 
 DAPHNIA
 A crustacean commonly found in wastewater lagoons.
+
+DATUM PLANE
+ A reference plane.   A conveniently accessible known surface from which all vertical measurements are taken or referred to.
+
+DAY BOD
+BOD5
 
 DEADEND MANHOLE
 A manhole located at the upstream end of a sewer and having no inlet pipe. 
@@ -505,8 +718,14 @@ Any material in wastewater found floating, suspended, settled, or moving along t
 DECHLORINATION
 The removal of chlorine from the effluent of a treatment plant.
 
-DENITRIFICATION
+***DENITRIFICATION
 An anaerobic process that occurs when nitrite and nitrate ions are reduced to nitrogen gas and bubbles are formed. These bubbles attach to sludge flocs, causing rising sludge that floats to the surface of secondary clarifiers.
+
+***DENITRIFICATION
+ A biological process by which nitrate is converted to nitrogen gas.
+
+***DENITRIFICATION
+Wastewater treatment process involved in the biological removal of nitrogen in which the nitrite (NO2) is converted to nitrogen gas (N2)
 
 DEQ
 Department of Environmental Quality. 
@@ -523,14 +742,26 @@ DETRITUS
 DEWATER
 To drain or remove water from an enclosure. A structure may be dewatered so that it can be inspected or repaired. Dewater also means draining or removing water from sludge to increase the solids concentration. 226 
 
+DEWATERING
+Removing free water from a sludge or slurry to form a high solids cake. belt filter presses, centrifuges, rotary fan presses and vacuum presses are dewatering devices.
+
+DEWATERING PUMP
+ Any pump capable of removing water from an unwanted area. They are usually small, portable pumps that run on single phase power, compressed air or a small engine, but can be large permanently installed units as well.
+
 DIAPHRAGM
  A round, thin flexible sealing device secured and sealed around its outer edge - and sometimes around a central hole in the diaphragm - with its unsupported area free to move by flexing.
+
+DIFFUSED AIR
+ Method of aeration.
 
 DIFFUSER
 A device used to break the air stream from the blower system into fine bubbles in an aeration tank or reactor.
 
 DIGESTER
 A tank in which sludge is placed to allow decomposition by microorganisms. Digestion may occur under anaerobic (more common) or aerobic conditions.
+
+DIGESTION
+ The biochemical decomposition of organic matter that results in the formation of mineral and simpler organic compounds.
 
 DIP
 A point in the sewer pipe where a drain grade defect results in a puddle of standing water when there is no flow. 
@@ -541,6 +772,9 @@ DIP TUBE
 DISC
  The closure element of a globe angle or small regulator valve. The disc (sometimes referred to as "valve," "poppet" or "plug") moves to and from the seat in a direction perpendicular to the seat face. Depends on stem force for tight shutoff.
 
+DISCHARGE STATIC HEAD
+ The difference in elevation between the liquid level of the discharge tank and the centerline of the pump. This head also includes any additional head that may be present at the discharge tank fluid surface.
+
 ***DISINFECTION
 The process designed to kill or inactivate most microorganisms in water, including essentially all pathogenic (disease-causing) bacteria. There are several ways to disinfect, with chlorine being the most frequently used method in both water and wastewater systems. 
 
@@ -550,11 +784,26 @@ The process designed to kill most microorganisms in water, including the destruc
 ***DISINFECTION
 The process designed to kill or inactivate most microorganisms in wastewater, including essentially all pathogenic (disease-casing) bacteria.   There are several ways to disinfect, with chlorination being the most frequently used in water and wastewater treatment plants.
 
-DISSOLVED OXYGEN
+DISPERSANT
+A non-surface active compound or an active substance added to a suspension, usually a mix, to increase the separation of particles and to prevent subsiding or clumping.
+
+DISSOLVED AIR FLOTATION
+ Method of removing oil and suspended solids.
+
+***DISSOLVED AIR FLOTATION
+ A physical/chemical wastewater treatment technology that can be cost-effectively used by industry to remove FOG (fats, oils and grease), suspended solids, and some metals.
+
+***DISSOLVED OXYGEN
 Molecular (atmospheric) oxygen dissolved in water or wastewater, usually abbreviated as DO.
 
-DISSOLVED SOLIDS
+***DISSOLVED OXYGEN
+ Measurement of the gaseous oxygen (O2) concentration in water.
+
+***DISSOLVED SOLIDS
 The salts and other residues left after evaporation of water that has been passed through a laboratory filter. Dissolved solids cannot be filtered out. Some colloidal solids may not be in true solution, but if they pass through the standard membrane filter, they are considered dissolved solids. (See suspended solids)
+
+***DISSOLVED SOLIDS
+ Solids physically suspended in sewage that cannot be removed by proper laboratory filtering.
 
 DIURNAL
 Having a daily cycle; usually a 24-hour period from 12:00am to 12:00pm.
@@ -567,6 +816,9 @@ A machine that drags a bucket down the intended line of a trench to dig or excav
 
 DRAIN PLUG
  A fitting at the bottom of a valve, the removal of which permits draining and flushing the body cavity.
+
+DREDGE PUMP
+ A dredge pump is a submersible, centrifugal pump capable of handling high solids concentrations and is typically used for clearing out and/or deepening harbors and waterways. The material being moved (i.e.) sand, dirt, soil, etc.) is carried away along with the water it is suspended in.
 
 DRIVE PINS
  The two pins which fit into the bottom of a ball valve stem and engage corresponding holes in the ball. As the operator turns the stem, the drive pins turn the ball.
@@ -586,6 +838,9 @@ A water plant with single small leaf that floats and accumulates on the surface 
 EASEMENT
 Legal right to use the property of others for a specific purpose. For example, a utility company may have a five-foot easement along the property line of a home. This gives the utility the legal right to install and maintain a sewer line within the easement. 
 
+EFFICIENCY
+ A ratio of total power output to the total power input, expressed as a percent.
+
 ***EFFLUENT
 Wastewater or other liquid—raw (untreated), partially, or completely treated—flowing FROM a reservoir, basin, treatment process, or treatment plant. 
 
@@ -593,10 +848,22 @@ Wastewater or other liquid—raw (untreated), partially, or completely treated�
 The treated water leaving the treatment plant.
 
 ***EFFLUENT
+ The liquid that comes out of a treatment plant after completion of any treatment process.
+
+***EFFLUENT
+Wastewater or other liquid - raw (untreated), partially or completely treated - flowing
+
+***EFFLUENT
+Liquid that flows from a containing space or source such as a factory, tank, pond or clarifier.
+
+***EFFLUENT
 Wastewater or other liquid - raw (untreated), partially or completely treated - flowing
 
 ELASTOMER
  A natural or synthetic elastic material, often used for o-ring seals. Typical materials are viton, buna-n, EPDM (ethylene propylene dimonomer), etc.
+
+ELECTRO DEIONIZATION
+Water treatment technology that utilizes an electricity, ion exchange membranes and resin to deionize water and separate dissolved ions (impurities) from water.
 
 ELEVATION
 The height to which something is elevated, such as the height above sea level. 
@@ -607,6 +874,9 @@ The washing of digested sludge with fresh water, plant effluent or other wastewa
 EMERGENCY SEAT SEAL
  To obtain tight shut off in an emergency situation, a sealant can be injected into a specially designed groove in the seat rings. Available for most ball valves and gate valves.
 
+ENTHALPY
+ A thermodynamic property of a fluid. The enthalpy of a fluid consist of the energy associated with the fluid at a microscopic level (related to the temperature of the fluid) plus the energy present in the form of pressure at the inlet and outlet of a system.
+
 EODD
  EODD stands for Electrically Operated Double Diaphragm (pumps). These are diaphragm pumps driven either directly or indirectly with an electric motor. Offering many of the same advantages as AOD/AODD pumps with less noise and no compressed air/gas requirements. They cannot run against a closed discharge, which air operated models can, except Graco’s e-Series models.
 
@@ -615,6 +885,9 @@ United States Environmental Protection Agency.
 
 EQUALIZING BASIN
 A holding basin in which variations in flow and composition of a liquid are averaged. Such basins are used to provide a flow of reasonably uniform volume and composition to a treatment unit.  Also called a balancing reservoir.
+
+ESCHERICHIA COLIFORM
+ A species of bacteria found in large numbers in the intestinal tract of warm-blooded animals.
 
 ESDV
 EMERGENCY SHUT DOWN VALVES:  A valve or a system of valves which, when activated, initiate a shut-down of the plant, process, or platform they are tied to.
@@ -630,6 +903,9 @@ Liquid wastes and liquid-carried wastes which unintentionally leak out of a sewe
 
 EXPANDING GATE VALVE
  A gate valve that is comprised of a separate gate and segment that as the valve operates the gate and segment move without touching the seats, permitting the valve to be opened and closed without wear. In the closed position the gate and segment are forced against the seat. Continued downward movement of the gate causes the gate and segment to expand against the seats. When the valve reaches its full open position, the gate and segment seal off against the seats while the flow is isolated from the valve body.
+
+EXTENDED AERATION
+ A modification of the activated sludge process which provides for aerobic sludge digestion within the aeration system.
 
 EXTENSIONS
  The equipment applied to buried valves to provide above grade accessibility to operating gear, blowdown and seat lubrication systems.
@@ -652,6 +928,9 @@ A pulley that is placed in a manhole to guide TV camera electric cables and the 
 FERMENTATION
 A process of decomposition of organic solid materials by bacteria and other biological actions.
 
+FERRIC CHLORIDE
+Metal salt (FeCl3) commonly used as an coagulant in water clarification and as etching agent in chemical-etching.
+
 FIELD SERVICEABLE
  A statement indicating that normal repair of the valve or replacement of operating parts can be accomplished in the field without return to the manufacturer.
 
@@ -660,6 +939,9 @@ The property of growing in long strings, or filaments. Algae and bacteria have f
 
 FILAMENTOUS ORGANISMS
 Organisms that grow in a thread or filamentous form. Common types are Thiothrix and Actinomycetes. A common cause of sludge bulking in the activated sludge process.
+
+FILTER PRESS
+Solids dewatering device that uses pressure differential applied to sludge within a series of plates with filter clothes. The plates (with clothes in them) are arranged in a plate pack with the sludge filling chambers created by recesses within each plate. Filter presses are often called Plate and Frame or Recessed Chamber Filter Presses.
 
 FIRE GATE
  A gate or ball valve which is positioned in a pipeline at the entrance to a compressor station. This valve is closed in case of fire in the compressor station. Closing the valve prevents the gas in the pipeline from feeding the fire.
@@ -683,16 +965,43 @@ FLOATING BALL
 Clumps of bacteria and particulate impurities that have come together and formed a cluster.
 
 ***FLOC
+ The agglomeration of smaller particles in gelatinous mass that can be more easily removed from the liquid than the individual small particles.
+
+***FLOC
+ The agglomeration of smaller particles in a gelatinous mass that can be more easily removed from the liquid than the individual small particles.
+
+***FLOC
 Clumps of bacteria and particles or coagulants and impurities that have come together and formed a cluster. Found in aeration tanks, secondary clarifiers and chemical precipitation processes.
 
-FLOCCULATION
+FLOCCULANT
+high molecular weight polyelectrolyte water soluble organic polymer designed to agglomerate solids in water substrates. Characteristics of flocculants in water treatment are determined by their molecular weight, charge type (anionic, nonionic or cationic) and charge density.
+
+***FLOCCULATION
+ The coming together of coalescing and minute particles in a liquid.
+
+***FLOCCULATION
+ The coming together of coalescing of minute particles in a liquid.
+
+***FLOCCULATION
 The gathering together of fine particles after coagulation to form larger particles by a process of gentle mixing.
+
+***FLOCCULATION
+the agglomeration of settleable solids through a bridging mechanism to produce larger particle that is more easily separated from water.
+
+***FLOCCULATION
+The gathering together of fine particles after coagulation to form larger particles by a process of gentle mixing.
+
+FLOODED SUCTION
+ In a flooded suction system, the liquid flows to the pump inlet from an elevated source by means of gravity. This is generally recommended for centrifugal pumps.
 
 FLOTATION
 (1) The stress or forces on a pipeline or manhole structure below a water table which tend to lift or float the pipeline or manhole structure. (2) The process of raising suspended matter to the surface of the liquid in a tank where it forms a scum layer that can be removed by skimming. The suspended matter is raised by aeration, the evolution of gas, the use of chemicals, electrolysis, heat or bacterial decomposition. 
 
-FLOW
+***FLOW
 The continuous movement of a liquid from one place to another. 
+
+***FLOW
+ A measure of the liquid volume capacity of a pump. Given in gallons per minute/hour (gpm, gph), liters per minute/hour (L/min, L/hour), milliliters per minute (mL/min), cubic meters per hour (m3/h) and other rarely used measurements.
 
 FLOW ISOLATION
 A procedure used to measure inflow and infiltration (I/I). A section of sewer is blocked off or isolated and the flow from the section is measured. 
@@ -702,6 +1011,9 @@ A line built specifically to allow the introduction of large quantities of water
 
 FLUSHING
 The removal of deposits of material which have lodged in sewers because of inadequate velocity of flows. Water is discharged into the sewers at such rates that the larger flow and higher velocities are sufficient to remove the material. 
+
+FLUX
+the permeate rate per unit area of membrane surface. Typical units are gals per foot of membrane per day (gfd) or liters of permeate per square meter of membrane per hour (lmh).
 
 ***FORCE MAIN
 A pipe that carries wastewater under pressure from the discharge side of a pump to a point of gravity flow downstream. 228 
@@ -717,6 +1029,15 @@ Oxygen can be dissolved in water as the soluble gas O2 when it is called free ox
 
 FREEBOARD
 The vertical distance from the normal water surface to the top of the confining wall.
+
+FRICTION
+ The force produced as a reaction to movement. All fluids produce friction when they are in motion. The higher the fluid viscosity, the higher the friction force for the same flow rate. Friction is produced internally as one layer of fluid moves with respect to another and also at the fluid/surface interface.
+
+FRICTION HEAD
+ The pressure expressed in pounds per square inch or feet of liquid needed to overcome the resistance to the flow in pipes and fittings.
+
+FRICTION HEAD DIFFERENCE
+ The difference in head required to move a mass of fluid from one position to another at a certain flow rate.
 
 FRICTION LOSS
 The head lost by water flowing in a stream or conduit as the result of the disturbances set up by the contact between the moving water and its containing conduit and by intermolecular friction. 
@@ -760,8 +1081,17 @@ GRADE
 GRAVITY FLOW
 Water or wastewater flowing from a higher elevation to a lower elevation due to the force of gravity. The water does not flow due to energy provided by a pump. Wherever possible, wastewater collection systems are designed to use the force of gravity to convey waste liquids and solids. 
 
-GREASE
+***GREASE
 In a collection system, grease is considered to be the residues of fats, detergents, waxes, free fatty acids, 
+
+***GREASE
+ In wastewater, a group of substances, including fats, waxes, free fatty acids, calcium and magnesium soaps, mineral oils, and certain other non-fatty materials.
+
+***GREASE
+a term to describe wastewater contaminants that are commonly found in food or petroleum based effluents. EPA test 1664 is typically used to measure FOG.
+
+***GREASE
+ Food industry byproducts that can cause significant problems for sewer systems. This pollutant includes both animal/vegetable and petroleum sources and can be regulated separately by these fractions. It is important to know which fraction is regulated and what analytical method is being used to get accurate results.
 
 GREASE BUILDUP
 Any point in a collection system where coagulated and solidified greases accumulate and build up. Many varieties of grease have high adhesive characteristics and collect other solids, forming restrictions and stoppages in collection systems. 
@@ -778,11 +1108,17 @@ Varieties of algae characterized by their bluish-green color. The appearance of 
 ***GREEN ALGAE
 The common forms of algae in an aerobic lagoon environment. Green algae are essential for lagoon treatment.
 
+GRINDER PUMP
+ A grinder pump is a waste management device. Waste from water-using household appliances (toilets, bathtubs, washing machines, etc.) flows through the home’s pipes into the grinder pump’s holding tank. Once the waste inside the tank reaches a certain level, the pump will turn on, grind the waste into fine slurry, and pump it to the central sewer system.
+
 ***GRIT
 The heavy mineral material present in wastewater such as sand, coffee grounds, eggshells, gravel and cinders. Grit tends to settle out at flow velocities below 2 ft. /sec, 
 
 ***GRIT
 Raw sewage carries a variable amount of solids such as sand, and other heavier settleable solids. These are generally classed as grit.
+
+***GRIT
+ Heavy, inorganic matter, such as sand or pebbles.
 
 ***GRIT
   The heavy material present in wastewater, such as sand, coffee grounds, eggshells, gravel and cinders.
@@ -796,9 +1132,6 @@ Grit removal is accomplished by providing an enlarged channel or chamber which c
 GRIT TRAP
 A permanent structure built into a manhole (or other convenient location in a collection system) for the accumulation and easy removal of grit. 
 
-H
-The intensity of the basic or acid condition of a liquid.
-
 HAND WHEEL
  A wheel-shaped valve operating device intended to be grasped with one or both hands which allows turning the valve stem or operator shaft to which it is attached.
 
@@ -808,11 +1141,26 @@ HARD FACING
 HARD WATER
 Water having a high concentration of calcium and magnesium ions.
 
-HEAD
+HARDNESS
+It is typically the concentration of calcium and magnesium salts in water. However, it may include other metal salts such as Al, Mn, Sr and Zn. Normally measured as CaCO3 equivalents.
+
+***HEAD
 The vertical distance (in feet) equal to the pressure (in psi) at a specific point. The pressure head is equal to the pressure in psi times 2.31 ft/psi.
 
-HEADWORKS
+***HEAD
+ Refers to the pressure produced by a vertical column of fluid.  It is a measure of pressure, expressed in feet of head for pumps. Water is used as the default where 10 meters (33.9 ft.) of water equals one atmosphere (14.7 psi. or 1 bar).
+
+***HEADWORKS
 The facilities where wastewater enters a wastewater treatment plant. The headworks may consist of bar screens, comminutors, a wet well and pumps.
+
+***HEADWORKS
+ The part of wastewater treatment where the raw sewage is first received for treatment.  Preliminary treatment occurs at the Headworks.
+
+***HEADWORKS
+The facilities where wastewater enters a wastewater treatment plant. The headworks may consist of bar screens, comminutors, a wet well and pumps.
+
+HETEROTROPH
+a type of bacteria that uses organic matter for energy and can use free oxygen, nitrates or sulfates as and oxygen source for respiration.
 
 HUBS
  The end connection tubes on a gate valve.
@@ -832,8 +1180,20 @@ The process of evaporation of water into the air and its return to earth by prec
 HYPOCHLORINATORS
 Chlorine pumps, chemical feed pumps or devices used to dispense chlorine solutions made from hypochlorites into the water being treated.
 
+IMPELLER
+ The rotating element of a centrifugal pump which imparts movement and pressure to a fluid.
+
+INCLINED PLATE CLARIFIER
+a solids / liquid separation device (clarifier) that is filled with parallel (sometimes called Lamella) plates that are inclined at an angle between 45 and 55 degrees. The plates reduce (compared to a gravity clarifier) the foot-print required to properly settle solids.
+
 INCREMENTAL SEAT TEST
  The leakage testing of valve seats in an assembled valve by increasing the applied pressure in prescribed pressure steps.
+
+***INFECTION
+ Introduction of presence of pathogenic organisms in potable water supply.
+
+***INFECTION
+ Introduction of the presence of pathogenic organisms in potable water supply. This is determined in two ways:
 
 ***INFILTRATION
 The seepage of groundwater into a sewer system, including service connections. Seepage frequently occurs through defective or cracked pipes, pipe joints, connections, or manhole walls. 
@@ -868,6 +1228,12 @@ The flow coming into the system.
 ***INFLUENT
 Wastewater or other liquid - raw (untreated) or partially treated - flowing INTO a reservoir, basin, treatment process or treatment plant.
 
+***INFLUENT
+Liquid flowing into a treatment process or treatment system.
+
+***INFLUENT
+Wastewater or other liquid - raw (untreated) or partially treated - flowing INTO a reservoir, basin, treatment process or treatment plant.
+
 INLET
 (1) A surface connection to a drain pipe. (2) A chamber for collecting storm water with no well below the outlet pipe for collecting grit. Often connected to a CATCH BASIN or a “basin manhole” with a grit chamber. 
 
@@ -882,6 +1248,12 @@ Material such as salts, metals, and all other substances of mineral origin.
 
 ***INORGANIC
 Material such as sand, salt, iron, calcium salts and other mineral materials and other than of plant or animal origin or of carbon compounds (ORGANIC).
+
+***INORGANIC MATERIAL
+Material that will not respond to biological action (sand, cinders, stone). Non-volatile fraction of solids.
+
+***INORGANIC MATERIAL
+ Material that will not respond to biological action (sand, cinders, stone). Non-volatile fraction of solids.
 
 INSERTION PULLER
 A device used to pull long segments of flexible pipe material into a sewer line when sliplining to rehabilitate a deteriorated sewer. 
@@ -901,6 +1273,9 @@ The lowest point of the channel inside a pipe or manhole.
 INVERTED SIPHON
 A pressure pipeline used to carry wastewater flowing in a gravity collection system under a depression such as a valley or roadway or under a structure such as a building. 230 
 
+ION EXCHANGE
+Process that removes dissolved ions from solution of a certain charge by absorption onto a resin that releases (exchanges) an ion of the same charge.
+
 ISRS
  Inside screw, rising stem - common term for any valve design in which the stem threads are exposed to the fluid below the packing and the stem rises up through the packing when the valve is opened.
 
@@ -919,6 +1294,9 @@ A measure of the concentration by weight of a substance per unit volume. One tho
 ***L
 Chlorine Residual, mg/L
 
+LAMINAR
+ A distinct flow regime that occurs at low Reynolds number (Re < 2000). It is characterized by particles in successive layers moving past one another in a well behaved manner (little to no turbulence).
+
 LAMPING
 Using reflected sunlight or a powerful light beam to inspect a sewer between two adjacent manholes. The light is directed down the pipe from one manhole. If it can be seen from the next manhole, it indicates that the line is open and straight. 
 
@@ -930,6 +1308,9 @@ A capped opening in a building lateral, usually located on the property line, th
 
 LATERAL SEWER
 A sewer that discharges into a branch or other sewer and has no other common sewer tributary to it. Sometimes called a “street sewer” because it collects wastewater from individual homes. 
+
+LEAD
+ A heavy metal commonly regulated by wastewater discharge permits. Other heavy metals include: Arsenic (As), Cadmium (Cd), Chromium(Cr), Copper (Cu), Nickel (Ni), and Zinc (Zn).
 
 LEVER
  A handle type operating device for quarter-turn valves.
@@ -943,8 +1324,14 @@ LIFTING LUGS
 LIMIT SWITCH
  An electrical device providing a signal to a remote observation station indicating when the valve is in the fully open or fully closed position. Usually a component of a valve operator.
 
+LIQUID END
+ A term referring to the side (or parts) of the pump that come into contact with the process fluid. This applies to any air operated pump including Air Operated Diaphragm Pumps, air operated piston pumps and air operated drum pumps.
+
 LOK
  A Sphere-Lok with two ports.
+
+MAGNETIC DRIVE
+ Also referred to as a Mag-drive. This is a method of connecting the motive force to the pump which uses a series of magnets coupled together, with a containment chamber separating them. Magnetic Drives keep the fluid sealed from atmosphere and other environmental factors and eliminate the need for seals and seal maintenance. Special considerations must be taken into account when specifying a Mag-Drive pump or mixer. Ask Springer Pumps for more information.
 
 MAIN LINE
 Branch or lateral sewers that collect wastewater from building sewers and service lines. 
@@ -985,7 +1372,10 @@ Substances used to cover up or disguise unpleasant odors. Liquid masking agents 
 MBR
 Membrane Bio Reactor:  A wastewater treatment technology that combines biological treatment with physical treatment involving membrane filtration. It’s used primarily to treat BOD, COD, and suspended solids to very low levels where effluent may be able to be reused or recycled.
 
-MECHANICAL AERATION
+***MECHANICAL AERATION
+ Method of aeration.
+
+***MECHANICAL AERATION
 The use of machinery to mix air and water so that oxygen can be absorbed into the water.
 
 MECHANICAL CLEANING
@@ -997,8 +1387,17 @@ A pipe plug used in sewer systems that is mechanically expanded to create a seal
 MECHANICAL SEAL
  In a valve, a shut off that is accomplished by a mechanical means rather than with fluid or line pressure. The wedging action of a gate against the seats or the seat springs pushing the seat against the ball or gate are examples of mechanical seals in a valve.
 
+MEMBRANE
+Material layer that is a selective barrier between two phases and remains impermeable to specific particles, molecules or substances.
+
+MEMBRANE BIO REACTOR
+Aerobic biological wastewater treatment process that utilizes membrane filtration (rather than clarification) for solids / liquid separation. The membrane filters (ultra filters) can be either submerged or external to the biological mixed liquor tanks.
+
 METAL SEAL
  The seal produced by metal-to-metal contact between the sealing face of the seat ring and the closure element, without benefit of a synthetic seal.
+
+METERING PUMP
+ Pumps used for precise introductions of chemicals into a tank, existing fluid stream or some other liquid handling equipment. Types of pumps for these include Diaphragm Pumps (AOD or EOD), Peristaltic Pumps, Hose Pumps, Gear Pumps, Bellows Pumps, Piston Pumps and other less commonly used pump types.
 
 METHANE
 A combustible gas produced during anaerobic fermentation of organic matter, such as by anaerobic digestion of wastewater solids.
@@ -1009,17 +1408,35 @@ MANUAL GEAR OPERATOR:  A gear operator that is operated manually (with a handwhe
 MGWPCS PERMIT
 Montana Groundwater Pollution Control System permit. This permit is issued to owners/operators of potential sources of pollution to state ground waters.
 
+MICRO FILTRATION
+Type of membrane filtration that separates suspended solids and solutes of high molecular from a liquid and low molecular weight solutes. This separation process is used in industry processes, water treatment and research for purifying and concentrating macromolecular solutions.
+
 ***MICROORGANISMS
 Microscopic living organisms.
 
 ***MICROORGANISMS
 Very small organisms that can be seen only through a microscope. Some microorganisms use the wastes in wastewater for food and thus remove or alter much of the undesired matter.
 
+MIXED BED ION EXCHANGE
+Anion exchange process that uses a mixture of cation and anion resin combined in a single ion exchange column. With proper pretreatment, product water purified from a single pass through a mixed bed ion exchange column is the purest that can be made.
+
 MIXED LIQUOR
+ The combination of primary effluent and active biological solids (return sludge) in the activated sludge process that is fed into the aeration tank.
+
+***MIXED LIQUOR
 When the activated sludge in an aeration tank is mixed with primary effluent or the raw wastewater and return sludge, this mixture is then referred to as mixed liquor as long as it is in the aeration tank. Mixed liquor may also refer to the contents of mixed aerobic or anaerobic digesters.
+
+***MIXED MEDIA GRAVITY FILTER
+ A filter using more than one filtering media (such as coal and sand.)
+
+***MIXED MEDIA GRAVITY FILTER
+ A filter using more than one filtering media (such as coal and sand).
 
 MONITORING WELL
 Wells used to collect groundwater samples for analysis to determine the amount, type, and spread of contaminants in groundwater. Specific design is often determined by the Water Protection Bureau at MT DEQ.
+
+MOVING BED BIO REACTOR
+ Aerobic biological wastewater treatment process that utilizes the fixed film (media) process. High surface area media is suspended in biological mixed liquor and bacteria grow on the media (attached growth) surface. A clarifier is typically used downstream for solid / liquid separation.
 
 MPDES PERMIT
 Montana Pollutant Discharge Elimination System permit. This permit lists the conditions that must be met before treatment plants can discharge an effluent into state
@@ -1027,11 +1444,44 @@ Montana Pollutant Discharge Elimination System permit. This permit lists the con
 NEEDLE VALVE
  A type of small valve, used for flow metering, having a tapered needle-point plug or closure element and a seat having a small orifice.
 
-NITRIFICATION
+NEGATIVE PRESSURE
+ Pressure that is less than the pressure in the external environment.
+
+NEPHELOMETER TURBIDITY UNITS
+ It is a measurement of the clarity (turbidity) of a liquid.
+
+NEPHELOMETRIC TURBIDITY UNIT
+ The standard unit to measure turbidity or how cloudy water is. It’s used as a visual indicator for how well a wastewater treatment system is working.
+
+***NEWTONIAN FLUID
+ A fluid where the relation between shear stress and shear rate is linear, related to viscosity.
+
+***NEWTONIAN FLUID
+ A fluid with properties that is different in any way from those of Newtonian Fluids. This is usually found in the relation of viscosity and shear or shear/time.
+
+NICKEL
+ A heavy metal commonly regulated by wastewater discharge permits. It can be found in metals-related industries and products, including stainless steel. Other heavy metals include: Arsenic (As), Cadmium (Cd), Chromium(Cr), Copper (Cu), Lead (Pb), and Zinc (Zn).
+
+***NITRIFICATION
 An aerobic process in which bacteria change ammonia and organic nitrogen into nitrite and nitrate forms of nitrogen.
+
+***NITRIFICATION
+ The conversion of nitrogen matter into nitrates by bacteria.
+
+***NITRIFICATION
+Wastewater treatment process involved in the biological removal of ammonia in which the ammonia is converted to nitrates (NO3)
 
 NITRIFYING BACTERIA
 Bacteria that change the ammonia and organic nitrogen in wastewater into oxidized nitrogen (usually nitrate).
+
+NITROGEN
+ Nitrogen is present in wastewater in many forms: total Kjeldahl nitrogen, ammonia nitrogen, organic nitrogen.
+
+NITROGEN CYCLE
+ The cycle of life, death, and decay involving organic nitrogenous matter is known as the nitrogen cycle. In the nitrogen cycle ammonia is produced from proteins.
+
+NONIONIC
+Neutral charged high molecular weight polyelectrolyte water soluble organic polymer designed to agglomerate solids in water substrates.
 
 NONPOINT DISCHARGE
 A source of wastewater that comes from a relatively large area and would have to be controlled by a management or conservation practice. Storm waters and most agricultural waters are nonpoint sources.
@@ -1054,6 +1504,12 @@ National Pollutant Discharge Elimination System permit is the regulatory agency 
 NRS
 NON-RISING STEM:  A gate valve having its stem threaded into the gate. As the stem turns the gate moves but the stem does not rise. Stem threads are exposed to the line fluid.
 
+***NUTRIENT
+ Any substance assimilated by organisms that promotes growth and replacement of cellular constituents.
+
+***NUTRIENT
+ Any substance assimilated by organisms that promotes growth & replacement of cellular constituents.
+
 NUTRIENTS
 Substances required by living plants and organisms. Forms of nitrogen and phosphorous are nutrients that can cause problems in receiving waters.
 
@@ -1063,6 +1519,9 @@ Any solid object in or protruding into a wastewater flow in a collection line th
 OFF
  A phrase used in describing the sealing ability of a valve. During air pressure testing of a new valve in the closed position, leakage past the seats is collected and bubbled thru water. To qualify as "bubble tight," no bubbles should be observed in a prescribed time span.
 
+OFF HEAD
+ The Total Head corresponding to zero flow on the pump performance curve.
+
 OFF VALVE
  A valve designed only for on/off service. Not a throttling valve. Sometimes referred to as a "block valve."
 
@@ -1071,6 +1530,9 @@ OFFSET
 
 OPDES
 Oklahoma Pollutant Discharge Elimination System – A permit program established in accordance with Section 402 of the CWA and authorized in 27A O.S. Environment and Natural Resources. This program regulates discharges into Oklahoma’s waters from point sources, including municipal, industrial, commercial and certain agricultural sources. 
+
+OPERATING POINT
+ The point on the system curve corresponding to the flow and head required to meet the process requirements.
 
 OPERATOR
  A device which converts manual, hydraulic, pneumatic or electrical energy into mechanical motion to open and close a valve.
@@ -1083,6 +1545,21 @@ Substances from animal or plant sources. Organic substances contain carbon. (See
 
 ORGANIC ACIDS
 Weak acids formed from organic compounds, such as acetic acid and citric acid. These acids form first in anaerobic digesters and then are converted to methane. The organic acids in wastewater lagoons are much more complex and generally weaker.
+
+ORGANIC MATERIAL
+ Material that can be broken down by bacteria (fats, meats, plant life).
+
+ORGANIC MATTER
+ The waste from homes or industry of plant or animal origin. Volatile fraction of solids.
+
+***ORGANISMS
+ Microscopic plants and animals such as bacteria, molds, protozoa, algae, and small metazoa.
+
+***ORGANISMS
+ Microscopic plans and animals such as bacteria, molds, protozoa, algae, and small metazoa.
+
+ORTHOPHOSPHATE
+ A simple compound of phosphorous and oxygen that is soluble in water.
 
 OSANDY
 OUTSIDE SCREW AND YOKE:  A valve in which the fluid does not come in contact with the stem threads. The stem sealing elements is between the valve body and the stem threads.
@@ -1105,6 +1582,12 @@ A manhole which fills and allows raw wastewater to flow out onto the street or g
 OVERFLOW RELIEF LINE
 Where a system has overload conditions during peak flows, an outlet may be installed above the invert and leading to a less loaded manhole or part of the system. This is usually called an “overflow relief line.” 
 
+OXIC
+ A biological environment which is aerobic.
+
+OXIDATION
+ The conversion of organic material to a more stable form using bacteria, chemicals, or oxygen.
+
 ***OXIDATION
 Oxidation is the addition of oxygen, removal of hydrogen, or the removal of electrons from an element or compound. In wastewater treatment, organic matter is oxidized to more stable substances.PACKAGE TREATMENT PLANT: A small wastewater treatment plant often fabricated at the manufacturer’s factory, hauled to the site, and installed as one facility. The package may be either a small primary or a secondary wastewater treatment plant.
 
@@ -1113,6 +1596,12 @@ Oxidation is the addition of oxygen, removal of hydrogen, or the removal of elec
 
 OXIDATION POND
 A term often used interchangeably with lagoon. Oxidation ponds are used after other treatment processes.
+
+OXIDATION PONDS OR LAGOONS
+ Holding ponds designed to allow the decomposition of organic wastes by aerobic or anaerobic means.
+
+OXYGEN REDUCTION POTENTIAL
+ A measure that indicates the capacity of wastewater to gain or reduce electrons during a chemical reaction. It is used as a control parameter for treating hexavalent chromium wastewater in the metal finishing industry.
 
 PACKAGE TREATMENT PLANT
 A small wastewater treatment plant often fabricated at the manufacturer’s factory, hauled to the site, and installed as one facility. The package may be either a small primary or a secondary wastewater treatment plant.
@@ -1129,6 +1618,12 @@ A specially constructed flume or channel used to measure flows in open channels.
 ***PARSHALL FLUME
 A flow measuring device consisting of a preformed flume with restrictive area called the throat. The head of water at a stilling well just upstream from the narrow part of the throat is measured and a chart is used to obtain flow rate.
 
+PARTS PER BILLION
+ A unit of concentration for pollutants in the wastewater. It’s the equivalent of one microgram in 1 liter (ug/l).
+
+PARTS PER MILLION
+ A unit of concentration for pollutants in the wastewater. It’s the equivalent of 1 milligram in 1 liter (mg/l).
+
 ***PATHOGENIC ORGANISMS
 Organisms capable of causing diseases in a host.
 
@@ -1143,6 +1638,15 @@ The movement or flow of water through soil or rocks. A discharge option for many
 
 ***PERCOLATION
 The movement or flow of waster through soil or rocks.
+
+PERFORMANCE CURVE
+ A curve of flow vs. Total Head for a specific pump model and impeller diameter.
+
+PH
+The intensity of the basic or acid condition of a liquid.
+
+PH VALUE
+ A convenient method of expressing small differences in the acidity or alkalinity of solutions. Neutrality = pH 7.1; lower values indicate increasing acidity, higher values indicate increasing alkalinity.
 
 PHOTOGRAPHIC INSPECTIONS
 A method of obtaining photographs of a pipeline by pulling a time-lapse motion picture camera through the line. 
@@ -1165,6 +1669,9 @@ The nominal or commercially designated inside diameter of a pipe, unless otherwi
 PIPE DISPLACEMENT
 The cubic inches of soil or water displaced by one foot or one section of pipe. 
 
+PIPE FRICTION LOSS
+ The positive head loss from the friction resistance between the pipe walls and the moving liquid.
+
 PIPE GRADE
 The angle of a sewer or a single section of a sewer as installed. Usually expressed in a percentage figure to indicate the drop in feet or tenths of a foot per hundred feet. For example, 0.5 percent grade means a drop of one-half foot per 100 feet of length. 
 
@@ -1183,6 +1690,9 @@ PIPE PLUG
 PIPE RODDING
 A method of opening a plugged or blocked pipe by pushing a steel rod or snake, or pulling same, through the pipe with a tool attached to the end of the rod or snake. Rotating the rod or snake with a tool attached increases effectiveness. 234 
 
+PIPE ROUGHNESS
+ A measurement of the average height of peaks producing roughness on the internal surface of pipes. Roughness is measured in many locations, and is usually defined in micro-inches RMS (root mean square).
+
 PIPE RUN
 (1) The length of sewer pipe reaching from one manhole to the next. (2) Any length of pipe, generally assumed to be in a straight line. 
 
@@ -1191,6 +1701,9 @@ A single length of pipe between two joints or couplers.
 
 PISTON EFFECT
  The sealing principle involved in utilizing line pressure to effect a seal across the floating seats of some valves.
+
+PISTON PUMP
+ The piston pump is a positive displacement type of pump. As the piston is pulled back it draws in the fluid, and then as it’s pushed forward it pushes the liquid out. A piston pump can have up to four pistons depending on the application. They should only be used for clear liquids as any solids and/or abrasives in the fluid can damage the pump. Piston pumps are for low flow, high head applications. Frequently used for high-accuracy metering applications.
 
 PLAN
 A drawing showing the TOP view of sewers, manholes and streets. Also means approved contract drawings, town standards, working drawings, detail sheets or exact reproductions thereof, which show the location, character, dimensions and details of the work to be done. 
@@ -1210,8 +1723,20 @@ A final lagoon cell after other treatment which completes the treatment, or "pol
 POLY PAK STEM SEAL
  An O-ring energized lip-seal which replaces O-ring stem seals in certain gate valves. Also used for stem seals in some ball valves.
 
+***POLYELECTROLYTES
+ Synthetic chemicals used as a coagulant aid.
+
+***POLYELECTROLYTES
+ Synthetic chemicals used as a coagulant aid.Primary Waste Treatment:  Mechanical separation of solids, grease, and scum from wastewater. With the aid of flocculating agents, primary treatment can eliminate 50 to 65% of the suspended solids. Solids removed by primary treatment may comprise as much as 30 to 40% of the original BOD of the water.
+
 POLYMER
 Polymers are used with other chemical coagulants to aid in binding small suspended particles to larger chemical flocs for their removal from water.
+
+POLYPHOSPHATE
+ A large compound formed of several orthophosphate molecules connected by phosphate-storing microorganisms.
+
+POLYVINYL CHLORIDE
+ The most common material used for wastewater piping. It is a type of plastic.
 
 PONDING
 A condition occurring on trickling filters when the hollow spaces (voids) become plugged to the extent that water passage through the filter is inadequate. Ponding may be the result of excessive slime growths, trash, or media breakdown.
@@ -1222,8 +1747,23 @@ An average BOD contribution by each person to a domestic sewage. The accepted po
 PORCUPINE
 A sewer cleaning tool the same diameter as the pipe being cleaned. The tool is a steel cylinder having solid ends with eyes cast in them to which a cable can be attached and pulled by a winch. Many short pieces of cable or bristles protrude from the cylinder to form a round brush. 
 
-POTABLE WATER
+***POTABLE WATER
 Water that is considered satisfactory for drinking.
+
+***POTABLE WATER
+ Water fit for human consumption.
+
+POTENTIAL ENERGY
+ A thermodynamic property. The energy associated with the mass and height of a body above a reference plane.
+
+POTENTIAL HYDROGEN
+ A measurement of how acidic or basic wastewater is on a scale of 0 to 14.
+
+POUNDS PER SQUARE INCH
+ A measurement of pressure. It’s often used when discussing physical wastewater treatment technologies involving filtration, but is also used with pumps. Filtration system PSI can indicate when it’s time to backwash or change a filter.
+
+POWDER PUMP
+ Powder pumps are normally of the Air Operated Diaphragm type and really can pump just powder and powder like materials such as flour and other fine grained, low bulk, dry-density powders in a dust free operation.
 
 POWER OPERATOR
  Powered valve operators are of the following general types.. Electric Motor, Pneumatic or Hydraulic Motor, Pheumatic or Hydraulic Cylinder. Operators can either be adapted directly to the valve stem or side mounted on existing gear or scotch-yoke operators.
@@ -1234,8 +1774,17 @@ A sewer cleaning machine fitted with auger rods which are inserted in a sewer li
 PPM
 Abbreviation for Parts Per Million. See MILLIGRAMS PER LITER (mg/L)
 
-PRECIPITATION
+***PRECIPITATION
 (1) The total measurable supply of water received directly from clouds as rain, snow, hail, or sleet; usually expressed as depth in a day, month, or year, and designated as daily, monthly, or annual precipitation. (2) The process by which atmospheric moisture is 
+
+***PRECIPITATION
+Term to describe compound used in water treatment to aid precipitation of substances normally soluble under the conditions employed. Common co-precipitants used in water are iron, aluminum, calcium and magnesium.
+
+PRESSURE
+ The application of external or internal forces to a body producing tension or compression within the body. This tension divided by a surface is called pressure.
+
+PRESSURE DROP
+ Referring to the loss of pressure between two points in a pipeline system. Generally, this occurs because of pipe friction loss or differences in elevation between the two points.
 
 PREVENTIVE MAINTENANCE
 Crews assigned the task of cleaning sewers (for example, balling or high-velocity cleaning crews) to prevent stoppages and odor complaints. Preventive maintenance is performing the most effective cleaning procedure, in the area where it is most needed, at the proper time in order to prevent failures and emergency situations. 
@@ -1249,11 +1798,35 @@ The contaminants identified by the EPA as harmful to human health. In order to p
 PRIMARY TREATMENT
 A wastewater treatment process that takes the place in a rectangular or circular tank and allows those substances in wastewater that readily settle or float to be separated from the water being treated.
 
+PRIMARY WASTE TREATMENT
+ Mechanical separation of solids, grease, and scum from wastewater. With the aid of flocculating agents, primary treatment can eliminate 50% t 65% of the suspended solids. Solids removed by the primary treatment may comprise as much as 30% t40% of the original BOD of the water.
+
+PRIMING PUMP
+ Self-priming pumps are centrifugal pumps with an abnormally large and specially shaped volute. The purpose of the large volute is to allow the pump to pull or “lift” liquid up to the impeller. Initially the pump volute (casing), must be filled with liquid manually to “pre-prime” the pump. As the pump starts it pumps out the liquid that was manually put into it while also drawing up the air in the suction pipe along with pulling up the liquid to be pumped. As the lifted liquid enters the volute the final volume of air is pumped out of the discharge and through an air release valve. Once the liquid hits the air valve, it closes and the pump now operates as a standard centrifugal pump.
+
+PROCESS AND INSTRUMENTATION DIAGRAM
+ An engineering drawing for a wastewater treatment system. It’s a schematic flow diagram that shows the relationship between different instrumentation and equipment.
+
+PROCESS CONTROL
+ An engineering discipline that deals with architectures, mechanisms and algorithms for maintaining the output of a specific process within a desired range.
+
+PROCESS FLOW DIAGRAM
+ A diagram commonly used in engineering to indicate the general flow of plant processes and equipment. The PFD displays the relationship between major equipment of a plant facility and does not show minor details.
+
 PROFILE
 A drawing showing the SIDE view of sewers and manholes. 
 
+PROGRAMMABLE CONTROLLER
+ A solid-state control system that has a user-programmable memory for storage of instructions to implement specific functions such as I/O control, logic, timing, counting, report generation, communication, arithmetic, and data file manipulation. A controller consists of a central processor, input/output interface, and memory. A controller is designed as an industrial control system.
+
+PROGRESSIVE CAVITY PUMP
+ A pump that uses a stator and rotor in a screw shape. The rotor turning inside the stator causes cavities to move in the direction of flow. Progressive Cavity Pumps cannot run dry for any amount of time.
+
 PROOF PPRESSURE
  A hydrostatic test pressure, usually 1 ½ times the rated working pressure, applied to an assembled valve to verify the structural integrity of the pressure containing parts. Synonymous with hydrostatic shell test. (Table 5.1, API-6D).
+
+PROPELLER PUMP
+ Propeller pumps are similar to other centrifugal impeller pumps, but the fluid being pumped is not sent in a circular path. Rather, it proceeds more or less in a straight direction up to the discharge. The motor sits above the discharge shaft. The propeller can be placed below the surface of the liquid, where it will always be primed. Propeller pumps are generally low-speed but low heads. They can be quite large, measuring over a dozen feet in diameter and moving over 50,000 gallons per minute. Some have adjustable-pitch blades.
 
 PROTECTIVE SLEEVES
  A circular "pipe like" sleeve inserted in place of the ball and seats of a top entry ball valve. This protective sleeve remains in place inside the valve during valve installation and ultimate pigging of a pipeline to clear debris from the line before placing the pipeline into service. Once the pipeline has been purged of all debris, the protective sleeve is removed entirely from the ball valve cavity and operating trim (i.e. ball and seats) is then installed for normal service conditions.
@@ -1261,11 +1834,17 @@ PROTECTIVE SLEEVES
 PUBLIC SEWER
 means a sewer in which all owners of abutting properties have equal rights and is controlled by acting as Sewer Commissioners, and maintained by the Public Works Superintendent. 
 
+PUBLICLY OWNED TREATMENT WORK
+ A term to describe a city or municipal sewage treatment facility. Since most industries discharge wastewater to these facilities, they’re typically regulated by these POTWs.
+
 PUMP
 A mechanical device for causing flow, for raising or lifting water or other fluid, or for applying pressure to fluids. 
 
 PUMP CONTROL VALVE
  A ball valve that is not meant for on-off service, but whose specific function is to control flow and prevent cavitation in pumps on liquid pipelines.
+
+PUMP IMPELLER
+ The moving element in a centrifugal pump that drives the fluid.
 
 PUMP PIT
 A dry well, chamber or room below ground level in which a pump is located. 
@@ -1279,11 +1858,23 @@ RACHET DRIVE
 RAP
 Erosion control by placement of large rocks along an embankment.
 
-RAW WASTEWATER
+***RAW WASTEWATER
+ Wastewater before it receives any treatment.
+
+***RAW WASTEWATER
 Plant influent or wastewater BEFORE any treatment.
+
+REACTOR
+ A tank where a wastewater stream is mixed with bacterial sludge and biochemical reactions occur.
 
 RECEIVING WATER
 A stream, river, lake, ocean or other surface or groundwater into which treated or untreated wastewater is discharged.
+
+***RECEIVING WATERS
+ Rivers, lakes, or other water sources that receive treated or untreated waters.
+
+***RECEIVING WATERS
+ Rivers, lakes, or other water sources that receive treated or untreated wastewaters.
 
 RECIRCULATION
 The return of part of the effluent from a treatment process to the incoming flow.
@@ -1314,6 +1905,18 @@ RETENTION
 
 RETENTION TIME
 The time water, sludge or solids are retained or held in a clarifier or sedimentation tank.
+
+RETURN ACTIVATED SLUDGE
+ Activated return sludge is normally returned continuously to the aeration tank. Recycling of activated sludge back to the aeration tank provides bacteria for incoming wastewater. Its should be brown in color with no obnoxious odor and is often also returned in small portions to the primary settling tanks to aid sedimentation. Settled activated sludge is generally thinner than raw sludge. Some activated sludge will be wasted to prevent excessive solids build up.
+
+RETURN SLUDGE
+ Settled activated sludge returned to mix with incoming raw or primary settled wastewater. When the return sludge rate in the activated sludge process is too low, there will be insufficient organisms to meet the waste load entering the aerator.
+
+***REVERSE OSMOSIS
+Water purification technology that uses a semipermeable membrane to remove dissolved solids, molecules and larger particles from water. Applied pressure is used to overcome osmotic pressure and produce high purity water. Reverse osmosis is used to produce ultra pure water for a variety of applications.
+
+***REVERSE OSMOSIS
+ A physical treatment technology based around the use of a membrane for filtration. It provides the greatest degree of filtration available and is very effective for filtering out small or even dissolved pollutants.  It is subsequently the most expensive type of filtration.
 
 RIM PULL
  The force required at the edge of the handwheel to generate the required torque at the center of the handwheel.
@@ -1348,6 +1951,12 @@ When roots from plant life enter a sewer system, the roots frequently branch to 
 ROOT SEWER
 Any part of a root system of a plant or tree that enters a collection system. 
 
+ROTARY GEAR PUMP
+ A Gear pump uses the meshing of gears to pump fluid by displacement. They are one of the most common types of pumps for hydraulic fluid power applications. Gear pumps are also widely used in chemical installations to pump fluid with a certain viscosity. There are two main variations; external gear pumps which use two external spur gears and internal gear pumps which use an external and an internal spur gear. Gear pumps are fixed displacement, meaning they pump a constant amount of fluid for each revolution. Some gear pumps are designed to function as either a motor or pump.
+
+ROTATING BIOLOGICAL CONTACTOR
+ A biological treatment technology most often used in city treatment systems to reduce BOD.
+
 ROTIFER
 A form of microscopic animal that feeds on algae and bacteria. The free swimming protozoa are common in lagoons. Rotifers require aerobic conditions.
 
@@ -1369,6 +1978,9 @@ A device which can be placed in the outlet of a manhole to cause a settling pond
 SANITARY COLLECTION SYSTEM
 The pipe system for collecting and carrying liquid and liquid-carried wastes from domestic sources to a wastewater treatment plant. 
 
+SANITARY PUMP
+ Sanitary pumps describe the materials used for construction of how a pump is built and if they meet specific criteria set forth by certifying agencies. Typical describing words are “FDA Compliant”, “Food Grade” and “CIP (Clean in Place)” and EHEDG. Sanitary pumps are normally built from stainless steel, PTFE, EPDM and other “clean” materials.
+
 SANITARY SEWER
 A pipe or conduit (sewer) intended to carry wastewater or waterborne wastes from homes, businesses, and industries to the POTW. Storm water runoff or unpolluted water should be collected and transported in a separate system of pipes or conduits (storm sewers) to natural water courses. 
 
@@ -1380,6 +1992,9 @@ A sewer cleaning tool whose cleansing action depends on the development of high 
 
 SCREEN
 A device used to retain or remove suspended or floating objects in wastewater. The screen has openings that are generally uniform in size. It retains or removes objects larger than the openings. A screen may consist of bars, rods, wires, gratings, wire mesh, or perforated plates.
+
+SCREW CENTRIFUGAL PUMP
+ A pump which uses an open channel impeller with a screw shape. These pumps are ideal for sludges, large/stringy solids laden fluids, shear sensitive fluids and delicate or highly abrasive materials. Offering true non-clog performance and a steep head curve make these pumps ideal for wastewater and other sludge applications. They also handle solids more gently than other pumps. They are specifically used for transporting live fish without harm and delicate foodstuffs without bruising.
 
 SCUM
 (1) A layer or film of foreign matter (such as grease, oil) that has risen to the surface of water or wastewater. (2) A residue deposited on the ledge of a sewer, channel, or wet well at the water surface. (3) A mass of solid matter that floats on the surface. 
@@ -1396,6 +2011,12 @@ Contaminants in drinking water that are not harmful to human health but are unpl
 SECONDARY TREATMENT
 A wastewater treatment process used to convert dissolved or suspended materials into a form more readily separated from wastewater. Usually follows primary sedimentation treatment and uses biological processes to convert wastes to solids that settle in secondary clarifiers. Also occurs in lagoon systems.
 
+***SECONDARY WASTE TREATMENT
+ Secondary treatment is part of the primary treatment in that the wastewater continues from the equalization tank and sludge holding zone where it loses the most solids. From the primary stages it passes to the aeration zone where it continues to be broken down and separated from any solids. After aeration the wastewater will pass to the clarifier and disinfection zones. Some plants will include a tertiary treatment that typically involves clorination or UV treatment.
+
+***SECONDARY WASTE TREATMENT
+ Processing by various types of systems that employ aeration and biological oxidation stages to decompose dissolved and colloidal organic contaminants (inorganic plant nutrients may also be partially removed).
+
 SEDIMENT
 Solid material settled from suspension in a liquid. 
 
@@ -1404,6 +2025,12 @@ The process of settling and depositing of suspended matter carried by wastewater
 
 ***SEDIMENTATION
 A process in which solid particles settle out of water.
+
+***SEDIMENTATION TANKS
+ Provide a period of quiescence during which suspended waste material settles to the bottom of the tank and is scraped into a hopper and pumped out for disposal. During this period, floatable solids (fats, oils) rise to the surface of te tank and are skimmed off into scum pipes for disposal.
+
+***SEDIMENTATION TANKS
+ Provide a period of quiescence during which suspended waste material settles to the bottom of the tank and is scraped into a hopper and pumped out for disposal. During this period, floatable solids (fats, oils) rise to the surface of the tank and are skimmed off into scum pipes for disposal.
 
 SELECT BACKFILL
 Material used in backfilling of an excavation, selected for desirable compaction or other characteristics. 
@@ -1420,11 +2047,20 @@ A condition that exists when there is no dissolved oxygen (see anaerobic). Anaer
 ***SEPTIC
 A condition produced by anaerobic bacteria. If severe, the wastewater produces hydrogen sulfide, turns black, gives off foul odors, contains little or no dissolved oxygen, and creates a high oxygen demand.
 
+SEQUENCING BATCH REACTORS
+ A biological treatment technology based on the activated sludge process. It is sometimes used in small municipalities and at food processing facilities who discharge directly to streams or rivers.
+
 SERVICE ROOT
 A root entering the sewer system in a service line and growing down the pipe and into the sewer main. 
 
 ***SEWAGE
 The used household water and water-carried solids that flow in sewers to a wastewater treatment plant. 
+
+***SEWAGE
+ Largely the water supply from a community after it has been fouled by various uses. From the standpoint of course, it may be a combination of the liquid or water-carried wastes from residences, business buildings, and institutions, together with those from industrial establishments, and with such ground water, surface water, and storm water as may be present.
+
+***SEWAGE
+ Largely the water supply of a community after it has been fouled by various uses. From the standpoint of course, it may be a combination of the liquid or water-carried wastes from residences, business buildings, and institutions, together with those from industrial establishments, and with such ground water, surface water, and storm water as may be present.
 
 ***SEWAGE
 The used waster and waster-carried solids from homes that flow in sewers to a wastewater treatment plant.  The preferred term is WASTEWATER.
@@ -1456,6 +2092,12 @@ System of piping with appurtenances for collecting, moving and treating wastewat
 SEWERAGE SYSTEM
 Any device, equipment or works used in the transportation, pumping, storage, treatment, recycling, and reclamation of Wastewater and Industrial Wastes. 
 
+***SEWERS
+ A system of pipes used for collecting domestic and industrial waste, as well as storm water run-off. Lateral sewers connect homes and industries to trunk sewers, which channel waste into interceptor sewers carry only domestic and industrial wastewater. Storm sewers carry only storm water run-off. Combined sewers carry both.
+
+***SEWERS
+ A system of pipes used for collecting domestic and industrial waste, as well as storm water run-off. Lateral sewers connect homes and industries to trunk sewers, which channel waste into interceptor sewers for delivery to sewage treatment plants. Sanitary sewers carry only domestic and industrial wastewater. Storm sewers carry only storm water run-off. Combined sewers carry both.
+
 SHORING
 Material such as boards, planks or plates, and jacks used to hold back soil around trenches and to protect workers in a trench from cave-ins. 
 
@@ -1465,8 +2107,17 @@ SHORT GATE
 SHORT PATTERN VALVE
  A valve whose face-to-face dimension is less than the API-6D standard.
 
+SILT DENSITY INDEX
+Measurement of silt, colloids, bacteria and other foulants of Reverse Osmosis (RO) membranes. SDI is used to help determine the suitability of water or other liquids for the RO process.
+
 SILTING
 Silting takes place when the pressure of infiltrating waters is great enough to carry silt, sand and other small particles from the soil into the sewer system. Where lower velocities are present in the sewer pipes, settling of these materials results in silting of the sewer system. 
+
+SILVER
+ A metal element regulated by wastewater discharge permits and common in metal finishing wastewater.
+
+SIPHON
+ Is a system of piping or tubing where the exit point is lower than the entry point.
 
 SLAB GATE
  A gate having flat, finely finished, parallel faces - as opposed to a wedge gate. Such a closure element slides across the seats and does not depend on stem force to achieve tight shut off.
@@ -1483,11 +2134,32 @@ A sewer rehabilitation technique accomplished by inserting flexible polyethylene
 SLOPE
 The slope or inclination of a sewer trench excavation is the ratio of the vertical distance to the horizontal distance or “rise over run.” The inclination of a trench bottom or a trench sidewall, expressed as a ratio of vertical distance to the horizontal distance. For example, a 3:1 slope shall rise or fall 3’ vertical feet in a distance of 1’ horizontal foot. 
 
-SLUDGE
+***SLUDGE
 The settleable solids separated from wastewater during treatment.
 
-SLUDGE DIGESTION
+***SLUDGE
+ The accumulated suspended solids of sewage deposited in tanks or basins.
+
+SLUDGE AGE
+ In the activated sludge process, a measure of the length of time a particle of suspended solids has been undergoing aeration, expressed in day. It is usually computed by dividing the weight of the suspended solids in the aeration tank by the weight of excess activated sludge discharged from the system per day.
+
+***SLUDGE DIGESTION
+The purpose of sludge digestion is to separate the liquid from the solids to facilitate drying. The proper pH range for digested sludge is 6.8 – 7.2.
+
+***SLUDGE DIGESTION
 The process of changing organic matter in sludge into a gas or liquid or a more stable solid form. These changes take place as microorganisms feed on sludge in anaerobic (more common) or aerobic digesters.
+
+SLUDGE INDEX
+ Properly called sludge volume index (SVI). It is the volume in millimeters occupied by 1 g of activated sludge after settling of the aerated liquid for 30 minutes.
+
+SLUDGE JUDGE
+A clear tubular device used to measure sludge depth in clarifiers or other tanks.
+
+SLUDGE REAERATION
+ The continuous aeration of sludge after initial aeration for the purpose of improving or maintaining its condition.
+
+SLURRY
+ Slurry is defined as a suspension of solids in a liquid. Typically, the liquid is water and the solids can be anything from soft materials such as sewage and food processing waste (potato skins, fish parts) to abrasive solids like sand, fly ash and coal. Keep in mind a typical centrifugal pump really can’t handle more than 3% solids by weight.
 
 SMOKE TEST
 A method of blowing smoke into a closed-off section of a sewer system to locate sources of surface inflow. 
@@ -1495,7 +2167,7 @@ A method of blowing smoke into a closed-off section of a sewer system to locate 
 SNAKE
 A stiff but flexible cable that is inserted into sewers to clear stoppages. 
 
-SOAP BUILDUP
+SOAP CAKE OR SOAP BUILDUP
 A combination of detergents and greases that accumulate in sewer systems, build up over a period of time, and may cause severe flow restrictions. 
 
 SOIL POLLUTION
@@ -1503,6 +2175,9 @@ The leakage (exfiltration) of raw wastewater into the soil or ground area around
 
 SOLENOID VALVE
  A small electrically operated valve used in the control piping of powered by hydraulic or pneumatic cylinder operators.
+
+SOLIDS HANDLING PUMP
+ Many types of pumps can be used for solids handling. The size and concentration of solids in the fluid will determine the best type of pump for the application. For sewage applications such as lift stations where the solids concentration does not exceed 3%, but the solids size can reach 3″ or 4″ a centrifugal pump is usually the best choice. For solids concentration above 3%, Air Operated Diaphragm, Progressive Cavity or even specialty centrifugal pumps, like Hydrostal Pumps, can be used.
 
 SOLUBLE BOD
 Soluble BOD is the BOD of water that has been filtered in the standard suspended solids test.
@@ -1513,8 +2188,20 @@ A liquid mixture of dissolved substances. In a solution it is impossible to see 
 SOUNDING ROD
 A T-shaped tool or shaft that is pushed or driven down through the soil to locate underground pipes and utility conduits. 
 
+SPECIFIC GRAVITY
+ The ratio of the density of a fluid to that of water at standard conditions
+
+SPECIFIC SPEED
+ A formula that describes the shape of a pump impeller. The higher the specific speed the less N.P.S.H. required.
+
 SPIGOT JOINT
 A form of joint used on pipes which have an enlarged diameter or bell at one end, and a spigot at the other which fits into and is laid in the bell. The joint is then made tight by lead, cement, rubber O-ring, or other jointing compounds or materials. 
+
+SPLIT CASE PUMP
+ The split case is almost synonymous with multi-stage and can be either horizontal or vertical. Used where high pressures are needed such as boiler feed.
+
+SPLITTER BOX
+ A division box that splits the incoming flow into two or more streams. A device for splitting and directing discharge from the head box to two separate points of application.
 
 SPOIL
 Excavated material such as soil from the trench of a sewer. 
@@ -1530,6 +2217,9 @@ SQUARE OPERATING NUT
 
 STABILIZATION
 The conversion of biodegradable materials into more stable solids. Stabilization is the primary function of wastewater lagoons and treatment plants. Lagoons are often called stabilization ponds.
+
+STAGE PUMP
+ The multi-stage pump is used for clean, clear liquids requiring significant discharge pressure. A multi-stage pump is nothing more than a standard centrifugal pump with the discharge of the initial volute discharging directly into the suction of the next volute. The numerous “volutes” are all internal to the pump and many times the volutes are hard to spot individually. The number of stages is dependent on the desired Total Discharge Head required by the application. These types of pump can be either horizontal or vertical configuration. Commonly used for boiler feed.
 
 STATION
 A point of reference or location in a pipeline is sometimes called a “station.” As an example, a building service is located 51 feet downstream from a manhole could be reported to be at “station 51.” 
@@ -1558,8 +2248,14 @@ A separate pipe, conduit or open channel (sewer) that carries runoff from storms
 ***STORM SEWER
 A separate pipe, conduit or open channel (sewer) that carries runoff from storms, surface drainage, and street wash, but does not include domestic and industrial wastes.
 
+STRAIN
+ The ratio between the absolute displacements of a reference point within a body to a characteristic length of the body.
+
 STRATIFICATION
 The formation of indistinct layers of slightly variable density of waters. Often caused by warming of the surface with an absence of mixing.
+
+STRESS
+ In this case refers to tangential stress or the force between the layers of fluid divided by the surface area between the layers.
 
 STRETCH
 Length of sewer from manhole to manhole. 240 
@@ -1567,14 +2263,32 @@ Length of sewer from manhole to manhole. 240
 STUFFING BOX
  The annular chamber provided around a valve stem in a sealing system into which deformable packing is introduced.
 
+SUBMERSIBLE
+ A submersible mixer is a mechanical device that is used to mix sludge tanks and other liquid volumes. Submersible mixers are often used in sewage treatment plants to keep solids in suspension in the various process tanks and/or sludge holding tanks. The submersible mixer is operated by an electric motor, which is coupled to the mixer’s propeller, either direct-coupled or via a planetary gear-reducer. The propeller rotates and creates liquid flow in the tank, which in turn keeps the solids in suspension. The submersible mixer is typically installed on a guide rail system, which enables the mixer to be retrieved for periodic inspection and preventive maintenance.
+
+SUBMERSIBLE PUMP
+ Just like it sounds, these guys operate within the fluid they are pumping. Submersible pumps can be either centrifugal or AOD type pumps. The centrifugal versions are common used in sewage lift stations, while the AODs are used in chemical transfers.
+
 SUCKER RODS
 Rigid, coupled sewer rods of metal or wood used for clearing stoppages. Usually available in 3-ft, 39-in, 4-ft, 5-ft and 6-ft lengths. 
 
-SUCTION HEAD
+***SUCTION HEAD
 The POSITIVE pressure (in feet or pounds per square inch (psi)) on the suction side of a pump. The pressure can be measured from the centerline of the pump UP TO the elevation of the hydraulic grade line on the suction side of the pump. 
 
-SUCTION LIFT
+***SUCTION HEAD
+ Condition that occurs when the liquid source is above the centerline of the pump.
+
+***SUCTION LIFT
 The NEGATIVE pressure (in feet or inches of mercury vacuum) on the suction side of the pump. The pressure can be measured from the centerline of the pump DOWN TO (lift) the elevation of the hydraulic grade line on the suction side of the pump. 
+
+***SUCTION LIFT
+ Condition that occurs when the liquid source is below the centerline of the pump.
+
+SUCTION STATIC HEAD
+ The difference in elevation between the liquid level of the source of supply and the centerline of the pump. This head also includes any additional head that may be present at the suction tank fluid surface.
+
+SUCTION STATIC LIFT
+ The same definition as the Suction Static head. This term is only used when the pump centerline is above the suction tank fluid surface.
 
 SUPERNATANT
 Liquid removed from settling sludge. Supernatant commonly refers to the liquid between the sludge on the bottom and the scum on the surface of an anaerobic digester. The liquid is usually returned to the influent wet well or to the primary clarifier.
@@ -1588,6 +2302,9 @@ A manhole in which the rate of the water entering is greater than the capacity o
 SURFACE LOADING
 Lagoon loading is rated organically in pounds of BOD per acre of surface area per day. Northern climates require lower loading rates than warmer areas, because cold weather slows down the stabilization processes of microorganisms. Treatment plants clarifiers are rated hydraulically in flow (gpd) per surface area (sq ft).
 
+SURFACTANT
+Compounds that lower the surface tension (or interfacial tension) between two liquids or between a liquid and a solid. Surfactants may act as detergents, wetting agents, emulsifiers, foaming agents, and dispersants.
+
 SUSPENDED SOLID
 Solids that either float on the surface or are suspended in water, wastewater, or other liquids, and which are largely removable by laboratory filtering.
 
@@ -1597,11 +2314,26 @@ Solids that either float on the surface or are suspended in water, wastewater, o
 ***SUSPENDED SOLIDS
 Solid material so finely divided or light in weight that it does not settle, but can be filtered in a lab test and weighed. Also referred to as Total Suspended Solids (TSS).
 
+***SUSPENDED SOLIDS
+ Solids physically suspended in sewage that can be removed by proper laboratory filtering.
+
 SWAB
 A circular sewer cleaning tool almost the same diameter as the pipe being cleaned. As a final cleaning procedure after a sewer line has been cleaned with a porcupine, a swab is pulled through the sewer and the flushing action of water flowing around the tool cleans the line. 
 
 SWING CHECK VALVE
  A check valve in which the closure element is a hinged clapper which swings or rotates about a supporting shaft.
+
+SYSTEM
+ Systems, as far as pumps are concerned, include all the piping with or without a pump, starting at the inlet point (often the fluid surface of the suction tank) and ending at the outlet point (often the fluid surface of the discharge tank).
+
+SYSTEM CURVE
+ Is a plot of flow vs. Total Head that satisfies the system requirements.
+
+SYSTEM EQUATION
+ The equation for Total Head vs. flow for a specific system.
+
+SYSTEM REQUIREMENTS
+ Friction and system inlet and outlet conditions (i.e. velocity, elevation and pressure).
 
 TAG LINE
 A line, rope or cable that follows equipment through a sewer so that equipment can be pulled back out if it encounters an obstruction or becomes stuck. Equipment is pulled forward with a pull line. 
@@ -1611,6 +2343,12 @@ A small hole in a sewer where a wastewater service line from a building is conne
 
 TELEVISION INSPECTION
 An inspection of the inside of a sewer pipe made by pulling a closed-circuit television camera through the pipe. 
+
+***TERTIARY WASTE TREATMENT
+ Following secondary treatment, the clarified effluent may require additional aeration and/or other chemical treatment to destroy bacteria remaining from the secondary treating stage, and to increase the content of dissolved oxygen needed for oxidation of the residual BOD. Tertiary treatment can also be used to remove nitrogen and phosphorous. This is done with clorination and often times UV treatment.
+
+***TERTIARY WASTE TREATMENT
+ Following secondary treatment, the clarified effluent may require additional aeration and/or other chemical treatment to destroy bacteria remaining from the secondary treating stage, and to increase the content of dissolved oxygen needed for oxidation of the residual BOD. Tertiary treatment can also be used to remove nitrogen and phosphorous.
 
 THROTTLING
  The intentional restriction of flow by partially closing or opening a valve. A wide range of throttling is accomplished automatically in regulators and control valves.
@@ -1630,17 +2368,50 @@ TORQUE SWITCH
 TORSIONAL SPRING
  A coiled spring which exerts a force by twisting about its axis rather than by compression or elongation. The spring in a check valve slam retarder which is restrained at one end and fastened tot he clappershaft on the other end. As the clapper opens, the spring resists the motion creating a closing force. During a rapid decrease in flow rate, the clapper is urged toward the closed position and is virtually closed just prior to the instant of actual flow reversal - thus slamming is avoided.
 
+TOTAL DISSOLVED SOLIDS
+ Total dissolved solids are inorganic molecules of metals, minerals or salts present in water at such a small size that you can’t see them. Because of their very small size, they can be difficult to remove with any technology other than fine membrane filtration technologies such as Reverse Osmosis (RO).
+
+TOTAL DYNAMIC HEAD
+ The amount of head produced by the pump. Calculated by summing the static head, friction head, pressure head, and velocity head.
+
+TOTAL KJELDAHL NITROGEN
+A pollutant found in domestic sewage that is typically a surcharge parameter for industries.
+
+TOTAL ORGANIC CARBON
+ A direct measurement of how much organic matter is in wastewater.
+
+TOTAL SOLIDS
+ The total amount of solids in solution and suspension.
+
+TOTAL STATIC HEAD
+ The difference between the discharge and suction static head including the difference between the surface pressure of the discharge and suction tanks.
+
+TOTAL SUSPENDED SOLIDS
+ Visible solids present in wastewater that can be filtered out through traditional physical treatment technologies. In the metal finishing industry, for example, FOG (fats, oils and grease) and dirt particles might make up part of the total suspended solids.
+
+TOTAL TOXIC ORGANICS
+ A wastewater parameter that refers to the entire amount of toxic organic compounds present.   EPA has developed a specific list of chemicals that are defined as toxic organic compounds.
+
 ***TOXIC
 A substance that is poisonous to an organism.
 
 ***TOXIC
 A substance which is poisonous to a living organism.
 
+TOXIC ORGANIC MANAGEMENT PLAN
+ A spill plan federally required for specific industries, including metal finishing. It outlines what specific toxic organic compounds are used and how they are disposed in a manner that prevents discharge to the sewer system.
+
 TOXICITY
 The relative degree of being poisonous or toxic. A condition which may exist in wastes and will inhibit or destroy the growth or function of certain organisms.
 
 TRANSPIRATION
 See Evapotranspiration.
+
+***TRICKLING FILTER
+ An aerobic biological process used as secondary treatment of sewage. Effluent from the primary clarifier is distributed over a bed of rocks. As the liquid trickles over the rocks, a biological growth on the rocks breaks down the organic matter in the sewage. The effluent is then taken to a clarifier to remove biological matter coming from the filter.
+
+***TRICKLING FILTER
+ An aerobic biological wastewater treatment process used as secondary treatment of sewage. Effluent from the primary clarifier is distributed over a bed of rocks. As the liquid trickles over the rocks, a biological growth on the rocks breaks down the organic matter in the sewage. The effluent is then taken to a clarifier to remove biological matter coming from the filter.
 
 TRIM
  Commonly refers to the valve's working parts and to their materials. Usually includes seat ring sealing surfaces, closure element sealing surfaces, stems, and back seats. Trim numbers which specifythe materials are defined in API 600 and API 602.
@@ -1654,11 +2425,29 @@ Abbreviation for TOTAL SUSPENDED SOLIDS, a test measuring the amount of filterab
 TURBID
 Having a cloudy or muddy appearance.
 
-TURBIDITY
+***TURBIDITY
 The cloudy appearance of water caused by the presence of suspended and colloidal matter. A turbidity measurement is used to indicate the clarity of water.
+
+***TURBIDITY
+ Any finely divided, insoluble impurities that mark the clarity of the water.
+
+***TURBIDITY
+ Any finely divided, insoluble impurities that mar the clarity of the water.
+
+TURBULENT
+ A type of flow regime characterized by the rapid movement of fluid particles in many directions as well as the general direction of the overall fluid flow.
 
 TURNS TO OPERATE
  The number of complete revolutions of a handwheel or the pinion shaft of a gear operator required to stroke a valve from fully open to fully closed or vice versa.
+
+ULTRA FILTRATION
+ Type of membrane filtration that separates suspended solids and solutes of high molecular from a liquid and low molecular weight solutes. The ultra filtration separation process is used in industry processes, water treatment and research for purifying and concentrating macromolecular solutions.
+
+ULTRAFILTRATION
+ A type of membrane filtration that’s similar to reverse osmosis, but not as restrictive. It will not remove the smallest dissolved solids from water (for example salt) unless they can be chemically treated first.
+
+ULTRAVIOLET
+ In some industries, ultraviolet light is used to sterilize water treated wastewater prior to reuse or recycling. UV light keeps algae and other bacteria from growing in the recycled wastewater.
 
 UNION BONNET
  A type of valve construction in which the bonnet is held on by a union nut with threads on the body.
@@ -1669,17 +2458,38 @@ Ultraviolet light. UV is useful as a method of disinfection. It leaves no residu
 VALVE
  A device used to control the flow of fluid contained in a pipe line.
 
+VAPOR PRESSURE
+ The pressure at which a liquid boils at a specified temperature.
+
+VARIABLE FREQUENCY DRIVE
+ A variable-frequency drive (VFD) is a system for controlling the rotational speed of an alternating current (AC) electric motor by controlling the frequency of the electrical power supplied to the motor. A variable frequency drive is a specific type of adjustable-speed drive. Variable-frequency drives are also known as adjustable-frequency drives (AFD), variable-speed drives (VSD), AC drives, micro drives or inverter drives. Since the voltage is varied along with frequency, these are sometimes also called VVVF (variable voltage variable frequency) drives. Variable-frequency drives are widely used. For example, in water booster stations, pump speed is controlled by the VFD based on system demand.
+
 VARIABLE ORIFICE
  A small variable profile valve put in a flow line and used with a pilot to restrict the flow into the pilot and make the pilot more or less sensitive to changing conditions.
 
 VDS
 VALVE DATA SHEET:  A data sheet defining the minimum level of a valve design, including the materials, testing, inspection, and certification requirements.
 
+VELOCITY HEAD DIFFERENCE
+ The difference in velocity head between the outlet and inlet of the system.
+
 VENT PLUG
 (VENT PLUG ASSEMBLY) - (SAFETY VENT PLUG):  A special pipe plug having a small allen-wrench operated vent valve. These special plugs are located at the bottom of most ball valves. With the line valve closed (and under pressure) the body cavity pressurecan be vented thru this small valve to check tightness of seat seals or to make minor repairs. Having vented the body pressure, the vent plug may be removed to blow out debris and foreign material or to flush the body cavity. On some gate valves, the vent plug is installed on the bonnet for the sole purpose of venting the body. Such valves have separate drain valves.
 
 VENTURI VALVE
  A reduced bore valve. A valve having a bore smaller in diameter than the inlet or outlet. For example, an 8"x 6" x 8" ball valve has 8" inlet and outlet connections while the ball and seats are 6". The flow through a venture valve will be reduced because of the smaller port. Venturi valves can often be economically substituted for plug valves.
+
+VERTICAL
+ This style of mixer uses an extended shaft between the motor and mixing blade such that the motor is above and out of the liquid. These also incorporate a gear reducer to slow the speed of the mixing blades to achieve the desired mixing/tank turnover rate. Vertical mixers are often used in reactor vessels to ensure thorough chemical reactions or to mix different ingredients together in food/beverage applications.
+
+VERTICAL TURBINE PUMP
+ A vertical turbine pump is a centrifugal type pump, often with multiple stages, where the motor is set at ground level and connect via shaft to the pump below. Used as well pumps for irrigation, they can also pump from rivers, lakes and other bodies of water.
+
+VISCOSITY
+ A property, which measures a fluid’s resistance to movement. The resistance is caused by friction between the fluid and the boundary wall and internally by the fluid layers moving at different velocities.
+
+VOLATILE ORGANIC COMPOUNDS
+ In wastewater, VOCs typically show up as cleaning solvents. These chemicals can kill the microbes in POTWs (publicly owned treatment work) if they are discharged in large quantities, so they are carefully regulated. They’re challenging to treat because they dissolve in water.
 
 VOLATILE SOLIDS
 Those solids in water, wastewater, or other liquids that are lost on ignition of the dry solids at 550oC.
@@ -1690,20 +2500,41 @@ VISIBLE POSITION INDICATOR):  A position indicating rod supplied with gate valve
 WALL THICKNES
  The thickness of the wall of the pressure vessel or valve. For steel valves, minimum thickness requirements are defined in ASME B16.34, API 600, and API 602.
 
+WASTE ACTIVATED SLUDGE
+ That portion of sludge from the secondary clarifier in the activated sludge process that is wasted to avoid a buildup of solids in the system.
+
+WASTE TREATMENT SLUDGE
+ A series of tanks, screens, filters, and other processes by which most pollutants are removed from water.
+
+***WASTEWATER
+ Domestic wastewater is 99.9% water and 0.1% solids. Fresh wastewater is usually slightly alkaline. If the pH of the raw wastewater is 8.0, it indicates that the sample is alkaline. If wastewater has a pH value of 6.5, it means that it is acid. Wastewater is said to be septic when it is undergoing decomposition.
+
 ***WASTEWATER
 The used water and solids from a community that flow to a treatment plant. Storm water, surface water, and groundwater infiltration also may be included in the wastewater that enters a wastewater treatment plant. The term “sewage” usually refers to household wastes, but this word is being replaced by the term “wastewater.
 
 ***WASTEWATER
 The used water and solids from a community that flow to a treatment plant. Storm water, surface water, and groundwater infiltration also may be included in the wastewater that enters a wastewater treatment plant. The term “sewage” usually refers to household wastes, but this word is being replaced by the term “wastewater.”
 
+WASTEWATER TREATMENT PLANT
+ A city, municipal or industrial facility that’s treating wastewater.
+
 WATER HAMMER
  The physical effect, often accompanied by loud banging, produced by pressure waves generated within the piping by rapid change of velocity in a liquid system.
+
+***WATER POLLUTION
+A general term signifying the introduction into water of micro-organisms, chemicals, wastes, or sewage which renders the water unfit for it’s intended use.
+
+***WATER POLLUTION
+ A general term signifying the introduction into water of micro-organisms, chemicals, wastes, or sewage which renders the water unfit for its intended use.
 
 WATER QUALITY ACT
 Montana's primary water pollution control legislation that parallels the federal CLEAN WATER ACT. It establishes the public policy for Montana to: 1) conserve water resources by protecting, maintaining and improving water quality for all its beneficial uses, and 2) provides a comprehensive program for the prevention, abatement and control of water pollution.
 
 WATER SYSTEM
 Means a public water system that is not a community water system and that regularly serves at least 25 of the same persons over six months per year, including schools, day care centers, factories, restaurants and hospitals. 232 
+
+WATER TREATMENT FACILITY
+ A city or municipal water treatment facility that’s treating water you drink or use in an industrial process.
 
 WEDGE GATE
  A gate whose seating surfaces are inclined to the direction of closing thrust so that mechanical force on the stem produces tight contact with the inclined seat rings.
@@ -1714,17 +2545,35 @@ WEDGE GATE
 ***WEIR
  A wall or plate placed in an open channel and used to measure the flow of water. The depth of the flow over the weir can be used to calculate the flow rate, or a chart or conversion table may be used.  Weir can also be a wall or obstruction used to control flow (from settling tanks and clarifiers) to ensure uniform flow rate and avoid short-circuiting.
 
+WELL PUMP
+ Well pumps are a centrifugal, submersible type of pump used for bringing underground water up to the surface for domestic use. They can consist of one or several “stages” depending on the well depth and desired discharge pressure. Electrically powered the motor is typically on the bottom of the pump with the suction in the middle and the water is pumped upwards through the impeller(s) and upwards toward the surface.
+
 WET OXIDATION
 A method of treating or conditioning sludge before the water is removed. Compressed air is blown into the sludge; the air and sludge mixture is fed into a pressure vessel where the organic material is stabilized.
 
 WET WELL
 A compartment or tank in which wastewater is collected. The suction pipe of a pump may be connected to the wet well or a submersible pump may be located in the wet well.
 
+***WETTED PARTS
+ A term used any part of a pump, or other type of liquid handling equipment, that doesn’t come into direct contact with the process fluid.
+
+***WETTED PARTS
+ A term used for any part that comes into contact with the process fluid. These parts must be checked for chemical compatibility with the process fluid.
+
+WHICH IS EXPRESSED AS
+dry cake solids discharge rate = (dry solids feed rate) x (solids recovery). 
+
+WORK
+ The energy required to drive the fluid through the system.  A measure of a liquid’s resistance to flow. Essentially it’s a how thick the liquid is. The viscosity determines the type of pump used, the speed it can run at, and with gear pumps, the internal clearances required.
+
 WRENCH OPERATED
  The operation of a valve by means of a handle or lever. Used on smaller size and lower pressure class valves.
 
 YOKE
  That part of a gate valve which serves as a spacer between the bonnet and the operator or actuator.
+
+ZINC
+ A heavy metal commonly regulated by wastewater permits. It is widely present in all industries and can be difficult to treat to low levels through typical physical/chemical treatment technologies.  It is very important to determine the sources of zinc in process wastewater in order to adequately control discharge levels.  Other heavy metals include: Arsenic (As), Cadmium (Cd), Chromium(Cr), Copper (Cu), Lead (Pb), and Nickel (Ni).
 
 ZOOGLEAL MASS
 Jelly like masses of bacteria found in both the trickling filter and activated sludge processes. See also Biomass.

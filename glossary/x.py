@@ -9,10 +9,10 @@ import re
 # 4. convert structured data back to human readable form 
 
 # put into structured data form
-with open('glossary.txt') as f:
+with open('glossary.txt', encoding="utf8") as f:
     lines = f.read()
 
-r = re.compile(r"\ ?([A-Z\ ]+)((\ -\ )|(:\ ))(.*)\n")
+r = re.compile(r"\ ?([A-Za-z\ ]+)((\ -\ )|(:\ ))(.*)\n")
 
 entries = r.finditer(lines)
 
@@ -20,7 +20,7 @@ xs = []
 
 for e in entries:
     xs.append({
-        "term": e.group(1),
+        "term": e.group(1).upper(),
         "definition": e.group(5)
     })
 
@@ -30,7 +30,7 @@ def s(x):
 # sort alphabetically
 xs.sort(key=s)
 
-f = open("output.txt", "w")
+f = open("output.txt", "w", encoding="utf8")
 
 # write output file at the same time as handling duplicates
 for i in range(len(xs)):
