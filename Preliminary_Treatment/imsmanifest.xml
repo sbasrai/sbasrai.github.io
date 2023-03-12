@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5VOlsYmzhAW" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_5UwuTSiMFEQ" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Preliminary_Treatment</langstring>
+          <langstring xml:lang="x-none">Preliminary Treatment</langstring>
         </title>
       </general>
       <lifecycle>
@@ -52,14 +52,14 @@
   </metadata>
   <organizations default="Preliminary_Treatment_ORG">
     <organization identifier="Preliminary_Treatment_ORG">
-      <title>Preliminary_Treatment</title>
-      <item identifier="Preliminary_Treatment_SCO" isvisible="true" identifierref="__5VOlsYmzhAW_RES">
-        <title>Preliminary_Treatment</title>
+      <title>Preliminary Treatment</title>
+      <item identifier="Preliminary_Treatment_SCO" isvisible="true" identifierref="__5UwuTSiMFEQ_RES">
+        <title>Preliminary Treatment</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5VOlsYmzhAW_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5UwuTSiMFEQ_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6aulCUVDFsh.png" />
       <file href="mobile/5sfIc3pnc3k.png" />
@@ -88,6 +88,7 @@
       <file href="mobile/6pL9vSCxKDi.png" />
       <file href="mobile/5fgUtOQbCSa.png" />
       <file href="meta.xml" />
+      <file href="mobile/63tlRXqTKwb.png" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5atnkfChS65.js" />

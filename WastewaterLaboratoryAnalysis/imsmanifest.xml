@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5wItwnwiSj7" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Wastewater Laboratory Analysis</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Wastewater_Laboratory_Analysis_ORG">
+    <organization identifier="Wastewater_Laboratory_Analysis_ORG">
+      <title>Wastewater Laboratory Analysis</title>
+      <item identifier="Wastewater_Laboratory_Analysis_SCO" isvisible="true" identifierref="__5wItwnwiSj7_RES">
+        <title>Wastewater Laboratory Analysis</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5wItwnwiSj7_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6aulCUVDFsh.png" />
+      <file href="mobile/5sfIc3pnc3k.png" />
+      <file href="mobile/5cUkGqvQ0oh.png" />
+      <file href="story_content/5uUClD0BjTr.js" />
+      <file href="mobile/5qTWzuYOqSF.png" />
+      <file href="mobile/5tC34fv2JCM.png" />
+      <file href="mobile/6erHZh2LpaD.png" />
+      <file href="mobile/6i1okcIRfCt.png" />
+      <file href="meta.xml" />
+      <file href="mobile/6Exk9yb9SJg.png" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aSrWxHKy5M.js" />
+      <file href="html5/data/js/5sG7Mlzsy4n.js" />
+      <file href="html5/data/js/5vb4PpCK7KW.js" />
+      <file href="html5/data/js/5yeXq03i5pY.js" />
+      <file href="html5/data/js/6160TtxQWIB.js" />
+      <file href="html5/data/js/6CFuBuWs0jK.js" />
+      <file href="html5/data/js/6cJ1ccqsEYX.js" />
+      <file href="html5/data/js/6ddOz8a8IPh.js" />
+      <file href="html5/data/js/6esowbVk9Lb.js" />
+      <file href="html5/data/js/6gsaUbgjDXp.js" />
+      <file href="html5/data/js/6R4JDO8fe01.js" />
+      <file href="html5/data/js/6XHVGAVmtVT.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

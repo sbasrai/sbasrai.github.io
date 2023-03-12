@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5bAmZfhgjLG" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Introductiontowastewatertreatment</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Introductiontowastewatertreatment_ORG">
+    <organization identifier="Introductiontowastewatertreatment_ORG">
+      <title>Introductiontowastewatertreatment</title>
+      <item identifier="Introductiontowastewatertreatment_SCO" isvisible="true" identifierref="__5bAmZfhgjLG_RES">
+        <title>Introductiontowastewatertreatment</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5bAmZfhgjLG_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6aulCUVDFsh.png" />
+      <file href="mobile/5sfIc3pnc3k.png" />
+      <file href="mobile/5cUkGqvQ0oh.png" />
+      <file href="story_content/5uUClD0BjTr.js" />
+      <file href="mobile/5qTWzuYOqSF.png" />
+      <file href="mobile/5tC34fv2JCM.png" />
+      <file href="mobile/6erHZh2LpaD.png" />
+      <file href="mobile/5cUB7sHhO3h.png" />
+      <file href="mobile/63gw9VKdGei.png" />
+      <file href="mobile/6IouZHHW76H.png" />
+      <file href="mobile/6CFIYIT9gLK.png" />
+      <file href="mobile/6LltMD4aang.png" />
+      <file href="mobile/6UsDEhZit3U.png" />
+      <file href="mobile/68dIKxi5DCS.png" />
+      <file href="mobile/6K4TpOJ5RJy.png" />
+      <file href="mobile/6LjFeHuiexw.png" />
+      <file href="mobile/5iYmdWMDQLD.png" />
+      <file href="mobile/6YnAm1qSG0d.png" />
+      <file href="mobile/66LpngYHnsU.png" />
+      <file href="meta.xml" />
+      <file href="mobile/5bm2FG99Hdy.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_60oBTfgv5Vy.png" />
+      <file href="mobile/txt__default_60Er0iVPskU.png" />
+      <file href="mobile/txt__default_6GQUoNZDYzJ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gxOhvLvqMF.js" />
+      <file href="html5/data/js/5lCJYIL6KaW.js" />
+      <file href="html5/data/js/5sG7Mlzsy4n.js" />
+      <file href="html5/data/js/6694kOYdT3q.js" />
+      <file href="html5/data/js/6bXvK7OwEDz.js" />
+      <file href="html5/data/js/6c9UOr9Nev3.js" />
+      <file href="html5/data/js/6CscaHuJshk.js" />
+      <file href="html5/data/js/6Fimvi1tFpq.js" />
+      <file href="html5/data/js/6hEC5uUIHyT.js" />
+      <file href="html5/data/js/6kvqwTX6gRS.js" />
+      <file href="html5/data/js/6L35dMZ8bHY.js" />
+      <file href="html5/data/js/6LW7B6ObAES.js" />
+      <file href="html5/data/js/6q8NMqqiBM8.js" />
+      <file href="html5/data/js/6TbAiqgCEnR.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
