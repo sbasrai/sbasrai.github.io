@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Water Properties &amp; Sources</langstring>
+          <langstring xml:lang="x-none">Water_Properties_Sources</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Water_Properties_&amp;_Sources_ORG">
-    <organization identifier="Water_Properties_&amp;_Sources_ORG">
-      <title>Water Properties &amp; Sources</title>
+  <organizations default="Water_Properties_Sources_ORG">
+    <organization identifier="Water_Properties_Sources_ORG">
+      <title>Water_Properties_Sources</title>
       <item identifier="Stabilization_Ponds_SCO" isvisible="true" identifierref="__5yjftoC0SUY_RES">
-        <title>Water Properties &amp; Sources</title>
+        <title>Water_Properties_Sources</title>
       </item>
     </organization>
   </organizations>
@@ -92,7 +92,7 @@
       <file href="mobile/5elyIye1m7e.png" />
       <file href="mobile/6FKce7Zi9lL.png" />
       <file href="meta.xml" />
-      <file href="mobile/5XDpd98pQZE.png" />
+      <file href="mobile/6JgdQkJnv3W.png" />
       <file href="story_content/user.js" />
       <file href="mobile/txt__default_6oY627HuIwB.png" />
       <file href="mobile/txt__default_6ppRVIovZyl.png" />
