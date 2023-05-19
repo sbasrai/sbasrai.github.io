@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001100001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns01001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns01001100001" font="Lato" controllayout="npnxnanbsnfns01001100001" colorscheme="npnxnanbnsnfns01001100001" string_table="npnxnanbnsnfns01001100001" />
-    <layout name="pxabnsnfns01001100001" font="Lato" controllayout="pxabnsnfns01001100001" colorscheme="npnxnanbnsnfns01001100001" string_table="npnxnanbnsnfns01001100001" />
-    <layout name="npxnabnsnfns01001100001" font="Lato" controllayout="npxnabnsnfns01001100001" colorscheme="npnxnanbnsnfns01001100001" string_table="npnxnanbnsnfns01001100001" />
-    <layout name="npnxnanbnsnfns01001100001" font="Lato" controllayout="npnxnanbnsnfns01001100001" colorscheme="npnxnanbnsnfns01001100001" string_table="npnxnanbnsnfns01001100001" />
-    <layout name="pxabnsnfns01001100000" font="Lato" controllayout="pxabnsnfns01001100000" colorscheme="npnxnanbnsnfns01001100001" string_table="npnxnanbnsnfns01001100001" />
+    <layout name="npnxnanbsnfns01001100101" font="Lato" controllayout="npnxnanbsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
+    <layout name="pxabnsnfns01001100101" font="Lato" controllayout="pxabnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
+    <layout name="npxnabnsnfns01001100101" font="Lato" controllayout="npxnabnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
+    <layout name="npnxnanbnsnfns01001100101" font="Lato" controllayout="npnxnanbnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
+    <layout name="pxabnsnfns01001100100" font="Lato" controllayout="pxabnsnfns01001100100" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6JgdQkJnv3W.png" />
+              <option name="html5_logo_url" value="mobile/5XtFbcSJkq1.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -61,7 +61,7 @@
       </optiongroup>
       <optiongroup name="controls">
         <options>
-          <option name="volume" value="false" />
+          <option name="volume" value="true" />
           <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
@@ -71,13 +71,13 @@
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="false">
+          <option name="closed_captions" value="true">
             <options>
               <option name="font" value="Lato" />
             </options>
           </option>
           <option name="settings" value="true" />
-          <option name="fullScreenToggle" value="true" />
+          <option name="fullScreenToggle" value="false" />
           <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
@@ -96,8 +96,8 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns01001100001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbsnfns01001100101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -106,7 +106,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -120,8 +120,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns01001100001">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns01001100101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -130,7 +130,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -144,8 +144,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns01001100001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npxnabnsnfns01001100101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -154,7 +154,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -168,8 +168,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns01001100001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbnsnfns01001100101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -178,7 +178,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -192,8 +192,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns01001100000">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns01001100100">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -202,7 +202,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -218,7 +218,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns01001100001">
+    <colorscheme name="pxabnsnfns01001100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1395,7 +1395,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns01001100001">
+    <string_table name="pxabnsnfns01001100101">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1558,31 +1558,53 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6j0FiOBUdUJ" displaytext="Water Properties and Sources" expand="true" type="slide">
+        <slidelink slideid="_player.6j0FiOBUdUJ" displaytext="Water Quality &amp;amp; Laboratory Analysis" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6j0FiOBUdUJ.5sG7Mlzsy4n" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5gpn70F1SnY" displaytext="Why Water is So Vital" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5je2XHBdHNq" displaytext="Are We Running Out of Water?" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6RsYgKOfQpm" displaytext="Water Cycle" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5sfCrjRY0k1" displaytext="Where is the Earths Water Stored?" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6Ko9zl2iQU9" displaytext="Water Use" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.64KcpPC9x2S" displaytext="Water Use Cycle" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6ZdqhBnvEvb" displaytext="Source Water" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6FNCz2Q2Eau" displaytext="Southern California Water Supply" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5iO7CMj7JCW" displaytext="Southern California Water Supply" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5Y4l7XVundi" displaytext="Groundwater" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6phta9YYo6h" displaytext="Aquifer Types" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6SPyS3L6tTE" displaytext="Aquifer Related Terms" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5opfC2aKTWq" displaytext="Wells" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6Lst5GWBz2q" displaytext="Well System" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5sKRwphs7fb" displaytext="Well Construction" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5uFCY0ZqqYH" displaytext="Surface Waters" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5m6rbUfAcpj" displaytext="Source Waters - Advantages and Disadvantages" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6eROy6XYb7V" displaytext="Lake Stratification" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.64tcbeYOnBa" displaytext="Factors Affecting Water Quality" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.5nn4pT9pIRR" displaytext="Factors Affecting Water Quality" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6ZfuJmK2qRY" displaytext="Source Water Pollution" expand="false" type="slide" />
-            <slidelink slideid="_player.6j0FiOBUdUJ.6gE5wQ0Mqcn" displaytext="Well Hydraulics Math" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5ptvRR8yQ1o" displaytext="Aesthetic Quality Tests" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6PoJ5lvNwLT" displaytext="Taste &amp;amp; Odor" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5pEZQ3QT4de" displaytext="Turbidity" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6LEHPHNXJAo" displaytext="Color" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5qzJ0GE1BFc" displaytext="Hardness" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6c4RMUKlXVr" displaytext="Temperature" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6gdh4TD5xUc" displaytext="Alkalinity" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5VcwdMjw8xN" displaytext="Alkalinity" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5zmNjR4oBFI" displaytext="Alkalinity" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6bM7CAd8aAs" displaytext="Correlation of Alkalinity &amp;amp; Hardness" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6dpfpJKMOUF" displaytext="Iron &amp;amp; Manganese" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5auemCqsDml" displaytext="pH" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6mTZ4aLyvcI" displaytext="pH Scale" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5kM3Ay8qZk4" displaytext="Total Dissolved Solids" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5xqwNa6Nvv5" displaytext="Chlorine Residual" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6FEGW3De0J0" displaytext="Free Chlorine Residual" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6DzTUlxSw7k" displaytext="Free Chlorine Residual" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6eYv7VOTttw" displaytext="Total Chlorine Residual" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6EWFMG2mmor" displaytext="Langeleir Index" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.61be0yNb9dZ" displaytext="Diseases Spread Through Drinking Water" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6iCPPzSVqAF" displaytext="Drinking Water Bacteriological Testing" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6UfGJwnye5q" displaytext="Multiple Tube Fermentation (MTF)" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5ds8bLXXFSh" displaytext="Multiple Tube Fermentation (MTF)" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5tWjEoNh2ub" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6O5EkW2Fu8p" displaytext="MTF - Confirmed Test" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5bx1CQMKsHP" displaytext="MTF - Completed Test" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6TI3kMCQ4nW" displaytext="Radionuclides" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6E0grKu6EWt" displaytext="Radionuclides" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6Luzae0QlII" displaytext="Nutrients" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6phht6qp13u" displaytext="Nutrients" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6onTFuq9WF7" displaytext="Organics" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6qBHbIysi9X" displaytext="Organics" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6b9Z8EAFIUC" displaytext="Sampling &amp;amp; Testing" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6SzkRK5McNY" displaytext="Water Sampling Locations" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.62IW6XNDgkG" displaytext="Density and Specific Gravity" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6fz34bjqtGm" displaytext="Sampling Precautions" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5yVOYjyMOZh" displaytext="Chain of Custody" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6b3VhdZlMZd" displaytext="Sampling Method Types" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.67WQwgPPFTU" displaytext="Which Sampling Method and How?" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6lWGLQ6GtOS" displaytext="Guidelines for    Representative Sampling" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.64PrEnpsGWm" displaytext="Grab Samples" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6MrWd0otTJp" displaytext="Composite Samples" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.6Jt8nUkWiOP" displaytext="How to Composite" expand="false" type="slide" />
+            <slidelink slideid="_player.6j0FiOBUdUJ.5YwgPfUzucJ" displaytext="Composite Samples" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
