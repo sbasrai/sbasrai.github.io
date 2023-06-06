@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6D5p2nODehj" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">WaterDisinfection</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="WaterDisinfection_ORG">
+    <organization identifier="WaterDisinfection_ORG">
+      <title>WaterDisinfection</title>
+      <item identifier="Stabilization_Ponds_SCO" isvisible="true" identifierref="__6D5p2nODehj_RES">
+        <title>WaterDisinfection</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6D5p2nODehj_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6aulCUVDFsh.png" />
+      <file href="mobile/5sfIc3pnc3k.png" />
+      <file href="mobile/5cUkGqvQ0oh.png" />
+      <file href="story_content/5uUClD0BjTr.js" />
+      <file href="mobile/5qTWzuYOqSF.png" />
+      <file href="mobile/5tC34fv2JCM.png" />
+      <file href="mobile/6erHZh2LpaD.png" />
+      <file href="mobile/6gJxuiMffbr.png" />
+      <file href="mobile/6ZQXLs10pcg.png" />
+      <file href="mobile/6D3kr6XoTfL.png" />
+      <file href="mobile/6aR1l6WF0Lq_P_0_0_2016_967.png" />
+      <file href="mobile/5kALimk6wmV_P_0_0_2048_693.png" />
+      <file href="mobile/6QXpUrDTKTj.png" />
+      <file href="mobile/6Lq2eB9GOhU.png" />
+      <file href="meta.xml" />
+      <file href="mobile/6CfSAI2UOrb.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5mVRSkh4jR3.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cdHWk40wzm.js" />
+      <file href="html5/data/js/5cgUD7Bl3bp.js" />
+      <file href="html5/data/js/5d6d8geuzyj.js" />
+      <file href="html5/data/js/5eUz2obGzOM.js" />
+      <file href="html5/data/js/5f5hDaLREgB.js" />
+      <file href="html5/data/js/5hn6JaxrnCh.js" />
+      <file href="html5/data/js/5kccLJkq6WF.js" />
+      <file href="html5/data/js/5mOHYzP6ZKx.js" />
+      <file href="html5/data/js/5sCc70tAtXr.js" />
+      <file href="html5/data/js/5sG7Mlzsy4n.js" />
+      <file href="html5/data/js/5trCnaV5EQ2.js" />
+      <file href="html5/data/js/5uOjgwKxeRw.js" />
+      <file href="html5/data/js/5V9NDdSyIjX.js" />
+      <file href="html5/data/js/5WIx2UVtIEG.js" />
+      <file href="html5/data/js/5Wjl02DVKWm.js" />
+      <file href="html5/data/js/5xjvi3YwqqU.js" />
+      <file href="html5/data/js/61wkhuheWIm.js" />
+      <file href="html5/data/js/62b0L0Dqb3T.js" />
+      <file href="html5/data/js/69LL8Mz15rS.js" />
+      <file href="html5/data/js/6aabxxVN8zM.js" />
+      <file href="html5/data/js/6aCOl4aOp5j.js" />
+      <file href="html5/data/js/6c9xNHoI8Mr.js" />
+      <file href="html5/data/js/6CnlZhrQ8m3.js" />
+      <file href="html5/data/js/6cutHdItwor.js" />
+      <file href="html5/data/js/6e5xSuMkVbZ.js" />
+      <file href="html5/data/js/6ErD4HmJEEG.js" />
+      <file href="html5/data/js/6es3OSp3svj.js" />
+      <file href="html5/data/js/6gIWBNa5r7c.js" />
+      <file href="html5/data/js/6gSIkAovKv2.js" />
+      <file href="html5/data/js/6gW6BMd58EE.js" />
+      <file href="html5/data/js/6GxOGiYRFgd.js" />
+      <file href="html5/data/js/6Hlv8FA0PaR.js" />
+      <file href="html5/data/js/6HNFeU7Q1M3.js" />
+      <file href="html5/data/js/6hX5iU5Akjh.js" />
+      <file href="html5/data/js/6JKSCoJ6RT7.js" />
+      <file href="html5/data/js/6JmCSFotE5o.js" />
+      <file href="html5/data/js/6jVSq3bWFmU.js" />
+      <file href="html5/data/js/6M1CZL6kjky.js" />
+      <file href="html5/data/js/6m5guMfkH5c.js" />
+      <file href="html5/data/js/6mNUrJWmuo6.js" />
+      <file href="html5/data/js/6MRhU3dogRM.js" />
+      <file href="html5/data/js/6ndP7e9x83n.js" />
+      <file href="html5/data/js/6OhJUDhWCcL.js" />
+      <file href="html5/data/js/6PBt6uzNUZ3.js" />
+      <file href="html5/data/js/6pIeYMXIFvU.js" />
+      <file href="html5/data/js/6pxEwvCLMsu.js" />
+      <file href="html5/data/js/6rMv3lmaScA.js" />
+      <file href="html5/data/js/6TxmXbIJ5ws.js" />
+      <file href="html5/data/js/6XekiKnl6GZ.js" />
+      <file href="html5/data/js/6YJd4qaTDa1.js" />
+      <file href="html5/data/js/6Z8LSSUapj5.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
