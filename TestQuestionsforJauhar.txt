@@ -1,0 +1,95 @@
+3 categories: 
+Category 1; A, B, C, D
+Category 2: 1,2,3
+Category 3: a,b,c
+
+The fourth digit is the question number
+
+
+A1a
+1. QuestionA1a1
+a. answer 1A1a1
+b. answer 2A1a1
+*c. answer 3A1a1
+
+A2a
+1. QuestionA2a1
+a. answer 1A2a1
+b. answer 2A2a1
+*c. answer 3A2a1
+
+A2c
+1. QuestionA2c1
+a. answer 1A2c1
+b. answer 2A2c1
+*c. answer 3A2c1
+
+2. QuestionA2c2
+a. answer 1A2c2
+b. answer 2A2c2
+*c. answer 3A2c2
+
+A3b
+1. questionA3b1
+a. answer 1A3b1
+b. answer 2A3b1
+*c. answer 3A3b1
+
+B2c
+1. estionB2c1
+a. answer 1B2c
+b. answer 2B2c
+*c. answer 3B2c
+
+B3a
+1. QuestionB3a1
+a. answer 1B3a
+b. answer 2B3a
+*c. answer 3B3a
+
+2. QuestionB3a2
+a. answer 1B3a2
+b. answer 2B3a2
+*c. answer 3B3a2
+
+
+B3c
+1. QuestionB3c1
+a. answer 1B3c1
+b. answer 2B3c1
+*c. answer 3B3c1
+
+2. QuestionB3c2
+a. answer 1B3c2
+b. answer 2B3c2
+*c. answer 3B3c2
+
+C2c
+
+1. questionC2c1
+a. answer 1C2c1
+*b. answer 2C2c1
+c. answer 3C2c1
+
+C1a
+1. questionC1a1
+a. answer 1C1a1
+*b. answer 2C1a1
+c. answer 3C1a1
+
+2. questionC1a2
+a. answer 1C1a2
+*b. answer 2C1a2
+c. answer 3C1a2
+
+D2a
+1. QuestionD2a1
+a. answer 1D2a1
+b. answer 2D2a1
+*c. answer 3D2a1
+
+D2b
+1. QuestionD2b1
+a. answer 1D2b1
+b. answer 2D2b1
+*c. answer 3D2b1
