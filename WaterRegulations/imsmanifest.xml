@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6HTT2Bxiumj" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">WaterRegulations</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="WaterRegulations_ORG">
+    <organization identifier="WaterRegulations_ORG">
+      <title>WaterRegulations</title>
+      <item identifier="Stabilization_Ponds_SCO" isvisible="true" identifierref="__6HTT2Bxiumj_RES">
+        <title>WaterRegulations</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6HTT2Bxiumj_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6aulCUVDFsh.png" />
+      <file href="mobile/5sfIc3pnc3k.png" />
+      <file href="mobile/5cUkGqvQ0oh.png" />
+      <file href="story_content/5uUClD0BjTr.js" />
+      <file href="mobile/5qTWzuYOqSF.png" />
+      <file href="mobile/5tC34fv2JCM.png" />
+      <file href="mobile/6erHZh2LpaD.png" />
+      <file href="story_content/60rViJPlHbC.js" />
+      <file href="mobile/69TAGnTStZq.png" />
+      <file href="mobile/6iU1Osdw374.png" />
+      <file href="mobile/6jeTKwuddSs_M_1304_1304.png" />
+      <file href="mobile/6C3Ip7Nuf54_M_1672_1672.png" />
+      <file href="mobile/6QbqFPWvNci.png" />
+      <file href="mobile/5t4x33rV2DO.png" />
+      <file href="mobile/6CrvabjJ6n1.png" />
+      <file href="mobile/6XdgYgccX9V.png" />
+      <file href="meta.xml" />
+      <file href="mobile/6ARdfjiWYoo.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5b4oBrYYypP.png" />
+      <file href="mobile/txt__default_6GDOAhDeFV5.png" />
+      <file href="mobile/txt__default_6DEeubaX0bJ.png" />
+      <file href="mobile/txt__default_6AOa7ygJP1u.png" />
+      <file href="mobile/txt__default_5jdJ5bubfZF.png" />
+      <file href="mobile/txt__default_6IS1cFG7Gui.png" />
+      <file href="mobile/txt__default_6GRvGLNsotR.png" />
+      <file href="mobile/txt__default_6DdZtK4WkSG.png" />
+      <file href="mobile/txt__default_5uCGJfZrooc.png" />
+      <file href="mobile/txt__default_668RihFRLOy.png" />
+      <file href="mobile/txt__default_6fLccAlTrlP.png" />
+      <file href="mobile/txt__default_5X7ayvSEvy9.png" />
+      <file href="mobile/txt__default_6LAVdMi4EYP.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bb40nTMWo3.js" />
+      <file href="html5/data/js/5jjTrr6toUK.js" />
+      <file href="html5/data/js/5jnZKiQ9YUi.js" />
+      <file href="html5/data/js/5mAzpN8LaTZ.js" />
+      <file href="html5/data/js/5myjc2J1TRM.js" />
+      <file href="html5/data/js/5oKVM0pqAWc.js" />
+      <file href="html5/data/js/5pmVKK0vw4j.js" />
+      <file href="html5/data/js/5qj2aNGma8F.js" />
+      <file href="html5/data/js/5sG7Mlzsy4n.js" />
+      <file href="html5/data/js/5WPqX3hdkoa.js" />
+      <file href="html5/data/js/5xp1gGphl8c.js" />
+      <file href="html5/data/js/5xpVyNWKECl.js" />
+      <file href="html5/data/js/5Xyx952Ehs1.js" />
+      <file href="html5/data/js/5YoGZOAfo5D.js" />
+      <file href="html5/data/js/62mPxcI8JLH.js" />
+      <file href="html5/data/js/62WB8xSCr6g.js" />
+      <file href="html5/data/js/644aYh9BcEX.js" />
+      <file href="html5/data/js/65KKPDT99BZ.js" />
+      <file href="html5/data/js/69c8K5GgwsQ.js" />
+      <file href="html5/data/js/69gfg0gLzsR.js" />
+      <file href="html5/data/js/6BCd4poj16b.js" />
+      <file href="html5/data/js/6c980WK7tTx.js" />
+      <file href="html5/data/js/6d4V3BIKbze.js" />
+      <file href="html5/data/js/6DwEnuZNRBh.js" />
+      <file href="html5/data/js/6FEOROsq5LD.js" />
+      <file href="html5/data/js/6gFssqF5Qm8.js" />
+      <file href="html5/data/js/6H1X1BDedRV.js" />
+      <file href="html5/data/js/6hqio4LsxbN.js" />
+      <file href="html5/data/js/6jBQh8hxY9l.js" />
+      <file href="html5/data/js/6jz9EtXmJd2.js" />
+      <file href="html5/data/js/6KFGQx2C1qv.js" />
+      <file href="html5/data/js/6mkT2IGfi6y.js" />
+      <file href="html5/data/js/6N3N92CEF0W.js" />
+      <file href="html5/data/js/6OG9QrYfAJS.js" />
+      <file href="html5/data/js/6PPhVraBCGG.js" />
+      <file href="html5/data/js/6qIyoGQdFCQ.js" />
+      <file href="html5/data/js/6QP86B10SIW.js" />
+      <file href="html5/data/js/6RgPJmeo5c8.js" />
+      <file href="html5/data/js/6rRO8oAZzrz.js" />
+      <file href="html5/data/js/6rYaivvJqwA.js" />
+      <file href="html5/data/js/6RycZ35o8r4.js" />
+      <file href="html5/data/js/6TJk5tH1XCw.js" />
+      <file href="html5/data/js/6ZAK2pB5D6K.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
