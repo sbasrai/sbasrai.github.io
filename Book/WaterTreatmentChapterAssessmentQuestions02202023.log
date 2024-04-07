@@ -1,0 +1,4914 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.3)  27 JUN 2023 23:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**WaterTreatmentChapterAssessmentQuestions02202023.tex
+(./WaterTreatmentChapterAssessmentQuestions02202023.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(c:/texlive/2023/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen143
+\tc@lly=\dimen144
+\tc@urx=\dimen145
+\tc@ury=\dimen146
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen147
+\adjbox@Height=\dimen148
+\adjbox@Depth=\dimen149
+\adjbox@Totalheight=\dimen150
+\adjbox@pwidth=\dimen151
+\adjbox@pheight=\dimen152
+\adjbox@pdepth=\dimen153
+\adjbox@ptotalheight=\dimen154
+
+(c:/texlive/2023/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count194
+)
+(c:/texlive/2023/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count195
+\@vwid@loff=\dimen155
+\@vwid@roff=\dimen156
+))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen157
+))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks22
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks23
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks24
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(c:/texlive/2023/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
+
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box55
+))
+(c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count275
+\calc@Bcount=\count276
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count277
+\calc@Cskip=\skip55
+)
+(c:/texlive/2023/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(c:/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count278
+\g__chemgreek_tmpa_int=\count279
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count280
+\__mhchem_arrow_extPgfLength_skip=\skip56
+\mhchem@minispace@tmp=\skip57
+\mhchem@minibackspace@tmp=\skip58
+\mhchem@bondwidth=\skip59
+\mhchem@bondheight=\skip60
+\mhchem@smallbondwidth@tmpA=\skip61
+\mhchem@smallbondwidth@tmpB=\skip62
+\mhchem@smallbondwidth=\skip63
+\mhchem@bondtmp@minussidebearingleft=\skip64
+\mhchem@bondtmp@minussidebearingright=\skip65
+\l__mhchem_option_version_int=\count281
+\mhchem@option@minusmathsidebearingleft=\dimen168
+\mhchem@option@minusmathsidebearingright=\dimen169
+\mhchem@option@minustextsidebearingleft=\dimen170
+\mhchem@option@minustextsidebearingright=\dimen171
+)
+(c:/texlive/2023/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+   defining Unicode char U+0131 (decimal 305)
+
+(./WaterTreatmentChapterAssessmentQuestions02202023.aux)
+\openout1 = `WaterTreatmentChapterAssessmentQuestions02202023.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen172
+\scratchbox=\box56
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen173
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks27
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+Package chemgreek Info: Activating mapping `default' on line 15.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 5
+2.
+
+(c:/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 231--237
+
+ []
+
+[3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 441--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--478
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 479--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--502
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--508
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--526
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 527--532
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--544
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--577
+
+ []
+
+[8] [9] [10] [11] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1084
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1090
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1096
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1103--1108
+
+ []
+
+[15]
+Overfull \hbox (1.86588pt too wide) in paragraph at lines 1173--1174
+[]\T1/cmr/m/n/10 The mul-ti-ple bar-rier ap-proach to wa-ter treat-ment in-clud
+es re-moval through
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1235
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1260
+
+ []
+
+[18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1484
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1498
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1506--1507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1535--1540
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 1541--1546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1547--1552
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1624
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1625--1630
+
+ []
+
+[23]
+Underfull \hbox (badness 3872) in paragraph at lines 1651--1652
+[]\T1/cmr/m/n/7 F. In-terim En-hanced Sur-face Wa-ter
+ []
+
+
+Overfull \hbox (81.00435pt too wide) in paragraph at lines 1640--1681
+[][]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1683
+
+ []
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1684 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1684 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1684 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1686 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1686 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1686 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1688 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1688 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1688 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1690 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1690 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1690 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1692 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1692 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1692 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1694 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1694 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1694 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1696 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1696 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1696 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1698 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1698 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1698 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1700 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1700 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1700 \item \rule
+                  {1cm}{.5pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1702 \end{enumerate}
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1702
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1705--1706
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1708
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1709--1710
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1711
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1711--1712
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1715--1716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1720
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1727
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1727--1728
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1731--1732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1735
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1736
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1740
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1742
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1742--1743
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1749--1750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1752
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1755--1756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1758
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1758--1759
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1763--1764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1766--1767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1767--1768
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1771--1772
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1774--1775
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1775--1776
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1779--1780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1781--1782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1782--1783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1783--1784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1787--1788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1790--1791
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1795--1796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1797--1798
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1798--1799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1808
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1814
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1815--1820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1833--1838
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1839--1845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1846--1851
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1857
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1870
+
+ []
+
+[29{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 1871--1876
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1877--1882
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1888
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1895--1900
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1901--1907
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1910
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1914
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1915--1916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1918
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1921--1922
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1924
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1935--1936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1940
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1942
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1946
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1947--1948
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1949--1950
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1952
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1953--1954
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1956
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1959--1960
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1964
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1975--1976
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1978
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1980
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1981--1982
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1984
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1989
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1995
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1996--1997
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 2064--2069
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2070--2075
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2076--2081
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 2082--2087
+
+ []
+
+[35] [36] [37] [38]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2303 \item T
+              he process of decreasing the stability of colloids in water is...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2311 \item T
+              he chemical oxidation process in water treatment is typically ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[39]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2320 \item F
+              locculation, sedimentation, filtration, and adsorption are \ru...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (10.12196pt too wide) in paragraph at lines 2320--2322
+[]\T1/cmr/m/n/10 Flocculation, sed-i-men-ta-tion, fil-tra-tion, and ad-sorp-tio
+n are []
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2329 \item O
+              xidation, coagulation, and disinfection are \rule{2cm}{0.3pt} ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2337 \item A
+               precipitate can be formed after which one of the following pr...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2345 \item W
+              ater that is safe to drink is called \rule{1cm}{0.5pt}  water.
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2353 \item T
+              he type of organisms that can cause disease are said to be \ru...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2361 \item T
+              he basic goal for water treatment is to \rule{1cm}{0.5pt}.
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2369 \item F
+              our types of aesthetic contaminants in water include the follo...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[40]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2375 \item W
+              hat does mg/L stand for?
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2383 \item D
+              isinfection by-products are a product of:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2391 \item A
+              cute contaminants are those that can cause sickness after:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2397 \item C
+              hronic contaminants are those that can cause sickness after:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2403 \item T
+              THMs and HAA5s can affect:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2411 \item O
+              xidation, coagulation, and disinfection are \rule{1cm}{0.5pt} ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2419 \item F
+              locculation, sedimentation, filtration, and adsorption are \ru...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2427 \item A
+               precipitate can be formed after which one of the following pr...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[41]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2435 \item G
+              iardia and cryptosporidium are a type of:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2452 \item T
+              he process of decreasing the stability of colloids in water is...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2460 \item S
+              lowly agitating coagulated materials is the process of:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2468 \item T
+              he sedimentation portion of water treatment is also called a(n):
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2476 \item P
+              articles that are less than 1 $\mu\text{m}$ in size and will n...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2484 \item O
+              ne micrometer is also equal to:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[42]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2492 \item P
+              articles less than 0.45 $\mu\text{m}$ in size are considered t...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2500 \item T
+              urbidity is measured as:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2508 \item A
+              l2(SO4)3 • 18H20 is the chemical formula for:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2516 \item A
+              (n) \rule{1cm}{0.5pt}  polymer is commonly used as a coagulant.
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2524 \item A
+              (n) \rule{1cm}{0.5pt}  polymer is used to enhance flocculation.
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2532 \item T
+              he concentration of a chemical added to the water is measured in:
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2540 \item T
+              he quantity of chlorine remaining after primary disinfection i...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2549 \item P
+              rimary disinfectants are used to \rule{1cm}{0.5pt}  microorgan...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[43]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2557 \item S
+              econdary disinfectants are used to provide a \rule{1cm}{0.5pt}...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2565 \item W
+              hat type of polymer is used to improve the efficiency of the s...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2574 \item W
+              hen operating a filter, one of the operational concerns is the...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2582 \item L
+              ist the basic processes, in the proper order, for a convention...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2590 \item T
+              he four most common oxidants include:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2598 \item W
+              hen comparing conventional treatment with direct filtration, w...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[44]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2606 \item I
+              n a typical water treatment plant, alum would be added into th...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2614 \item T
+              he process of cleaning a filter by pumping water up through th...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2622 \item B
+              ag and cartridge filters are used to remove which two pathogen...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2630 \item L
+              ist the four types of membrane filtration processes commonly u...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2639 \item W
+              hat is a method of reducing hardness?
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2647 \item A
+              dsorption of a substance involves its accumulation onto the su...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2655 \item T
+              he solid that adsorbs a contaminant is called the:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[45]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2663 \item T
+              he adsorption process is used to remove:
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2671 \item D
+              escribe two primary methods used to control taste and odor?
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2681 \item L
+              ist the five types of surface water filtration systems.
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2690 \item G
+              AC contactors are used to reduce the amount of \rule{1cm}{0.5p...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2698 \item G
+              reensand can be operated in either \rule{1cm}{0.5pt}  regenera...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2706 \item  W
+               hat is the cause of taste and odor problems in raw surface wa...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2706--2707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2708--2709
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2709--2710
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 2710--2711
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2714 \item  W
+               hat chemical reduces blue-green algae growth?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2714--2715
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2716--2717
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2717--2718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2718--2719
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2723 \item W
+              hat is the purpose of adding fluoride to drinking water?
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2731 \item T
+              he optimal coagulant dose is determined by a\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2731--2732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2733--2734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2734--2735
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2735--2736
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2739 \item  T
+               he most common primary coagulant is\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2739--2740
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2741--2742
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2743
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2747 \item  B
+               acteria and Viruses belong to a particle size known as\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2747--2748
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2749--2750
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 2750--2751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2751--2752
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2755 \item  T
+               he purpose of coagulation is to\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2755--2756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2757--2758
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2758--2759
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2759--2760
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2763 \item  T
+               he purpose of flocculation\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2763--2764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2765--2766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2766--2767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2767--2768
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2771 \item  P
+               rimary coagulant aids used in treatment process are\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2771--2772
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2773--2774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2774--2775
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2779 \item  H
+               ow do water agencies monitor the effectiveness of their filtr...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2779--2780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2781--2782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2782--2783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2783--2784
+
+ []
+
+[48]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2788 \item F
+              locculation is used to enhance\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2788--2789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2790--2791
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2791--2792
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2792--2793
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2796 \item  I
+               f there is a problem with floc formation, what would you cons...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2796--2797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2799--2800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2800--2801
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2804 \item  W
+               hich step in the treatment process is the shortest?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2805
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2806--2807
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2807--2808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2808--2809
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2812 \item  T
+               o lower the $\mathrm{pH}$ for enhanced coagulation the operat...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2812--2813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2814--2815
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2815--2816
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2816--2817
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2820 \item  T
+               he flocculation process lasts how long?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2820--2821
+
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 2822--2823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2823--2824
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2824--2825
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2828 \item  T
+               he function of a flocculation basin is to\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2828--2829
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2830--2831
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2831--2832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2832--2833
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2836 \item T
+              he treatment process that involves coagulation, flocculation, ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2836--2837
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2838--2839
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2839--2840
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2840--2841
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2844 \item  S
+               edimentation produces waste known as\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2846--2847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2847--2848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2848--2849
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2852 \item  W
+               hat kind of process is the sedimentation step?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2852--2853
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2854--2855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2855--2856
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2856--2857
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2860 \item  T
+               he weirs at the effluent of a sedimentation basin are also ca...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2860--2861
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2862--2863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2863--2864
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2864--2865
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2868 \item  S
+               edimentation is used in water treatment plants to\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2868--2869
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2870--2871
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2871--2872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2872--2873
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2876 \item  S
+               couring is a term that describes conditions in a sedimentatio...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2876--2877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2878--2879
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2879--2880
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2880--2881
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2884--2885
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2886--2887
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2887--2888
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2888--2889
+
+ []
+
+[51]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2892 \item T
+              he removal and inactivation requirement for Giardia is?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2892--2893
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2894--2895
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2895--2896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2896--2897
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2900 \item S
+              hort circuiting in a sedimentation basin could be caused by\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2900--2901
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2902--2903
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2903--2904
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2904--2905
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2908 \item H
+              ow much solids should be removed during sedimentation?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2910--2911
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2911--2912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2912--2913
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2916 \item T
+              he type of basin that includes coagulation and flocculation is\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2916--2917
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2918--2919
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2919--2920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2920--2921
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2924 \item R
+              ecarbonation basins are used to stabilize water after
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[52]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2932 \item W
+              hich of the following is an effective way for removing iron wa...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2940 \item H
+              ow can iron bacteria be controlled in a water distribution sys...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2946 \item W
+              hich of the following is a hazard when handling hydrofluosilic...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2946--2951
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2952 \item T
+              rihalomenthane may be partially removed from water by:\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2952--2957
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2958 \item W
+              hich of the following forms of iron is most soluble in water?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2958--2963
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2964 \item T
+              wo fundamental treatment requirements for public water systems...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2970 \item A
+               zeolite softening unit will replace calcium and magnesium ion...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2970--2975
+
+ []
+
+[53]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2976 \item O
+              ne use of polyphosphates is to:\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2982 \item A
+              n acceptable means of corrosion control for relatively small s...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2990 \item W
+              hich of the following chemicals will most likely keep iron in ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2993--2994
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2995--2996
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2997--2998
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2999--3000
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3002 \item L
+              ead in drinking water can result in\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3002--3003
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3005--3006
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3007--3008
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3009--3010
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3011--3012
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3013   \item I
+                f raw water turbidity changed from 10 to 300 turbidity units...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3013--3018
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3019 \item T
+              he problem caused by dissolved carbon dioxide in the water of ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3019--3024
+
+ []
+
+[54]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3025 \item T
+              he presence of the coliform group of bacteria in water indicat...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3025--3026
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3027--3028
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3029--3030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3031--3032
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3033--3034
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3036   \item T
+                he granular filtration process is designed to reduce\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3036--3038
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3039--3040
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3041--3042
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3043--3044
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3046 \item T
+              he presence of the coliform group of bacteria in water indicat...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3046--3047
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3048--3049
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3051
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3052--3053
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3055
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3056 \item A
+              eration in water treatment plants is used to\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3056--3057
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3058--3059
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3060--3061
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3062--3063
+
+ []
+
+[55]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3067 \item W
+              hat can the operator do if iron fouling appears to be a proble...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3067--3068
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3069--3070
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3071--3072
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3073--3074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3075--3076
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3078   \item A
+                t what $\mathrm{pH}$ would a chlorinated water have the high...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3078--3083
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3084 \item O
+              ne use of polyphosphates is to\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3084--3085
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3088--3089
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3090--3091
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3092--3093
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3094--3095
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3097 \item W
+              hich of the following can cause tastes and odors in a water su...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3097--3102
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3103 \item W
+              hat happens when lime is fed to water for corrosion control?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3103--3104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3106--3107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3108--3109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3110--3111
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 3112--3113
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3114 \item T
+              he main characteristic of raw water that enables algae to grow...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3114--3115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3116--3117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3118--3119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3120--3121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3122--3123
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3125 \item T
+              he type of corrosion caused by the use of dissimilar metal in ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3125--3126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3127--3128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3129--3130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3131--3132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3133--3134
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3135   \item A
+                 zeolite softening unit will replace calcium and magnesium i...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3135--3140
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3141 \item T
+              wo fundamental treatment requirements for public water systems...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3141--3142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3143--3144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3145--3146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3147--3148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3149--3150
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3152 \item A
+               method used to soften water is\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3152--3157
+
+ []
+
+[57]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3158 \item T
+              he main characteristic of raw water that enables algae to grow...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3158--3163
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3164 \item W
+              hat happens when lime is fed to water for corrosion control?\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3164--3169
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3170 \item W
+              hich of the following chemicals will most likely keep iron in ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3176 \item I
+              f raw water turbidity changed from 10 to 300 turbidity units a...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3182 \item T
+              he granular filtration process is designed to reduce\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3186 d. Turbidity\item A
+                          eration in water treatment plants is used to\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3186--3191
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3192 \item W
+              hat can the operator do if iron fouling appears to be a proble...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3192--3197
+
+ []
+
+[58]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3198 \item T
+              rihalomenthane may be partially removed from water by:\\
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3198--3203
+
+ []
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3204 \item T
+              emporary cloudiness in a freshly drawn sample of tap water may...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3204--3209
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 3213--3218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3219--3224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3225--3230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3231--3236
+
+ []
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 3346--3351
+
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 3352--3357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3358--3363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3364--3369
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3370--3375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3388--3393
+
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 3412--3417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3418--3423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3424--3429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3436--3441
+
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 3442--3447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3460--3465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3466--3471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3472--3477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3478--3483
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 3484--3489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3490--3495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3510--3515
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3516--3521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3522--3527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3528--3533
+
+ []
+
+[65] [66]
+Underfull \hbox (badness 10000) in paragraph at lines 3700--3706
+
+ []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 3707--3713
+
+ []
+
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 3780--3781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3787
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 3840--3844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3845--3847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3850--3851
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3865--3871
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3872--3878
+
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 3879--3885
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3886--3892
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3893--3899
+
+ []
+
+[71] [72] [73] [74]
+Overfull \hbox (4.24187pt too wide) in paragraph at lines 4130--4131
+[]\T1/cmr/m/n/10 Vertical tur-bine pumps that are used in wells may be oil-lubr
+icated
+ []
+
+[75] [76] [77]
+Overfull \hbox (8.82408pt too wide) in paragraph at lines 4417--4418
+[]\T1/cmr/m/n/10 The-leakage of seal-wateraround-the-packing on a cen-trifu-gal
+ pump
+ []
+
+[78] [79]
+Underfull \hbox (badness 10000) in paragraph at lines 4557--4562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4565--4571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4579--4585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4586--4592
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4593--4599
+
+ []
+
+[80] [81]
+Overfull \hbox (2.93663pt too wide) in paragraph at lines 4711--4712
+[]\T1/cmr/m/n/10 When in-stalling pack-ing in a cen-trifu-gal pump, the pack-in
+g should
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4726--4732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4733--4734
+
+ []
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 4788--4789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4790--4794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4797--4802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4803--4808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4809--4814
+
+ []
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 4815--4821
+
+ []
+
+[84] [85] [86]
+Underfull \hbox (badness 10000) in paragraph at lines 5037--5038
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5050--5055
+
+ []
+
+[87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 5170--5171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5173--5174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5182--5188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5196--5201
+
+ []
+
+[89]
+Underfull \hbox (badness 10000) in paragraph at lines 5202--5207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5208--5213
+
+ []
+
+[90] [91]
+Overfull \hbox (0.5761pt too wide) in paragraph at lines 5379--5380
+[]\T1/cmr/m/n/10 Sleeve-type and "vic-taulic" cou-plings are the most com-mon f
+orms
+ []
+
+[92] [93] [94] [95] [96] [97]
+Underfull \hbox (badness 10000) in paragraph at lines 5882--5888
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5901--5906
+
+ []
+
+[98] [99]
+Underfull \hbox (badness 10000) in paragraph at lines 6043--6044
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6046--6051
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6061--6067
+
+ []
+
+[100]
+Underfull \hbox (badness 10000) in paragraph at lines 6075--6081
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6123--6128
+
+ []
+
+[101] [102]
+Underfull \hbox (badness 10000) in paragraph at lines 6281--6286
+
+ []
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 6287--6292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6293--6298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6305--6311
+
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 6319--6324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6325--6330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6331--6336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6337--6342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6343--6348
+
+ []
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 6367--6372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6385--6390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6397--6402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6403--6408
+
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 6409--6410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6436--6441
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6449--6450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6461--6467
+
+ []
+
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 6468--6474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6475--6481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6482--6488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6489--6495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6503--6509
+
+ []
+
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 6539--6545
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6564--6569
+
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 6579--6585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6592--6597
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6598--6603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6614--6615
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6618--6623
+
+ []
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 6624--6629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6630--6635
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6636--6641
+
+ []
+
+[111]
+Overfull \hbox (1.16476pt too wide) in paragraph at lines 6657--6657
+[]\T1/cmr/bx/n/14.4 Practice Prob-lems - Dec-i-mals and Pow-
+ []
+
+[112] [113] [114] [115] [116]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-105' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6979 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-105}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[117]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-106' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7018 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-106}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-107' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7029 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-107}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[118]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-108' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7094 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-108}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 715
+2.
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+) [119]
+Overfull \hbox (4.99168pt too wide) in paragraph at lines 7176--7177
+[]\T1/cmr/m/n/10 How much does each gal-lon of zinc or-thophos-phate weigh (pou
+nds)
+ []
+
+[120]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-109' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7204 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-109}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-110' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7217 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-110}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (31.7087pt too wide) detected at line 7222
+[] \OT1/cmr/m/n/10 = [] = [] = 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6[]
+ []
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(10)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7268 ...023_02_20_516a02ac7f0e4a0f0b85g-111(10)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (112.83356pt too wide) in paragraph at lines 7267--7269
+\T1/cmr/m/n/10 of potable wa-ter, and uses [] 
+ []
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(14)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7277 ...023_02_20_516a02ac7f0e4a0f0b85g-111(14)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[121]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(5)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7281 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(5)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7285 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-111}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(12)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7289 ...023_02_20_516a02ac7f0e4a0f0b85g-111(12)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(8)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7293 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(8)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(4)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7297 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(4)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7301 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(6)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7305 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(6)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(9)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7309 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(9)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(3)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7313 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(3)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7317 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(11)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7321 ...023_02_20_516a02ac7f0e4a0f0b85g-111(11)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(7)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7325 ...2023_02_20_516a02ac7f0e4a0f0b85g-111(7)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-111(13)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7329 ...023_02_20_516a02ac7f0e4a0f0b85g-111(13)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(4)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7333 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(4)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(6)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7337 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(6)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(5)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7341 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(5)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(3)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7347 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(3)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7351 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-112}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7355 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(7)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7359 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(7)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-112(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7363 ...2023_02_20_516a02ac7f0e4a0f0b85g-112(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-113' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7372 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-113}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (74.4567pt too wide) detected at line 7380
+[][]
+ []
+
+[122]
+Overfull \hbox (1.13228pt too wide) in paragraph at lines 7390--7390
+[]\T1/cmr/bx/n/14.4 Practice Prob-lems - Pressure-Force Re-
+ []
+
+[123] [124] [125]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-116(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7556 ...2023_02_20_516a02ac7f0e4a0f0b85g-116(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-116(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7565 ...2023_02_20_516a02ac7f0e4a0f0b85g-116(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-116' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7581 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-116}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-117(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7585 ...2023_02_20_516a02ac7f0e4a0f0b85g-117(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-117(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7594 ...2023_02_20_516a02ac7f0e4a0f0b85g-117(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-117' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7619 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-117}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[126] [127]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-119' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7705 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-119}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (82.48854pt too wide) detected at line 7712
+[][]
+ []
+
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-120' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7720 ...h]{2023_02_20_516a02ac7f0e4a0f0b85g-120}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (112.95566pt too wide) detected at line 7736
+[][]
+ []
+
+[128]
+
+! LaTeX Error: File `2023_02_20_516a02ac7f0e4a0f0b85g-120(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7759 ...2023_02_20_516a02ac7f0e4a0f0b85g-120(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (30.16368pt too wide) in paragraph at lines 7775--7776
+\T1/cmr/m/n/10 cific ca-pac-ity of this well? a. $ \OT1/cmr/m/n/10 0\OML/cmm/m/
+it/10 :\OT1/cmr/m/n/10 016[]\OML/cmm/m/it/10 =[]\OT1/cmr/m/n/10 b$\T1/cmr/m/n/1
+0 . $\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7[]\OML/cmm/m/it/10 =[]
+[] \OT1/cmr/m/n/10 10\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 9[]\OML/cmm/m/it/10 =[]$
+
+ []
+
+[129] [130]
+Overfull \hbox (3.75179pt too wide) in paragraph at lines 7872--7873
+[]\T1/cmr/m/n/10 Coagulated raw wa-ter con-tains $\OT1/cmr/m/n/10 120[]\OML/cmm
+/m/it/10 =\OT1/cmr/m/n/10 L$ \T1/cmr/m/n/10 of to-tal sus-pended solids.
+ []
+
+
+Overfull \hbox (52.67593pt too wide) detected at line 7894
+[][]\OML/cmm/m/it/10 =[][] \OT1/cmr/m/n/10 = [] = 1\OML/cmm/m/it/10 :\OT1/cmr/m
+/n/10 7[]\OML/cmm/m/it/10 =[][]
+ []
+
+
+! LaTeX Error: \begin{enumerate} on input line 2091 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7897 \end{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[131] (./WaterTreatmentChapterAssessmentQuestions02202023.aux) )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 2091 (\begingroup)
+### semi simple group (level 1) entered at line 1706 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 6482 strings out of 476017
+ 145705 string characters out of 5793767
+ 1866660 words of memory out of 5000000
+ 26851 multiletter control sequences out of 15000+600000
+ 521797 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,11n,71p,497b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
+10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c
+:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/
+texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texlive/2023
+/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2023/texmf-dis
+t/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/cm-super/sfbx1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public
+/cm-super/sfrm0500.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/
+sfrm0700.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.p
+fb>
+Output written on WaterTreatmentChapterAssessmentQuestions02202023.pdf (131 pag
+es, 445254 bytes).
+PDF statistics:
+ 522 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

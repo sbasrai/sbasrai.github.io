@@ -1,0 +1,3515 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.30)  28 AUG 2022 06:18
+entering extended mode
+**./NewWATR082Main.tex
+(NewWATR082Main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-27>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip47
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen138
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (WATR082 structure.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:
+\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-05-27 L3 programming layer (loader) 
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box47
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e-2020-10-01.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e-generic.tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen141
+\pgfutil@tempdimb=\dimen142
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box48
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count191
+\c@pgf@countb=\count192
+\c@pgf@countc=\count193
+\c@pgf@countd=\count194
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count195
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count196
+\pgfsyssoftpath@bigbuffer@items=\count197
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count198
+\pgfmath@box=\box49
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count199
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box50
+\pgf@hbox=\box51
+\pgf@layerbox@main=\box52
+\pgf@picture@serial@count=\count266
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen172
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen176
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count267
+\pgf@shadingcount=\count268
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box53
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box54
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count269
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box55
+\tikz@figbox@bg=\box56
+\tikz@tempbox=\box57
+\tikz@tempbox@bg=\box58
+\tikztreelevel=\count270
+\tikznumberofchildren=\count271
+\tikznumberofcurrentchild=\count272
+\tikz@fig@count=\count273
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count274
+\pgfmatrixcurrentcolumn=\count275
+\pgf@matrix@numberofcolumns=\count276
+)
+\tikz@expandcount=\count277
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/05/16 3.59 The Babel package
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/05/16 3.59 Babel common definitions
+\babel@savecnt=\count278
+\U@D=\dimen191
+\l@unhyphenated=\language79
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count279
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen192
+\enit@toks=\toks28
+\enit@inbox=\box59
+\enit@count@id=\count280
+\enitdp@description=\count281
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen193
+\lightrulewidth=\dimen194
+\cmidrulewidth=\dimen195
+\belowrulesep=\dimen196
+\belowbottomsep=\dimen197
+\aboverulesep=\dimen198
+\abovetopsep=\dimen199
+\cmidrulesep=\dimen256
+\cmidrulekern=\dimen257
+\defaultaddspace=\dimen258
+\@cmidla=\count282
+\@cmidlb=\count283
+\@aboverulesep=\dimen259
+\@belowrulesep=\dimen260
+\@thisruleclass=\count284
+\@lastruleclass=\count285
+\@thisrulewidth=\dimen261
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen262
+\Gm@wd@mp=\dimen263
+\Gm@odd@mp=\dimen264
+\Gm@even@mp=\dimen265
+\Gm@layoutwidth=\dimen266
+\Gm@layoutheight=\dimen267
+\Gm@layouthoffset=\dimen268
+\Gm@layoutvoffset=\dimen269
+\Gm@dimlist=\toks29
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box60
+\UL@hyphenbox=\box61
+\UL@skip=\skip51
+\UL@hook=\toks30
+\UL@height=\dimen270
+\UL@pe=\count289
+\UL@pixel=\dimen271
+\ULC@box=\box62
+Package: ulem 2019/11/18
+\ULdepth=\dimen272
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen273
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen274
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count290
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count291
+\leftroot@=\count292
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count293
+\DOTSCASE@=\count294
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen275
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count295
+\c@MaxMatrixCols=\count296
+\dotsspace@=\muskip16
+\c@parentequation=\count297
+\dspbrk@lvl=\count298
+\tag@help=\toks32
+\row@=\count299
+\column@=\count300
+\maxfields@=\count301
+\andhelp@=\toks33
+\eqnshift@=\dimen276
+\alignsep@=\dimen277
+\tagshift@=\dimen278
+\tagwidth@=\dimen279
+\totwidth@=\dimen280
+\lineht@=\dimen281
+\@envbody=\toks34
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tabulary\tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen282
+\ar@mcellbox=\box65
+\extrarowheight=\dimen283
+\NC@list=\toks36
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box66
+)
+\TY@count=\count302
+\TY@linewidth=\dimen284
+\tymin=\dimen285
+\tymax=\dimen286
+\TY@tablewidth=\dimen287
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\tabularx.st
+y
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen288
+\TX@old@table=\dimen289
+\TX@old@col=\dimen290
+\TX@target=\dimen291
+\TX@delta=\dimen292
+\TX@cols=\count303
+\TX@ftn=\toks37
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pagecolor\pagecolor.sty
+Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\afterpage.s
+ty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks38
+\AP@partial=\box67
+\AP@footins=\box68
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks39
+\SOUL@lasttoken=\toks40
+\SOUL@cmds=\toks41
+\SOUL@buffer=\toks42
+\SOUL@token=\toks43
+\SOUL@spaceskip=\skip57
+\SOUL@ttwidth=\dimen293
+\SOUL@uldp=\dimen294
+\SOUL@ulht=\dimen295
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks44
+\inpenc@posthook=\toks45
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-05-28 v3.0.7 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen296
+\l__siunitx_angle_marker_box=\box69
+\l__siunitx_angle_unit_box=\box70
+\l__siunitx_compound_count_int=\count304
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count305
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count306
+\l__siunitx_number_min_decimal_int=\count307
+\l__siunitx_number_min_integer_int=\count308
+\l__siunitx_number_round_precision_int=\count309
+\l__siunitx_number_group_minimum_int=\count310
+\l__siunitx_table_tmp_box=\box71
+\l__siunitx_table_tmp_dim=\dimen297
+\l__siunitx_table_column_width_dim=\dimen298
+\l__siunitx_table_integer_box=\box72
+\l__siunitx_table_decimal_box=\box73
+\l__siunitx_table_before_box=\box74
+\l__siunitx_table_after_box=\box75
+\l__siunitx_table_carry_dim=\dimen299
+\l__siunitx_unit_tmp_int=\count311
+\l__siunitx_unit_position_int=\count312
+\l__siunitx_unit_total_int=\count313
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2021-05-27 LaTeX2e option processing using LaTeX3 keys
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count314
+\float@exts=\toks46
+\float@box=\box76
+\@float@everytoks=\toks47
+\@floatcapt=\box77
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip58
+\fb@frw=\dimen300
+\fb@frh=\dimen301
+\FrameRule=\dimen302
+\FrameSep=\dimen303
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip59
+\f@nch@O@elh=\skip60
+\f@nch@O@erh=\skip61
+\f@nch@O@olh=\skip62
+\f@nch@O@orh=\skip63
+\f@nch@O@elf=\skip64
+\f@nch@O@erf=\skip65
+\f@nch@O@olf=\skip66
+\f@nch@O@orf=\skip67
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel-2011-
+10-28.sty))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks48
+\footnotemargin=\dimen304
+\c@pp@next@reset=\count315
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip68
+\RaggedLeftLeftskip=\skip69
+\RaggedRightLeftskip=\skip70
+\CenteringRightskip=\skip71
+\RaggedLeftRightskip=\skip72
+\RaggedRightRightskip=\skip73
+\CenteringParfillskip=\skip74
+\RaggedLeftParfillskip=\skip75
+\RaggedRightParfillskip=\skip76
+\JustifyingParfillskip=\skip77
+\CenteringParindent=\skip78
+\RaggedLeftParindent=\skip79
+\RaggedRightParindent=\skip80
+\JustifyingParindent=\skip81
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen305
+\captionmargin@=\dimen306
+\captionwidth=\dimen307
+\caption@tempdima=\dimen308
+\caption@indent=\dimen309
+\caption@parindent=\dimen310
+\caption@hangindent=\dimen311
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count316
+\c@continuedfloat=\count317
+Package caption Info: float package is loaded.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count318
+\c@subtable=\count319
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen312
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count320
+\rotFPtop=\skip82
+\rotFPbot=\skip83
+\rot@float@box=\box78
+\rot@mess@toks=\toks49
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count321
+\calc@Bcount=\count322
+\calc@Adimen=\dimen313
+\calc@Bdimen=\dimen314
+\calc@Askip=\skip84
+\calc@Bskip=\skip85
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count323
+\calc@Cskip=\skip86
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen315
+\ESO@tempdimb=\dimen316
+)
+\AM@pagewidth=\dimen317
+\AM@pageheight=\dimen318
+\AM@fboxrule=\dimen319
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count324
+\AM@pagebox=\box79
+\AM@global@opts=\toks50
+\AM@pagecnt=\count325
+\AM@toc@title=\toks51
+\c@AM@survey=\count326
+\AM@templatesizebox=\box80
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2021/05/21 version 4.50 text color boxes
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\verbatim.st
+y
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks52
+\verbatim@line=\toks53
+\verbatim@in@stream=\read4
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box81
+\tcb@upperbox=\box82
+\tcb@lowerbox=\box83
+\tcb@phantombox=\box84
+\c@tcbbreakpart=\count327
+\c@tcblayer=\count328
+\c@tcolorbox@number=\count329
+\tcb@temp=\box85
+\tcb@temp=\box86
+\tcb@temp=\box87
+\tcb@temp=\box88
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks54
+\minrowclearance=\skip87
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemfig\chemfig.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/chemfig\chemfig.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/simplekv\simplekv.tex
+Package: simplekv 2020/04/27 v0.2 Simple keyval package (CT)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen320
+\pgfarrowlength=\dimen321
+\pgfarrowwidth=\dimen322
+\pgfarrowlinewidth=\dimen323
+)
+\CF_cntatomgroup=\count330
+\CF_cntgroup=\count331
+\CF_cntatom=\count332
+\CF_cntcycle=\count333
+\CF_cntcyclebonds=\count334
+\CF_cntcompound=\count335
+\CF_dim=\dimen324
+\CF_arrowsize=\dimen325
+\CF_zero=\dimen326
+\CF_box=\box89
+\CF_boxstuff=\box90
+\CF_testbox=\box91
+\CF_chargebox=\box92
+\CF_substtoks=\toks55
+)
+Package: chemfig 2021/02/28 v1.6a Draw molecule with an easy syntax (CT)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen327
+\WF@size=\dimen328
+\c@WF@wrappedlines=\count336
+\WF@box=\box93
+\WF@everypar=\toks56
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\avant.sty
+Package: avant 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks57
+\MT@count=\count337
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen329
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count338
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip88
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count339
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count340
+\c@listtotal=\count341
+\c@listcount=\count342
+\c@liststart=\count343
+\c@liststop=\count344
+\c@citecount=\count345
+\c@citetotal=\count346
+\c@multicitecount=\count347
+\c@multicitetotal=\count348
+\c@instcount=\count349
+\c@maxnames=\count350
+\c@minnames=\count351
+\c@maxitems=\count352
+\c@minitems=\count353
+\c@citecounter=\count354
+\c@maxcitecounter=\count355
+\c@savedcitecounter=\count356
+\c@uniquelist=\count357
+\c@uniquename=\count358
+\c@refsection=\count359
+\c@refsegment=\count360
+\c@maxextratitle=\count361
+\c@maxextratitleyear=\count362
+\c@maxextraname=\count363
+\c@maxextradate=\count364
+\c@maxextraalpha=\count365
+\c@abbrvpenalty=\count366
+\c@highnamepenalty=\count367
+\c@lownamepenalty=\count368
+\c@maxparens=\count369
+\c@parenlevel=\count370
+\blx@tempcnta=\count371
+\blx@tempcntb=\count372
+\blx@tempcntc=\count373
+\blx@maxsection=\count374
+\blx@maxsegment@0=\count375
+\blx@notetype=\count376
+\blx@parenlevel@text=\count377
+\blx@parenlevel@foot=\count378
+\blx@sectionciteorder@0=\count379
+\blx@entrysetcounter=\count380
+\blx@biblioinstance=\count381
+\labelnumberwidth=\skip89
+\labelalphawidth=\skip90
+\biblabelsep=\skip91
+\bibitemsep=\skip92
+\bibnamesep=\skip93
+\bibinitsep=\skip94
+\bibparsep=\skip95
+\bibhang=\skip96
+\blx@bcfin=\read5
+\blx@bcfout=\write4
+\blx@langwohyphens=\language80
+\c@mincomprange=\count382
+\c@maxcomprange=\count383
+\c@mincompwidth=\count384
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count385
+\c@savedafterword=\count386
+\c@annotator=\count387
+\c@savedannotator=\count388
+\c@author=\count389
+\c@savedauthor=\count390
+\c@bookauthor=\count391
+\c@savedbookauthor=\count392
+\c@commentator=\count393
+\c@savedcommentator=\count394
+\c@editor=\count395
+\c@savededitor=\count396
+\c@editora=\count397
+\c@savededitora=\count398
+\c@editorb=\count399
+\c@savededitorb=\count400
+\c@editorc=\count401
+\c@savededitorc=\count402
+\c@foreword=\count403
+\c@savedforeword=\count404
+\c@holder=\count405
+\c@savedholder=\count406
+\c@introduction=\count407
+\c@savedintroduction=\count408
+\c@namea=\count409
+\c@savednamea=\count410
+\c@nameb=\count411
+\c@savednameb=\count412
+\c@namec=\count413
+\c@savednamec=\count414
+\c@translator=\count415
+\c@savedtranslator=\count416
+\c@shortauthor=\count417
+\c@savedshortauthor=\count418
+\c@shorteditor=\count419
+\c@savedshorteditor=\count420
+\c@labelname=\count421
+\c@savedlabelname=\count422
+\c@institution=\count423
+\c@savedinstitution=\count424
+\c@lista=\count425
+\c@savedlista=\count426
+\c@listb=\count427
+\c@savedlistb=\count428
+\c@listc=\count429
+\c@savedlistc=\count430
+\c@listd=\count431
+\c@savedlistd=\count432
+\c@liste=\count433
+\c@savedliste=\count434
+\c@listf=\count435
+\c@savedlistf=\count436
+\c@location=\count437
+\c@savedlocation=\count438
+\c@organization=\count439
+\c@savedorganization=\count440
+\c@origlocation=\count441
+\c@savedoriglocation=\count442
+\c@origpublisher=\count443
+\c@savedorigpublisher=\count444
+\c@publisher=\count445
+\c@savedpublisher=\count446
+\c@language=\count447
+\c@savedlanguage=\count448
+\c@origlanguage=\count449
+\c@savedoriglanguage=\count450
+\c@pageref=\count451
+\c@savedpageref=\count452
+\shorthandwidth=\skip97
+\shortjournalwidth=\skip98
+\shortserieswidth=\skip99
+\shorttitlewidth=\skip100
+\shortauthorwidth=\skip101
+\shorteditorwidth=\skip102
+\locallabelnumberwidth=\skip103
+\locallabelalphawidth=\skip104
+\localshorthandwidth=\skip105
+\localshortjournalwidth=\skip106
+\localshortserieswidth=\skip107
+\localshorttitlewidth=\skip108
+\localshortauthorwidth=\skip109
+\localshorteditorwidth=\skip110
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count453
+\c@textcitetotal=\count454
+\c@textcitemaxnames=\count455
+\c@biburlbigbreakpenalty=\count456
+\c@biburlbreakpenalty=\count457
+\c@biburlnumpenalty=\count458
+\c@biburlucpenalty=\count459
+\c@biburllcpenalty=\count460
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count461
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count462
+\c@bbx:relatedtotal=\count463
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
+x
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+\openout5 = `NewWATR082Main.idx'.
+
+
+Writing index file NewWATR082Main.idx
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen330
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks58
+\thm@bodyfont=\toks59
+\thm@headfont=\toks60
+\thm@notefont=\toks61
+\thm@headpunct=\toks62
+\thm@preskip=\skip111
+\thm@postskip=\skip112
+\thm@headsep=\skip113
+\dth@everypar=\toks63
+)
+\c@notation=\count464
+\c@dummy=\count465
+\c@problem=\count466
+\c@exerciseT=\count467
+\c@exampleT=\count468
+\c@vocabulary=\count469
+\c@definitionT=\count470
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\c@abspage=\count471
+Package zref Info: New property: abspage on input line 66.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip114
+\c@mdf@globalstyle@cnt=\count472
+\mdf@skipabove@length=\skip115
+\mdf@skipbelow@length=\skip116
+\mdf@leftmargin@length=\skip117
+\mdf@rightmargin@length=\skip118
+\mdf@innerleftmargin@length=\skip119
+\mdf@innerrightmargin@length=\skip120
+\mdf@innertopmargin@length=\skip121
+\mdf@innerbottommargin@length=\skip122
+\mdf@splittopskip@length=\skip123
+\mdf@splitbottomskip@length=\skip124
+\mdf@outermargin@length=\skip125
+\mdf@innermargin@length=\skip126
+\mdf@linewidth@length=\skip127
+\mdf@innerlinewidth@length=\skip128
+\mdf@middlelinewidth@length=\skip129
+\mdf@outerlinewidth@length=\skip130
+\mdf@roundcorner@length=\skip131
+\mdf@footenotedistance@length=\skip132
+\mdf@userdefinedwidth@length=\skip133
+\mdf@needspace@length=\skip134
+\mdf@frametitleaboveskip@length=\skip135
+\mdf@frametitlebelowskip@length=\skip136
+\mdf@frametitlerulewidth@length=\skip137
+\mdf@frametitleleftmargin@length=\skip138
+\mdf@frametitlerightmargin@length=\skip139
+\mdf@shadowsize@length=\skip140
+\mdf@extratopheight@length=\skip141
+\mdf@subtitleabovelinewidth@length=\skip142
+\mdf@subtitlebelowlinewidth@length=\skip143
+\mdf@subtitleaboveskip@length=\skip144
+\mdf@subtitlebelowskip@length=\skip145
+\mdf@subtitleinneraboveskip@length=\skip146
+\mdf@subtitleinnerbelowskip@length=\skip147
+\mdf@subsubtitleabovelinewidth@length=\skip148
+\mdf@subsubtitlebelowlinewidth@length=\skip149
+\mdf@subsubtitleaboveskip@length=\skip150
+\mdf@subsubtitlebelowskip@length=\skip151
+\mdf@subsubtitleinneraboveskip@length=\skip152
+\mdf@subsubtitleinnerbelowskip@length=\skip153
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box94
+\mdf@footnotebox=\box95
+\mdf@splitbox@one=\box96
+\mdf@splitbox@two=\box97
+\mdf@splitbox@save=\box98
+\mdfsplitboxwidth=\skip154
+\mdfsplitboxtotalwidth=\skip155
+\mdfsplitboxheight=\skip156
+\mdfsplitboxdepth=\skip157
+\mdfsplitboxtotalheight=\skip158
+\mdfframetitleboxwidth=\skip159
+\mdfframetitleboxtotalwidth=\skip160
+\mdfframetitleboxheight=\skip161
+\mdfframetitleboxdepth=\skip162
+\mdfframetitleboxtotalheight=\skip163
+\mdffootnoteboxwidth=\skip164
+\mdffootnoteboxtotalwidth=\skip165
+\mdffootnoteboxheight=\skip166
+\mdffootnoteboxdepth=\skip167
+\mdffootnoteboxtotalheight=\skip168
+\mdftotallinewidth=\skip169
+\mdfboundingboxwidth=\skip170
+\mdfboundingboxtotalwidth=\skip171
+\mdfboundingboxheight=\skip172
+\mdfboundingboxdepth=\skip173
+\mdfboundingboxtotalheight=\skip174
+\mdf@freevspace@length=\skip175
+\mdf@horizontalwidthofbox@length=\skip176
+\mdf@verticalmarginwhole@length=\skip177
+\mdf@horizontalspaceofbox=\skip178
+\mdfsubtitleheight=\skip179
+\mdfsubsubtitleheight=\skip180
+\c@mdfcountframes=\count473
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count474
+\c@mdf@env@i=\count475
+\c@mdf@env@ii=\count476
+\c@mdf@zref@counter=\count477
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+\esp=\skip181
+\ecart=\skip182
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+\@linkdim=\dimen331
+\Hy@linkcounter=\count478
+\Hy@pagecounter=\count479
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count480
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count481
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen332
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count482
+\Field@Width=\dimen333
+\Fld@charsize=\dimen334
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+\Hy@abspage=\count483
+\c@Item=\count484
+\c@Hfootnote=\count485
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\HyAnn@Count=\count486
+\Fld@listcount=\count487
+\c@bookmark@seq@number=\count488
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip183
+)
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 563.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 563.
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 563.
+
+Package hyperref Info: Option `colorlinks' set `false' on input line 563.
+Package hyperref Info: Option `breaklinks' set `true' on input line 563.
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 563.
+
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 563.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count489
+)))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count490
+\@quotereset=\count491
+(NewWATR082Main.aux)
+\openout1 = `NewWATR082Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count492
+\scratchdimen=\dimen335
+\scratchbox=\box99
+\nofMPsegments=\count493
+\nofMParguments=\count494
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count495
+\MPscratchDim=\dimen336
+\MPnumerator=\count496
+\makeMPintoPDFobject=\count497
+\everyMPtoPDFconversion=\toks65
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-10.91173pt
+* \headheight=14.0pt
+* \headsep=10.0pt
+* \topskip=11.0pt
+* \footskip=39.83368pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 64.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 64.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 64.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 64.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \celsius on input line 64.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 64.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 64.
+Package gensymb Info: Using \upOmega for \ohm on input line 64.
+
+Package gensymb Warning: Not defining \micro.
+
+LaTeX Info: Redefining \microtypecontext on input line 64.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 64.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-05-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `NewWATR082Main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'NewWATR082Main.bbl' not found.
+
+No file NewWATR082Main.bbl.
+Package biblatex Info: Reference section=0 on input line 64.
+Package biblatex Info: Reference segment=0 on input line 64.
+Package hyperref Info: Link coloring OFF on input line 64.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count498
+)
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
+<WaterBackground1.png, id=6, 1623.06375pt x 2320.67pt>
+File: WaterBackground1.png Graphic file (type png)
+<use WaterBackground1.png>
+Package pdftex.def Info: WaterBackground1.png  used on input line 80.
+(pdftex.def)             Requested size: 597.50787pt x 854.3498pt.
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 83
+.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 83.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pag' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 85.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+5.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+<SCC_Logo_Primary.png, id=8, 315.0972pt x 175.1343pt>
+File: SCC_Logo_Primary.png Graphic file (type png)
+<use SCC_Logo_Primary.png>
+Package pdftex.def Info: SCC_Logo_Primary.png  used on input line 88.
+(pdftex.def)             Requested size: 157.5482pt x 87.56693pt.
+
+[1
+
+{C:/Users/indov/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./WaterBackgrou
+nd1.png> <./SCC_Logo_Primary.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+01.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[2]
+<WastewaterTreatmentPlantAerialBandW.jpg, id=23, 301.125pt x 168.63pt>
+File: WastewaterTreatmentPlantAerialBandW.jpg Graphic file (type jpg)
+<use WastewaterTreatmentPlantAerialBandW.jpg>
+Package pdftex.def Info: WastewaterTreatmentPlantAerialBandW.jpg  used on input
+ line 121.
+(pdftex.def)             Requested size: 597.50787pt x 334.67062pt.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 121.
+ (NewWATR082Main.toc
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 6.
+ [3
+
+ <./WastewaterTreatmentPlantAerialBandW.jpg>]
+[4] [5] [6] [7])
+\tf@toc=\write6
+\openout6 = `NewWATR082Main.toc'.
+
+ [8]
+File: WastewaterTreatmentPlantAerialBandW.jpg Graphic file (type jpg)
+<use WastewaterTreatmentPlantAerialBandW.jpg>
+Package pdftex.def Info: WastewaterTreatmentPlantAerialBandW.jpg  used on input
+ line 122.
+(pdftex.def)             Requested size: 597.50787pt x 334.67062pt.
+ (NewWATR082Main.lof [9
+
+])
+\tf@lof=\write7
+\openout7 = `NewWATR082Main.lof'.
+
+ [10]
+File: WastewaterTreatmentPlantAerialBandW.jpg Graphic file (type jpg)
+<use WastewaterTreatmentPlantAerialBandW.jpg>
+Package pdftex.def Info: WastewaterTreatmentPlantAerialBandW.jpg  used on input
+ line 123.
+(pdftex.def)             Requested size: 597.50787pt x 334.67062pt.
+ (NewWATR082Main.lot)
+\tf@lot=\write8
+\openout8 = `NewWATR082Main.lot'.
+
+
+[11
+
+] [12
+
+]
+\c@ttl@toc@default=\count499
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 196.
+ (NewWATR082Main.ptc
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|| [][]\T1/pag/m/n/10 (+20) Regulations Re-lated to Op-er-a-tions and Main-te
+-
+ []
+
+)
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 196.
+ [13
+
+] [14] (WATR080 Why Treat Wastewater.tex
+Chapter 1.
+<Water1.png, id=766, 1866.975pt x 933.4875pt>
+File: Water1.png Graphic file (type png)
+<use Water1.png>
+Package pdftex.def Info: Water1.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 298.7506pt.
+
+Overfull \hbox (0.18547pt too wide) in paragraph at lines 17--18
+\T1/ptm/m/n/10.95 (+11) in-dus-tries are col-lected in sew-ers for de-liv-ery t
+o the treat-ment plant and sub-se-quently dis-charged 
+ []
+
+[15
+
+ <./Water1.png>]
+Overfull \hbox (0.14116pt too wide) in paragraph at lines 57--59
+[]\T1/ptm/m/n/10.95 (+17) Wastewater treatment removes parasites and disease-ca
+using pathogens including bacteria 
+ []
+
+) (WATR080 Regulations.tex [16]
+Chapter 2.
+<RegulationsChapterImage.png, id=781, 6504.3pt x 3252.15pt>
+File: RegulationsChapterImage.png Graphic file (type png)
+<use RegulationsChapterImage.png>
+Package pdftex.def Info: RegulationsChapterImage.png  used on input line 2.
+(pdftex.def)             Requested size: 597.50787pt x 298.73497pt.
+
+Overfull \hbox (0.14839pt too wide) in paragraph at lines 19--19
+\T1/ptm/m/n/10.95 (-8) Municipal wastew-a-ter treat-ment plants also known as P
+ub-licly Owned Treat-ment Works (POTWs) 
+ []
+
+[17
+
+ <./RegulationsChapterImage.png>]
+Overfull \hbox (0.14034pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 (+7) ef-fect the treat-ment pro-cess or im-pact pub-lic safet
+y and the safety of the peo-ple work-ing at 
+ []
+
+
+Overfull \hbox (0.10762pt too wide) in paragraph at lines 41--42
+[]\T1/ptm/m/n/10.95 (+19) Part 503 rule applies to any person who applies bioso
+lids to the land or fires biosolids in a 
+ []
+
+
+Overfull \hbox (0.15054pt too wide) in paragraph at lines 51--52
+\T1/ptm/m/n/10.95 (+4) Part 503 requirements are factored in when establishing 
+the heavy metals concentration limits for 
+ []
+
+[18]
+Overfull \hbox (11.89372pt too wide) in paragraph at lines 56--56
+[]\T1/ptm/m/n/10.95 (-20) Typically, a lo-cal agency such as the South Coast Ai
+r Qual-ity Man-age-ment Dis-trict (SCAQMD) 
+ []
+
+[19]
+
+pdfTeX warning: pdflatex (file ./WastewaterPlantOperatorClassificationRequireme
+nts.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<WastewaterPlantOperatorClassificationRequirements.pdf, id=808, 614.295pt x 794
+.97pt>
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+ used on input line 90.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./WastewaterPlantOperatorClassificationRequireme
+nts.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+ used on input line 90.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./WastewaterPlantOperatorClassificationRequireme
+nts.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+
+
+pdfTeX warning: pdflatex (file ./WastewaterPlantOperatorClassificationRequireme
+nts.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<WastewaterPlantOperatorClassificationRequirements.pdf, id=811, page=1, 614.295
+pt x 794.97pt>
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf, page 1>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+, page1 used on input line 90.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf, page 1>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[20]
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf, page 1>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf, page 1>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: WastewaterPlantOperatorClassificationRequirements.pdf Graphic file (type 
+pdf)
+<use WastewaterPlantOperatorClassificationRequirements.pdf, page 1>
+Package pdftex.def Info: WastewaterPlantOperatorClassificationRequirements.pdf 
+, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [21 <./WastewaterPlantOperatorClassificationRequirements.pdf>]
+
+pdfTeX warning: pdflatex (file ./CertificationRequirement.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<CertificationRequirement.pdf, id=833, 614.295pt x 794.97pt>
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf>
+Package pdftex.def Info: CertificationRequirement.pdf  used on input line 91.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./CertificationRequirement.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf>
+Package pdftex.def Info: CertificationRequirement.pdf  used on input line 91.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./CertificationRequirement.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./CertificationRequirement.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<CertificationRequirement.pdf, id=836, page=1, 614.295pt x 794.97pt>
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 1>
+Package pdftex.def Info: CertificationRequirement.pdf , page1 used on input lin
+e 91.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 1>
+Package pdftex.def Info: CertificationRequirement.pdf , page1 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 1>
+Package pdftex.def Info: CertificationRequirement.pdf , page1 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 1>
+Package pdftex.def Info: CertificationRequirement.pdf , page1 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 1>
+Package pdftex.def Info: CertificationRequirement.pdf , page1 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[22 <./CertificationRequirement.pdf>]
+
+pdfTeX warning: pdflatex (file ./CertificationRequirement.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<CertificationRequirement.pdf, id=850, page=2, 614.295pt x 794.97pt>
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 2>
+Package pdftex.def Info: CertificationRequirement.pdf , page2 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 2>
+Package pdftex.def Info: CertificationRequirement.pdf , page2 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: CertificationRequirement.pdf Graphic file (type pdf)
+<use CertificationRequirement.pdf, page 2>
+Package pdftex.def Info: CertificationRequirement.pdf , page2 used on input lin
+e 91.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[23 <./CertificationRequirement.pdf>]
+Overfull \hbox (0.12843pt too wide) in paragraph at lines 97--98
+\T1/ptm/m/n/10.95 (+1) ra-tory (UL) have rec-og-nized these haz-ards and im-ple
+-mented codes and stan-dards to pro-tect 
+ []
+
+) (WATR080 Elements of Wastewater Treatment.tex [24]
+Chapter 3.
+<ElementsofTreatmentImg.png, id=862, 1269.24188pt x 498.36188pt>
+File: ElementsofTreatmentImg.png Graphic file (type png)
+<use ElementsofTreatmentImg.png>
+Package pdftex.def Info: ElementsofTreatmentImg.png  used on input line 2.
+(pdftex.def)             Requested size: 597.50787pt x 234.61794pt.
+[25
+
+ <./ElementsofTreatmentImg.png (PNG copy)>]
+<SeperatedSystem1.png, id=872, 408.02437pt x 322.20375pt>
+File: SeperatedSystem1.png Graphic file (type png)
+<use SeperatedSystem1.png>
+Package pdftex.def Info: SeperatedSystem1.png  used on input line 33.
+(pdftex.def)             Requested size: 183.60927pt x 144.99034pt.
+<CombinedSystem1.png, id=873, 360.59718pt x 311.66437pt>
+File: CombinedSystem1.png Graphic file (type png)
+<use CombinedSystem1.png>
+Package pdftex.def Info: CombinedSystem1.png  used on input line 33.
+(pdftex.def)             Requested size: 162.26723pt x 140.24767pt.
+
+Overfull \hbox (249.8901pt too wide) in paragraph at lines 35--35
+  \T1/ptm/m/n/10.95 (-20) Sep-a-rated Sys-tem   $[]$  
+ []
+
+[26 <./SeperatedSystem1.png> <./CombinedSystem1.png>]
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 64.
+<TreatmentFlow.png, id=879, 722.7pt x 332.9238pt>
+File: TreatmentFlow.png Graphic file (type png)
+<use TreatmentFlow.png>
+Package pdftex.def Info: TreatmentFlow.png  used on input line 73.
+(pdftex.def)             Requested size: 433.62334pt x 199.75581pt.
+
+Overfull \hbox (34.20705pt too wide) in paragraph at lines 73--74
+ [] 
+ []
+
+<Treatment.png, id=880, 959.83594pt x 484.81125pt>
+File: Treatment.png Graphic file (type png)
+<use Treatment.png>
+Package pdftex.def Info: Treatment.png  used on input line 77.
+(pdftex.def)             Requested size: 403.12834pt x 203.61932pt.
+
+Overfull \hbox (3.71205pt too wide) in paragraph at lines 77--78
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./TreatmentFlow.png>]) (WATR082 NewWastewaterMathReview.tex [28 <./Treatm
+ent.png>]
+Chapter 4.
+<MathCover.png, id=897, 2489.3pt x 1244.65pt>
+File: MathCover.png Graphic file (type png)
+<use MathCover.png>
+Package pdftex.def Info: MathCover.png  used on input line 4.
+(pdftex.def)             Requested size: 597.50787pt x 298.74109pt.
+
+Overfull \hbox (0.14377pt too wide) in paragraph at lines 24--26
+[]\T1/ptm/m/n/10.95 (+9) The mea-sure-ment of any phys-i-cal quan-tity is ex-pr
+essed in terms of a num-ber - which is the quan- 
+ []
+
+
+Overfull \hbox (0.11914pt too wide) in paragraph at lines 37--38
+\T1/ptm/m/n/10.95 (+19) that is used to change the units of a measured quantity
+ without changing the value. Examples of 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29
+
+ <./MathCover.png>]
+Overfull \hbox (2.80577pt too wide) in paragraph at lines 75--75
+[]$\OML/ztmcm/m/it/10.95 Quantityinconvertedunit \OT1/ztmcm/m/n/10.95 = \OML/zt
+mcm/m/it/10.95 Quantity\OT1/ztmcm/m/n/10.95 ([]) \OMS/ztmcm/m/n/10.95  \OML/zt
+mcm/m/it/10.95 ConversionFactor[]$  
+ []
+
+[30]
+<Area&VolumeFormula.png, id=911, 566.86781pt x 547.2947pt>
+File: Area&VolumeFormula.png Graphic file (type png)
+<use Area&VolumeFormula.png>
+Package pdftex.def Info: Area&VolumeFormula.png  used on input line 104.
+(pdftex.def)             Requested size: 283.43321pt x 273.64667pt.
+ [31 <./Area&VolumeFormula.png>]
+Overfull \hbox (0.16985pt too wide) in paragraph at lines 229--229
+[]\T1/ptm/m/n/10.95 (+13) Calculate the lbs/day of solids entering the plant gi
+ven the influent flow is 500,000 gallons 
+ []
+
+[32]
+<PoundsFormula.png, id=926, 189.5883pt x 189.1065pt>
+File: PoundsFormula.png Graphic file (type png)
+<use PoundsFormula.png>
+Package pdftex.def Info: PoundsFormula.png  used on input line 270.
+(pdftex.def)             Requested size: 94.79391pt x 94.55301pt.
+ [33 <./PoundsFormula.png>]
+Overfull \hbox (0.10571pt too wide) in paragraph at lines 309--310
+[]\T1/ptm/m/n/10.95 (+3) If 10 units of a pollutant are entering a process and 
+8 units of pollutant are leaving (process 
+ []
+
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 328.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[34] [35]
+Overfull \hbox (110.25789pt too wide) in paragraph at lines 455--477
+[]\T1/ptm/m/n/10.95 (-20) Alternate So-lu-tion #1 $[] [] [] [] []$  
+ []
+
+[36]
+Overfull \hbox (0.16928pt too wide) in paragraph at lines 504--504
+[]\T1/ptm/m/n/10.95 (+19) Velocity of water flowing through can be calculated b
+y dividing the flow rate by area of the flow 
+ []
+
+<ChannelFlow3.png, id=958, 356.83313pt x 182.93344pt>
+File: ChannelFlow3.png Graphic file (type png)
+<use ChannelFlow3.png>
+Package pdftex.def Info: ChannelFlow3.png  used on input line 513.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+File: ChannelFlow3.png Graphic file (type png)
+<use ChannelFlow3.png>
+Package pdftex.def Info: ChannelFlow3.png  used on input line 521.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+[37 <./ChannelFlow3.png>]
+File: ChannelFlow3.png Graphic file (type png)
+<use ChannelFlow3.png>
+Package pdftex.def Info: ChannelFlow3.png  used on input line 528.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+ [38] [39]
+Overfull \hbox (0.1534pt too wide) in paragraph at lines 603--603
+[]\T1/ptm/m/n/10.95 (+15) b. If either inlet or outlet concentration is given a
+long with the clarifier removal efficiency, using 
+ []
+
+[40]
+Overfull \hbox (19.02321pt too wide) in paragraph at lines 611--611
+[]\T1/ptm/m/n/10.95 (-20) Note: You may de-rive the above for-mu-las by al-ge-b
+raically ma-nip-u-lat-ing: $\OT1/ztmcm/m/n/10.95 %\OML/ztmcm/m/it/10.95 Removal
+ \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (31.56682pt too wide) detected at line 620
+[] \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95  []  []  [] \OT1/ztmcm/m/n
+/10.95 = []
+ []
+
+[41]) [42] (NewWATR082Main.ptc) [43
+
+] [44] (WATR082 Laboratory Analysis.tex
+Chapter 5.
+<ChapterImageLaboratory.png, id=1010, 1866.975pt x 933.4875pt>
+File: ChapterImageLaboratory.png Graphic file (type png)
+<use ChapterImageLaboratory.png>
+Package pdftex.def Info: ChapterImageLaboratory.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 298.7506pt.
+
+Overfull \hbox (0.15286pt too wide) in paragraph at lines 59--59
+[]\T1/ptm/m/n/10.95 (+13) As the reg-u-lar BOD test in-cludes es-ti-ma-tion of 
+oxy-gen ni-tri-fy-ing bac-te-ria con-sumes in the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45
+
+ <./ChapterImageLaboratory.png>]
+Overfull \hbox (0.15536pt too wide) in paragraph at lines 66--66
+[]\T1/ptm/m/n/10.95 (+19) The dilutions are made based upon the expected BOD co
+ncentration of the sample. Using 
+ []
+
+[46]
+Overfull \hbox (0.20087pt too wide) in paragraph at lines 112--112
+[] $\OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95  \OT1/ztmcm/m/n/10.95 1\OML
+/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 000\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/
+m/n/10.95 000$  
+ []
+
+
+Overfull \hbox (15.42525pt too wide) in paragraph at lines 121--121
+[] $\OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95  
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
+[47] [48]
+<LaboratorySolidsAnalysis4_01.pdf, id=1030, 794.97pt x 614.295pt>
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf  used on input line 1
+59.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf  used on input line 1
+59.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+<LaboratorySolidsAnalysis4_01.pdf, id=1033, page=1, 794.97pt x 614.295pt>
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf, page 1>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf , page1 used on input
+ line 159.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf, page 1>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf , page1 used on input
+ line 159.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf, page 1>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf , page1 used on input
+ line 159.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf, page 1>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf , page1 used on input
+ line 159.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+File: LaboratorySolidsAnalysis4_01.pdf Graphic file (type pdf)
+<use LaboratorySolidsAnalysis4_01.pdf, page 1>
+Package pdftex.def Info: LaboratorySolidsAnalysis4_01.pdf , page1 used on input
+ line 159.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+ [49 <./LaboratorySolidsAnalysis4_01.pdf>]
+<WastewaterSolids.png, id=1056, 472.01344pt x 271.0125pt>
+File: WastewaterSolids.png Graphic file (type png)
+<use WastewaterSolids.png>
+Package pdftex.def Info: WastewaterSolids.png  used on input line 164.
+(pdftex.def)             Requested size: 472.01228pt x 271.01183pt.
+
+Overfull \hbox (30.4695pt too wide) in paragraph at lines 196--208
+[][] 
+ []
+
+
+Underfull \vbox (badness 3590) has occurred while \output is active []
+
+ [50]
+[51 <./WastewaterSolids.png>]
+<LaboratoryWastewaterBacteria.png, id=1067, 528.47438pt x 518.6878pt>
+File: LaboratoryWastewaterBacteria.png Graphic file (type png)
+<use LaboratoryWastewaterBacteria.png>
+Package pdftex.def Info: LaboratoryWastewaterBacteria.png  used on input line 2
+49.
+(pdftex.def)             Requested size: 113.81102pt x 111.69774pt.
+ [52 <./LaboratoryWastewaterBacteria.png>]
+[53]
+
+pdfTeX warning: pdflatex (file ./MTF.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<MTF.pdf, id=1087, 614.295pt x 794.97pt>
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf>
+Package pdftex.def Info: MTF.pdf  used on input line 281.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./MTF.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf>
+Package pdftex.def Info: MTF.pdf  used on input line 281.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./MTF.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./MTF.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<MTF.pdf, id=1090, page=1, 614.295pt x 794.97pt>
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf, page 1>
+Package pdftex.def Info: MTF.pdf , page1 used on input line 281.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf, page 1>
+Package pdftex.def Info: MTF.pdf , page1 used on input line 281.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf, page 1>
+Package pdftex.def Info: MTF.pdf , page1 used on input line 281.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf, page 1>
+Package pdftex.def Info: MTF.pdf , page1 used on input line 281.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MTF.pdf Graphic file (type pdf)
+<use MTF.pdf, page 1>
+Package pdftex.def Info: MTF.pdf , page1 used on input line 281.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[54 <./MTF.pdf>]
+
+pdfTeX warning: pdflatex (file ./MTFTable.pdf): PDF inclusion: found PDF versio
+n <1.6>, but at most version <1.5> allowed
+<MTFTable.pdf, id=1116, 614.295pt x 794.97pt>
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf>
+Package pdftex.def Info: MTFTable.pdf  used on input line 285.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./MTFTable.pdf): PDF inclusion: found PDF versio
+n <1.6>, but at most version <1.5> allowed
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf>
+Package pdftex.def Info: MTFTable.pdf  used on input line 285.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./MTFTable.pdf): PDF inclusion: found PDF versio
+n <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./MTFTable.pdf): PDF inclusion: found PDF versio
+n <1.6>, but at most version <1.5> allowed
+<MTFTable.pdf, id=1119, page=1, 614.295pt x 794.97pt>
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf, page 1>
+Package pdftex.def Info: MTFTable.pdf , page1 used on input line 285.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf, page 1>
+Package pdftex.def Info: MTFTable.pdf , page1 used on input line 285.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf, page 1>
+Package pdftex.def Info: MTFTable.pdf , page1 used on input line 285.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf, page 1>
+Package pdftex.def Info: MTFTable.pdf , page1 used on input line 285.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MTFTable.pdf Graphic file (type pdf)
+<use MTFTable.pdf, page 1>
+Package pdftex.def Info: MTFTable.pdf , page1 used on input line 285.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[55 <./MTFTable.pdf>]
+Overfull \hbox (0.19017pt too wide) in paragraph at lines 288--289
+\T1/ptm/m/n/10 (+15) bacteria present. The filter is placed on an absorbent pad
+ (in a petri dish) saturated with a culture medium 
+ []
+
+
+Overfull \hbox (0.15434pt too wide) in paragraph at lines 288--289
+\T1/ptm/m/n/10 (+2) that is selective for coliform growth. The petri dish conta
+ining the filter and pad is incubated, upside down, 
+ []
+
+<LaboratoryMembraneFiltration.png, id=1134, 492.33937pt x 450.9347pt>
+File: LaboratoryMembraneFiltration.png Graphic file (type png)
+<use LaboratoryMembraneFiltration.png>
+Package pdftex.def Info: LaboratoryMembraneFiltration.png  used on input line 2
+90.
+(pdftex.def)             Requested size: 443.10132pt x 405.83748pt.
+
+Overfull \hbox (16.30997pt too wide) in paragraph at lines 290--291
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./LaboratoryMembraneFiltration.png>]
+Overfull \hbox (0.17459pt too wide) in paragraph at lines 296--297
+\T1/ptm/m/n/10 (+9) E. Coli and Enterococcus. This method involve the use of sp
+ecific enzymes and overcomes the drawbacks 
+ []
+
+<LaboratoryQuantiTray.png, id=1140, 473.77pt x 189.70876pt>
+File: LaboratoryQuantiTray.png Graphic file (type png)
+<use LaboratoryQuantiTray.png>
+Package pdftex.def Info: LaboratoryQuantiTray.png  used on input line 298.
+(pdftex.def)             Requested size: 426.38905pt x 170.73628pt.
+) [57 <./LaboratoryQuantiTray.png>] [58
+
+] (NewWATR082Main.ptc) [59] [60]
+(WATR082 ActivatedSludge.tex
+Chapter 6.
+<Week2AS.jpg, id=1174, 1025.8325pt x 561.09625pt>
+File: Week2AS.jpg Graphic file (type jpg)
+<use Week2AS.jpg>
+Package pdftex.def Info: Week2AS.jpg  used on input line 2.
+(pdftex.def)             Requested size: 597.50787pt x 326.81447pt.
+
+Overfull \hbox (0.14569pt too wide) in paragraph at lines 15--16
+[]\T1/ptm/m/n/10 (+15) The wastewater exiting the aeration basin enters a clari
+fier where the floc settles. The clear, treated 
+ []
+
+<ASProcess.png, id=1175, 482.55281pt x 138.5175pt>
+File: ASProcess.png Graphic file (type png)
+<use ASProcess.png>
+Package pdftex.def Info: ASProcess.png  used on input line 24.
+(pdftex.def)             Requested size: 446.0451pt x 128.0374pt.
+
+Overfull \hbox (46.62881pt too wide) in paragraph at lines 24--25
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61
+
+ <./Week2AS.jpg>]
+Package mdframed Info: mdframed works in twoside mode on input line 31.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 31.
+
+Overfull \hbox (7.6369pt too wide) in paragraph at lines 36--37
+[]\T1/ptm/m/n/10 (-20) In the mixed liquor, the sus-pended solids com-prised mo
+stly of biomass with some un-de-graded and
+ []
+
+
+Overfull \hbox (2.56372pt too wide) in paragraph at lines 37--38
+[]\T1/ptm/m/n/10 (-20) The MLVSS is the amount of biomass as a per-cent-age of 
+the MLSS. Gen-er-ally, the MLVSS is 70
+ []
+
+
+Overfull \hbox (0.1393pt too wide) in paragraph at lines 46--47
+\T1/ptm/m/n/10 (+16) The microbiological population in the activated sludge is 
+very sensitive to pH and needs to be maintained 
+ []
+
+[62 <./ASProcess.png>]
+Overfull \hbox (0.18498pt too wide) in paragraph at lines 54--55
+\T1/ptm/m/n/10 (+20) load with less than ad-e-quate mi-croor-gan-isms (rep-re-s
+ented by MLVSS) in-di-cat-ing a young sludge and the 
+ []
+
+[63]
+<Amoeba.png, id=1189, 523.20468pt x 382.42876pt>
+File: Amoeba.png Graphic file (type png)
+<use Amoeba.png>
+Package pdftex.def Info: Amoeba.png  used on input line 129.
+(pdftex.def)             Requested size: 183.12437pt x 133.85207pt.
+<StalkedCilliate.png, id=1190, 194.97844pt x 146.04562pt>
+File: StalkedCilliate.png Graphic file (type png)
+<use StalkedCilliate.png>
+Package pdftex.def Info: StalkedCilliate.png  used on input line 129.
+(pdftex.def)             Requested size: 171.58154pt x 128.52052pt.
+<Flagellate.png, id=1191, 194.22563pt x 144.54pt>
+File: Flagellate.png Graphic file (type png)
+<use Flagellate.png>
+Package pdftex.def Info: Flagellate.png  used on input line 131.
+(pdftex.def)             Requested size: 170.91907pt x 127.19557pt.
+<Suctorian.png, id=1192, 194.97844pt x 146.04562pt>
+File: Suctorian.png Graphic file (type png)
+<use Suctorian.png>
+Package pdftex.def Info: Suctorian.png  used on input line 131.
+(pdftex.def)             Requested size: 171.58154pt x 128.52052pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]
+<Rotifer.png, id=1204, 194.97844pt x 146.04562pt>
+File: Rotifer.png Graphic file (type png)
+<use Rotifer.png>
+Package pdftex.def Info: Rotifer.png  used on input line 136.
+(pdftex.def)             Requested size: 170.6057pt x 127.78958pt.
+<Nematode.png, id=1205, 194.97844pt x 146.04562pt>
+File: Nematode.png Graphic file (type png)
+<use Nematode.png>
+Package pdftex.def Info: Nematode.png  used on input line 136.
+(pdftex.def)             Requested size: 171.58154pt x 128.52052pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65 <./Amoeba.png> <./StalkedCilliate.png> <./Flagellate.png> <./Suctorian.png
+> <./Rotifer.png> <./Nematode.png>] [66]
+Overfull \hbox (0.10435pt too wide) in paragraph at lines 206--207
+[]\T1/ptm/m/n/10 (+15) The clarifier will have has a constantly changing depth 
+of sludge blanket as the MLSS moves from 
+ []
+
+
+Overfull \hbox (1.47508pt too wide) in paragraph at lines 207--208
+[]\T1/ptm/m/n/10 (-20) This RAS con-trol op-tion is es-pe-cially ad-van-ta-geou
+s for smaller plants as it en-tails lit-tle ef-fort/minimal 
+ []
+
+
+Overfull \hbox (0.1086pt too wide) in paragraph at lines 216--216
+[]\T1/ptm/m/n/10 (+18) Clarifier is subjected to maximum solids loading when th
+e clarifier contains the maximum amount 
+ []
+
+
+Underfull \vbox (badness 2409) has occurred while \output is active []
+
+ [67]
+<RASQ.png, id=1227, 578.16pt x 149.55875pt>
+File: RASQ.png Graphic file (type png)
+<use RASQ.png>
+Package pdftex.def Info: RASQ.png  used on input line 225.
+(pdftex.def)             Requested size: 433.61893pt x 112.16878pt.
+
+Overfull \hbox (6.82758pt too wide) in paragraph at lines 225--225
+[][]  
+ []
+
+
+Overfull \hbox (0.13629pt too wide) in paragraph at lines 251--252
+\T1/ptm/m/n/10 (+5) occurs at starvation condition when all of the influent BOD
+ has been used up (low F:M) and the old 
+ []
+
+[68 <./RASQ.png>]
+<Filaments.png, id=1238, 121.95563pt x 75.28125pt>
+File: Filaments.png Graphic file (type png)
+<use Filaments.png>
+Package pdftex.def Info: Filaments.png  used on input line 258.
+(pdftex.def)             Requested size: 182.93295pt x 112.92157pt.
+ [69 <./Filaments.png>]
+Overfull \hbox (17.68301pt too wide) in paragraph at lines 277--295
+ [][] 
+ []
+
+[70]
+<ConventionalActivatedSludge.png, id=1249, 576.1525pt x 233.87375pt>
+File: ConventionalActivatedSludge.png Graphic file (type png)
+<use ConventionalActivatedSludge.png>
+Package pdftex.def Info: ConventionalActivatedSludge.png  used on input line 30
+8.
+(pdftex.def)             Requested size: 350.48544pt x 142.26378pt.
+<StepFeed.png, id=1250, 631.60968pt x 256.70906pt>
+File: StepFeed.png Graphic file (type png)
+<use StepFeed.png>
+Package pdftex.def Info: StepFeed.png  used on input line 336.
+(pdftex.def)             Requested size: 280.01974pt x 113.81102pt.
+ [71
+
+
+ <./ConventionalActivatedSludge.png>]
+<StepFeed1.png, id=1260, 450.9347pt x 141.52875pt>
+File: StepFeed1.png Graphic file (type png)
+<use StepFeed1.png>
+Package pdftex.def Info: StepFeed1.png  used on input line 358.
+(pdftex.def)             Requested size: 271.97345pt x 85.35826pt.
+<ContactStabilization.png, id=1261, 614.295pt x 292.09125pt>
+File: ContactStabilization.png Graphic file (type png)
+<use ContactStabilization.png>
+Package pdftex.def Info: ContactStabilization.png  used on input line 386.
+(pdftex.def)             Requested size: 359.04712pt x 170.71652pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[72 <./StepFeed.png> <./StepFeed1.png>]
+Overfull \hbox (0.1638pt too wide) in paragraph at lines 399--399
+\T1/ptm/m/n/10 (+12) the tanks. Pure oxygen from an oxygen generation system or
+ is introduced in the headspace of the reactor. 
+ []
+
+
+Overfull \hbox (0.11873pt too wide) in paragraph at lines 399--399
+\T1/ptm/m/n/10 (+18) dissolve the oxygen into the mixed liquor. High DO levels 
+are maintained in the aeration tanks (4 mg/l to 
+ []
+
+<PureOx.png, id=1271, 445.665pt x 227.34938pt>
+File: PureOx.png Graphic file (type png)
+<use PureOx.png>
+Package pdftex.def Info: PureOx.png  used on input line 403.
+(pdftex.def)             Requested size: 334.65594pt x 170.71652pt.
+[73 <./ContactStabilization.png> <./PureOx.png>]
+<SBR.png, id=1280, 261.22594pt x 285.31593pt>
+File: SBR.png Graphic file (type png)
+<use SBR.png>
+Package pdftex.def Info: SBR.png  used on input line 425.
+(pdftex.def)             Requested size: 260.50381pt x 284.52756pt.
+ [74 <./SBR.png>]
+Overfull \hbox (0.16754pt too wide) in paragraph at lines 456--457
+[]\T1/ptm/m/n/10 (+19) SBR con-struc-tion is less costly due to the elim-i-na-t
+ion of sec-ondary clar-i-fiers and some-times di-ges- 
+ []
+
+<ExtendedAeration.png, id=1292, 628.59843pt x 246.9225pt>
+File: ExtendedAeration.png Graphic file (type png)
+<use ExtendedAeration.png>
+Package pdftex.def Info: ExtendedAeration.png  used on input line 463.
+(pdftex.def)             Requested size: 398.37865pt x 156.49014pt.
+
+Overfull \hbox (0.17178pt too wide) in paragraph at lines 475--476
+[]\T1/ptm/m/n/10 (+9) In addition to consuming all the incoming food, the micro
+bes consume all food stored within cells - 
+ []
+
+<OxidationDitch.png, id=1293, 456.20438pt x 152.82094pt>
+File: OxidationDitch.png Graphic file (type png)
+<use OxidationDitch.png>
+Package pdftex.def Info: OxidationDitch.png  used on input line 482.
+(pdftex.def)             Requested size: 254.81139pt x 85.35826pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[75 <./ExtendedAeration.png>]
+<Kraus.png, id=1302, 618.05907pt x 359.84438pt>
+File: Kraus.png Graphic file (type png)
+<use Kraus.png>
+Package pdftex.def Info: Kraus.png  used on input line 496.
+(pdftex.def)             Requested size: 268.7875pt x 156.49014pt.
+ [76 <./OxidationDitch.png> <./Kraus.png>]
+[77]
+Overfull \hbox (24.12225pt too wide) in paragraph at lines 536--545
+[][]  
+ []
+
+) [78] (NewWATR082Main.ptc) [79
+
+] [80] (WATR082 NutrientRemoval.tex
+Chapter 7.
+<NutrientRemovalBW.jpg, id=1338, 2741.24126pt x 1402.23875pt>
+File: NutrientRemovalBW.jpg Graphic file (type jpg)
+<use NutrientRemovalBW.jpg>
+Package pdftex.def Info: NutrientRemovalBW.jpg  used on input line 2.
+(pdftex.def)             Requested size: 597.50787pt x 305.64775pt.
+<NitrogenCycle.png, id=1339, 696.201pt x 358.4592pt>
+File: NitrogenCycle.png Graphic file (type png)
+<use NitrogenCycle.png>
+Package pdftex.def Info: NitrogenCycle.png  used on input line 26.
+(pdftex.def)             Requested size: 417.72382pt x 215.07716pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (29.85666pt too wide) in paragraph at lines 39--61
+[][]  
+ []
+
+
+Overfull \hbox (0.14363pt too wide) in paragraph at lines 65--65
+\T1/ptm/m/n/10 (+14) Ammonia (NH$[]$) and ammonium (NH$[]$) are both commonly r
+eferred to as Ammonia-nitrogen (NH$[]$-N) 
+ []
+
+[81
+
+ <./NutrientRemovalBW.jpg>]
+<AmmoniaAmmoniumEquilibrium.png, id=1344, 1105.0083pt x 729.2043pt>
+File: AmmoniaAmmoniumEquilibrium.png Graphic file (type png)
+<use AmmoniaAmmoniumEquilibrium.png>
+Package pdftex.def Info: AmmoniaAmmoniumEquilibrium.png  used on input line 69.
+
+(pdftex.def)             Requested size: 386.7587pt x 255.22533pt.
+
+Overfull \hbox (0.1345pt too wide) in paragraph at lines 75--76
+[]\T1/ptm/m/n/10 (+19) In biological treatment processes, the organic nitrogen 
+is quickly changed to ammonia nitrogen by 
+ []
+
+[82 <./NitrogenCycle.png>] [83 <./AmmoniaAmmoniumEquilibrium.png (PNG copy)>]
+Overfull \hbox (0.13342pt too wide) in paragraph at lines 121--122
+\T1/ptm/m/n/10 (+19) somonas and Ni-trobac-ter use car-bon-ate as their car-bon
+ (food) source and the am-mo-nia is just their 
+ []
+
+
+Overfull \hbox (0.12953pt too wide) in paragraph at lines 121--122
+\T1/ptm/m/n/10 (+20) the pH is re-duced be-low 7.0. pH lev-els of 7.5 to 8.5 ar
+e con-sid-ered op-ti-mal. That is why al-ka-lin-ity 
+ []
+
+\@float@every@figure=\toks66
+<NitrificationCurve.png, id=1357, 362.3136pt x 302.8113pt>
+File: NitrificationCurve.png Graphic file (type png)
+<use NitrificationCurve.png>
+Package pdftex.def Info: NitrificationCurve.png  used on input line 131.
+(pdftex.def)             Requested size: 181.15636pt x 151.40527pt.
+[84] [85 <./NitrificationCurve.png (PNG copy)>]
+<Option1.png, id=1372, 380.1402pt x 211.5102pt>
+File: Option1.png Graphic file (type png)
+<use Option1.png>
+Package pdftex.def Info: Option1.png  used on input line 155.
+(pdftex.def)             Requested size: 304.11255pt x 169.20837pt.
+<Option2.png, id=1373, 303.534pt x 190.311pt>
+File: Option2.png Graphic file (type png)
+<use Option2.png>
+Package pdftex.def Info: Option2.png  used on input line 163.
+(pdftex.def)             Requested size: 242.82751pt x 152.249pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[86 <./Option1.png>]
+<Option3.png, id=1379, 354.6048pt x 164.7756pt>
+File: Option3.png Graphic file (type png)
+<use Option3.png>
+Package pdftex.def Info: Option3.png  used on input line 172.
+(pdftex.def)             Requested size: 283.6842pt x 131.82063pt.
+ [87 <./Option2.png> <./Option3.png>]
+Overfull \hbox (0.1464pt too wide) in paragraph at lines 206--206
+\T1/ptm/m/n/10 (+17) dichloramine becomes the dominant chloramine species incre
+ases in the chlorine to nitrogen 
+ []
+
+<BreakpointChlorination.png, id=1388, 1638.12pt x 1463.4675pt>
+File: BreakpointChlorination.png Graphic file (type png)
+<use BreakpointChlorination.png>
+Package pdftex.def Info: BreakpointChlorination.png  used on input line 219.
+(pdftex.def)             Requested size: 393.15683pt x 351.23938pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 4341) has occurred while \output is active []
+
+ [89 <./BreakpointChlorination.png>]
+<PhosphorousChemical.png, id=1401, 326.4195pt x 340.6326pt>
+File: PhosphorousChemical.png Graphic file (type png)
+<use PhosphorousChemical.png>
+Package pdftex.def Info: PhosphorousChemical.png  used on input line 258.
+(pdftex.def)             Requested size: 179.53127pt x 187.3485pt.
+ [90 <./PhosphorousChemical.png>]
+Overfull \hbox (0.17723pt too wide) in paragraph at lines 288--289
+[]\T1/ptm/m/n/10 (+8) By oxidizing the carbon reserves built up in the anaerobi
+c phase, PAOs are able to store more 
+ []
+
+) [91] [92
+
+] (NewWATR082Main.ptc) [93] [94] (WATR082 SolidsTreatmentOverview.tex
+Chapter 8.
+<SolidsTreatmentOverviewBW.jpg, id=1446, 2290.5575pt x 1244.65pt>
+File: SolidsTreatmentOverviewBW.jpg Graphic file (type jpg)
+<use SolidsTreatmentOverviewBW.jpg>
+Package pdftex.def Info: SolidsTreatmentOverviewBW.jpg  used on input line 2.
+(pdftex.def)             Requested size: 597.50787pt x 324.6649pt.
+
+Overfull \hbox (0.12079pt too wide) in paragraph at lines 9--10
+[]\T1/ptm/m/n/10 (+11) Sludge treatment is very critical as it is an expensive 
+process and sludge disposal is subject to strict 
+ []
+
+
+Overfull \hbox (0.16177pt too wide) in paragraph at lines 13--14
+[]\T1/ptm/b/n/10 (+9) NOTE: Solids re-moved dur-ing Pre-lim-i-nary Treat-ment, 
+from barscreens and grit cham-bers are typ-i- 
+ []
+
+[95
+
+ <./SolidsTreatmentOverviewBW.jpg>]) (WATR082 BiosolidsRegulations.tex
+[96]
+Chapter 9.
+<BiosolidsRegulations.jpg, id=1466, 377.91188pt x 227.34938pt>
+File: BiosolidsRegulations.jpg Graphic file (type jpg)
+<use BiosolidsRegulations.jpg>
+Package pdftex.def Info: BiosolidsRegulations.jpg  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 359.48906pt.
+
+Overfull \hbox (0.13252pt too wide) in paragraph at lines 20--21
+[]\T1/ptm/m/n/10 (+17) This uses the or-ganic and/or nu-tri-ent con-tent of the
+ biosolids to ei-ther con-di-tion and/or fer-til- 
+ []
+
+
+Overfull \hbox (0.1773pt too wide) in paragraph at lines 24--25
+[]\T1/ptm/m/n/10 (+7) Incineration where the biosolids is burnt to ash. This me
+thod utilizes its organic content to limit the 
+ []
+
+
+Overfull \hbox (0.16617pt too wide) in paragraph at lines 30--31
+[]\T1/ptm/m/n/10 (+6) Part 503 rule applies to any person who applies biosolids
+ to the land or fires biosolids in a biosolids 
+ []
+
+[97
+
+ <./BiosolidsRegulations.jpg>]
+<Table1.png, id=1475, 361.35pt x 326.72063pt>
+File: Table1.png Graphic file (type png)
+<use Table1.png>
+Package pdftex.def Info: Table1.png  used on input line 59.
+(pdftex.def)             Requested size: 296.30891pt x 267.91264pt.
+ [98 <./Table1.png>]
+<BiosolidsRegulations.png, id=1486, 1228.59pt x 794.97pt>
+File: BiosolidsRegulations.png Graphic file (type png)
+<use BiosolidsRegulations.png>
+Package pdftex.def Info: BiosolidsRegulations.png  used on input line 103.
+(pdftex.def)             Requested size: 675.7266pt x 437.23485pt.
+
+Overfull \hbox (1.39627pt too wide) in paragraph at lines 103--104
+ [] 
+ []
+
+) [99] [100 <./BiosolidsRegulations.png>] (NewWATR082Main.ptc) [101
+
+] [102]
+(WATR082 Thickening.tex
+Chapter 10.
+<Chapter14.jpg, id=1524, 598.235pt x 314.17375pt>
+File: Chapter14.jpg Graphic file (type jpg)
+<use Chapter14.jpg>
+Package pdftex.def Info: Chapter14.jpg  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 313.81343pt.
+
+Overfull \hbox (0.11816pt too wide) in paragraph at lines 7--7
+[]\T1/ptm/m/n/10 (+6) 1) There is an upper limit of the solids concentration th
+at can be effectively treated as increasing the solids 
+ []
+
+<GravityThickener.jpg, id=1525, 602.25pt x 451.6875pt>
+File: GravityThickener.jpg Graphic file (type jpg)
+<use GravityThickener.jpg>
+Package pdftex.def Info: GravityThickener.jpg  used on input line 27.
+(pdftex.def)             Requested size: 271.01pt x 203.25749pt.
+[103
+
+ <./Chapter14.jpg>]
+<ThickenerGravityThickener.png, id=1533, 758.835pt x 638.385pt>
+File: ThickenerGravityThickener.png Graphic file (type png)
+<use ThickenerGravityThickener.png>
+Package pdftex.def Info: ThickenerGravityThickener.png  used on input line 29.
+(pdftex.def)             Requested size: 341.4726pt x 287.27058pt.
+ [104 <./GravityThickener.jpg> <./ThickenerGravityThickener.png>]
+Overfull \hbox (0.10907pt too wide) in paragraph at lines 41--42
+[]\T1/ptm/m/n/10 (+18) Sludge Volume ratio (SVR) provides a means of regulating
+ the detention time of sludge within the 
+ []
+
+
+Overfull \hbox (0.16754pt too wide) in paragraph at lines 74--75
+\T1/ptm/m/n/10 (+10) sec-ondary clar-i-fier which typ-i-cally has a solids con-
+tent of about 0.5% to 0.8% is thick-ened to about 4% to 
+ []
+
+<DAFTOutside.jpg, id=1539, 678.3744pt x 508.7808pt>
+File: DAFTOutside.jpg Graphic file (type jpg)
+<use DAFTOutside.jpg>
+Package pdftex.def Info: DAFTOutside.jpg  used on input line 77.
+(pdftex.def)             Requested size: 203.51389pt x 152.6354pt.
+[105]
+<DAFT.png, id=1544, 1105.12875pt x 619.56468pt>
+File: DAFT.png Graphic file (type png)
+<use DAFT.png>
+Package pdftex.def Info: DAFT.png  used on input line 79.
+(pdftex.def)             Requested size: 442.04367pt x 247.82147pt.
+
+Overfull \hbox (15.25232pt too wide) in paragraph at lines 79--80
+ [][] 
+ []
+
+
+Overfull \hbox (0.18489pt too wide) in paragraph at lines 86--87
+[]\T1/ptm/m/n/10 (+8) WAS is conditioned with cationic polymer and introduced i
+nto the DAFT. DAFTs typically operate 
+ []
+
+
+Overfull \hbox (0.17284pt too wide) in paragraph at lines 89--90
+\T1/ptm/m/n/10 (+17) part of it is used for the air pressurization in the satur
+ation tank and the remaining is the underflow, 
+ []
+
+[106 <./DAFTOutside.jpg> <./DAFT.png>]
+Overfull \hbox (0.13428pt too wide) in paragraph at lines 133--133
+[]\T1/ptm/m/n/10 (+18) A treatment plant receives an influent flow of 30 MGD wi
+th a TSS concentration of 280 mg/l. The 
+ []
+
+) [107] [108
+
+] (NewWATR082Main.ptc) [109] [110]
+(WATR082 SolidsStabilizationDigestion.tex
+Chapter 11.
+<SolidsStabilizationDigestion.png, id=1581, 1587.68156pt x 819.8128pt>
+File: SolidsStabilizationDigestion.png Graphic file (type png)
+<use SolidsStabilizationDigestion.png>
+Package pdftex.def Info: SolidsStabilizationDigestion.png  used on input line 3
+.
+(pdftex.def)             Requested size: 597.50787pt x 308.52986pt.
+
+Overfull \hbox (0.1398pt too wide) in paragraph at lines 9--9
+[]\T1/ptm/m/n/10 (+19) There are two ma-jor sludge di-ges-tion pro-cesses - aer
+-o-bic di-ges-tion which uti-lizes aer-o-bic mi-croor- 
+ []
+
+
+Overfull \hbox (64.528pt too wide) in paragraph at lines 11--41
+ [] 
+ []
+
+[111
+
+ <./SolidsStabilizationDigestion.png>]
+<DigesterFloatingCover.png, id=1587, 469.00218pt x 310.15875pt>
+File: DigesterFloatingCover.png Graphic file (type png)
+<use DigesterFloatingCover.png>
+Package pdftex.def Info: DigesterFloatingCover.png  used on input line 58.
+(pdftex.def)             Requested size: 422.09807pt x 279.14029pt.
+<DigesterFixedCover.png, id=1588, 857.45343pt x 624.83438pt>
+File: DigesterFixedCover.png Graphic file (type png)
+<use DigesterFixedCover.png>
+Package pdftex.def Info: DigesterFixedCover.png  used on input line 66.
+(pdftex.def)             Requested size: 368.69778pt x 268.67354pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112 <./DigesterFloatingCover.png>]
+<DigesterSupernatantTubes.png, id=1594, 484.81125pt x 595.47469pt>
+File: DigesterSupernatantTubes.png Graphic file (type png)
+<use DigesterSupernatantTubes.png>
+Package pdftex.def Info: DigesterSupernatantTubes.png  used on input line 74.
+(pdftex.def)             Requested size: 242.40503pt x 297.7366pt.
+<DigestionLowRate.png, id=1595, 132.495pt x 116.435pt>
+File: DigestionLowRate.png Graphic file (type png)
+<use DigestionLowRate.png>
+Package pdftex.def Info: DigestionLowRate.png  used on input line 84.
+(pdftex.def)             Requested size: 106.69968pt x 128.05046pt.
+ [113 <./DigesterFixedCover.png> <./DigesterSupernatantTubes.png>]
+<DigesterHighRate_1.png, id=1602, 168.63pt x 146.5475pt>
+File: DigesterHighRate_1.png Graphic file (type png)
+<use DigesterHighRate_1.png>
+Package pdftex.def Info: DigesterHighRate_1.png  used on input line 101.
+(pdftex.def)             Requested size: 106.7006pt x 128.0364pt.
+<DigestionTwoStageAnaerobic.png, id=1603, 363.3575pt x 162.6075pt>
+File: DigestionTwoStageAnaerobic.png Graphic file (type png)
+<use DigestionTwoStageAnaerobic.png>
+Package pdftex.def Info: DigestionTwoStageAnaerobic.png  used on input line 116
+.
+(pdftex.def)             Requested size: 213.3977pt x 128.04663pt.
+
+Overfull \hbox (77.59084pt too wide) in paragraph at lines 129--154
+[][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114 <./DigestionLowRate.png> <./DigesterHighRate_1.png> <./DigestionTwoStageA
+naerobic.png>]
+Overfull \hbox (0.10205pt too wide) in paragraph at lines 170--170
+\T1/ptm/m/n/10 (+10) regimen is not commonly used. Digestion in this range requ
+ires 50 to 180 days depending on 
+ []
+
+[115]
+Overfull \hbox (0.1433pt too wide) in paragraph at lines 209--210
+[]\T1/ptm/m/n/10 (+4) The amount of digester influent being pumped and the perc
+ent VS of the waste are a measure of the 
+ []
+
+
+Overfull \hbox (0.18367pt too wide) in paragraph at lines 215--216
+\T1/ptm/m/n/10 (+17) 65% or-ganic ma-te-rial. 80% of this or-ganic ma-te-rial i
+s typ-i-cally de-stroyed in the di-gester. Whereas, 
+ []
+
+[116]
+Overfull \hbox (0.153pt too wide) in paragraph at lines 222--223
+[]\T1/ptm/m/n/10 (+15) The volatile solids in the feed sludge would be about 70
+% to 75% while the digested sludge would 
+ []
+
+[117]
+Overfull \hbox (0.1869pt too wide) in paragraph at lines 249--250
+[]\T1/ptm/m/n/10 (+9) In a normally operating digester, the alkalinity present 
+in the sludge prevents the pH from dropping 
+ []
+
+
+Overfull \hbox (8.54848pt too wide) in paragraph at lines 257--258
+[]\T1/ptm/m/n/10 (-20) Alkalinity con-sumed by the acid pro-duc-tion is off-set
+ by al-ka-lin-ity pro-duced as part of the methanogenic 
+ []
+
+[118] [119]
+Overfull \hbox (0.14136pt too wide) in paragraph at lines 321--321
+\T1/ptm/m/n/10 (+7) tains ap-prox-i-mately 12.5 per-cent ni-tro-gen and 2 per-c
+ent phos-pho-rus. Sodium, potas-sium, cal-cium, mag-ne- 
+ []
+
+[120]
+<DigesterPressureRelief.png, id=1647, 108.405pt x 112.92188pt>
+File: DigesterPressureRelief.png Graphic file (type png)
+<use DigesterPressureRelief.png>
+Package pdftex.def Info: DigesterPressureRelief.png  used on input line 347.
+(pdftex.def)             Requested size: 86.7241pt x 90.3376pt.
+<DigesterFlameArrestor.png, id=1648, 148.30406pt x 192.72pt>
+File: DigesterFlameArrestor.png Graphic file (type png)
+<use DigesterFlameArrestor.png>
+Package pdftex.def Info: DigesterFlameArrestor.png  used on input line 347.
+(pdftex.def)             Requested size: 74.15184pt x 96.35976pt.
+
+Overfull \hbox (0.11131pt too wide) in paragraph at lines 358--359
+[]\T1/ptm/m/n/10 (+13) A primary clarifier receives an average flow of 12 MGD c
+ontaining 280mg/L of TSS. This clarifier 
+ []
+
+
+Overfull \hbox (0.15436pt too wide) in paragraph at lines 389--389
+[]\T1/ptm/m/n/10 (+18) How many pounds of TS and VS are pumped to a digester ea
+ch day if the digester receives 10,000 
+ []
+
+[121 <./DigesterPressureRelief.png> <./DigesterFlameArrestor.png>]
+<DigesterWOCDimensions_1.png, id=1666, 176.66pt x 71.26625pt>
+File: DigesterWOCDimensions_1.png Graphic file (type png)
+<use DigesterWOCDimensions_1.png>
+Package pdftex.def Info: DigesterWOCDimensions_1.png  used on input line 432.
+(pdftex.def)             Requested size: 176.65956pt x 71.26605pt.
+
+Overfull \hbox (0.14708pt too wide) in paragraph at lines 464--465
+[]\T1/ptm/m/n/10 (+3) Two sludges are blended together as follows: 15,000 gal. 
+primary sludge at 4.1% solids. 28,000 gal. 
+ []
+
+
+Overfull \hbox (0.12257pt too wide) in paragraph at lines 464--465
+\T1/ptm/m/n/10 (+11) secondary sludge at 1.3% solids. What is the combined soli
+ds concentration? If the primary sludge 
+ []
+
+[122 <./DigesterWOCDimensions_1.png>]
+Overfull \hbox (14.1291pt too wide) in paragraph at lines 575--607
+[]$[] \OT1/ztmcm/m/n/10 = 11\OML/ztmcm/m/it/10 ; \OT1/ztmcm/m/n/10 259[] \OMS/z
+tmcm/m/n/10  [] \OT1/ztmcm/m/n/10 = 157\OML/ztmcm/m/it/10 ; \OT1/ztmcm/m/n/10 
+626[]$  
+ []
+
+
+Overfull \hbox (10.18132pt too wide) in paragraph at lines 611--643
+[]$[] \OT1/ztmcm/m/n/10 = 157\OML/ztmcm/m/it/10 ; \OT1/ztmcm/m/n/10 626[] \OMS/
+ztmcm/m/n/10  [] \OT1/ztmcm/m/n/10 = []$  
+ []
+
+) [123] [124
+
+] (NewWATR082Main.ptc) [125] [126] (WATR082 Dewatering.tex
+Chapter 12.
+<Dewatering.jpg, id=1703, 719.8895pt x 384.2355pt>
+File: Dewatering.jpg Graphic file (type jpg)
+<use Dewatering.jpg>
+Package pdftex.def Info: Dewatering.jpg  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 318.91537pt.
+
+Overfull \hbox (0.15105pt too wide) in paragraph at lines 8--9
+[]\T1/ptm/m/n/10 (+14) Dewatering, like thickening does not treat the sludge bu
+t it allows for a reduction in sludge volume 
+ []
+
+<BeltFilterPress.png, id=1704, 893.58844pt x 344.78813pt>
+File: BeltFilterPress.png Graphic file (type png)
+<use BeltFilterPress.png>
+Package pdftex.def Info: BeltFilterPress.png  used on input line 34.
+(pdftex.def)             Requested size: 446.79312pt x 172.39363pt.
+
+Overfull \hbox (20.00177pt too wide) in paragraph at lines 34--34
+ [] 
+ []
+
+[127
+
+ <./Dewatering.jpg>]
+<BeltPressPicture.png, id=1712, 1342.82323pt x 1007.11742pt>
+File: BeltPressPicture.png Graphic file (type png)
+<use BeltPressPicture.png>
+Package pdftex.def Info: BeltPressPicture.png  used on input line 36.
+(pdftex.def)             Requested size: 375.98795pt x 281.99095pt.
+<Chicanes.png, id=1713, 1130.624pt x 847.968pt>
+File: Chicanes.png Graphic file (type png)
+<use Chicanes.png>
+Package pdftex.def Info: Chicanes.png  used on input line 45.
+(pdftex.def)             Requested size: 226.12079pt x 169.59059pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128 <./BeltFilterPress.png> <./BeltPressPicture.png>]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [129 <./Chicanes.png>]
+<Centrifuge3.png, id=1725, 657.2053pt x 283.0575pt>
+File: Centrifuge3.png Graphic file (type png)
+<use Centrifuge3.png>
+Package pdftex.def Info: Centrifuge3.png  used on input line 92.
+(pdftex.def)             Requested size: 262.87746pt x 113.22098pt.
+<Centrifugebowl.png, id=1726, 426.84468pt x 211.54031pt>
+File: Centrifugebowl.png Graphic file (type png)
+<use Centrifugebowl.png>
+Package pdftex.def Info: Centrifugebowl.png  used on input line 99.
+(pdftex.def)             Requested size: 170.73485pt x 84.61461pt.
+<CentrifugebowlPicture.png, id=1727, 801.7152pt x 398.9304pt>
+File: CentrifugebowlPicture.png Graphic file (type png)
+<use CentrifugebowlPicture.png>
+Package pdftex.def Info: CentrifugebowlPicture.png  used on input line 101.
+(pdftex.def)             Requested size: 160.3402pt x 79.78467pt.
+
+Underfull \vbox (badness 6428) has occurred while \output is active []
+
+ [130 <./Centrifuge3.png> <./Centrifugebowl.png>]
+<Centrifugescroll.png, id=1733, 381.67593pt x 171.64125pt>
+File: Centrifugescroll.png Graphic file (type png)
+<use Centrifugescroll.png>
+Package pdftex.def Info: Centrifugescroll.png  used on input line 106.
+(pdftex.def)             Requested size: 190.8375pt x 85.8204pt.
+<CentrifugescrollPicture.png, id=1734, 981.4266pt x 560.3334pt>
+File: CentrifugescrollPicture.png Graphic file (type png)
+<use CentrifugescrollPicture.png>
+Package pdftex.def Info: CentrifugescrollPicture.png  used on input line 108.
+(pdftex.def)             Requested size: 196.28185pt x 112.06468pt.
+
+Overfull \hbox (0.12218pt too wide) in paragraph at lines 113--114
+\T1/ptm/m/n/10 (+19) screwed up the cone it emerges from the liquid at the beac
+h, is drained and pushed up to discharge 
+ []
+
+[131 <./CentrifugebowlPicture.png> <./Centrifugescroll.png> <./Centrifugescroll
+Picture.png>]
+Overfull \hbox (5.69843pt too wide) in paragraph at lines 187--250
+[]$\OML/ztmcm/m/it/10 lbsTSfeedtocentrifuge \OT1/ztmcm/m/n/10 = 12\OML/ztmcm/m/
+it/10 ; \OT1/ztmcm/m/n/10 000\OML/ztmcm/m/it/10 ft[]sludge \OMS/ztmcm/m/n/10  
+\OT1/ztmcm/m/n/10 7\OML/ztmcm/m/it/10 :\OT1/ztmcm/m/n/10 48[] \OMS/ztmcm/m/n/10
+  [] \OT1/ztmcm/m/n/10 = 20\OML/ztmcm/m/it/10 ; \OT1/ztmcm/m/n/10 960[]$ 
+ []
+
+
+Overfull \hbox (1.57274pt too wide) in paragraph at lines 187--250
+$\OML/ztmcm/m/it/10 solidscapturerate \OT1/ztmcm/m/n/10 = [] \OMS/ztmcm/m/n/10 
+ \OT1/ztmcm/m/n/10 100 = []$  
+ []
+
+[132]) [133] [134
+
+] (NewWATR082Main.ptc) [135] [136] (WATR082 Disinfection.tex
+Chapter 13.
+<Chapter18.jpg, id=1791, 814.54312pt x 476.53032pt>
+File: Chapter18.jpg Graphic file (type jpg)
+<use Chapter18.jpg>
+Package pdftex.def Info: Chapter18.jpg  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 349.57298pt.
+
+Overfull \hbox (0.17557pt too wide) in paragraph at lines 6--7
+[]\T1/ptm/m/n/10 (+11) Treated wastewater effluent is disinfected prior to its 
+discharge into a water body inorder to destroy 
+ []
+
+[137
+
+ <./Chapter18.jpg>]
+Overfull \hbox (0.16725pt too wide) in paragraph at lines 62--63
+[]\T1/ptm/m/n/10 (+1) Typically for smaller plants chlorine gas is shipped in p
+ressurized steel cylinders - 150 lb or 2000 lb 
+ []
+
+[138]
+Overfull \hbox (0.1544pt too wide) in paragraph at lines 77--78
+[]\T1/ptm/m/n/10 (+13) If the leak is large, all persons in the adjacent area m
+ust be warned and evacuated. Only authorized 
+ []
+
+[139]
+Overfull \hbox (0.12744pt too wide) in paragraph at lines 118--118
+[]\T1/ptm/m/n/10 (+16) When chlorine is added to a wastewater flow, it will fir
+st react or combine with certain organic and 
+ []
+
+[140]
+Overfull \hbox (0.1841pt too wide) in paragraph at lines 171--172
+[]\T1/ptm/m/n/10 (+9) Suspended solids, slime growth, tur-bid-ity, and color pr
+esent in wastew-a-ter will in-hibit the ef-fec-tive- 
+ []
+
+[141]) (WATR082 OdorControl.tex [142]
+Chapter 14.
+<OCSDHeadworksScrubbersBW.jpg, id=1818, 1126.96031pt x 581.92406pt>
+File: OCSDHeadworksScrubbersBW.jpg Graphic file (type jpg)
+<use OCSDHeadworksScrubbersBW.jpg>
+Package pdftex.def Info: OCSDHeadworksScrubbersBW.jpg  used on input line 2.
+(pdftex.def)             Requested size: 597.50787pt x 308.5337pt.
+
+Overfull \hbox (0.15933pt too wide) in paragraph at lines 11--12
+\T1/ptm/m/n/10 (+1) Odors are generated from every phase of wastewater treatmen
+t. Odor characteristics, intensity, and volume 
+ []
+
+[143
+
+ <./OCSDHeadworksScrubbersBW.jpg>]
+<OdorCompounds.jpg, id=1826, 1081.03876pt x 616.55344pt>
+File: OdorCompounds.jpg Graphic file (type jpg)
+<use OdorCompounds.jpg>
+Package pdftex.def Info: OdorCompounds.jpg  used on input line 47.
+(pdftex.def)             Requested size: 594.57315pt x 339.10544pt.
+ [144] [145 <./OdorCompounds.jpg>]
+<OdorH2Sequilibrium1.jpg, id=1840, 851.43094pt x 551.81157pt>
+File: OdorH2Sequilibrium1.jpg Graphic file (type jpg)
+<use OdorH2Sequilibrium1.jpg>
+Package pdftex.def Info: OdorH2Sequilibrium1.jpg  used on input line 119.
+(pdftex.def)             Requested size: 426.79135pt x 276.60396pt.
+<AmmoniaAmmoniumEquilibrium1.jpg, id=1841, 804.75656pt x 548.80031pt>
+File: AmmoniaAmmoniumEquilibrium1.jpg Graphic file (type jpg)
+<use AmmoniaAmmoniumEquilibrium1.jpg>
+Package pdftex.def Info: AmmoniaAmmoniumEquilibrium1.jpg  used on input line 12
+4.
+(pdftex.def)             Requested size: 426.79135pt x 291.047pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<OdorControlOptions.jpg, id=1842, 1374.63562pt x 664.73344pt>
+File: OdorControlOptions.jpg Graphic file (type jpg)
+<use OdorControlOptions.jpg>
+Package pdftex.def Info: OdorControlOptions.jpg  used on input line 139.
+(pdftex.def)             Requested size: 618.58032pt x 299.12729pt.
+[146
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147 <./OdorH2Sequilibrium1.jpg> <./AmmoniaAmmoniumEquilibrium1.jpg>] [148 <./
+OdorControlOptions.jpg>]
+Overfull \hbox (0.10785pt too wide) in paragraph at lines 186--187
+[]\T1/ptm/m/n/10 (+1) Poses less environmental risk than NaOH due to an acciden
+tal release because of its lower pH 
+ []
+
+[149]
+<SpeeceCone.jpg, id=1868, 707.64375pt x 612.03656pt>
+File: SpeeceCone.jpg Graphic file (type jpg)
+<use SpeeceCone.jpg>
+Package pdftex.def Info: SpeeceCone.jpg  used on input line 202.
+(pdftex.def)             Requested size: 247.67902pt x 214.216pt.
+
+Overfull \hbox (0.11867pt too wide) in paragraph at lines 211--212
+[]\T1/ptm/m/n/10 (+3) foul air from the treatment processes is captured and scr
+ubbed using either a packed tower scrubber, 
+ []
+
+<OdorPackedTowerScrubber1.png, id=1869, 302.5704pt x 308.1111pt>
+File: OdorPackedTowerScrubber1.png Graphic file (type png)
+<use OdorPackedTowerScrubber1.png>
+Package pdftex.def Info: OdorPackedTowerScrubber1.png  used on input line 231.
+(pdftex.def)             Requested size: 484.1133pt x 492.97841pt.
+
+Overfull \hbox (57.32195pt too wide) in paragraph at lines 231--232
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[150
+
+ <./SpeeceCone.jpg>]
+Overfull \hbox (0.16pt too wide) in paragraph at lines 242--243
+[]\T1/ptm/m/n/10 (+17) Soluble organics are oxidized to less odorous compounds 
+and reduced sulfur compounds are 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151 <./OdorPackedTowerScrubber1.png>]
+Overfull \hbox (0.15488pt too wide) in paragraph at lines 276--279
+\T1/ptm/m/n/10 (+3) NH$[]$ (am-mo-nium). Un-der acidic con-di-tions, NH$[]$ is 
+kept in the liq-uid phase of wastew-a- 
+ []
+
+[152] [153]
+<CarbonScrubber.jpg, id=1891, 967.36406pt x 635.37375pt>
+File: CarbonScrubber.jpg Graphic file (type jpg)
+<use CarbonScrubber.jpg>
+Package pdftex.def Info: CarbonScrubber.jpg  used on input line 310.
+(pdftex.def)             Requested size: 454.66116pt x 298.6257pt.
+
+Overfull \hbox (27.86981pt too wide) in paragraph at lines 310--311
+ [] 
+ []
+
+[154 <./CarbonScrubber.jpg>]
+<Biofilter.png, id=1897, 465.23813pt x 234.8775pt>
+File: Biofilter.png Graphic file (type png)
+<use Biofilter.png>
+Package pdftex.def Info: Biofilter.png  used on input line 333.
+(pdftex.def)             Requested size: 441.97371pt x 223.13235pt.
+
+Overfull \hbox (15.18236pt too wide) in paragraph at lines 333--334
+ [] 
+ []
+
+[155 <./Biofilter.png>]
+<OzoneInjection.png, id=1904, 252.945pt x 261.97874pt>
+File: OzoneInjection.png Graphic file (type png)
+<use OzoneInjection.png>
+Package pdftex.def Info: OzoneInjection.png  used on input line 349.
+(pdftex.def)             Requested size: 240.29639pt x 248.87839pt.
+ [156 <./OzoneInjection.png>]) (NewWATR082Main.ptc)
+[157
+
+
+] [158] (WATR082 Pumping.tex
+Chapter 15.
+<Pumping.jpg, id=1926, 503.8825pt x 283.8605pt>
+File: Pumping.jpg Graphic file (type jpg)
+<use Pumping.jpg>
+Package pdftex.def Info: Pumping.jpg  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 336.60706pt.
+<PumpProblem.png, id=1927, 2265.21281pt x 536.75531pt>
+File: PumpProblem.png Graphic file (type png)
+<use PumpProblem.png>
+Package pdftex.def Info: PumpProblem.png  used on input line 63.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+[159
+
+ <./Pumping.jpg> <./PumpProblem.png>]
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_01.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<PumpsandPumpingR1_01.pdf, id=1933, 1228.59pt x 794.97pt>
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf  used on input line 78.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_01.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf  used on input line 78.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_01.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_01.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<PumpsandPumpingR1_01.pdf, id=1936, page=1, 1228.59pt x 794.97pt>
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf , page1 used on input line 78
+.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf , page1 used on input line 78
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf , page1 used on input line 78
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf , page1 used on input line 78
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+File: PumpsandPumpingR1_01.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_01.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_01.pdf , page1 used on input line 78
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+[160 <./PumpsandPumpingR1_01.pdf>]
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_02.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<PumpsandPumpingR1_02.pdf, id=1978, 1228.59pt x 794.97pt>
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf  used on input line 84.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_02.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf  used on input line 84.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_02.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./PumpsandPumpingR1_02.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<PumpsandPumpingR1_02.pdf, id=1981, page=1, 1228.59pt x 794.97pt>
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf , page1 used on input line 84
+.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf , page1 used on input line 84
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf , page1 used on input line 84
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf , page1 used on input line 84
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+File: PumpsandPumpingR1_02.pdf Graphic file (type pdf)
+<use PumpsandPumpingR1_02.pdf, page 1>
+Package pdftex.def Info: PumpsandPumpingR1_02.pdf , page1 used on input line 84
+.
+(pdftex.def)             Requested size: 845.44092pt x 547.05pt.
+[161 <./PumpsandPumpingR1_02.pdf>] [162]) 
+AED: lastpage setting LastPage
+[163]
+\tf@ptc=\write9
+\openout9 = `NewWATR082Main.ptc'.
+
+ (NewWATR082Main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package logreq Info: Writing requests to 'NewWATR082Main.run.xml'.
+\openout1 = `NewWATR082Main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 44311 strings out of 479081
+ 874457 string characters out of 2852597
+ 1672392 words of memory out of 3000000
+ 60123 multiletter control sequences out of 15000+600000
+ 541242 words of font info for 435 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,17n,86p,1206b,2798s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
+/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/indov/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/indov/AppData/Local
+/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/indov/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/indov/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/indov/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/indov/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/indov/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on NewWATR082Main.pdf (163 pages, 72400043 bytes).
+PDF statistics:
+ 2476 PDF objects out of 2487 (max. 8388607)
+ 595 named destinations out of 1000 (max. 500000)
+ 148790 words of extra memory for PDF output out of 154059 (max. 10000000)
+

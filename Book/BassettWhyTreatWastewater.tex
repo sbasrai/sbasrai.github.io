@@ -1,0 +1,272 @@
+
+\documentclass{article}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{cancel}
+\usepackage{soul}
+\usepackage{fixltx2e}
+\usepackage[utf8]{inputenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
+%\textsubscript{this}
+\usepackage{lastpage}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{fancyhdr}
+\usepackage[final]{pdfpages}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+%\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\colorlet{Mycolor1}{green!10!orange!90!}
+\chead{\ifthenelse{\value{page}=1}{\textbf Math-Preliminary}{}{}}
+\rhead{\ifthenelse{\value{page}=1}{Shabbir Basrai}{Shabbir Basrai}}
+\lhead{\ifthenelse{\value{page}=1}{}{}}
+\cfoot{}
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+\rfoot{Math-Preliminary}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\newcommand{\stkout}[1]{\ifmmode\text{\sout{\ensuremath{#1}}}\else\sout{#1}\fi}
+%Defining colour with different models.
+\definecolor{mypink1}{rgb}{0.858, 0.188, 0.478}
+\definecolor{mypink2}{RGB}{219, 48, 122}
+\definecolor{mypink3}{cmyk}{0, 0.7808, 0.4429, 0.1412}
+\definecolor{mygray}{gray}{0.6}
+\colorlet{LightRubineRed}{RubineRed!70!}
+\colorlet{Mycolor1}{green!10!orange!90!}
+\definecolor{Mycolor2}{HTML}{00F9DE}
+
+%New command used in the table with all available colour names
+\newcommand{\thiscolor}[1]{\texttt{#1} \hfill \fcolorbox{black}{#1}{\hspace{2mm}}}
+
+%This changes the row separation in the table
+\renewcommand{\arraystretch}{1.5}
+
+
+
+\begin{document}
+\section{Definition of Wastewater}\index{Definition of Wastewater}
+
+
+Wastewater is human polluted water from home and industries. This includes water from:
+\begin{itemize}
+\item Flushing toilets and urinals  - blackwater.
+\item Bathing, showering, and washing clothes and dishes  - greywater.
+\item Commercial and industrial activities.
+\item ...and often included as wastewater is the storm water which contain pollutants washed off inhabited areas - roads, parking lots, and rooftops.
+\end{itemize}
+
+\section{Why Treat Wastewater}\index{Why Treat Wastewater}
+Although nature has an inherent capability to degrade pollutants, given the quantity of wastewater generated from human activities, centralized wastewater treatment plants are required to treat the wastewater and safely return the treated wastewater back to the environment.  Sewers collect the wastewater from homes, businesses, and industries and deliver it to wastewater treatment facilities before it is released back to the environment through its discharge to a water body like a lake, river or ocean, or land, or reused. 
+
+Wastewater treatment is designed to remove:
+\begin{itemize}
+\item organic matter
+\item inorganic  pollutants including plant nutrients - nitrogen and phosphorous\\
+\item pathogenic (disease causing) organisms\\
+\end{itemize}
+
+\section{Benefits of Treating Wastewater}\index{Benefits of Treating Wastewater}
+Wastewater treatment protects:
+\begin{itemize}
+\item The environment
+\item Human health
+\end{itemize}
+
+Specifically wastewater treatment allows for the following:
+
+\begin{enumerate}
+\item \textbf{Mitigates deterioration of the receiving waters' ecosystem }\\
+In the receiving waters, inadequately treated wastewater discharge depletes dissolved oxygen levels due to:
+
+\begin{itemize}
+
+\item Nitrogen and phosphorus are essential for plant growth and are common ingredients in fertilizers. However, nutrient-rich wastewater entering a water body such as a lake or river will promote plant and algae growth which will seriously impact its normal aquatic life including fish through a process similar to the following:
+
+\begin{itemize}
+\item Nutrient promote algae bloom
+\item Algae bloom prevent sunlight to the native plant spieces below the water's surface causing native plants to die
+\item The organic material from the dead plants and algae promote growth of aerobic bacteria which will consume the dissolved oxygen in the water resulting in oxygen depletion.
+\item The natural aquatic life including fish, frogs, and turtles will not be able to survive under oxygen depleted conditions and will die or leave that zone.
+\end{itemize}
+\item Other organic material in present in wastewater, will similarly promote growth of aerobic bacteria intensifying the eutrophication of the receiving waters.
+\end{itemize}
+\item \textbf{Removal of other harmful pollutants}\\
+Organic and inorganic pollutants including metals, such as mercury, lead, cadmium, chromium and arsenic can have acute and chronic toxic effects on aquatic species and wildlife including migratory birds, are removed during the wastewater treatment process.
+\item \textbf{Removal of pathogens}\\
+Wastewater treatment removes parasites and disease-causing pathogens including bacteria and viruses which allow for:
+\begin{itemize}
+\item People to continue enjoying recreational activities in the receiving bodies of waters such as lakes and rivers
+\item Preventing the contamination of fish and other consumable products obtained from the waters
+\item Allow the water body to remain as the source of potable water
+\end{itemize}
+Thus, treating wastewater prevents \hl{eutrophication} which is the process by which a body of water becomes enriched in dissolved nutrients (such as phosphates) that stimulate the growth of aquatic plant life usually resulting in the depletion of dissolved oxygen resulting in a progressive destruction of its normal aquatic lifeforms.
+\item \textbf{Reclaim water for recycle or reuse}\\
+Besides protecting human health and the environment, wastewater treatment paves way for establishing the reuse or recycle of treated wastewater.  This benefit is particularly important for densely populated areas with limited access to fresh water supplies.  
+\end{enumerate}
+
+%
+%can pollute beaches and contaminate shellfish populations, leading to restrictions on human recreation, drinking water consumption and shellfish consumption;
+%Metals, such as mercury, lead, cadmium, chromium and arsenic can have acute and chronic toxic effects on species.
+%Other substances such as some pharmaceutical and personal care products, primarily entering the environment in wastewater effluents, may also pose threats to human health, aquatic life and wildlife.
+%\end{enumerate}
+%In the receiving waters, inadequately treated wastewater discharge depletes dissolved oxygen levels - \hl{Eutrophication}, potentially .  Wastewater discharge promotes eutrophication due to:
+%
+%\begin{itemize}
+%
+%\item Nitrogen and phosphorus are essential for plant growth and are common ingredients in fertilizers. However, nutrient-rich wastewater entering a water body such as a lake or river will promote plant and algae growth which will seriously impact its normal aquatic life including fish through a process similar to the following:
+%
+%\begin{itemize}
+%\item Nutrient promote algae bloom
+%\item Algae bloom prevent sunlight to the native plant spieces below the water's surface causing native plants to die
+%\item The organic material from the dead plants and algae promote growth of aerobic bacteria which will consume the dissolved oxygen in the water resulting in oxygen depletion - \hl{Eutrophication}.
+%\item The natural aquatic life including fish, frogs, and turtles will not be able to survive under oxygen depleted conditions and will die or leave that zone.
+%\end{itemize}
+%
+%
+%\item Other organic material in present in wastewater, will similarly promote growth of aerobic bacteria intensifying the eutrophication of the receiving waters.  
+%
+%
+%
+%\end{itemize}
+%
+%
+%%\end{enumerate)
+%What is wastewater, and why treat it?
+%Aerial view of a sewage treatment plant.
+%The Central Wastewater Treatment Plant, Nashville, Tennessee.
+%
+%We consider wastewater treatment as a water use because it is so interconnected with the other uses of water. Much of the water used by homes, industries, and businesses must be treated before it is released back to the environment.
+%
+%If the term "wastewater treatment" is confusing to you, you might think of it as "sewage treatment." Nature has an amazing ability to cope with small amounts of water wastes and pollution, but it would be overwhelmed if we didn't treat the billions of gallons of wastewater and sewage produced every day before releasing it back to the environment. Treatment plants reduce pollutants in wastewater to a level nature can handle.
+%
+%Wastewater also includes storm runoff. Although some people assume that the rain that runs down the street during a storm is fairly clean, it isn't. Harmful substances that wash off roads, parking lots, and rooftops can harm our rivers and lakes.
+%
+% 
+%
+%Why Treat Wastewater?
+%It's a matter of caring for our environment and for our own health. There are a lot of good reasons why keeping our water clean is an important priority:
+%
+%FISHERIES: Clean water is critical to plants and animals that live in water. This is important to the fishing industry, sport fishing enthusiasts, and future generations.
+%
+%WILDLIFE HABITATS: Our rivers and ocean waters teem with life that depends on shoreline, beaches and marshes. They are critical habitats for hundreds of species of fish and other aquatic life. Migratory water birds use the areas for resting and feeding.
+%
+%RECREATION AND QUALITY OF LIFE: Water is a great playground  for us all. The scenic and recreational values of our waters are reasons many people choose to live where they do. Visitors are drawn to water activities such as swimming, fishing, boating and picnicking.
+%
+%HEALTH CONCERNS: If it is not properly cleaned, water can carry disease. Since we live, work and play so close to water, harmful bacteria have to be removed to make water safe.
+%
+% 
+%
+%Effects of wastewater pollutants
+%Stormsewer flowing both storm flow and sewage overflow during a major storm.
+%Epic September 2009 flooding around Atlanta, Georgia. An overflowing sewer on Riverside Road, Roswell, Georgia. Likely this is a storm sewer, designed to carry stormwater runoff off of streets, that cannot handle the volume of runoff.
+%In older sections of Atlanta there are combined sewer systems that are sewers that are designed to collect rainwater runoff, domestic sewage, and industrial wastewater in the same pipe. These overflows, called combined sewer overflows (CSOs) contain not only stormwater but also untreated human and industrial waste, toxic materials, and debris. They are a major water pollution concern for the approximately 772 cities in the U.S. that have combined sewer systems (EPA). The City of Atlanta is spending about \$3 billion dollars to put in separate storm and waste systems in the metro Atlanta area.
+%
+%Credit: Alan Cressler, USGS
+%
+%If wastewater is not properly treated, then the environment and human health can be negatively impacted. These impacts can include harm to fish and wildlife populations, oxygen depletion, beach closures and other restrictions on recreational water use, restrictions on fish and shellfish harvesting and contamination of drinking water. Environment Canada provides some examples of pollutants that can be found in wastewater and the potentially harmful effects these substances can have on ecosystems and human health:
+%
+%Decaying organic matter and debris can use up the dissolved oxygen in a lake so fish and other aquatic biota cannot survive;
+%Excessive nutrients, such as phosphorus and nitrogen (including ammonia), can cause eutrophication, or over-fertilization of receiving waters, which can be toxic to aquatic organisms, promote excessive plant growth, reduce available oxygen, harm spawning grounds, alter habitat and lead to a decline in certain species;
+%Chlorine compounds and inorganic chloramines can be toxic to aquatic invertebrates, algae and fish;
+%Bacteria, viruses and disease-causing pathogens can pollute beaches and contaminate shellfish populations, leading to restrictions on human recreation, drinking water consumption and shellfish consumption;
+%Metals, such as mercury, lead, cadmium, chromium and arsenic can have acute and chronic toxic effects on species.
+%Other substances such as some pharmaceutical and personal care products, primarily entering the environment in wastewater effluents, may also pose threats to human health, aquatic life and wildlife.
+% 
+%
+%Wastewater treatment
+%The major aim of wastewater treatment is to remove as much of the suspended solids as possible before the remaining water, called effluent, is discharged back to the environment. As solid material decays, it uses up oxygen, which is needed by the plants and animals living in the water.
+%
+%"Primary treatment" removes about 60 percent of suspended solids from wastewater. This treatment also involves aerating (stirring up) the wastewater, to put oxygen back in. Secondary treatment removes more than 90 percent of suspended solids.
+%
+%
+%In the simplest terms, wastewater is any amount of water that has been polluted by humans. This includes water contaminated as a result of:
+%
+%flushing toilets and urinals (this waste is known as blackwater)
+%bathing, showering, and washing clothes and dishes (greywater)
+%commercial and industrial activities
+% 
+%As you would expect, wastewater is almost entirely water. The remaining portion — roughly 0.1% — contains organic matter, inorganic compounds, nutrients, and microorganisms that need to be explored in more detail.
+% 
+%
+%Organic matter
+%Salmo trutta, commonly known as brown trout, spawning in a shallow river.
+%Organic matter in wastewater includes proteins, carbohydrates, fats, oils, greases, and synthetic compounds found in certain detergents.
+%
+%Without proper treatment, organic matter enters lakes and rivers and becomes a food source for the microorganisms that live there. The problem is that these tiny creatures pull dissolved oxygen from water when they break down pollutants. The more pollutants there are in the water, the greater their demand for oxygen.
+%
+%This process spins out of control in lakes and rivers with large amounts of organic matter. In these watercourses, oxygen levels fall so low that animals like fish, frogs, and turtles suffocate and die.
+% 
+%
+%Inorganic compounds
+%Wastewater sampling and testing equipment in a laboratory.
+%Inorganics in wastewater include compounds with copper, lead, magnesium, nickel, potassium, sodium, or zinc. In many cases, these harmful substances are the byproducts of commercial and industrial activities.
+%
+%Inorganics do not break down easily. If they enter lakes or rivers via untreated wastewater, they remain there. As their concentrations increase over time, the water quality becomes a hazard for humans and animals alike.
+% 
+%
+%Nutrients
+%A cyanobacteria blue-green algae bloom in a river.
+%Nutrients in wastewater include nitrogen and phosphorus compounds. These often come from human waste and cleaning products like laundry detergent and dishwasher soap.
+%
+%It is no secret that nitrogen and phosphorus are common ingredients in fertilizers. They work wonders when we want to make plants grow and reproduce. But this advantage becomes a serious threat if we allow untreated and nutrient-rich wastewater to enter lakes and rivers.
+%
+%High concentrations of nitrogen or phosphorus can lead to "dead zones" in watercourses. The process goes like this:
+%
+%Excess nutrients feed the growth of large algae blooms.
+%Algae blooms prevent sunlight from reaching plants below the water's surface.
+%Native plant species die without sunlight.
+%Bacteria that feed on decaying plant matter multiply.
+%Growing populations of bacteria consume more and more dissolved oxygen in the water.
+%Fish and other aquatic species that need oxygen leave the watercourse or die.
+% 
+%Nitrogen in untreated wastewater can cause another problem. If nitrate (a nitrogen compound) pollutes our drinking water, it can reduce our blood's ability to transport oxygen. For infants, this can lead to what is commonly known as blue baby syndrome. In extreme cases, the condition is fatal.
+% 
+%
+%Microorganisms
+%Microscopic view of E. coli bacteria in a wastewater sample.
+%Some microorganisms in wastewater are helpful because they break down organic matter that would otherwise pollute the environment.
+%
+%Pathogens in untreated wastewater are a different story. These bacteria, parasites, and viruses can contaminate clean water sources. If they do, they undermine human health by causing serious and sometimes deadly illnesses.
+%
+%Perhaps the best-known example took place in Walkerton, Ontario, Canada. In May 2000, the town's drinking water supply was tainted with E. coli bacteria because municipal wastewater was not properly treated. More than 2,300 residents became ill and seven people died.
+% 
+%
+%Why is wastewater treatment important?
+%A closer look at wastewater makes it easy to see why effective treatment is so important.
+%
+%Think of your on-site wastewater treatment plant as a water conservation tool. By removing suspended solids and other pollutants, your system prevents groundwater and water pollution that could lead to:
+%
+%tainted drinking water
+%water scarcity and water shortages
+%foul lakes and rivers
+%lower numbers of aquatic species
+%dangers to livestock
+%reduced waterfront property values
+% 
+%Now that you understand the basics of wastewater, take your knowledge to next level. Discover our range of treatment systems and find out how they protect your property, our communities, and planet we share.
+\end{document}
+
+% \pagebreak
+% \begin{center}
+% \phantom{A}
+% \vspace{10cm}
+
+% BLANK PAGE
+% \end{center}
+% \pagebreak

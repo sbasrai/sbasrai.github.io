@@ -1,0 +1,414 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  21 NOV 2022 12:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Types of Backflow Preventers.tex"
+(Types of Backflow Preventers.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen143
+\tc@lly=\dimen144
+\tc@urx=\dimen145
+\tc@ury=\dimen146
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen147
+\adjbox@Height=\dimen148
+\adjbox@Depth=\dimen149
+\adjbox@Totalheight=\dimen150
+\adjbox@pwidth=\dimen151
+\adjbox@pheight=\dimen152
+\adjbox@pdepth=\dimen153
+\adjbox@ptotalheight=\dimen154
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count194
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count195
+\@vwid@loff=\dimen155
+\@vwid@roff=\dimen156
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen157
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks22
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks23
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-10-26 L3 programming layer (loader) 
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box55
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count275
+\calc@Bcount=\count276
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count277
+\calc@Cskip=\skip54
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count278
+\g__chemgreek_tmpa_int=\count279
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count280
+\__mhchem_arrow_extPgfLength_skip=\skip55
+\mhchem@minispace@tmp=\skip56
+\mhchem@minibackspace@tmp=\skip57
+\mhchem@bondwidth=\skip58
+\mhchem@bondheight=\skip59
+\mhchem@smallbondwidth@tmpA=\skip60
+\mhchem@smallbondwidth@tmpB=\skip61
+\mhchem@smallbondwidth=\skip62
+\mhchem@bondtmp@minussidebearingleft=\skip63
+\mhchem@bondtmp@minussidebearingright=\skip64
+\l__mhchem_option_version_int=\count281
+\mhchem@option@minusmathsidebearingleft=\dimen168
+\mhchem@option@minusmathsidebearingright=\dimen169
+\mhchem@option@minustextsidebearingleft=\dimen170
+\mhchem@option@minustextsidebearingright=\dimen171
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(Types of Backflow Preventers.aux)
+\openout1 = `"Types of Backflow Preventers.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen172
+\scratchbox=\box56
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen173
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package chemgreek Info: Activating mapping `default' on line 19.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 2
+0.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+<./images//Airgap.jpg, id=1, 397.485pt x 413.545pt>
+File: ./images//Airgap.jpg Graphic file (type jpg)
+<use ./images//Airgap.jpg>
+Package pdftex.def Info: ./images//Airgap.jpg  used on input line 21.
+(pdftex.def)             Requested size: 397.48402pt x 413.54398pt.
+
+Overfull \hbox (15.00856pt too wide) in paragraph at lines 21--22
+[][] 
+ []
+
+[1
+
+{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//Ai
+rgap.jpg>]
+Overfull \hbox (2.94348pt too wide) in paragraph at lines 29--29
+[]\T1/cmr/bx/n/14.4 Atmospheric Vac-uum Breaker As-sem-bly (AVB) 
+ []
+
+<./images//AtmosphericVacuumBreaker(2).jpg, id=10, 461.725pt x 603.25375pt>
+File: ./images//AtmosphericVacuumBreaker(2).jpg Graphic file (type jpg)
+<use ./images//AtmosphericVacuumBreaker(2).jpg>
+Package pdftex.def Info: ./images//AtmosphericVacuumBreaker(2).jpg  used on inp
+ut line 30.
+(pdftex.def)             Requested size: 461.72388pt x 603.25227pt.
+[2 <./images//AtmosphericVacuumBreaker(2).jpg>] [3]
+<./images//PressureVacuumBreaker(2).jpg, id=19, 568.1225pt x 579.16376pt>
+File: ./images//PressureVacuumBreaker(2).jpg Graphic file (type jpg)
+<use ./images//PressureVacuumBreaker(2).jpg>
+Package pdftex.def Info: ./images//PressureVacuumBreaker(2).jpg  used on input 
+line 38.
+(pdftex.def)             Requested size: 568.1211pt x 579.16234pt.
+
+Overfull \hbox (15.01115pt too wide) in paragraph at lines 38--39
+[][] 
+ []
+
+[4 <./images//PressureVacuumBreaker(2).jpg>]
+Overfull \hbox (14.37596pt too wide) in paragraph at lines 46--46
+[]\T1/cmr/bx/n/14.4 Spill-Resistant Vac-uum Breaker As-sem-bly (SVB) 
+ []
+
+<./images//SpillResitantVacuumBreaker.jpg, id=23, 505.89pt x 614.295pt>
+File: ./images//SpillResitantVacuumBreaker.jpg Graphic file (type jpg)
+<use ./images//SpillResitantVacuumBreaker.jpg>
+Package pdftex.def Info: ./images//SpillResitantVacuumBreaker.jpg  used on inpu
+t line 47.
+(pdftex.def)             Requested size: 505.88875pt x 614.29349pt.
+[5 <./images//SpillResitantVacuumBreaker.jpg>] [6]
+<./images//DoubleCheckValve.jpg, id=30, 838.13126pt x 505.89pt>
+File: ./images//DoubleCheckValve.jpg Graphic file (type jpg)
+<use ./images//DoubleCheckValve.jpg>
+Package pdftex.def Info: ./images//DoubleCheckValve.jpg  used on input line 56.
+
+(pdftex.def)             Requested size: 838.12921pt x 505.88875pt.
+ [7 <./images//DoubleCheckValve.jpg>]
+<./images//DoubleCheckDetector.jpg, id=35, 701.62125pt x 672.5125pt>
+File: ./images//DoubleCheckDetector.jpg Graphic file (type jpg)
+<use ./images//DoubleCheckDetector.jpg>
+Package pdftex.def Info: ./images//DoubleCheckDetector.jpg  used on input line 
+65.
+(pdftex.def)             Requested size: 701.61952pt x 672.51085pt.
+ [8 <./images//DoubleCheckDetector.jpg>]
+<./images//ReducedPressurePrinciple.jpg, id=39, 835.12pt x 502.87875pt>
+File: ./images//ReducedPressurePrinciple.jpg Graphic file (type jpg)
+<use ./images//ReducedPressurePrinciple.jpg>
+Package pdftex.def Info: ./images//ReducedPressurePrinciple.jpg  used on input 
+line 74.
+(pdftex.def)             Requested size: 835.11795pt x 502.87752pt.
+ [9 <./images//ReducedPressurePrinciple.jpg>]
+<./images//ReducedPressurePrincipleDetector.jpg, id=43, 827.09pt x 601.24625pt>
+
+File: ./images//ReducedPressurePrincipleDetector.jpg Graphic file (type jpg)
+<use ./images//ReducedPressurePrincipleDetector.jpg>
+Package pdftex.def Info: ./images//ReducedPressurePrincipleDetector.jpg  used o
+n input line 85.
+(pdftex.def)             Requested size: 827.08797pt x 601.24477pt.
+ [10 <./images//ReducedPressurePrincipleDetector.jpg>]
+(Types of Backflow Preventers.aux) ) 
+Here is how much of TeX's memory you used:
+ 5417 strings out of 475380
+ 94828 string characters out of 2776771
+ 433638 words of memory out of 3000000
+ 26721 multiletter control sequences out of 15000+600000
+ 481441 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 59i,6n,68p,750b,222s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\indov\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\indov\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\indov\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\indov\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/indov/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/
+indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "Types of Backflow Preventers.pdf" (10 pages, 297762 bytes).
+PDF statistics:
+ 196 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

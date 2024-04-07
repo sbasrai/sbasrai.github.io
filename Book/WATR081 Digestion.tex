@@ -1,0 +1,294 @@
+% \documentclass{article}
+% %\usepackage[english]{babel}%
+% \usepackage{graphicx}
+% \usepackage{tabulary}
+% \usepackage{tabularx}
+% \usepackage[normalem]{ulem}
+% \usepackage{cancel}
+% \usepackage{tikz} 
+% \usepackage{pdflscape}
+% \usepackage{colortbl}
+% \usepackage{lastpage}
+% \usepackage{multirow}
+% \usepackage{enumerate}
+% \usepackage[shortlabels]{enumitem}
+% \usepackage{color,soul}
+% \usepackage{pdflscape}
+% \usepackage{hyperref}
+% %\usepackage[table]{xcolor}
+% \usepackage{rotating}
+% \usepackage{amsmath}
+% \usepackage{fixltx2e}
+% \usepackage{framed}
+% \usepackage{mdframed}
+% \usepackage[T1]{fontenc}
+% \usepackage[utf8]{inputenc}
+% \usepackage{textcomp}
+% \usepackage{siunitx}
+% \usepackage{ifthen}
+% \usepackage{fancyhdr}
+% \usepackage{gensymb}
+% \usepackage{newunicodechar}
+% \usepackage[document]{ragged2e}
+% \usepackage[margin=1in,top=1.1in,headheight=57pt,headsep=0.1in]
+% {geometry}
+% \usepackage{ifthen}
+% \usepackage{fancyhdr}
+% \everymath{\displaystyle}
+% \usepackage[document]{ragged2e}
+% \usepackage{fancyhdr}
+% \everymath{\displaystyle}
+% \usepackage{empheq}
+
+% \usepackage[most]{tcolorbox}
+
+% \usepackage{booktabs} % Required for nicer horizontal rules in tables
+
+
+% \usepackage{enumitem}
+
+% %\usepackage[table,xcdraw]{xcolor}
+% \usetikzlibrary{arrows}
+% \linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+% %\pagestyle{fancy}
+% %\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+% %\everymath{\displaystyle}
+% \linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+% %\pagestyle{fancy}
+% \pagestyle{fancy}
+% \setlength{\headheight}{56.2pt}
+
+% \definecolor{myblue}{rgb}{.8, .8, 1}
+% \newcommand*\mybluebox[1]{%
+% \colorbox{myblue}{\hspace{1em}#1\hspace{1em}}}
+
+% \chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{SCC}\\ \textbf \textbf Wastewater Constituents Analysis \& Laboratory Methods}}
+% \rhead{\ifthenelse{\value{page}=1}{}{}}
+% \lhead{\ifthenelse{\value{page}=1}{}{Wastewater Constituents Analysis \& Laboratory Methods}}
+% \rfoot{\ifthenelse{\value{page}=1}{Module 1: WATR 048 - Spring 2019}{Module 1: WATR 048 - Spring 2019}}
+
+% \lfoot{Shabbir Basrai}
+% \cfoot{Page \thepage\ of \pageref{LastPage}}
+% \renewcommand{\headrulewidth}{2pt}
+% \renewcommand{\footrulewidth}{1pt}
+% \begin{document}
+% %\begin{empheq}[box=\mybluebox]{align}
+% %a&=b\\
+% %E&=mc^2 + \int_a^a x\, dx
+% %\end{empheq}
+
+% \newlist{steps}{enumerate}{1} % Defines "Steps" for enumerate as Step 1, Step 2 etc.
+% \setlist[steps, 1]{label = Step \arabic*:} % Defines "Steps" for enumerate as Step 1, Step 2 etc.
+
+% \setlist{nolistsep} % Reduce spacing between bullet points and numbered lists
+
+
+%_______________________________________________________________________________________________________________________________________%
+\chapterimage{Week6Digester.png} % Chapter heading image
+
+\chapter{Digestion}
+
+
+\section{Importance of Digestion}\index{Importance of Digestion}
+
+		\begin{itemize}
+		\item Solids (sludge) generated from the wastewater treatment processes contain organic compounds and also constituents that are beneficial plant nutrients. 
+		\item However, the organic solids present in the sludge include pathogens and are also not stable (will putrefy)
+		\item Thus, prior to the beneficial reuse of wastewater sludge or its disposal, sludge must be treated – stabilized to prevent odors and protect public health
+		\item Additionally, if sludge is stabilized using anaerobic digestion, it  allows for the conversion of organic solids to yield valuable energy source - digester gas
+		\end{itemize}
+Sludge stabilization process results in the following:
+		\begin{enumerate}
+		\item Reduction in amount of solids - reducing biosolids hauling costs
+		\item Pathogen reduction
+		\item Odor reduction
+		\item Reduction in vector attraction
+		\item Product with beneficial reuse
+		\end{enumerate}
+
+Most common processes involved in sludge stabilization include:
+
+		\begin{enumerate}
+		\item Digestion - Aerobic or anaerobic
+		\item Lime or alkaline stabilization
+		\item Composting
+		\item Long term storage in lagoons
+		\item Thermal processes
+		\item Incineration
+		\end{enumerate}
+		\begin{itemize}
+		\item \hl{Sludge digestion is a microbiological process and is the most common sludge stabilization method}.
+		\item There are two major sludge digestion processes:
+			\begin{itemize}
+			\item aerobic digestion which utilizes aerobic microorganisms, and produces carbon dioxide as a byproduct
+			\item anaerobic digestion which utilizes anaerobic microorganisms and it produces digester gas as a byproduct.
+			\item Digester gas is typically composed of 60-65\% methane gas with the remainder being mostly carbon dioxide ($CO_2$) and is useful because of its potential use as fuel - energy recovery from wastewater.
+			\end{itemize}
+		\end{itemize}
+
+\section{Anaerobic Digestion Process Basics}\index{Anaerobic Digestion Process Basics}
+
+		\begin{itemize}
+		\item Solids removed from the primary and secondary treatment processes is fed to the digesters.  
+		\item The sludge feed to the digesters range between 3 – 6\% total solids which typically contain 70\% organic solids
+		\item The anaerobic digester is typically a large cylindrical concrete tank and is operated as a continuous process at a fixed volume\\ $\implies$ as sludge is fed into the digester it displaces an equal amount of sludge which leaves the digester.
+\begin{center}
+\includegraphics[scale=0.50]{DigesterFixedCover}\\
+\textbf{Anaerobic Digester}\\
+\end{center}
+		\item The sludge typically occupies 70 - 90\% of the total digester volume and the methane carbon dioxide gas mixture occupies the headspace from where it is withdrawn also on a continuous basis.
+		\item In the anaerobic digestion process microorganisms convert volatile matter into mainly methane (CH$_4$) and carbon dioxide (CO$_2$)
+		\item The sludge content of the digesters is kept mixed and maintained in a constant temperature range using external heating.
+		\item The activity and type of bacteria present in the digester is dictated by the operating temperature of the digester.
+		\item Anaerobic digestion can be in the following three temperature ranges, each of which has its own unique microbiology.\\
+			\begin{enumerate}[1. ]
+			\item Psychrophilic digester:  Digester is maintained between 50  - 65 F.  Sludge detention time - 50 to 180 days
+			\item Mesophilic digesters: – Digester is most commonly operated  between 95 – 98 F and the typical number of days required for digestion is between 15 to 30 days.\\
+			\item Thermophilic digesters:  These digesters’ optimal operating temperatures range is between 113   135 F and it typically requires 5 to 12 days.\\
+			\end{enumerate}     
+		\item These organic solids are measured as volatile solids (VS).  
+		\item The volatile solids content of the sludge entering and leaving the digester are measured to quantify the solids removal in the digester
+		 \item Breakdown of volatile matter in the sludge ultimately into methane (CH$_4$) and carbon dioxide (CO$_2$) occurs in multiple steps involving different groups of microorganisms as follows:\\
+			\begin{enumerate}[Step 1.]
+			\item Hydrolysis:  Here the microorganisms breakdown complex organic matter in the sludge - carbohydrates, proteins, lignin, and lipids into simpler compounds including sugars, soluble fatty acids and amines.\\
+			\item Acid Formation:  The simpler compounds formed in Step 1 are converted to organic acids by acid forming bacteria\\
+			\item Methane Formation: The organic acids formed in Step 2 are converted into methane and carbon dioxide by methane forming bacteria.\\
+			\end{enumerate}
+		\item Gas production ranges between 10 to 16 cubic feet per pound of volatile matter destroyed and the gas production remains stable over time.
+		\item Low gas production indicates problems - toxicity, temperature, volatile acid to alkalinity ratio, mixing, or feed rates.
+		\end{itemize}
+\section{Digester Calculations}\index{Digester Calculations}
+\subsection{Sludge Pumping}\index{Sludge Pumping}
+			
+				\hl{Example Problems:}\\
+					\begin{enumerate}
+						\item A primary clarifier receives an average flow of 12 MGD containing 280mg/L of TSS.  This clarifier typically removes 75\% TSS  and produces a 3.5\% sludge and the sludge pump is rated to pump 35 cu.ft/min.
+							\begin{enumerate}[a.]
+								\item How many pounds of TSS is removed in the clarifier?
+
+								\item How many cu.ft of sludge at the given 3.5\% sludge needs to be pumped per day to remove the solids?
+
+								\item How many minutes would the sludge pump need to be operational each day to pump the required amount of sludge - calculated from ii.  above?
+
+								\item For how many minutes each hour the sludge pump should be programmed to operate (Given the number of minutes the pump need to operate per day calculated from iii. above) ?\\
+							\end{enumerate}
+						Solution:\\
+							\begin{enumerate}[a.]
+								\item $lbs \enspace solids \enspace removed=(280*0.75)mg/l*12MGD*8.34=\boxed{21,017 \enspace lbs \enspace solids \enspace per \enspace day}$\\
+								\vspace{0.5cm}
+								\item $\dfrac{21,017 \enspace lbs \enspace solids}{day} = \dfrac{x \enspace \cancel{ft^3\enspace sludge}}{day} *\dfrac{7.48 \enspace \cancel{gal \enspace sludge}}{\cancel{ft^3 \enspace sludge}}* \dfrac{0.035 \enspace lbs \enspace solids}{1 \enspace \cancel{ {lb \enspace sludge}}}*\dfrac{8.34 \enspace \cancel{lb \enspace sludge}}{\cancel{gal \enspace sludge}}$\\
+								\vspace{0.5cm}
+								$\dfrac{x \enspace ft^3\enspace sludge}{day}= \dfrac{21,017}{0.035*834*7.48}=\boxed{9,626\dfrac{ft^3 \enspace sludge}{day}} $\\
+								\vspace{0.5cm}
+								\item $\dfrac{9,626 \enspace ft^3 \enspace sludge}{day}*\dfrac{min}{35 \enspace ft^3 \enspace sludge}=\boxed{\dfrac{275 \enspace minutes}{day}}$\\
+								\vspace{0.5cm}
+								\item $\dfrac{275 \enspace minutes}{day}*\dfrac{day}{24 \enspace hrs}=\boxed{\dfrac{11.4 \enspace minutes}{hr}}$\\
+							\end{enumerate}
+								\vspace{0.2cm}
+						\item Calculate the lbs/day of solids removed in a primary clarifier treating a 5 MGD flow with an average influent and effluent TSS concentrations of 250 mg/l and 98 mg/l respectively.
+						\vspace{0.2cm}
+						Solution:\\
+						\vspace{0.2cm}
+						$\dfrac{lbs}{day}=5 MGD *(250-98)\dfrac{mg}{l}*8.34 = \boxed{6338\dfrac{lbs}{day}}$
+				\end{enumerate}
+\subsection{Digester VS or Organic Loading}\index{Digester VS or Organic Loading}				
+				\hl{Example Problems:}\\
+
+				\begin{enumerate}
+					\item How many pounds of TS and VS are pumped to a digester each day if the digester receives 10,000 gpd of sludge at 5\% solids concentration with an average VS\% of 75\%?\\
+					Solution:\\
+
+					Digester TS loading (lbs/day)\\
+					\vspace{0.3cm}
+						$
+							\dfrac{lbs \enspace TS}{day}
+							=
+							\dfrac{10,000 \enspace gal \enspace sludge}{day}
+							*
+							\dfrac{(8.34*0.05) lbs \enspace TS )}{gal \enspace sludge}
+							=4,170
+							\dfrac{lbs \enspace TS}{day}
+						$
+						\\
+						\vspace{0.3cm}
+						Digester VS loading (lbs/day)\\
+						\vspace{0.3cm}
+						$=4,170 	\dfrac{lbs \enspace TS}{day}*0.75\dfrac{lbs \enspace VS}{lb \enspace TS}=\boxed{3,128 \dfrac{lbs \enspace VS}{day}}$
+						\vspace{0.5cm}
+						\item An anaerobic digester is 37’ in diameter and 27’ deep with a 5,000 gallon daily sludge flow. The sludge is 6\% solids and 66\% volatile solids.  What is the volatile solids loading in pounds per cubic foot per day?
+							
+							
+						Solution:\\
+						{
+						$
+							Digester \enspace volatile \enspace solids 			\enspace loading \enspace rate = 					\dfrac
+							{
+							Digester \enspace Loading 
+								\dfrac
+								{
+								lbs \enspace VS
+								}
+								{
+								day
+								}
+							}
+							{
+							Digester \enspace volume (V)ft^3
+							}
+						$
+						}\\
+						\begin{center}
+						\includegraphics[scale=1]{DigesterWOCDimensions_1}
+						\end{center}
+
+						{
+						$=\dfrac
+							{
+								5000
+								\dfrac
+									{gal \enspace sludge}
+									{day}
+								*(8.34*0.06*0.66) 
+								\dfrac
+									{lbs \enspace VS}
+									{gal \enspace  sludge}
+							}
+							{
+								(\dfrac
+									{\pi}
+									{4}*37^2*27)ft^3
+							}
+						=\boxed
+							{
+								0.057 \dfrac
+									{lbs \enspace VS}
+									{day-ft^3}
+							}
+						$}
+				\end{enumerate}
+\subsection{Total volatile solids (VS) reduction}\index{Total volatile solids (VS) reduction}	
+				\begin{itemize}
+					\item This provide a measure of the organic matter content removed and converted into digester gas in the digester. 
+					\item Higher volatile solids reduction implies higher gas production and lower biosolids hauling costs.\\
+					\item The VS reduction of the digester is provided by the Van Kleeck equation \\ 
+
+					$$Digester \enspace VS \enspace reduction (\%)=\dfrac{VS_{in}-VS_{out}}{VS_{in}-VS_{in}*VS_{out}}*100$$
+
+					\item Digester volatile solids concentration is typically expressed as a percentage of the sludge total solids.\\
+					\item 70\% VS which means that 70\% of the total solids is volatile solids.
+					\item \hl{The value of $VS_{in}$ and $VS_{out}$ for the digester VS reduction (Van Kleek) equation above should be in fraction and not as a percentage.}\\
+					\vspace{0.2cm}
+					A value of 0.7 should be used in the equation if the VS concentration is 70\%. Likewise, as 0.525 if the VS concentration is 52.5\%.\\
+					\vspace{0.2cm}
+					Applying this equation to calculate the digester VS reduction if the inlet sludge VS averages 75\% and the outlet sludge is 58\%?\\
+					\vspace{0.3cm}
+					\hl{Example Problem:}\\
+					Calculate the \% VS reduction in a digester given the volatile solids content of the influent sludge to the digester is 70\% and the volatile solids content of the sludge leaving the digester is 52.5\%\\
+					Solution:  $Digester \enspace VS \enspace reduction (\%)=\dfrac{0.7-0.525}{0.7-0.7*0.525}*100=\boxed{ 53\%}$\\
+					\vspace{0.2cm}
+				\end{itemize}
+
+
+
+
+

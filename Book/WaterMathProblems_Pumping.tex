@@ -1,0 +1,300 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+%\usepackage{gensymb}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{mathabx}
+\usepackage{textcomp,mathcomp}
+\usepackage[shortlabels]{enumitem}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+\usepackage{siunitx}
+
+%\usepackage{textcomp}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usetikzlibrary{calc, decorations.markings}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes,snakes}
+\usetikzlibrary{quotes,angles, positioning}
+%\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}}}
+%\rhead{\ifthenelse{\value{page}=1}{Final Exam}{}}
+%\lhead{\ifthenelse{\value{page}=1}{Water Treatment - Oct-Dec 2022}{\textbf Final Exam}}
+%\rfoot{\ifthenelse{\value{page}=1}{}{}}
+%
+%\cfoot{}
+%\lfoot{Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{1pt}
+\colorlet{RoyalBlue}{blue!40!red}
+\graphicspath{ {./images/} }
+\begin{document}
+
+\begin{enumerate}
+
+  \item You have noticed cracks appearing in your coagulation basin. If the basin is 20 feet wide and 60 feet long and the water is 12 feet deep how many gallons will need to be pumped out of this basin so work can begin?\\
+*a) 107712 gallons\\
+b) 9600 gallons\\
+c) 14400 gallons\\
+d) 211384 gallons\\
+
+  
+\item Convert 45 psi to feet of head\\
+
+ 
+$
+45 \enspace \cancel{psi}*\dfrac{ft \enspace head}{0.433\cancel{psi}}=\boxed{92.4 \text { feet }}
+$
+ 
+ \vspace{0.2cm}
+ 
+\item How long (in minutes) will it take to pump down 25 feet of water in a 110 ft diameter cylindrical tank when using a 1420 gpm pump\\
+  
+  $Time \enspace to \enspace pump \enspace down= \dfrac{Volume}{Flow}=\dfrac{0.785*110^2*25 \enspace \cancel{ft^3}}{1420\dfrac{\cancel{gallon}}{min}*\dfrac{\cancel{ft^3}}{7.48\cancel{gallon}}}=\boxed{190 \enspace minutes}$
+ 
+ \vspace{0.2cm}
+
+\item How long will it take (hrs) to ll a 2 ac-ft pond if the pumping rate is 400 GPM?\\
+
+ 
+ \vspace{0.2cm}
+ 
+ $Time \enspace to \enspace fill \enspace(hours)= \dfrac{Volume}{Flow}=\dfrac{2 \enspace \cancel{Ac-ft}*\dfrac{325,851 \enspace \cancel{gallons}}{\cancel{Ac-ft}}}{400 \dfrac{\cancel{gallons}}{\cancel{min}}*\dfrac{60 \enspace\cancel{ min}}{hr}}=\boxed{27 \enspace hours}$\\
+ 
+\item A pump is set to pump 5 minutes each hour. It pumps at the rate of 35 gpm. How many gallons of water are pumped each day?\\
+Solution:\\
+$\dfrac{35 \enspace gal \enspace sludge}{\cancel{min}}*\dfrac{5 \enspace \cancel{min}}{\cancel{hr}} *\dfrac{24 \enspace \cancel{hr}}{day}=\boxed{\dfrac{4,200 \enspace gallons}{day}}$\\
+\vspace{0.5cm}
+
+\item A pump operates 5 minutes each 15 minute interval.  If the pump capacity is 60 gpm, how many gallons are pumped daily?\\
+
+$\dfrac{60 \enspace gal \enspace sludge}{\xcancel{min}}*\dfrac{5 \enspace \xcancel{min}}{15 \enspace \cancel{min}}*1440\dfrac{\cancel{min}}{day}=\boxed{\dfrac {28,800 \enspace gal \enspace sludge }{day}}$\\
+\vspace{0.5cm}
+
+\item Given the tank is 10ft wide, 12 ft long and 18 ft deep tank including 2 ft of freeboard when filled to capacity. How much time (minutes) will be required to pump down this tank to a depth of 2 ft when the tank is at maximum capacity using a 600 GPM pump\\
+Solution:\\
+\vspace{0.5cm}
+
+
+\begin{tikzpicture}
+
+\pgfmathsetmacro{\cubexx}{4}
+\pgfmathsetmacro{\cubeyy}{1.5}
+\pgfmathsetmacro{\cubezz}{2}
+\pgfmathsetmacro{\cubex}{4}
+\pgfmathsetmacro{\cubey}{0.5}
+\pgfmathsetmacro{\cubez}{2}
+\pgfmathsetmacro{\cubexxx}{4}
+\pgfmathsetmacro{\cubeyyy}{4}
+\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(-\cubexx,0,0) -- ++(0,-\cubeyy,0) -- ++(\cubexx,0,0) -- cycle ;
+\filldraw [fill=cyan!0!white, draw=black] (0,-\cubey,0) -- ++(0,0,-\cubezz) -- ++(0,-\cubeyy,0) -- ++(0,0,\cubezz) -- cycle;
+\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(0,0,-\cubezz) -- ++(0,-\cubeyy,0) -- ++(0,0,\cubezz) -- cycle;
+%\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(-\cubexx,0,0) -- ++(0,0,-\cubezz) -- ++(\cubexx,0,0) -- cycle;
+%%%\draw (0,-0.5,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,-\cubez) -- ++(\cubex,0,0) -- cycle;
+\draw (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\draw (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle ;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+
+%\filldraw [fill=RoyalBlue!10!white, draw=black] (0,-1.5,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle ;
+
+%\filldraw [fill=RoyalBlue!10!white, draw=black] (0,-1.5,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+
+
+
+%%\draw (0,-0.5,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+%%\filldraw [fill=white, draw=black] (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+%%\filldraw [fill=white, draw=black] (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle ;
+
+\draw [<->] (-4,-2.3) -- (0,-2.3) node [midway, below] {12' Long};
+\draw [<->] (1,-1.3) -- (1,.2) node [midway, midway] {\hspace{4.5cm}16' Water Depth (Initial)};
+\draw [<->] (0.4,-1.62) -- (0.4,-1.1) node [midway, midway] {\hspace{-4.8cm} 2' Water Depth (Final)};
+\draw [<->] (1,.8) -- (1,.2) node [midway, midway] {\hspace{2.4cm}2' Freeboard};
+\draw [<->] (1,-1.3) -- (0,-2.3) node [midway, midway] {\hspace{2.3cm}10' Wide};
+\end{tikzpicture}\\
+Volume to be pumped=$12 \enspace ft*10 \enspace ft *(16-2)\enspace ft=1,680ft^3$\\
+\vspace{0.3cm}
+$\implies \dfrac{1,680\cancel{ft^3}*7.48\dfrac{\cancel{gal}}{\cancel{ft^3}}}{600\dfrac{\cancel{gal}}{min}}=\boxed{21min}$
+
+
+\item How long will it take to pump down 25 feet of water in a 110 ft diameter cylindrical tank when using a 1,420 gpm pump.\\ 
+
+a. 20 hours and 85 minutes \\
+*b. 20 hours and 51 minutes \\
+c. 2 hours and 47 minutes \\
+d. 12 hours and 36 minutes \\
+\vspace{0.5cm}
+
+\item How long (in minutes) will it take to pump down 25 feet of water in a 110 ft diameter cylindrical tank when using a 1420 gpm pump\\
+
+ $Time \enspace to \enspace pump \enspace down= \dfrac{Volume}{Flow}=\dfrac{0.785*110^2*25 \enspace \cancel{ft^3}}{1420\dfrac{\cancel{gallon}}{min}*\dfrac{\cancel{ft^3}}{7.48\cancel{gallon}}}=\boxed{190 \enspace minutes}$
+ 
+
+\item How long will it take (hrs) to fill a 2 ac-ft pond if the pumping rate is 400 GPM?\\
+$Time \enspace to \enspace fill \enspace(hours)= \dfrac{Volume}{Flow}=\dfrac{2 \enspace \cancel{ac-ft}*\dfrac{325,851 \enspace \cancel{gallons}}{\cancel{ac-ft}}}{400 \dfrac{\cancel{gallons}}{\cancel{min}}*\dfrac{60 \enspace\cancel{ min}}{hr}}=\boxed{27 \enspace hours}$
+\item A tank is filling at the rate of 300gpm for a 20 minute period. How many of water will be con- tained in the tank at the end of 16 minutes?
+
+\item How long (in minutes) will it take to pump down 25 feet of water in a 110 ft diameter cylindrical tank when using a 1420 gpm pump\\
+
+\item How long will it take (hrs) to fill a 2 ac-ft pond if the pumping rate is 400 GPM?
+
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) ellipse (2cm and 0.3cm);
+\draw (0,-2.3) ellipse (2cm and 0.3cm);
+\draw [-] (2,-2.3) -- (2,0);
+\draw [<->] (-2,0) -- (2,0) node [midway, above=3mm] {\hspace{0.1cm}Diameter=110'}; 
+\draw [<->] (2.5,-2.3) -- (2.5,0) node [midway, below] {\hspace{1.9cm}Height=25'};
+%\draw [-] (0,-4) -- (2,-2.3);
+%\draw [-] (0,-4) -- (-2,-2.3);
+%\draw [-] (0,-4) -- (2,-2.3);
+\draw [-] (-2,0) -- (-2,-2.3);
+\end{tikzpicture}\\
+\end{center}
+$Time=\dfrac{Total \enspace volume \enspace to \enspace be \enspace pumped}{Pump \enspace flow \enspace rate}$\\
+\vspace{0.3cm}
+$\implies \dfrac{(0.785*110^2*25)\cancel{ft^3}*\dfrac{7.48\cancel{gal}}{\cancel{ft^3}}}{\dfrac{1420\cancel{gal}}{min}*\dfrac{60\cancel{min}}{hr}}=20.847hrs \implies 20 \enspace hrs + 0.847*60 \enspace minutes = \boxed{20hrs \enspace 51 min}$
+
+
+
+\item Approximately how many inches will a 8 ft. wide and 10 ft. long wet well level be lowered in 15 min by a pump with a rated capacity of 100 gpm?.
+\begin{center}
+\includegraphics[scale=0.8]{Wetwell}
+\end{center}
+Volume pumped $= 100 \frac{gal}{min} * 15 min = 1500 gal = 1500 gal * \frac{ft^3}{7.48 gal} = 200.5 ft^3$	
+
+Volume of wetwell for x feet height of water $= 8 ft * 10 ft * x ft = 80x ft^3$
+
+$80x ft^3 = 200.5 ft^3$
+$\implies x = \frac{200.5}{80} = 2.5 ft = 2.5 ft * \frac{12 in}{ft} = \boxed {30 in}$
+
+
+\item Given the tank is 10ft wide, 12 ft long and 18 ft deep tank including 2 ft of freeboard when filled to capacity. How much time (minutes) will be required to pump down this tank to a depth of 2 ft when the tank is at maximum capacity using a 600 GPM pump\\
+Solution:\\
+\vspace{0.5cm}
+
+\begin{tikzpicture}
+
+\pgfmathsetmacro{\cubexx}{4}
+\pgfmathsetmacro{\cubeyy}{1.5}
+\pgfmathsetmacro{\cubezz}{2}
+\pgfmathsetmacro{\cubex}{4}
+\pgfmathsetmacro{\cubey}{0.5}
+\pgfmathsetmacro{\cubez}{2}
+\pgfmathsetmacro{\cubexxx}{4}
+\pgfmathsetmacro{\cubeyyy}{4}
+\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(-\cubexx,0,0) -- ++(0,-\cubeyy,0) -- ++(\cubexx,0,0) -- cycle ;
+\filldraw [fill=cyan!0!white, draw=black] (0,-\cubey,0) -- ++(0,0,-\cubezz) -- ++(0,-\cubeyy,0) -- ++(0,0,\cubezz) -- cycle;
+\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(0,0,-\cubezz) -- ++(0,-\cubeyy,0) -- ++(0,0,\cubezz) -- cycle;
+%\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(-\cubexx,0,0) -- ++(0,0,-\cubezz) -- ++(\cubexx,0,0) -- cycle;
+%%%\draw (0,-0.5,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,-\cubez) -- ++(\cubex,0,0) -- cycle;
+\draw (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\draw (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle ;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+
+\filldraw [fill=RoyalBlue!10!white, draw=black] (0,-1.5,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle ;
+
+\filldraw [fill=RoyalBlue!10!white, draw=black] (0,-1.5,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+
+
+
+%%\draw (0,-0.5,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+%%\filldraw [fill=white, draw=black] (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+%%\filldraw [fill=white, draw=black] (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle ;
+
+\draw [<->] (-4,-2.3) -- (0,-2.3) node [midway, below] {12' Long};
+\draw [<->] (1,-1.3) -- (1,.2) node [midway, midway] {\hspace{4.5cm}16' Water Depth (Initial)};
+\draw [<->] (0.4,-1.62) -- (0.4,-1.1) node [midway, midway] {\hspace{-4.8cm} 2' Water Depth (Final)};
+\draw [<->] (1,.8) -- (1,.2) node [midway, midway] {\hspace{2.4cm}2' Freeboard};
+\draw [<->] (1,-1.3) -- (0,-2.3) node [midway, midway] {\hspace{2.3cm}10' Wide};
+\end{tikzpicture}\\
+Volume to be pumped=$12 \enspace ft*10 \enspace ft *(16-2)\enspace ft=1,680ft^3$\\
+\vspace{0.3cm}
+$\implies \frac{1,680\cancel{ft^3}*7.48\frac{\cancel{gal}}{\cancel{ft^3}}}{600\frac{\cancel{gal}}{min}}=\boxed{21min}$
+
+\item A pump is set to pump 5 minutes each hour. It pumps at the rate of 35 gpm. How many gallons of are pumped each day?\\
+Solution:\\
+$\frac{35 \enspace gal \enspace sludge}{\cancel{min}}*\frac{5 \enspace \cancel{min}}{\cancel{hr}} *\frac{24 \enspace \cancel{hr}}{day}=\boxed{\frac{4,200 \enspace gallons}{day}}$\\
+\vspace{0.5cm}
+
+\item A pump operates 5 minutes each 15 minute interval.  If the pump capacity is 60 gpm, how many gallons of are pumped daily?
+
+$\frac{60 \enspace gal \enspace sludge}{\xcancel{min}}*\frac{5 \enspace \xcancel{min}}{15 \enspace \cancel{min}}*1440\frac{\cancel{min}}{day}=\boxed{\frac {28,800 \enspace gal \enspace sludge }{day}}$\\
+\vspace{0.5cm}
+
+
+
+\item How long will it take to pump down 25 feet of water in a 110 ft diameter cylindrical tank when using a 1420 gpm pump.\\  Ans:  20 hrs 51 minutes
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) ellipse (2cm and 0.3cm);
+\draw (0,-2.3) ellipse (2cm and 0.3cm);
+\draw [-] (2,-2.3) -- (2,0);
+\draw [<->] (-2,0) -- (2,0) node [midway, above=3mm] {\hspace{0.1cm}Diameter=110'}; 
+\draw [<->] (2.5,-2.3) -- (2.5,0) node [midway, below] {\hspace{1.9cm}Height=25'};
+%\draw [-] (0,-4) -- (2,-2.3);
+%\draw [-] (0,-4) -- (-2,-2.3);
+%\draw [-] (0,-4) -- (2,-2.3);
+\draw [-] (-2,0) -- (-2,-2.3);
+\end{tikzpicture}\\
+\end{center}
+$Time=\frac{Total \enspace volume \enspace to \enspace be \enspace pumped}{Pump \enspace flow \enspace rate}$\\
+\vspace{0.3cm}
+$\implies \frac{(0.785*110^2*25)\cancel{ft^3}*\frac{7.48\cancel{gal}}{\cancel{ft^3}}}{\frac{1420\cancel{gal}}{min}*\frac{60\cancel{min}}{hr}}=20.847hrs \implies 20 \enspace hrs + 0.847*60 \enspace minutes = \boxed{20hrs \enspace 51 min}$
+\item A single piston reciprocating pump has a 6 inch diameter piston with a 6 inch length of stroke If it makes 16 discharge strokes per minute, the pumping rate is gallons per minute\\
+a. 6\\
+*b. 12\\
+c. 25\\
+d. 47\\
+
+\item Given the following information, calculate how many minutes a piston-type pump will have to run each day to pump 1 MGD of a solution if the pump will pump two (2) gallons per stroke and the pump is set at 50 strokes/minute\\
+*a. 25 minutes\\
+b. 445 minutes\\
+c. 95 minutes\\
+d. 210 minutes\\
+
+\item How long will it take (hrs) to fill a 2 ac-ft reservoir if the pumping rate is 400 GPM\\
+Solution:\\
+$Time (hrs)\enspace to \enspace fill \enspace a \enspace 2ac-ft \enspace pond=\frac{2 \cancel{ac-ft}*\frac{43,560\cancel{ft^3}}{\cancel{ac-ft}}*\frac{7.48\cancel{gal}}{\cancel{ft^3}}}{\frac{400\cancel{gal}}{\cancel{min}}*{\frac{60\cancel{min}}{hr}}}=\boxed{27hrs}$
+
+
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

@@ -1,0 +1,20 @@
+This is makeindex, version 2.16 [MiKTeX 23.9].
+Scanning input file WaterTreatmentandDistributionBook1.idx....
+!! Input index error (file = WaterTreatmentandDistributionBook1.idx, line = 278):
+   -- Extra `!' at position 50 of first argument.
+!! Input index error (file = WaterTreatmentandDistributionBook1.idx, line = 279):
+   -- Extra `!' at position 50 of first argument.
+
+!! Input index error (file = WaterTreatmentandDistributionBook1.idx, line = 281):
+   -- Extra `!' at position 50 of first argument.
+!! Input index error (file = WaterTreatmentandDistributionBook1.idx, line = 282):
+   -- Extra `!' at position 50 of first argument.
+!! Input index error (file = WaterTreatmentandDistributionBook1.idx, line = 283):
+   -- Extra `!' at position 50 of first argument.
+!! Input index error (file = WaterTreatmentandDistributionBook1.idx, line = 284):
+   -- Extra `!' at position 50 of first argument.
+done (357 entries accepted, 6 rejected).
+Sorting entries......done (3239 comparisons).
+Generating output file WaterTreatmentandDistributionBook1.ind....done (448 lines written, 0 warnings).
+Output written in WaterTreatmentandDistributionBook1.ind.
+Transcript written in WaterTreatmentandDistributionBook1.ilg.

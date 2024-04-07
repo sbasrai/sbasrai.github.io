@@ -1,0 +1,166 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+%\usepackage{gensymb}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{mathabx}
+\usepackage{textcomp,mathcomp}
+\usepackage[shortlabels]{enumitem}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+\usepackage{siunitx}
+
+%\usepackage{textcomp}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usetikzlibrary{calc, decorations.markings}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes,snakes}
+\usetikzlibrary{quotes,angles, positioning}
+%\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}}}
+%\rhead{\ifthenelse{\value{page}=1}{Final Exam}{}}
+%\lhead{\ifthenelse{\value{page}=1}{Water Treatment - Oct-Dec 2022}{\textbf Final Exam}}
+%\rfoot{\ifthenelse{\value{page}=1}{}{}}
+%
+%\cfoot{}
+%\lfoot{Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+
+
+\section{Percent}\index{Percent}
+\textbf{Example:}\\
+What is $28 \%$ of $286 ?$\\
+
+\begin{enumerate}[Step 1.]
+\item Change the $28 \%$ to a decimal equivalent:  $$28 \% \div 100=0.28$$
+\item Multiply $286 \times 0.28=80$\\
+Thus $28 \%$ of 286 is 80.
+\end{enumerate}
+
+\textbf{Example:} A filter bed will expand $25 \%$ during backwash. If the filter bed is 36 inches deep, how deep will it be during backwash?\\
+
+\begin{enumerate}[Step 1.]
+\item Change the percent to a decimal.
+$$
+25 \% \div 100=0.25
+$$
+\item Add the whole number 1 to this value.
+$$
+1+0.25=1.25
+$$
+\item Multiply times the value.
+$$
+36 \text { in } \times 1.25=45 \text { inches }
+$$
+\end{enumerate}
+
+\begin{enumerate}
+
+\item What is 20\% of 250?\\
+Solution:\\
+$20\%=\frac{20}{100}=0.2 \implies 20\% \enspace of \enspace 250=0.2*250=\boxed{50}$
+
+\item What percent is 0.4 of 4?\\
+Solution:\\
+$x\%=\frac{x}{100} \implies 0.4=\frac{x}{100}*4 \implies x=\frac{0.4*100}{4}=\boxed{10\%}$
+
+\end{enumerate}
+
+
+\subsection{Percentage Concentrations}
+
+\textbf{Example 1:} A chlorine solution was made to have a $4 \%$ concentration. It is often desirable to determine this concentration in $\mathrm{mg} / \mathrm{L}$. This is relatively simple: the $4 \%$ is four percent of a million.
+
+To find the concentration in $\mathrm{mg} / \mathrm{L}$ when it is expressed in percent, do the following:
+
+\begin{enumerate}
+  \item Change the percent to a decimal.
+\end{enumerate}
+$$
+4 \% \div 100=0.04
+$$
+
+\begin{enumerate}
+  \setcounter{enumi}{2}
+  \item Multiply times a million.
+\end{enumerate}
+$$
+0.04 \times 1,000,000=40,000 \mathrm{mg} / \mathrm{L}
+$$
+We get the million because a liter of water weighs $1,000,000 \mathrm{mg} .1 \mathrm{mg}$ in 1 liter is 1 part in a million parts ( $\mathrm{ppm}) .1 \%=10,000 \mathrm{mg} / \mathrm{L}$.
+
+
+\textbf{Example 2:} How much $65 \%$ calcium hypochlorite is required to obtain 7 pounds of pure chlorine?\\
+$65 \%$ implies that in every lb of calcium hypochlorite has $65 \%$ lbs of available chlorine.\\
+\vspace{0.2cm}
+Therefore, $\dfrac{0.65 \textrm{ lbs available chlorine}}{\textrm{lb of calcium hypochlorite}} $ or conversely $\dfrac{\textrm{lb of calcium hypochlorite}}{0.65 \textrm{ lbs available chlorine}}$\\
+\vspace{0.2cm}
+$\implies{\textrm{lbs calcium hypchlorite required}}=\dfrac{\textrm{lb of calcium hypochlorite}}{0.65 \cancel{\textrm{ lbs available chlorine}}}*\dfrac{7\cancel{\textrm{ lb of available chlorine}}}{}$\\
+\vspace{0.2cm}
+$=\boxed{10.8 \textrm{ lbs of calcium hypochlorite with } 65\%\textrm{available chlorine is required}}$
+
+
+\begin{enumerate}
+
+\item $25 \%$ of the chlorine in a 30-gallon vat has been used. How many gallons are remaining in the vat?\\
+Solution:\\
+Amount of chlorine remaining in the vat is 100\%-25\%=75\%\\
+
+Gallons of chlorine remaining in the vat: $30*0.75=\boxed{22.5 \enspace gallons}$
+
+\item The annual public works budget is $\$ 147,450$. If $75 \%$ of the budget should be spent by the end of September, how many dollars are to be spent? How many dollars will be remaining?\\
+\vspace{0.2cm}
+Solution:\\
+Amount to be spent = \$147,450*0.75 = $\boxed{\$110,812.50}$\\
+\vspace{0.2cm}
+Amount remaining = \$ 147,450 - 110,812.50 = $\boxed{\$36,367.50}$
+
+\item A 75 pound container of calcium hypochlorite has a purity of $67 \%$. What is the actual weight of the calcium hypochlorite in the container? \\
+\vspace{0.2cm}
+Solution:\\
+Note: Calcium Hypochlorite can be written as Ca(OCl)$_2$\\
+$75 \enspace lbs \enspace Ca(OCl)_2 \enspace - \enspace product \enspace in \enspace container*\dfrac{0.67 \enspace lbs \enspace Ca(OCl)_2 }{lb \enspace Ca(OCl)_2  \enspace - \enspace product \enspace in \enspace container} = \boxed{50.25 \enspace lbs \enspace Ca(OCl)_2}$\\
+\vspace{0.2cm}
+
+
+\item $3 / 4$ is the same as what percentage?\\
+\vspace{0.2cm}
+$\dfrac{3}{4}=0.75 \enspace which \enspace is \enspace \dfrac{75}{100} = \boxed{75\%}$\\
+\vspace{0.2cm}
+
+\item An operator mixes 40 lb of lime in a 100-gal tank containing 80 gal of water. What is the percent of lime in the slurry?
+\vspace{0.2cm}
+Solution:\\
+\vspace{0.2cm}
+\end{enumerate}
+
+\end{document}

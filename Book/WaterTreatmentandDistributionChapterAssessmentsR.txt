@@ -1,0 +1,11645 @@
+
+1. Hard water contains an abundance of 
+a. 
+sodium 
+
+b. 
+iron 
+
+c. 
+lead 
+
+d. 
+*calcium carbonate 
+
+
+2. A specific class of bacteria that only inhibit the intestines of warm-blooded animals is referred to as? 
+a. 
+Eutrophic 
+
+b. 
+Grazing 
+
+c. 
+Salmonella 
+
+d. 
+*Fecal coliform 
+
+e. 
+pathogenic 
+
+
+3. Water with a pH of 8.0 is considered to be 
+a. 
+acidic 
+
+b. 
+*basic or alkaline 
+
+c. 
+neutral 
+
+d. 
+undrinkable 
+
+
+4. Over which water quality indicator do operators have the greatest control? 
+a. 
+alkalinity 
+
+b. 
+pH 
+
+c. 
+temperature 
+
+d. 
+*turbidity 
+
+
+5. Which piece of laboratory equipment is used to titrate a chemical reagent? 
+a. 
+graduated cylinder 
+
+b. 
+*burette 
+
+c. 
+pipet 
+
+d. 
+Buchner funnel 
+
+
+6. Which pH range is generally accepted as most palatable (drinkable)? a. *6.5 to 8.5 b. 4.5 to 6.5 c. 8.5 to 9.5 
+d. 
+9.5 and above 
+
+e. 
+all of the above 
+
+
+7. Which of the following conditions is favorable for the rapid growth of algal? 
+a. 
+*moderate to high dissolved oxygen and nutrients 
+
+b. 
+high pH and water hardness 
+
+c. 
+low temperatures and low dissolved oxygen 
+
+d. 
+high alkalinity and water hardness 
+
+
+8. Which of the following is the name given for a turbidity meter that has reflected or scat­tered light off suspended particles as a measurement? 
+
+a. 
+HACH colorimeter 
+
+b. 
+spectrophotometer 
+
+c. 
+Wheaton bridge 
+
+d. 
+*Nephelometer 
+
+
+9. Water hardness is the measure of the concentrations of and dissolved in the water sample. 
+a. 
+iron, manganese 
+
+b. 
+nitrates, nitrites 
+
+c. 
+sulfates, bicarbonates 
+
+d. 
+*calcium & magnesium carbonates 
+
+e. 
+ferric chlorides and polymers 
+
+
+10. The electrical potential required to transfer electrons from one compound or element to another is commonly referred to as 
+a. 
+*oxidation-reduction potential (ORP) 
+
+b. 
+voltage potential (OHM/P) 
+
+c. 
+resistance-impedance potential 
+
+d. 
+microMho differential 
+
+
+11. 
+Water has physical, chemical, and biological characteristics. Which of the following is a physical characteristic? a. Coliform b. *Turbidity c. Hardness d. All the above 
+
+12. 
+Tastes and odors in surface water are most often caused by: 
+
+a. 
+clays 
+
+b. 
+hardness 
+
+c. 
+*algae 
+
+d. 
+coliform bacteria 
+
+
+
+13. 
+Which of the following elements cause hardness in water? 
+
+a. 
+sodium and potassium 
+
+b. 
+*calcium and magnesium 
+
+c. 
+iron and manganese 
+
+d. 
+turbidity and suspended solids 
+
+
+
+14. 
+When measuring for free chlorine residual, which method is the quickest and simplest? 
+
+a. 
+DPD color comparater 
+
+b. 
+Orthotolidine method 
+
+c. 
+Amperometric titration 
+
+d. 
+1, 2 nitrotoluene di-amine method 
+
+
+
+15. 
+Which water quality parameter requires a grab sample because it cannot be collected as a composite sample? 
+
+a. 
+pH 
+
+b. 
+Iron 
+
+c. 
+Nitrate 
+
+d. 
+Zinc 
+
+
+
+16. 
+If a water sample is not analyzed immediately for chlorine residual, it is acceptable if it is 
+
+analyzed within a. 10 minutes. b. 15 minutes. c. 20 minutes. d. 30 minutes. 
+
+17. 
+The volume of a sample for coliform compliance is a. 100 mL. b. 200 mL. c. 300 mL. 
+
+d. 0 ; there is no volume compliance for coliforms. 
+
+18. 
+Which of the following is an indicator organism? 
+
+a. 
+Giardia 
+
+b. 
+Cryptosporidium 
+
+c. 
+Hepatitis 
+
+d. 
+E. Coli 
+
+
+
+19. 
+What is the primary origin of coliform bacteria in water supplies? 
+
+a. 
+Natural algae growth 
+
+b. 
+Industrial solvents 
+
+c. 
+Animal or human feces 
+
+d. 
+Acid rain 
+
+
+
+20. 
+What ls the term for water samples collected at regular intervals and combined in equal volume with each other? 
+
+a. 
+Time grab samples 
+
+b. 
+Time flow samples 
+
+c. 
+Proportional time composite samples 
+
+
+
+21. 
+What is the basis for the number of samples that must be collected for utilities monitoring for lead and copper that are in compliance or have installed corrosion control’? 
+
+a. 
+Size of distribution system 
+
+b. 
+Population 
+
+c. 
+Amount of water produced 
+
+d. 
+Number of raw water sources 
+
+
+
+22. 
+Where should bacteriological samples be collected in the distribution system? 
+
+a. 
+Uniformly distributed throughout the system based on area 
+
+b. 
+At locations that are representative of conditions within the system 
+
+c. 
+Always from extreme locations in the system but occasionally at other locations 
+
+d. 
+Uniformly throughout the system based on population density 
+
+
+
+23. 
+The quantity of oxygen. that can remain dissolved in water is related to 
+
+a. 
+Temperature 
+
+b. 
+pH 
+
+c. 
+Turbidity 
+
+d. 
+Alkalinity 
+
+
+
+24. 
+In coliform analysis using the presence-absence test, a sample should be incubated for a. 24 hours at 25.C b. 36 hours at 35.C c. 24 and 36 hours at 25.0 d. 24 and 48 hours at 35.C 
+
+25. 
+A major source of error when obtaining water quality information is improper: 
+
+a. 
+Sampling 
+
+b. 
+Preservation 
+
+c. 
+Tests of samples 
+
+d. 
+Reporting of data 
+
+
+
+26. 
+What is commonly used as an indicator of potential contamination in drinking water sam­ples? 
+
+a. 
+Viruses 
+
+b. 
+Coliform bacteria 
+
+c. 
+Intestinal parasites 
+
+d. 
+Pathogenic organisms 
+
+
+
+27. 
+The type of organisms that can cause disease are said to be microorganisms. 
+
+a. 
+Bad 
+
+b. 
+Pathogenic 
+
+c. 
+Undesirable 
+
+d. 
+Sick 
+
+
+
+28. 
+Four types of aesthetic contaminants in water include the following: 
+
+a. 
+Odor, turbidity, color, hydrogen sulfide gas 
+
+b. 
+Pathogens, microorganisms, arsenic, disinfection by-products 
+
+c. 
+Odor, color, turbidity, hardness 
+
+d. 
+Color, pathogens, metals, organics 
+
+
+
+29. 
+What is the purpose of adding fluoride to drinking water? 
+
+a. 
+Increase tooth decay 
+
+b. 
+Reduce tooth decay 
+
+c. 
+Make teeth white 
+
+d. 
+Government conspiracy 
+
+
+
+30. 
+The test used to determine the effectiveness of disinfection is called the: 
+
+a. 
+Coliform bacteria test 
+
+b. 
+Color test 
+
+c. 
+Turbidity test 
+
+d. 
+Particle test 
+
+
+
+31. 
+Turbidity is measured as: 
+
+a. 
+mg/L 
+
+b. 
+mL 
+
+c. 
+gpm 
+
+d. 
+NTU 
+
+
+
+32. 
+Giardia and cryptosporidium are a type of: 
+
+a. 
+Mineral 
+
+b. 
+Organism 
+
+c. 
+Color 
+
+d. 
+Bird 
+
+
+
+33. 
+Chronic contaminants are those that can cause sickness after: 
+
+a. 
+Prolonged exposure 
+
+b. 
+Low levels or low exposure 
+
+
+
+34. 
+A positive total coliform test indicates that: 
+
+a. 
+Disease-causing organisms may be present in the water supply 
+
+b. 
+The water is safe to consume 
+
+c. 
+The water supply has high iron levels 
+
+d. 
+There is nothing to be concerned about 
+
+
+
+35. 
+What is the purpose of the bacteriological site sampling plan? 
+
+a. 
+To have a map showing where BacT samples are drawn 
+
+b. 
+In case of a positive Bac T sample, the operator will know where to take the four repeat samples 
+
+c. 
+The state will know where you are taking your repeat samples 
+
+d. 
+All of the above 
+
+
+
+36. 
+To ensure that the water supplied by a public water system meets state requirements, the water system operator must regularly collect samples and: 
+
+a. 
+Have water analyzed at an approved water testing laboratory 
+
+b. 
+Determine a sampling schedule based on state requirements 
+
+c. 
+Send all analyses results to the state 
+
+d. 
+All of the above 
+
+
+
+37. 
+Samples taken for routine bacteriological testing should be preserved by: 
+
+a. 
+Freezing 
+
+b. 
+Boiling 
+
+c. 
+DPD preservative 
+
+d. 
+Refrigeration 
+
+
+
+38. 
+How many coliform samples are required per month for a water system serving a popula­tion between 25 and 100 ? a. 1 b. 2 c. 3 d. 4 
+
+39. 
+Before taking a bacteriological (BacT) water sample from a faucet, you should: 
+
+a. 
+Wash hands thoroughly b. Remove the faucet aerator 
+
+c. 
+Flush water until you’re sure water is from the main, not the service line 
+
+d. 
+All of the above 
+
+
+
+40. 
+Monthly BacT samples should be taken from: 
+
+a. 
+The well pump house 
+
+b. 
+The distribution system 
+
+c. 
+The treatment plant 
+
+d. 
+An outside hose spigot 
+
+
+
+41. 
+If your BacT sample test is positive, how long do you have to collect four repeat samples and deliver them to the lab? a. 12 hours b. 24 hours c. 48 hours d. 72 hours 
+
+42. 
+__ is a measure of the capacity of water to neutralize acids. 
+
+a. 
+Concentration 
+
+b. 
+Alkalinity 
+
+c. 
+pH 
+
+d. 
+Conductivity 
+
+
+
+43. 
+The DPD method is used to determine the of a water sample. 
+
+a. 
+Dissolved oxygen content 
+
+b. 
+Conductivity 
+
+c. 
+pH 
+
+d. 
+Free chlorine residual 
+
+
+
+44. 
+What color does N,N-diethyl-p-phenylenediamine (DPD) turn in the presence of chlorine? 
+
+a. 
+Brown 
+
+b. 
+Green 
+
+c. 
+Blue 
+
+d. 
+Pink 
+
+
+
+45. 
+The presence-absence ( P - A) test used for microbiological testing is also commonly referred to as 
+
+a. 
+Multiple Tube Fermentation 
+
+b. 
+Membrane Filtration 
+
+c. 
+Confirmed Test 
+
+d. 
+Colilert 
+
+
+
+46. 
+When testing for coliform bacteria with the multiple tube fermentation (MFT) method what is the best indicator for a positive test? 
+
+a. 
+Color change 
+
+b. 
+Gas bubble formation 
+
+c. 
+Formation of a cyst d. Formation of turbidity 
+
+
+
+47. 
+Coliform bacteria share many characteristics with pathogenic organisms. Which of the 
+
+
+
+
+
+
+
+following is not true? 
+a. 
+They survive longer in water 
+
+b. 
+They grow in the intestines 
+
+c. 
+There are less coliform than pathogenic organisms 
+
+d. 
+They are still present in water without fecal contamination 
+
+
+48. What is the second step in the multiple tube fermentation test? 
+a. 
+Presumptive test 
+
+b. 
+Negative test 
+
+c. 
+Completed 
+
+d. 
+Confirmed 
+
+
+49. What is the removal and deactivation requirement for Giardia? a. 2log b. 3log c. 4log 
+d. There is no requirement 
+50. The multiple barrier approach to water treatment includes removal through which method? 
+a. 
+Filtration 
+
+b. 
+Coagulation 
+
+c. 
+Disinfection 
+
+d. 
+aandc 
+
+
+51. A pH reading of 7 is considered 
+a. 
+Slightly acidic 
+
+b. 
+Acidic 
+
+c. 
+Basic 
+
+d. 
+Neutral 
+
+
+52. EDTA titration is used to determine the of a water sample. 
+a. 
+Hardness 
+
+b. 
+Conductivity 
+
+c. 
+Alkalinity 
+
+d. 
+Free chlorine residual 
+
+
+53. A higher than normal turbidity reading could signify 
+a. 
+A change in water quality 
+
+b. 
+Nothing. Keep operating as normal 
+
+c. 
+Microbiological contamination 
+
+d. 
+Both A&C 
+
+
+54. What is the ingredient used during the second multiple tube fermentation test? 
+a. 
+Colilert 
+
+b. 
+MMO/MUG 
+
+c. 
+Brilliant Green Bile 
+
+d. 
+Chlorine 
+
+
+
+55. When collecting a distribution system sample for bacteriological testing, the person collect­ing the sample should allow the water to run before filling the sample bottle. 
+a. 
+A minimum of five minutes. b. 1hr. c. 30 min 
+
+d. 
+only a few seconds 
+
+
+56. Black stains on plumbing fixtures might be attributed to 
+a. 
+calcium. 
+
+b. 
+copper. 
+
+c. 
+magnesium. 
+
+d. 
+manganese. 
+
+
+57. The multiple tube fermentation test consists of three distinct tests. These tests, in the order performed, are the: 
+a. 
+preliminary, confirmed, and completed tests. 
+
+b. 
+preliminary, presumptive and confirmed tests. 
+
+c. 
+presumptive, confirmed, and completed tests. 
+
+d. 
+prespumtive, preliminary, and completed tests. 
+
+
+58. 
+What should the sample volume be when testing for total coliform bacteria? a. 100 mL b. 250 mL c. 500 mL d. 1,000 mL 
+
+59. 
+pH is a measure of : 
+
+a. 
+conductivity 
+
+b. 
+water’s ability to neutralize acid 
+
+c. 
+hydrogen ion activity 
+
+d. 
+dissolved solids 
+
+
+
+60. 
+Sodium Thiosulfate is used to 
+
+a. 
+Buffer chlorine solutions 
+
+b. 
+Neutralize chlorine residuals 
+
+c. 
+Detect chlorine leaks 
+
+d. 
+Sterilize sample bottles 
+
+
+
+61. 
+The presence of total coliforms in drinking water indicates 
+
+a. 
+The presence of pathogens. 
+
+b. 
+The absence of an adequate chlorine residual 
+
+c. 
+The existence of an urgent public health problem 
+
+d. 
+The potential presence of pathogens 
+
+
+
+62. 
+A primary health risk associated with microorganisms in drinking water is 
+
+a. 
+Cancer 
+
+b. 
+Acute gastrointestinal diseases 
+
+c. 
+Birth defects 
+
+d. 
+Nervous system disorders 
+
+
+
+63. 
+After 5 years use, a portion of cast iron pipe shows a white scale about 1/2 inch thick lining the inside. This means 
+
+a. 
+Red water will soon become a problem 
+
+b. 
+The water has been corrosive 
+
+c. 
+The water is chemically unstable and is depositing 
+
+d. 
+Water should flow easier since the lining is smooth 
+
+
+
+64. 
+Hardness in water is caused by 
+
+a. 
+Dissolved minerals 
+
+b. 
+High pH. 
+
+c. 
+Low turbidity 
+
+d. 
+Alkalinity 
+
+
+
+65. 
+The meniscus on calibrated glassware is read at the 
+
+a. 
+Bottom of curvature for mercury but the top for water 
+
+b. 
+Extreme point of contact between the liquid and glass, i.e., where gas, liquid, and air all meet at one point 
+
+c. 
+Mid-height of the curvature so that beginning and ending readings will results in zero error 
+
+d. 
+Top of curvature for mercury but at the bottom for most other liquids including water 
+
+
+
+66. 
+An unknown substance is found on the bottom of the water within a drinking water reser­voir. Which of the following statements is true of this substance? 
+
+a. 
+It has a specific gravity less than 1.0 
+
+b. 
+It has a specific gravity equal to 1.0 
+
+c. 
+It has a specific gravity greater than 1.0 
+
+d. 
+It has no specific gravity 
+
+e. 
+None of the above 
+
+
+
+67. 
+The term "Chain of Custody" refers to 
+
+a. 
+A large accessory to a come-along 
+
+b. 
+An attachment to a pipe-cutter 
+
+c. 
+Employee labor laws 
+
+d. 
+Procedures and documentation required for water quality sampling 
+
+e. 
+Procedures and documentation required for chemical application 
+
+
+
+68. 
+Water samples to be analyzed for taste and odor must be 
+
+a. 
+Analyzed in the field 
+
+b. 
+Collected in glass sample containers 
+
+c. 
+Dechlorinated with sodium thiosulfate 
+
+d. 
+Preserved with dilute hydrochloric acid e. None of the above 
+
+
+
+69. 
+Bacteriological samples for a distribution system must be collected in accordance with 
+
+a. 
+The Surface Water Treatment Rule 
+
+b. 
+OSHA requirements 
+
+c. 
+An approved sample siting plan 
+
+d. 
+FLSA requirements 
+
+e. 
+ANSI/NSF Standard 61 
+
+
+
+70. 
+Trihalomethanes are classified as 
+
+a. 
+Metals 
+
+b. 
+Inorganic constituents 
+
+c. 
+Secondary drinking water standards 
+
+d. 
+Radiological contaminants 
+
+e. 
+Volatile organic compounds 
+
+
+
+71. 
+The multiple tube fermentation analysis consists of 
+
+a. 
+Positive, negative, and neutral tests 
+
+b. 
+Presumptive, confirmed, and completed tests 
+
+c. 
+Preliminary, presumptive, and confirmed tests 
+
+d. 
+Preliminary, confirmed, and completed tests 
+
+e. 
+Presence or absence testing 
+
+
+
+72. 
+Which of the following is NOT a characteristic of coliform organisms? 
+
+a. 
+Intestinal origin 
+
+b. 
+Will produce carbon dioxide from lactose 
+
+c. 
+Heartier in a water environment than pathogenic organisms 
+
+d. 
+Far less numerous than pathogenic organisms 
+
+e. 
+Able to survive with or without oxygen 
+
+
+
+73. 
+A bacteriological test that measures only the presence or absence of coliforms is 
+
+a. 
+ColiLert (MMO/MUG) 
+
+b. 
+Multiple tube fermentation 
+
+c. 
+Most probable number (MPN) 
+
+d. 
+Membrane filtration 
+
+e. 
+Presumptive test 
+
+
+
+74. 
+After collection, if stored at 4.C, bacteriological samples must be processed within a. 1 hour b. 6 hours c. 24 hours d. 48 hours e. 72 hours 
+
+75. 
+Sample bottles which are furnished by a certified laboratory for collection of bacteriologi­cal samples 
+
+a. 
+Should be rinsed with the water to be sampled before use b. Should be placed in boiling water for at least 10 minutes before use 
+
+c. 
+Should be rinsed with a chlorine solution before use 
+
+d. 
+Should be rinsed with distilled water before use 
+
+e. 
+Are ready to use 
+
+
+
+76. 
+The standard indicator of potential fecal contamination of a water supply is 
+
+a. 
+Cryptosporidium 
+
+b. 
+pH 
+
+c. 
+Alkalinity 
+
+d. 
+Hardness 
+
+e. 
+Coliform Presence -Absence 
+
+
+
+77. 
+Where should bacteriological samples be collected? 
+
+a. 
+At different locations on each sampling cycle, to make sure the entire system is sampled 
+
+b. 
+Only from public locations, such as drinking fountains and restrooms 
+
+c. 
+Only from locations owned by consumers 
+
+d. 
+Only from specially constructed sampling stations 
+
+e. 
+From several sampling locations around the entire distribution system, in accordance with a DHS-approved sample siting plan 
+
+
+
+78. 
+Storage of bacteriological samples during transport to a laboratory is best accomplished using 
+
+a. 
+A clean storage box specifically designed to hold sample containers 
+
+b. 
+An ice chest packed with ice 
+
+c. 
+An insulated storage box with "blue ice". 
+
+d. 
+An insulated storage box with "dry ice" 
+
+e. 
+No particular sample storage requirements apply, as long as the samples can be deliv­ered to a laboratory prior to the end of the work day 
+
+
+
+79. 
+Sodium thiosulfate is added in the laboratory to bacteriological sample bottles to: 
+
+a. 
+Thoroughly disinfect the sample bottle 
+
+b. 
+-Complete the cleaning and sterilization process 
+
+c. 
+Neutralize any residual chlorine present in the sample at the time of collection 
+
+d. 
+Counteract the effects of sunlight on the water sample 
+
+e. 
+Prevent further growth of bacteria in water samples following collection 
+
+
+
+80. 
+Radiological contaminant concentrations in drinking water are measured in 
+
+a. 
+Milligrams per liter 
+
+b. 
+Micrograms per liter 
+
+c. 
+Nanograms per liter 
+
+d. 
+Picograms per liter 
+
+e. 
+None of the above 
+
+
+
+81. 
+Which of the following is NOT a characteristic of coliform organisms? 
+
+a. 
+Intestinal origin 
+
+b. 
+Will produce carbon dioxide from lactose 
+
+c. 
+Heartier in a water environment than pathogenic organisms 
+
+d. 
+Far less numerous than pathogenic organisms 
+
+e. 
+Able to survive with or without oxygen 
+
+
+
+82. 
+A water supply is found to have a calcium carbonate concentration of 50mg/L. This water would be considered 
+
+a. 
+soft water 
+
+b. 
+hard water 
+
+c. 
+potable water 
+
+d. 
+non-potable water 
+
+
+
+83. 
+Cathodic protection refers to protection against 
+
+a. 
+contamination 
+
+b. 
+corrosion 
+
+c. 
+hardness 
+
+d. 
+alkalinity 
+
+
+
+84. 
+An operator uses to test for residual chlorine 
+
+a. 
+DPD 
+
+b. 
+Cresol red 
+
+c. 
+Methyl orange 
+
+d. 
+Sulfuric acid 
+
+
+
+85. 
+The meniscus on calibrated glassware is read at the: 
+
+a. 
+Bottom of curvature for mercury but the top for water 
+
+b. 
+Extreme point of contact between the liquid and glass, i.e., where gas, liquid, and air all meet at one point 
+
+c. 
+Mid-height of the curvature so that beginning and ending readings will results in zero error 
+
+d. 
+Top of curvature for mercury but at the bottom for most other liquids including water 
+
+
+
+86. 
+The type of corrosion caused by the use of dissimilar metal in a water system is 
+
+a. 
+Caustic corrosion 
+
+b. 
+Galvanic corrosion 
+
+c. 
+Oxygen corrosion 
+
+d. 
+Tubercular corrosion 
+
+
+
+87. 
+Which of the following can cause tastes and odors in a water supply? 
+
+a. 
+Dissolved zinc 
+
+b. 
+Algae 
+
+c. 
+High pH 
+
+d. 
+Low pH 
+
+
+
+88. 
+The primary health risk associated with volatile organic chemicals.(VOCs) is 
+
+a. 
+Cancer 
+
+b. 
+Acute respiratory diseases 
+
+c. 
+"Blue baby" syndrome d. Reduced IQ. in children 
+
+
+
+89. 
+Lead in drinking water can result in 
+
+a. 
+Impaired mental functioning in children 
+
+b. 
+Prostate cancer in men 
+
+c. 
+Stomach and intestinal disorders 
+
+d. 
+Reduced white blood cell count Sodium thiosulfate is used to 
+
+a. 
+Buffer chlorine solutions 
+
+b. 
+Neutralize chlorine residuals 
+
+c. 
+Raise pH d. Sterilize sample bottles 
+
+
+
+90. 
+Cathodic protection means protection against 
+
+a. 
+contamination 
+
+b. 
+corrosion 
+
+c. 
+hardness 
+
+d. 
+infiltration 
+
+
+
+91. 
+A water supply is found to have a calcium carbonate concentration of 50mg/l. This water would be considered 
+
+a. 
+soft water 
+
+b. 
+hard water 
+
+c. 
+potable water 
+
+d. 
+non-potable water 
+
+
+
+92. 
+The main characteristic of raw water that enables algae to grow is 
+
+a. 
+Presence of copper sulfate 
+
+b. 
+Low pH 
+
+c. 
+High hardness 
+
+d. 
+Presence of nutrients 
+
+
+
+
+
+
+
+
+
+
+1. Primary drinking water standards are set to protect the public from illnesses as a direct result in drinking water that exceeds maximum set levels. Secondary standards were set to alert the public to 
+a. 
+the incidences of local cancer numbers 
+
+b. 
+dissolved solids in water 
+
+c. 
+immediate health concerns 
+
+d. 
+radiological conditions concerning drinking water 
+
+e. 
+*aesthetic issues with drinking water 
+
+
+2. 
+A positive fecal coliform test must be reported to the primacy agency within a. 8 hours. b. 12 hours. c. 24 hours. d. 48 hours. 
+
+3. 
+Which agency sets legal limits on the concentration levels of harmful contaminants in potable water distributed to customers? 
+
+a. 
+National Primary Drinking Water Regulations 
+
+b. 
+United States Environmental Protection Agency 
+
+c. 
+United States Public Health Service 
+
+d. 
+Occupational Health and Safety Organization 
+
+
+
+4. 
+Which may be substituted for the analysis of residual disinfectant concentration, when total coliforms are also sampled at the same sampling point? 
+
+a. 
+Heterotrophic plate count (HPC) 
+
+b. 
+Fecal coliforms 
+
+c. 
+Giardia lamblia 
+
+d. 
+Combined chlorine 
+
+
+
+5. 
+What does the acronym MCL stand for? 
+
+a. 
+Minimum contaminant level 
+
+b. 
+Micron contaminant level 
+
+c. 
+Maximum contaminant level 
+
+d. 
+Milligrams counted last 
+
+
+
+6. 
+How long do sanitary surveys have to be retained for records? a. 3 years b. 5 years c. 7 years d. 10 years 
+
+7. 
+The most severe water system violation that requires the fastest public notification 
+
+a. 
+Tier I 
+
+b. 
+Tier II 
+
+c. 
+Tier III 
+
+d. 
+Tier IV 8. The primacy agency may grant a variance or exemption as long as 
+
+a. 
+The agency is using the Best Available Technology 
+
+b. 
+There is no threat to public health 
+
+c. 
+There is never a scenario for a variance or exemption 
+
+d. 
+Both A. and B. 
+
+
+
+8. 
+A public water system that serves at least 25 people six months out of the year 
+
+a. 
+Nontransient noncommunity 
+
+b. 
+Transient noncommunity 
+
+c. 
+Community public water system 
+
+d. 
+None of the above 
+
+
+
+9. 
+Regulations based on the aesthetic quality of drinking water 
+
+a. 
+Primary Standards 
+
+b. 
+Secondary Standards 
+
+c. 
+Microbiological Standards 
+
+d. 
+Radiological Standards 
+
+
+
+10. 
+The lowest reportable limit for a water sample a. 0.5mg/1 
+
+b. 
+Zero 
+
+c. 
+Public health goal 
+
+d. 
+Detection Level for reporting 
+
+
+
+11. 
+Primary Standards are based on 
+
+a. 
+Color and Taste 
+
+b. 
+Aesthetic quality 
+
+c. 
+Public Health 
+
+d. 
+Odor 
+
+
+
+12. 
+A disease causing microorganism 
+
+a. 
+Pathogen 
+
+b. 
+Colilert 
+
+c. 
+Pathological 
+
+d. 
+Turbidity 
+
+
+
+13. 
+According to Surface Water Treatment Rule, what is the combined inactivation and re­moval for Giardia? a. 1.0logs b. 2.0logs c. 3.0logs d. 4.0 Logs 
+
+14. 
+What is the equivalency expressed as a percentage for the SWTR inactivation and removal of viruses? a. 99.9% b. 99.99% c. 99.0% 
+
+d. 99.999% 
+
+15. 
+A water agency that takes more than 40 coliform samples must fall under what percentile? a. 10% b. 7% c. 5% 
+
+d. No positive samples allowable 
+
+16. 
+The National Primary Drinking Water Regulations apply to drinking water contaminants that may have adverse effects on 
+
+a. 
+Water color 
+
+b. 
+Water taste 
+
+c. 
+Water odor 
+
+d. 
+Human health 
+
+
+
+17. 
+Which of the following is considered an acute risk to health? 
+
+a. 
+Two Tier 2 violations 
+
+b. 
+One Tier 2 violation 
+
+c. 
+Two Tier 1 violations 
+
+d. 
+One Tier 1 violation 
+
+
+
+18. 
+Records on turbidity analyses should be kept for a minimum of a. 5 years b. 7 years c. 10 years d. 25 years 
+
+19. 
+Records on bacteriological analyses should be kept for a minimum of a. 5 years b. 7 years c. 10 years d. 25 years 
+
+20. 
+Difference between primary and secondary standard substances: 
+
+a. 
+Primary standards refer to substances that are carcinogenic, secondary standards do not. 
+
+b. 
+Primary standards refer to substances that are thought to pose a threat to human health, secondary standards do not. 
+
+c. 
+Primary standards refer to substances that, if not.put in check, will eventually kill hu­mans, secondary standards do not. 
+
+d. 
+Secondary qualities are aesthetic qualities and will only make some people sick, while primary standards refer to substances that will make everyone sick and may possibly cause death. 
+
+
+
+21. 
+The SDWA defines a public water system that supplies piped water for human consump­tion as one that has 
+
+a. 
+10 service connection or serves 20 or more people for 60 or more days per year b. 15 service connections or serves 20 or more people for 90 or more days per year 
+
+c. 
+10 service connections or serves 25 or more people for 30 or more days per year 
+
+d. 
+15 service connections or serves 25 or more people for 60 or more days per year 
+
+
+
+22. 
+According to the USEPA regulations, the owner or operator of a public water system that fails to comply with applicable monitoring requirements shall give notice to the public within 
+
+a. 
+1 week of the violation in a letter hand-delivered to customers 
+
+b. 
+45 days of the violation by posting a notice at the town hall 
+
+c. 
+3 months of the violation in a daily newspaper in the area served by the system d. 1 year of the violation by including the notice with the water-bill . 
+
+
+
+23. 
+What US agency establishes drinking water standards? 
+
+a. 
+AWWA 
+
+b. 
+USEPA 
+
+c. 
+NIOSH 
+
+d. 
+NSF 
+
+
+
+24. 
+If a water supply exceeds the MCL, whose responsibility is it to notify the consumer? 
+
+a. 
+the testing lab 
+
+b. 
+the supplier 
+
+c. 
+the DOH 
+
+d. 
+the USEPA 
+
+
+
+25. 
+According to the Lead and Copper Rule. the action for the 90th percentile lead level is: a. 0.005mg/1 b. 0.015mg/l c. 0.030mg/1 d. 0.050mg/l 
+
+26. 
+The term "maximum contaminant level goal (MCLG)" means the: 
+
+a. 
+Maximum allowable level of a given contaminant in drinking water 
+
+b. 
+Level of a contaminant .in drinking water below which there are no known or suspected adverse health effects with a margin of safety 
+
+c. 
+Level of a contaminant in drinking water that will trigger a Tier 1 violation 
+
+d. 
+Minimum detectable level of a given contaminant 
+
+
+
+27. 
+The maximum contaminant level goal (MCLG) of known or probable carcinogens is: 
+
+a. 
+Set by the state 
+
+b. 
+The same number as the maximum contaminant level (MCL) 
+
+c. 
+Zero 
+
+d. 
+The minimum detectable level of a given contaminant 
+
+
+
+28. 
+The difference between Tier 1 and Tier 2 violations is: 
+
+a. 
+Tier 1 violations-potentially impose-direct and adverse health effects;-Tier 2 violations do not pose a a direct threat to public health. b. Tier 1 violations require public notifica­tion; Tier 2 violations do not require public notification c. Tier 1 violations are acute; Tier 2 violations are not acute 
+
+d. 
+Tier 1 violations have legal consequences; Tier 2 violations do not 
+
+
+
+29. 
+The Safe Drinking Water Act requires to develop a comprehensive coliform monitoring plan 
+
+a. 
+Large public water systems (serving > 50,000 people) 
+
+b. 
+Large and medium public water systems (serving > 3,300 people) 
+
+c. 
+Small and medium public water systems (serving > 25 and < 3,300 people) 
+
+d. 
+All public water systems 
+
+
+
+30. 
+The most important factor to consider in locating a well site from the health point of view is 
+
+a. 
+Anticipated yield 
+
+b. 
+Availability of electric power 
+
+c. 
+Distance from other wells 
+
+d. 
+Vulnerability 
+
+
+
+31. 
+Trihalomethanes are classified as: 
+
+a. 
+Metals 
+
+b. 
+Inorganic constituents 
+
+c. 
+Secondary drinking water standards 
+
+d. 
+Radiological contaminants 
+
+e. 
+Volatile organic compounds 
+
+
+
+32. 
+The primary health risk associated with volatile organic chemicals.(VOCs) is 
+
+a. 
+Cancer 
+
+b. 
+Acute respiratory diseases 
+
+c. 
+"Blue baby" syndrome 
+
+d. 
+Reduced IQ in children 
+
+
+
+33. 
+The term "primacy" means the 
+
+a. 
+Authority by the states to supersede USEPA drinking water regulations 
+
+b. 
+Authority by the USEPA to supersede state drinking water regulations 
+
+c. 
+Requirements for states to maintain drinking water regulations more stringent than USEPA regulations 
+
+d. 
+Primary authority for implementation and enforcement of drinking water regulations 
+
+
+
+34. 
+The Safe Drinking Water Act requires to develop a comprehensive coliform monitoring plan 
+
+a. 
+Large public water systems (serving > 50,000 people) 
+
+b. 
+Large and medium public water systems (serving > 3,300 people) 
+
+c. 
+Small and medium public water systems (serving > 25 and < 3,300 people) 
+
+d. 
+All public water systems 
+
+
+
+35. 
+Contaminant monitoring requirements can depend on 
+
+a. 
+The results of a vulnerability assessment 
+
+b. 
+The size of the water system c. Previous maximum contaminant level (MCL) violations 
+
+d. 
+All of the above 
+
+
+
+36. 
+For public water systems using surface water and groundwater under the influence of surface water, turbidity must be measure at least 
+
+a. 
+Every 4 hours 
+
+b. 
+Daily 
+
+c. 
+Weekly 
+
+d. 
+Monthly 
+
+
+
+37. 
+The difference between Tier 1 and Tier 2 violations is 
+
+a. 
+Tier1-violations potentially impose-direct and adverse health effects; Tier 2 violations do not pose a direct threat to public health 
+
+b. 
+Tier 1 violations require public notification; Tier 2 violations do not require public notification 
+
+c. 
+Tier 1 violations are acute; Tier 2 violations are not acute 
+
+d. 
+Tier 1 violations have legal consequences; Tier 2 violations do not 
+
+
+
+38. 
+The maximum contaminant level goal (MCLG) of known or probable carcinogens is 
+
+a. 
+Set by the state 
+
+b. 
+The same number as the maximum contaminant level (MCL) 
+
+c. 
+Zero 
+
+d. 
+The minimum detectable level of a given contaminant 
+
+
+
+39. 
+All of the following diseases may be transmitted by contaminated water, except for: 
+
+a. 
+Cryptosporidiosis 
+
+b. 
+Giardiasis 
+
+c. 
+Cholera 
+
+d. 
+Typhoid 
+
+e. 
+Tuberculosis 
+
+
+
+40. 
+The maximum disinfectant residual allowed in a distribution system is a. 0.2mg/L b. 2.0mg/L c. 2.0µg/L d. 4.0mg/L 
+
+e. There is no maximum disinfectant residual standard 
+
+41. 
+What steps must be taken when a single routine sample tests positive for total coliform? a. Immediately notify the Department of Health Services 
+
+b. 
+Immediately notify customers 
+
+c. 
+Re-test a new sample taken from the original sample point 
+
+d. 
+Re-test a new sample taken from the original sample point, plus at points immediately upstream and downstream 
+
+e. 
+Flush the system around the original sample point to re-establish disinfectant levels 
+
+
+
+42. 
+For drinking water distribution systems with over 40 routine coliform samples per month, the maximum amount of coliform-positive samples permitted is a. 2 
+
+
+
+
+
+
+
+
+b. 2% c. 5 d. 5% 
+e. variable, depending on the size of the system 
+43. Final determination of vulnerability is made by 
+a. 
+Private contractor/consultants 
+
+b. 
+The primacy agency 
+
+c. 
+The water supplier 
+
+d. 
+All of the above 
+
+
+44. The regulation that establishes standards for microbiological quality in drinking water is a. The Disinfection By-Product Rule 
+b. 
+Secondary Drinking Water Standards 
+
+c. 
+The Total Coliform Rule 
+
+d. 
+The Lead and Copper Rule 
+
+e. 
+Maximum Contaminant Level 
+
+
+45. Primary and secondary drinking water standards are normally established with a 
+a. 
+Maximum contaminant level 
+
+b. 
+Minimum contaminant level 
+
+c. 
+Public health goal 
+
+d. 
+Maximum contaminant level goal 
+
+e. 
+Minimum contaminant level goal 
+
+
+46. The presence of coliform bacteria in a distribution system 
+a. 
+Is positive proof that pathogenic organisms are present 
+
+b. 
+Indicates that chlorine demand has increased dramatically c. Indicates that pathogenic organisms may be present also 
+
+d. 
+Requires the use of brilliant green bile as a secondary disinfectant 
+
+e. 
+Has no particular significance 
+
+
+47. The regulation that establishes standards for microbiological quality in drinking water is 
+a. 
+The Disinfection By-Product Rule 
+
+b. 
+Secondary Drinking Water Standards 
+
+c. 
+The Total Coliform Rule 
+
+d. 
+The Lead and Copper Rule 
+
+e. 
+Maximum Contaminant Level 
+
+
+48. For public water systems using surface water and groundwater under the influence of surface water, turbidity must be measured at least 
+a. 
+Every 4 hours 
+
+b. 
+Daily 
+
+c. 
+Weekly. 
+
+d. 
+Monthly 
+
+
+49. Contaminant monitoring requirements can depend on 
+
+a. 
+The results of a vulnerability assessment 
+
+b. 
+The size of the water system 
+
+c. 
+Previous maximum contaminant level (MCL) violations 
+
+d. 
+All of the above 
+
+
+50. The term "primacy" means the 
+a. 
+Authority by the states to supersede USEPA drinking water regulations 
+
+b. 
+Authority by the USEPA to supersede state drinking water regulations 
+
+c. 
+Requirements for states to maintain drinking water regulations more stringent than USEPA regulations 
+
+d. 
+Primary authority for implementation and enforcement of drinking water regulations 
+
+
+51. 
+According to the Lead and Copper Rule. the action for the 90th percentile lead level is: a. 0.005mg/l b. 0.015mg/l c. 0.030mg/l d. 0.050mg/l 
+
+52. 
+The difference between Tier 1 and Tier 2 violations is 
+
+a. 
+Tier 1-violations potentially impose-direct and adverse health effects; Tier 2 violations do not pose a direct threat to public health 
+
+b. 
+Tier 1 violations require public notification; Tier 2 violations do not require public notification 
+
+c. 
+Tier 1 violations are acute; Tier 2 violations are not acute 
+
+d. 
+Tier 1 violations have legal consequences; Tier 2 violations do not 
+
+
+
+53. 
+For public water systems using surface water and groundwater under the influence of surface water, turbidity must be measure at least 
+
+a. 
+Every 4 hours 
+
+b. 
+Daily 
+
+c. 
+Weekly. 
+
+d. 
+Monthly 
+
+
+
+54. 
+Contaminant monitoring requirements can depend on 
+
+a. 
+The results of a vuilnerability assessment 
+
+b. 
+The size of the water system 
+
+c. 
+Previous maximum contaminant level (MCL) violations 
+
+d. 
+All of the above 
+
+
+
+55. 
+The Safe Drinking Water Act requires to develop a comprehensive coliform monitoring plan a. Large public water systems (serving > 50,000 people) 
+
+b. 
+Large and medium public water systems (serving > 3,300 people) 
+
+c. 
+Small and medium public water systems (serving > 25 and < 3,300 people) 
+
+d. 
+All public water systems 
+
+
+
+
+
+1. What is the purpose of coagulation and flocculation? 
+a. 
+control corrosion 
+
+b. 
+to kill disease causing organisms 
+
+c. 
+to remove leaves, sticks, and fish debris 
+
+d. 
+*to remove particulate impurities and suspended matter 
+
+
+2. How are filter production (capacity) rates measured? 
+a. 
+Mgd/sq.ft. 
+
+b. 
+*Gpm/sq.ft. 
+
+c. 
+Gpm 
+
+d. 
+Mgd 
+
+
+3. Why should a filter be drained if it is going to be out-of-service for a prolonged period? 
+a. 
+to allow the media to dry out 
+
+b. 
+to save water 
+
+c. 
+to prevent the filter from floating on groundwater levels 
+
+d. 
+*to avoid algal growth 
+
+
+4. Which of the following are commonly used coagulation chemicals? 
+a. 
+hypochlorites and free chlorine 
+
+b. 
+sodium and potassium chlorides 
+
+c. 
+*alum and polymers 
+
+d. 
+bleach and HTH 
+
+
+5. How can an operator tell if a filter is NOT completely cleaned after backwashing? 
+a. 
+*the initial headloss is on the high side 
+
+b. 
+the backwash rate was too slow 
+
+c. 
+mudballs are NOT present 
+
+d. 
+backwashing pumping rate is too low 
+
+
+6. Flocculation is defined as 
+a. 
+*the gathering of fine particles after coagulation by gentle mixing 
+
+b. 
+clumps of bacteria 
+
+c. 
+the capacity of water to neutralize acids 
+
+d. 
+a high molecular weight of compounds that have negative charges 
+
+
+7. A multi-barrier water filtration plant that contains a flash mix, a coagulation/flocculation zone, sedimentation, filtration and a clear well is considered to be a 
+a. 
+community special treatment plant 
+
+b. 
+direct filtration plant 
+
+c. 
+reverse osmosis plant 
+
+d. 
+*conventional filtration plant 
+
+e. 
+traditional plant 
+
+
+8. The filtration unit process usually 
+a. 
+is located at the beginning of a filtration plant 
+
+b. 
+*follows the coagulation/flocculation/sedimentation processes 
+
+c. 
+is located after the clear well area 
+
+d. 
+is located on the plant effluent line after the clearwell 
+
+
+
+9. Filters are generally backwashed when the loss-of-head indicator registers a certain set value, such as 6-ft, or upon a certain time, say 48-hours, or upon a rise in 
+a. 
+alkalinity 
+
+b. 
+a jar-test result 
+
+c. 
+*turbidity 
+
+d. 
+temperature 
+
+
+10. What is a method of reducing hardness? 
+a. 
+*Softening 
+
+b. 
+Hardening 
+
+c. 
+Lightning 
+
+d. 
+Flashing 
+
+
+11. The solid that adsorbs a contaminant is called the: 
+a. 
+*Adsorbent 
+
+b. 
+Adsorbate 
+
+c. 
+Sorbet 
+
+d. 
+Rock 
+
+
+12. The adsorption process is used to remove: 
+a. 
+*Organics or inorganics 
+
+b. 
+Bugs or salts 
+
+c. 
+Organisms or dirt 
+
+d. 
+Color or particles 
+
+
+13. Describe two primary methods used to control taste and odor? 
+a. 
+*Oxidation and adsorption 
+
+b. 
+Filtration and sedimentation 
+
+c. 
+Mixing and coagulation 
+
+d. 
+Sedimentation and clarification 
+
+
+14. What is the recommended loading rate for copper sulfate for algae control at an alkalinity greater than 50mg/L? 
+a. 
+0.9lb of copper sulfate per acre of surface area 
+
+b. 
+1.9lb of copper sulfate per acre of surface area 
+
+c. 
+2-4 lb of copper sulfate per acre of surface area 
+
+d. 
+.4lb of copper sulfate per acre of surface area 
+
+
+15. If ammonia vapor is passed over a chlorine leak in a cylinder valve, the presence of the leak is indicated by a 
+a. 
+Yellow cloud 
+
+b. 
+White cloud 
+
+c. 
+Gray cloud 
+
+d. 
+Brown cloud 16. What is the recommended minimum contact time water mains with the 
+
+
+
+chlorine slug method? a. 3 hours b. 6 hours c. 10 hours d. 12 hours 
+16. The basic goal for water treatment is to 
+a. 
+Protect public health 
+
+b. 
+Make it clear 
+
+c. 
+Make it taste good 
+
+d. 
+Get stuff out 
+
+
+17. Greensand can be operated in either regeneration or regeneration modes. 
+a. 
+Continuous or intermittent 
+
+b. 
+Fast or slow 
+
+c. 
+Hot or cold 
+
+d. 
+Constant or unusual 
+
+
+18. The two most common types of chlorine disinfection by-products include: 
+a. 
+TTHM and HAA5 
+
+b. 
+TTHA of HMM5 
+
+c. 
+Turbidity and color 
+
+d. 
+Chloride and fluoride 
+
+
+19. GAC contactors are used to reduce the amount of contaminants in water. 
+a. 
+Inorganic 
+
+b. 
+Turbidity 
+
+c. 
+Particle 
+
+d. 
+Organic 
+
+
+20. List the five types of surface water filtration systems. 
+a. 
+Bag filtration, cartridge filtration, fine filtration, coarse filtration, media filtration 
+
+b. 
+Conventional treatment, direct filtration, slow sand filtration, diatomaceous earth filtra­tion, membrane filtration 
+
+c. 
+Turbidity filtration, color filtration, bag filtration, fine filtration, media filtration 
+
+d. 
+None of the above 
+
+
+21. Describe two primary methods used to control taste and odor? 
+a. 
+Oxidation and adsorption 
+
+b. 
+Filtration and sedimentation 
+
+c. 
+Mixing and coagulation 
+
+d. 
+Sedimentation and clarification 
+
+
+22. The adsorption process is used to remove: 
+a. 
+Organics or inorganics 
+
+b. 
+Bugs or salts 
+
+c. 
+Organisms or dirt 
+
+d. 
+Color or particles 
+
+
+
+23. The solid that adsorbs a contaminant is called the: 
+a. 
+Adsorbent 
+
+b. 
+Adsorbate 
+
+c. 
+Sorbet 
+
+d. 
+Rock 
+
+
+24. What is a method of reducing hardness? 
+a. 
+Softening 
+
+b. 
+Hardening 
+
+c. 
+Lightning 
+
+d. 
+Flashing 
+
+
+25. Bag and cartridge filters are used to remove which two pathogenic microorganisms? 
+a. 
+Viruses and giardia 
+
+b. 
+Giardia and cryptosporidium 
+
+c. 
+Viruses and bacteria 
+
+d. 
+None of the above 
+
+
+26. The process of cleaning a filter by pumping water up through the filter media is called the filter. 
+a. 
+Backwashing 
+
+b. 
+Rewashing 
+
+c. 
+Purging 
+
+d. 
+Lifting 
+
+
+27. In a typical water treatment plant, alum would be added into the mixer. 
+a. 
+Speed 
+
+b. 
+Large 
+
+c. 
+Slow 
+
+d. 
+Flash 
+
+
+28. When comparing conventional treatment with direct filtration, what process unit is in the conventional treatment plant that is not in the direct filtration plant? 
+a. 
+Filter 
+
+b. 
+Clarifier 
+
+c. 
+Mixer 
+
+d. 
+Detention 
+
+
+29. List the basic processes, in the proper order, for a conventional treatment plant. 
+a. 
+Coagulation, flocculation, sedimentation, filtration 
+
+b. 
+Flocculation, coagulation, sedimentation, filtration 
+
+c. 
+Filtration, coagulation, flocculation, sedimentation 
+
+d. 
+Coagulation, sedimentation, flocculation, filtration 31. The four most common oxidants include: 
+
+a. 
+Chlorine, potassium permanganate, ozone, chlorine dioxide 
+
+b. 
+Chlorides, soap, air, coagulants 
+
+c. 
+Air, chemicals, sodium, chloride 
+
+d. 
+Flocculants, coagulants, sediments, granules 
+
+
+
+30. When operating a filter, one of the operational concerns is the difference between the pressure or head on top of the filter and the pressure or head at the bottom of the filter. This difference is called pressure. 
+a. 
+Different 
+
+b. 
+Differential 
+
+c. 
+High 
+
+d. 
+Low 
+
+
+31. What type of polymer is used to improve the efficiency of the sedimentation process? 
+a. 
+Cationic 
+
+b. 
+Nonionic 
+
+c. 
+Anionic 
+
+d. 
+All of the above 
+
+
+32. A(n)_ polymer is commonly used as a coagulant. 
+a. 
+Anionic 
+
+b. 
+Cationic 
+
+c. 
+Nonionic 
+
+d. 
+Ionic 
+
+
+33. A(n)... polymer is used to enhance flocculation. 
+a. 
+Anionic 
+
+b. 
+Cationic 
+
+c. 
+Nonionic 
+
+d. 
+Ionic 
+
+
+34. Al2 (SO4)3 · 18H2O is the chemical formula for: 
+a. 
+Alum 
+
+b. 
+Iron 
+
+c. 
+Manganese 
+
+d. 
+Lead 
+
+
+35. Particles that are less than 1µm in size and will not settle easily and are called: 
+a. 
+Light particles 
+
+b. 
+Colloidal particles 
+
+c. 
+Colored particles 
+
+d. 
+Flat particles 
+
+
+36. The sedimentation portion of water treatment is also called a(n): 
+a. 
+Clarifier 
+
+b. 
+Filter 
+
+c. 
+Adsorber 
+
+d. 
+Water treater 
+
+
+
+37. Slowly agitating coagulated materials is the process of: 
+a. 
+Flocculation 
+
+b. 
+Coagulation 
+
+c. 
+Sedimentation 
+
+d. 
+Filtration 
+
+
+38. The process of decreasing the stability of colloids in water is called: 
+a. 
+Flocculation 
+
+b. 
+Coagulation 
+
+c. 
+Sedimentation 
+
+d. 
+Clarification 
+
+
+39. The chemical oxidation process in water treatment is typically used to aid in the removal of : 
+a. 
+Organic contaminants 
+
+b. 
+Inorganic contaminants 
+
+c. 
+Large contaminants 
+
+d. 
+None of the above 
+
+
+40. Flocculation, sedimentation, filtration, and adsorption are processes. 
+a. 
+Physical 
+
+b. 
+Chemical 
+
+c. 
+Biological 
+
+d. 
+Mechanical 
+
+
+41. Oxidation, coagulation, and disinfection are 
+a. 
+Physical 
+
+b. 
+Chemical 
+
+c. 
+Biological 
+
+d. 
+Mechanical 
+
+
+42. A precipitate can be formed after which one of the following processes: 
+a. 
+Oxidation 
+
+b. 
+Flocculation 
+
+c. 
+Filtration 
+
+d. 
+Adsorption 
+
+
+43. Water that is safe to drink is called water. 
+a. 
+Potable 
+
+b. 
+Palatable 
+
+c. 
+Good 
+
+d. 
+Clear 
+
+
+44. The type of organisms that can cause disease are said to be microorganisms. 
+a. 
+Bad 
+
+b. 
+Pathogenic 
+
+c. 
+Undesirable 
+
+d. 
+Sick 
+
+
+
+45. The basic goal for water treatment is to 
+a. 
+Protect public health 
+
+b. 
+Make it clear 
+
+c. 
+Make it taste good 
+
+d. 
+Get stuff out 
+
+
+46. Four types of aesthetic contaminants in water include the following: 
+a. 
+Odor, turbidity, color, hydrogen sulfide gas 
+
+b. 
+Pathogens, microorganisms, arsenic, disinfection by-products 
+
+
+47. What does mg/L stand for? 
+a. 
+Microorganisms/Liter 
+
+b. 
+Milligrams/Loser 
+
+c. 
+Milligrams/Liter 
+
+d. 
+None of the above 
+
+
+48. Disinfection by-products are a product of: 
+a. 
+Filtration 
+
+b. 
+Disinfection 
+
+c. 
+Sedimentation 
+
+d. 
+Adsorption 
+
+
+49. Acute contaminants are those that can cause sickness after: 
+a. 
+Prolonged exposure 
+
+b. 
+Low levels or low exposure 
+
+
+50. Chronic contaminants are those that can cause sickness after: 
+a. 
+Prolonged exposure 
+
+b. 
+Low levels or low exposure 
+
+
+51. TTHMs and HAA5s can affect: 
+a. 
+Health 
+
+b. 
+Aesthetics 
+
+c. 
+Color 
+
+d. 
+Odor 
+
+
+52. Oxidation, coagulation, and disinfection are processes. 
+a. 
+Physical 
+
+b. 
+Chemical 
+
+c. 
+Biological 
+
+d. 
+Mechanical 
+
+
+53. Flocculation, sedimentation, filtration, and adsorption are processes. 
+a. 
+Physical 
+
+b. 
+Chemical 
+
+c. 
+Biological 
+
+d. 
+Mechanical 
+
+
+
+54. A precipitate can be formed after which one of the following processes: 
+a. 
+Oxidation 
+
+b. 
+Flocculation 
+
+c. 
+Filtration 
+
+d. 
+Adsorption 
+
+
+55. Giardia and cryptosporidium are a type of: 
+a. 
+Mineral 
+
+b. 
+Organism 
+
+c. 
+Color 
+
+d. 
+Bird 
+
+
+56. The chemical oxidation process in water treatment is typically used to aid in the removal of : 
+a. 
+Organic contaminants 
+
+b. 
+Inorganic contaminants 
+
+c. 
+Large contaminants 
+
+d. 
+None of the above 
+
+
+57. The process of decreasing the stability of colloids in water is called: 
+a. 
+Flocculation 
+
+b. 
+Coagulation 
+
+c. 
+Sedimentation 
+
+d. 
+Clarification 
+
+
+58. Slowly agitating coagulated materials is the process of: 
+a. 
+Flocculation 
+
+b. 
+Coagulation 
+
+c. 
+Sedimentation 
+
+d. 
+Filtration 
+
+
+59. The sedimentation portion of water treatment is also called a(n): 
+a. 
+Clarifier 
+
+b. 
+Filter 
+
+c. 
+Adsorber 
+
+d. 
+Water treater 
+
+
+60. Particles that are less than 1µm in size and will not settle easily and are called: 
+a. 
+Light particles 
+
+b. 
+Colloidal particles 
+
+c. 
+Colored particles 
+
+d. 
+Flat particles 
+
+
+61. 
+One micrometer is also equal to: a. 0.1 mm b. 0.0001 mm c. 0.001 mm 
+
+d. 1m 
+
+62. 
+Particles less than 0.45µm in size are considered to be: 
+
+a. 
+Dissolved 
+
+b. 
+Really little 
+
+c. 
+Colored particles 
+
+d. 
+Flat particles 
+
+
+
+63. 
+Turbidity is measured as: 
+
+a. 
+Mg/L 
+
+b. 
+mL 
+
+c. 
+gpm 
+
+d. 
+NTU 
+
+
+
+64. 
+Al2(SO4)3 · 18H20 is the chemical formula for: 
+
+a. 
+Alum 
+
+b. 
+Iron 
+
+c. 
+Manganese 
+
+d. 
+Lead 
+
+
+
+65. 
+A(n)_polymer is commonly used as a coagulant. 
+
+a. 
+Anionic 
+
+b. 
+Cationic 
+
+c. 
+Nonionic 
+
+d. 
+Ionic 
+
+
+
+66. 
+A(n)_polymer is used to enhance flocculation. 
+
+a. 
+Anionic 
+
+b. 
+Cationic 
+
+c. 
+Nonionic 
+
+d. 
+Ionic 
+
+
+
+67. 
+The concentration of a chemical added to the water is measured in: 
+
+a. 
+mL 
+
+b. 
+mg 
+
+c. 
+mg/L 
+
+d. 
+Liters 
+
+
+
+68. 
+The quantity of chlorine remaining after primary disinfection is called a residual. 
+
+a. 
+Chlorine 
+
+b. 
+Permaganate 
+
+c. 
+Hot 
+
+d. 
+Cold 
+
+
+
+69. 
+Primary disinfectants are used to microorganisms. 
+
+a. 
+Hurt 
+
+b. 
+Inactivate 
+
+c. 
+Burn up 
+
+d. 
+Evaporate 
+
+
+
+70. 
+Secondary disinfectants are used to provide a in the distribution system. 
+
+a. 
+Color 
+
+b. 
+Chemical 
+
+c. 
+Smell 
+
+d. 
+Residual 
+
+
+
+71. 
+What type of polymer is used to improve the efficiency of the sedimentation process? 
+
+a. 
+Cationic 
+
+b. 
+Nonionic 
+
+c. 
+Anionic 
+
+d. 
+All of the above 
+
+
+
+72. 
+When operating a filter, one of the operational concerns is the difference between the pressure or head on top of the filter and the pressure or head at the bottom of the filter. This difference is called pressure. 
+
+a. 
+Different 
+
+b. 
+Differential 
+
+c. 
+High 
+
+d. 
+Low 
+
+
+
+73. 
+List the basic processes, in the proper order, for a conventional treatment plant. 
+
+a. 
+Coagulation, flocculation, sedimentation, filtration 
+
+b. 
+Flocculation, coagulation, sedimentation, filtration 
+
+c. 
+Filtration, coagulation, flocculation, sedimentation 
+
+d. 
+Coagulation, sedimentation, flocculation, filtration 
+
+
+
+74. 
+The four most common oxidants include: 
+
+a. 
+Chlorine, potassium permanganate, ozone, chlorine dioxide 
+
+b. 
+Chlorides, soap, air, coagulants 
+
+c. 
+Air, chemicals, sodium, chloride 
+
+d. 
+Flocculants, coagulants, sediments, granules 
+
+
+
+75. 
+When comparing conventional treatment with direct filtration, what process unit is in the conventional treatment plant that is not in the direct filtration plant? 
+
+a. 
+Filter 
+
+b. 
+Clarifier 
+
+c. 
+Mixer 
+
+d. 
+Detention 
+
+
+
+76. 
+In a typical water treatment plant, alum would be added into the mixer. 
+
+a. 
+Speed 
+
+b. 
+Large 
+
+c. 
+Slow d. Flash 
+
+
+
+77. 
+The process of cleaning a filter by pumping water up through the filter media is called _ the filter. 
+
+a. 
+Backwashing 
+
+b. 
+Rewashing 
+
+c. 
+Purging 
+
+d. 
+Lifting 
+
+
+
+78. 
+Bag and cartridge filters are used to remove which two pathogenic microorganisms? 
+
+a. 
+Viruses and giardia 
+
+b. 
+Giardia and cryptosporidium 
+
+c. 
+Viruses and bacteria 
+
+d. 
+None of the above 
+
+
+
+79. 
+List the four types of membrane filtration processes commonly used in water treatment. 
+
+a. 
+MF, UF, NF, and RO 
+
+b. 
+MNF, UOF, NOF, and ROO 
+
+c. 
+CFM, FM, FN, and OR 
+
+d. 
+None of the above 
+
+
+
+80. 
+What is a method of reducing hardness? 
+
+a. 
+Softening 
+
+b. 
+Hardening 
+
+c. 
+Lightning 
+
+d. 
+Flashing 
+
+
+
+81. 
+Adsorption of a substance involves its accumulation onto the surface of a: 
+
+a. 
+Solid 
+
+b. 
+Rock 
+
+c. 
+Pellet 
+
+d. 
+Snow ball 
+
+
+
+82. 
+The solid that adsorbs a contaminant is called the: 
+
+a. 
+Adsorbent 
+
+b. 
+Adsorbate 
+
+c. 
+Sorbet 
+
+d. 
+Rock 
+
+
+
+83. 
+The adsorption process is used to remove: 
+
+a. 
+Organics or inorganics 
+
+b. 
+Bugs or salts 
+
+c. 
+Organisms or dirt 
+
+d. 
+Color or particles 
+
+
+
+84. 
+Describe two primary methods used to control taste and odor? 
+
+a. 
+Oxidation and adsorption 
+
+b. 
+Filtration and sedimentation 
+
+c. 
+Mixing and coagulation 
+
+d. 
+Sedimentation and clarification 
+
+
+
+85. 
+List the five types of surface water filtration systems. 
+
+a. 
+Bag filtration, cartridge filtration, fine filtration, coarse filtration, media filtration 
+
+b. 
+Conventional treatment, direct filtration, slow sand filtration, diatomaceous earth filtra­tion, membrane filtration 
+
+c. 
+Turbidity filtration, color filtration, bag filtration, fine filtration, media filtration 
+
+d. 
+None of the above 
+
+
+
+86. 
+GAC contactors are used to reduce the amount of contaminants in water. 
+
+a. 
+Inorganic 
+
+b. 
+Turbidity 
+
+c. 
+Particle 
+
+d. 
+Organic 
+
+
+
+87. 
+Greensand can be operated in either regeneration or regeneration modes. 
+
+a. 
+Continuous or intermittent 
+
+b. 
+Fast or slow 
+
+c. 
+Hot or cold 
+
+d. 
+Constant or unusual 
+
+
+
+88. 
+What is the cause of taste and odor problems in raw surface water? 
+
+a. 
+Copper sulfate 
+
+b. 
+Blue-green algae 
+
+c. 
+Oxygen 
+
+d. 
+Lake turnover 
+
+
+
+89. 
+What chemical reduces blue-green algae growth? 
+
+a. 
+Chlorine 
+
+b. 
+Caustic Soda 
+
+c. 
+Copper Sulfate 
+
+d. 
+Alum 
+
+
+
+90. 
+What is the purpose of adding fluoride to drinking water? 
+
+a. 
+Increase tooth decay 
+
+b. 
+Reduce tooth decay 
+
+c. 
+Make teeth white 
+
+d. 
+Government conspiracy 
+
+
+
+91. 
+The optimal coagulant dose is determined by a 
+
+a. 
+Chlorine Test 
+
+b. 
+Flocculation test 
+
+c. 
+Jar Test 
+
+d. 
+Coagulation test 
+
+
+
+92. 
+The most common primary coagulant is 
+
+a. 
+Alum 
+
+b. 
+Cationic polymer 
+
+c. 
+Fluoride 
+
+d. 
+Anionic polymer 
+
+
+
+93. 
+Bacteria and Viruses belong to a particle size known as 
+
+a. 
+Suspended 
+
+b. 
+Dissolved 
+
+c. 
+Strained 
+
+d. 
+Colloidal 
+
+
+
+94. 
+The purpose of coagulation is to 
+
+a. 
+Increase filter run times 
+
+b. 
+Increase sludge 
+
+c. 
+Increase particle size 
+
+d. 
+Destabilize colloidal particles 
+
+
+
+95. 
+The purpose of flocculation 
+
+a. 
+Destabilize colloidal particles 
+
+b. 
+Increase particle size 
+
+c. 
+Decrease sludge 
+
+d. 
+Decrease filter run times 
+
+
+
+96. 
+Primary coagulant aids used in treatment process are 
+
+a. 
+Poly-aluminum chloride 
+
+b. 
+Aluminum sulfate 
+
+c. 
+Ferric chloride 
+
+d. 
+All of the Above 
+
+
+
+97. 
+How do water agencies monitor the effectiveness of their filtration process? 
+
+a. 
+Alkalinity 
+
+b. 
+Conductivity 
+
+c. 
+Turbidity 
+
+d. 
+pH 
+
+
+
+98. 
+Flocculation is used to enhance 
+
+a. 
+Number of particle collisions to increase floc 
+
+b. 
+Charge neutralization 
+
+c. 
+Dispersion of chemicals in water 
+
+d. 
+Settling speed of floc 
+
+
+
+99. 
+If there is a problem with floc formation, what would you consider changing? 
+
+a. 
+Adjust coagulant dose 
+
+b. 
+Stay the course 
+
+c. 
+Adjust mixing intensity 
+
+d. 
+Both A&C 
+
+
+
+100. 
+Which step in the treatment process is the shortest? 
+
+a. 
+Filtration 
+
+b. 
+Sedimentation 
+
+c. 
+Flocculation 
+
+d. 
+Coagulation 
+
+
+
+101. 
+To lower the pH for enhanced coagulation the operator will add 
+
+a. 
+Chlorine 
+
+b. 
+Sulfuric acid 
+
+c. 
+Lime 
+
+d. 
+Caustic Soda 
+
+
+
+102. 
+The flocculation process lasts how long? 
+
+a. 
+Seconds b. 5-10 minutes c. 15-45 minutes 
+
+d. 
+Over an hour 
+
+
+
+103. 
+The function of a flocculation basin is to 
+
+a. 
+Settle colloidal particles 
+
+b. 
+Destabilize colloidal particles 
+
+c. 
+Mix chemicals 
+
+d. 
+Allow suspended particles to grow 
+
+
+
+104. 
+The treatment process that involves coagulation, flocculation, sedimentation, and filtration is known as 
+
+a. 
+Direct filtration 
+
+b. 
+Slow sand Filtration 
+
+c. 
+Conventional treatment 
+
+d. 
+Pressure filtration 
+
+
+
+105. 
+Sedimentation produces waste known as 
+
+a. 
+Backwash water 
+
+b. 
+Sludge 
+
+c. 
+Waste water 
+
+d. 
+Mud 
+
+
+
+106. 
+What kind of process is the sedimentation step? 
+
+a. 
+Physical 
+
+b. 
+Chemical 
+
+c. 
+Biological 
+
+d. 
+Direct 
+
+
+
+107. 
+The weirs at the effluent of a sedimentation basin are also called 
+
+a. 
+Effluent weirs 
+
+b. 
+Baffling 
+
+c. 
+Launders 
+
+d. 
+Spokes 
+
+
+
+108. 
+Sedimentation is used in water treatment plants to 
+
+a. 
+Settle pathogenic material 
+
+b. 
+Destabilize particles 
+
+c. 
+Disinfect water 
+
+d. 
+Reduce loading on Filters 
+
+
+
+109. 
+Scouring is a term that describes conditions in a sedimentation tank which 
+
+a. 
+Could impact the rest of treatment process 
+
+b. 
+Higher flow rates in the sludge zone 
+
+c. 
+Re-suspends settle sludge 
+
+d. 
+All of the above The four zones in a Sedimentation basin include 
+
+a. 
+Inlet, sedimentation, sludge, outlet 
+
+b. 
+Inlet, filter, waste, outlet 
+
+c. 
+Inlet, top, bottom, outlet 
+
+d. 
+Surface, sedimentation, sludge, outlet 
+
+
+
+110. 
+The removal and inactivation requirement for Giardia is? a. 99.9% b. 99.99% c. 99.00% d. 90% 
+
+111. 
+Short circuiting in a sedimentation basin could be caused by 
+
+a. 
+Surface wind 
+
+b. 
+Ineffective weir placement, or weirs covered in algae 
+
+c. 
+Poor baffling in sedimentation inlet zone 
+
+d. 
+All of the Above 
+
+
+
+112. 
+How much solids should be removed during sedimentation? 
+
+a. 95% or more b. 80- 95% c. 70 - 80% d. 60 - 70% 
+
+113. 
+The type of basin that includes coagulation and flocculation is 
+
+a. 
+Rectangular 
+
+b. 
+Triangular 
+
+c. 
+Up-Flow 
+
+d. 
+None of the above 
+
+
+
+114. 
+Recarbonation basins are used to stabilize water after 
+
+a. 
+Filtration 
+
+b. 
+Disinfection 
+
+c. 
+Softening 
+
+d. 
+Coagulation 
+
+
+
+115. 
+Which of the following is an effective way for removing iron water? a. adding baffles 
+
+b. 
+adding sodium chloride 
+
+c. 
+aeration and filtration 
+
+d. 
+flash mixing 
+
+
+
+116. 
+How can iron bacteria be controlled in a water distribution system? 
+
+a. 
+by aeration 
+
+b. 
+filtration 
+
+c. 
+chlorination 
+
+d. 
+precipitation 
+
+
+
+117. 
+Which of the following is a hazard when handling hydrofluosilicic acid? 
+
+a. 
+fire 
+
+b. 
+explosion 
+
+c. 
+corrosion 
+
+d. 
+inhalation 
+
+
+
+118. 
+Trihalomenthane may be partially removed from water by: 
+
+a. 
+fluoridation 
+
+b. 
+chlorination 
+
+c. 
+oxidation 
+
+d. 
+ultraviolet radiation 
+
+
+
+119. 
+Which of the following forms of iron is most soluble in water? 
+
+
+
+
+
+
+
+
+
+
+ 
+a. Ferric Fe+3 
+b. Ferric hydroxide [Fe(OH3)] 
+ 
+c) Ferrous Fe+2 
+d. Ferrous oxide (FeO) 
+120. Two fundamental treatment requirements for public water systems using surface sources are 
+a. 
+Coagalat1on and sedimentation 
+
+b. 
+Lime softening and disinfection 
+
+c. 
+Filtration and aeration 
+
+d. 
+Disinfection and filtration 
+
+
+121. A zeolite softening unit will replace calcium and magnesium ions with ions. 
+a. 
+Fluoride 
+
+b. 
+Iron 
+
+c. 
+Sodium 
+
+d. 
+Sulfur 
+
+
+122. One use of polyphosphates is to: 
+a. 
+Control algae 
+
+b. 
+Improve taste 
+
+c. 
+Sequester iron and manganese 
+
+d. 
+Kill bacteria 124. An acceptable means of corrosion control for relatively small systems is 
+
+a. 
+Activated carbon 
+
+b. 
+Lime-soda ash softening 
+
+c. 
+pH control 
+
+d. 
+zeolite softening 
+
+
+
+123. Which of the following chemicals will most likely keep iron in suspension? 
+a. 
+Chlorine 
+
+b. 
+Fluoride 
+
+c. 
+Polyphosphate 
+
+d. 
+Lime inhibitor 
+
+
+124. Lead in drinking water can result in 
+a. 
+Impaired mental functioning in children 
+
+b. 
+Prostate cancer in men 
+
+c. 
+Stomach and intestinal disorders 
+
+d. 
+Reduced white blood cell count 
+
+
+125. If raw water turbidity changed from 10 to 300 turbidity units and the finished water turbid­ity had increased from 0.1 to 1.0 turbidity units, the unit process having the most impact to correct this situation is 
+a. 
+Coagulation 
+
+b. 
+Sedimentation 
+
+c. 
+Filtration 
+
+d. 
+Disinfection 
+
+
+126. The problem caused by dissolved carbon dioxide in the water of the distribution system is 
+a. 
+increased Trihalomethanes 
+
+b. 
+Corrosion 
+
+c. 
+Excessive encrustation 
+
+d. 
+Tastes and odors 
+
+
+127. The presence of the coliform group of bacteria in water indicates 
+a. 
+Contamination 
+
+b. 
+Inadequate disinfection 
+
+c. 
+Improper sampling 
+
+d. 
+Taste and odor problems 
+
+
+128. The granular filtration process is designed to reduce 
+a. 
+Calcium and magnesium sulfates 
+
+b. 
+True color 
+
+c. 
+Total dissolved solids 
+
+d. 
+Turbidity 
+
+
+129. The presence of the coliform group of bacteria in water indicates 
+a. 
+Contamination 
+
+b. 
+Inadequate disinfection 
+
+c. 
+Improper sampling 
+
+d. 
+Taste and odor problems 
+
+
+130. Aeration in water treatment plants is used to 
+a. 
+Lower the pH 
+
+b. 
+Reduce concentrations of dissolved gasses 
+
+c. 
+Reduce turbidity 
+
+d. 
+Stabilize chlorine residuals 
+
+
+
+131. What can the operator do if iron fouling appears to be a problem in an ion exchange soft­ener? 
+a. 
+Decrease the strength of the brine used in the regeneration stage 
+
+b. 
+Increase backwash flow rates 
+
+c. 
+Inçrease duration of backwash stage 
+
+d. 
+Increase duration of service stage 
+
+
+132. 
+At what pH would a chlorinated water have the highest concentration of hypochlorous acid? a. 5 b. 7 c. 9 d. 11 
+
+133. 
+One use of polyphosphates is to 
+
+a. 
+Control algae 
+
+b. 
+Improve taste 
+
+c. 
+Sequester iron and manganese 
+
+d. 
+Kill bacteria 
+
+
+
+134. 
+Which of the following can cause tastes and odors in a water supply? 
+
+a. 
+Dissolved zinc 
+
+b. 
+Algae 
+
+c. 
+High pH 
+
+d. 
+Low pH 
+
+
+
+135. 
+What happens when lime is fed to water for corrosion control? 
+
+a. 
+Alkalinity is decreased 
+
+b. 
+CO2 does not change 
+
+c. 
+Turbidity is decreased 
+
+d. 
+pH is increased 
+
+
+
+136. 
+The main characteristic of raw water that enables algae to grow is 
+
+a. 
+Presence of copper sulfate 
+
+b. 
+Low pH 
+
+c. 
+High hardness 
+
+d. 
+Presence of nutrients 
+
+
+
+137. 
+The type of corrosion caused by the use of dissimilar metal in a water system is 
+
+a. 
+Caustic corrosion 
+
+b. 
+Galvanic corrosion 
+
+c. 
+Oxygen corrosion 
+
+d. 
+Tubercular corrosion 
+
+
+
+138. 
+A zeolite softening unit will replace calcium and magnesium ions with ions. 
+
+a. 
+Fluoride 
+
+b. 
+Iron 
+
+c. 
+Sodium 
+
+d. 
+Sulfur 
+
+
+
+139. 
+Two fundamental treatment requirements for public water systems using surface sources are 
+
+a. 
+Coagulation and sedimentation 
+
+b. 
+Lime softening and disinfection 
+
+c. 
+Filtration and aeration 
+
+d. 
+Disinfection and filtration 
+
+
+
+140. 
+A method used to soften water is 
+
+a. 
+Aeration 
+
+b. 
+Sedimentation 
+
+c. 
+Ion exchange 
+
+d. 
+Adsorption 
+
+
+
+141. 
+The main characteristic of raw water that enables algae to grow is 
+
+a. 
+Presence of copper sulfate 
+
+b. 
+Low pH 
+
+c. 
+High hardness 
+
+d. 
+Presence of nutrients 
+
+
+
+142. 
+What happens when lime is fed to water for corrosion control? 
+
+a. 
+Alkalinity is decreased 
+
+b. 
+CO2 does not change 
+
+c. 
+Turbidity is decreased 
+
+d. 
+pH is increased 
+
+
+
+143. 
+Which of the following chemicals will most likely keep iron in suspension? 
+
+a. 
+Chlorine 
+
+b. 
+Fluoride 
+
+c. 
+Polyphosphate 
+
+d. 
+Lime inhibitor 
+
+
+
+144. 
+If raw water turbidity changed from 10 to 300 turbidity units and the finished water turbid­ity had increased from 0.1 to 1.0 turbidity units, the unit process having the most impact to correct this situation is 
+
+a. 
+Coagulation 
+
+b. 
+Sedimentation 
+
+c. 
+Filtration 
+
+d. 
+Disinfection 
+
+
+
+145. 
+The granular filtration process is designed to reduce 
+
+a. 
+Calcium and magnesium sulfates 
+
+b. 
+True color 
+
+c. 
+Total dissolved solids 
+
+d. 
+Turbidity 
+
+
+
+146. 
+Aeration in water treatment plants is used to 
+
+a. 
+Lower the pH 
+
+b. 
+Reduce concentrations of dissolved gasses 
+
+c. 
+Reduce turbidity 
+
+d. 
+Stabilize chlorine residuals 
+
+
+
+147. 
+What can the operator do if iron fouling appears to be a problem in an ion exchange soft­ener? 
+
+a. 
+Decrease the strength of the brine used in the regeneration stage 
+
+b. 
+Increase backwash flow rates 
+
+c. 
+Inçrease duration of backwash stage 
+
+d. 
+Increase duration of service stage 
+
+
+
+148. 
+Trihalomenthane may be partially removed from water by: 
+
+a. 
+fluoridation 
+
+b. 
+chlorination 
+
+c. 
+oxidation 
+
+d. 
+ultraviolet radiation 
+
+
+
+149. 
+Temporary cloudiness in a freshly drawn sample of tap water may be caused by: 
+
+a. 
+air 
+
+b. 
+chlorine 
+
+c. 
+hardness 
+
+d. 
+silica 
+
+
+
+150. 
+Two fundamental treatment requirements for public water systems using surface sources are 
+
+a. 
+Coagulation and sedimentation 
+
+b. 
+Lime softening and disinfection 
+
+c. 
+Filtration and aeration 
+
+d. 
+Disinfection and filtration 
+
+
+
+151. 
+A zeolite softening unit will replace calcium and magnesium ions with ions. 
+
+a. 
+Fluoride 
+
+b. 
+Iron 
+
+c. 
+Sodium 
+
+d. 
+Sulfur 
+
+
+
+152. 
+What happens when lime is fed to water for corrosion control? a. Alkalinity is decreased 
+
+b. 
+CO2 does not change 
+
+c. 
+Turbidity is decreased 
+
+d. 
+pH is increased 
+
+
+
+153. 
+Which two chemicals are used to remove turbidity? 
+
+a. 
+Soda Ash and lime 
+
+b. 
+Copper sulphate and caustic soda 
+
+c. 
+Alum and lime 
+
+
+
+154. 
+Which of the following is considered to be a coagulant aid? 
+
+a. 
+Lime 
+
+b. 
+Polymer 
+
+c. 
+Bentonite 
+
+d. 
+All of the above 
+
+
+
+155. 
+Alum precipitates as 
+
+a. 
+Aluminum carbonate 
+
+b. 
+Aluminum sulphate 
+
+c. 
+Aluminum hydroxide 
+
+
+
+156. 
+Turbidity removal with alum is best accomplished at what pH ? a. 3.5 b. 5.0 c. 6.5 
+
+157. 
+Which of the following will not lower the pH ? 
+
+a. 
+Alum 
+
+b. 
+Carbonic acid 
+
+c. 
+Ferric chloride 
+
+d. 
+Sodium carbonate 
+
+
+
+158. 
+Liquid fluoride is delivered as: 
+
+a. 
+Sodium Fluoride 
+
+b. 
+Hydrofluorosilicic acid 
+
+c. 
+Sodium Silicofluoride 
+
+d. 
+Hydrofluoric acid 
+
+
+
+159. 
+An upflow clarifier will have which of the following processes? 
+
+a. 
+Coagulation 
+
+b. 
+Flocculation 
+
+c. 
+Sedimentation 
+
+d. 
+All of the above 
+
+
+
+160. 
+Sludge that rises to the surface of a sedimentation basin is caused by: 
+
+a. 
+Not removing sludge often enough 
+
+b. 
+Removing sludge too often 
+
+c. 
+pH is too low 
+
+d. 
+Surface loading rate is too low 
+
+
+
+161. 
+Pin floc leaving a sedimentation basin may indicate a problem with: 
+
+a. 
+Coagulation 
+
+b. 
+Flocculation 
+
+c. 
+Sedimentation 
+
+d. 
+Disinfection 
+
+
+
+162. 
+What is the backwash rate for a rapid sand filter? a. 2 gpm/sq.ft. b. 15gpm/sq.ft. c. 20gpm/sq.ft. d. 25gpm/sq.ft. 
+
+163. 
+What is the maximum run time for a gravity filter? a. 8 hours b. 20 hours c. 48 hours d. 100 hours 
+
+164. 
+During backwash, the filter bed should expand: a. 5- 10% b. 15- 20% c. 30 - 50% d. 60 - 80% 
+
+165. 
+If the backwash time is too short, what may result? 
+
+a. 
+Too much freeboard 
+
+b. 
+Mudballs 
+
+c. 
+Loss of filter media 
+
+d. 
+Filter breakthrough 
+
+
+
+166. 
+If the filtration rate is too high, what may result? 
+
+a. 
+Filter breakthrough 
+
+b. 
+Mudballs 
+
+c. 
+Reduction in operating costs 
+
+d. 
+Lower headloss 
+
+
+
+167. 
+Solids removed from a filter are most commonly removed by what method? 
+
+a. 
+Adsorption 
+
+b. 
+Straining 
+
+c. 
+Deactivation 
+
+d. 
+Flocculation 
+
+
+
+168. 
+What is a typical filtration rate for slow sand filters? 
+
+a. 
+2.0-6.0 GPM/sq. ft. 
+
+b. 
+6.0-10.0 GPM/sq. ft. c. 1.0 - 2.0GPM/sq. ft. d. 0.5 - 0.10GPM/sq. ft. 
+
+
+
+169. 
+In a typical conventional treatment plant, the finished water turbidity for an individual filter should be less than a. 1.0 NTUs b. 0.3 NTUs 
+
+c. 5.0NTUs d. 3.0 NTUs 
+
+170. 
+A filter running under normal conditions will see head loss in a filter 
+
+a. 
+Remain constant 
+
+b. 
+Increase slowly 
+
+c. 
+Rapidly increase 
+
+d. 
+Decrease slowly 
+
+
+
+171. 
+A filter must be washed if this condition is met 
+
+a. 
+Head Loss 
+
+b. 
+Turbidity break through 
+
+c. 
+Maximum Filter run time 
+
+d. 
+All of the Above 
+
+
+
+172. 
+Filter performance is measured by the removal of 
+
+a. 
+Oxygen 
+
+b. 
+Head loss 
+
+c. 
+Turbidity 
+
+d. 
+Chlorine 
+
+
+
+173. 
+What is the biologically active layer of a slow sand filter called? 
+
+a. 
+Mixed Media 
+
+b. 
+Duel Media 
+
+c. 
+Sludge Layer 
+
+d. 
+Schmutzdecke 
+
+
+
+174. 
+The pressure drop in a filter is called 
+
+a. 
+Turbidity breakthrough 
+
+b. 
+Head Loss 
+
+c. 
+Filtration 
+
+d. 
+Backwash 
+
+
+
+175. 
+What is the most common reason for putting a filter into the wash cycle? 
+
+a. 
+Head loss 
+
+b. 
+Filter run time 
+
+c. 
+Turbidity breakthrough 
+
+d. 
+Water level decrease 
+
+
+
+176. 
+Formation of mud balls and excessive boiling during a wash is an indicator of 
+
+a. 
+Proper backwash rate 
+
+b. 
+Too low backwash rate 
+
+c. 
+Excessive backwash rate 
+
+d. 
+Improper chemical dose 
+
+
+
+177. 
+Important processes which occur during filtration are 
+
+a. 
+Sedimentation 
+
+b. 
+Adsorption 
+
+c. 
+Straining 
+
+d. 
+All of the Above 
+
+
+
+178. 
+Typical filtration rates for a conventional treatment plant are a. 0.2-0.6 GPM/sq.ft. b. 2.0-10.0 GPM/sq.ft. c. 10.0-20.0 GPM/sq.ft. d. 200-400 GPM/sq.ft. 
+
+
+
+
+
+
+
+
+
+1. 
+Chlorine gas is times heavier than breathing air a. 2.5 b. 20 c. 60 d. 460 
+
+2. 
+A commonly used method to test for chlorine residual in water is called the method. 
+
+a. 
+HTH 
+
+b. 
+THM 
+
+c. 
+VOC 
+
+d. 
+DPD 
+
+
+
+3. 
+When chlorine gas is added to water the pH goes down due to 
+
+a. 
+chlorine gas producing caustic substances 
+
+b. 
+two base materials that form 
+
+c. 
+*two acids that form 
+
+d. 
+caustic soda being formed in the water 
+
+
+
+4. 
+Disinfection by-products are a product of: 
+
+a. 
+Filtration 
+
+b. 
+Disinfection 
+
+c. 
+Sedimentation 
+
+d. 
+Adsorption 
+
+
+
+5. 
+Chloramine is most effective as a disinfectant. 
+
+a. 
+Primary 
+
+b. 
+Secondary 
+
+c. 
+Third 
+
+d. 
+First 
+
+
+
+6. 
+Name the two types of hypochlorites used to disinfect water. 
+
+a. 
+Chloride and monochloride 
+
+b. 
+Sodium and calcium 
+
+c. 
+Ozone and hydroxide 
+
+d. 
+Arsenic and manganese 
+
+
+
+7. 
+Name two methods commonly used to disinfect drinking water other than chlorination. 
+
+a. 
+Ozone and ultraviolet light 
+
+b. 
+Soap and agitation 
+
+c. 
+Filtration and adsorption 
+
+d. 
+Salt and vinegar 
+
+
+
+8. 
+In order to determine the effectiveness of disinfection, it is desirable to maintain a disinfec­tant residual of at least mg/L entering the distribution system. a. 0.10 b. 0.5 c. 0.3 d. 0.2 
+
+9. 
+Secondary disinfectants are used to provide a in the distribution system. 
+
+a. 
+Color 
+
+b. 
+Chemical 
+
+c. 
+Smell 
+
+d. 
+Residual 
+
+
+
+10. 
+Primary disinfectants are used to microorganisms. 
+
+a. 
+Hurt 
+
+b. 
+Inactivate 
+
+c. 
+Burn up 
+
+d. 
+Evaporate 
+
+
+
+11. 
+The quantity of chlorine remaining after primary disinfection is called a residual. 
+
+a. 
+Chlorine 
+
+b. 
+Permaganate 
+
+c. 
+Hot 
+
+d. 
+Cold 
+
+
+
+12. 
+The two most common types of chlorine disinfection by-products include: 
+
+a. 
+TTHM and HAA5 
+
+b. 
+TTHA of HMM5 
+
+c. 
+Turbidity and color 
+
+d. 
+Chloride and fluoride 
+
+
+
+13. 
+In order to determine the effectiveness of disinfection, it is desirable to maintain a disinfec­tant residual of at least mg/L entering the distribution system. a. 0.10 b. 0.5 c. 0.3 d. 0.2 
+
+14. 
+A__ residual of chlorine is required throughout the system. 
+
+a. 
+Large 
+
+b. 
+High 
+
+c. 
+Trace 
+
+d. 
+Hot 
+
+
+
+15. 
+The test used to determine the effectiveness of disinfection is called the: 
+
+a. 
+Coliform bacteria test 
+
+b. 
+Color test 
+
+c. 
+Turbidity test 
+
+d. 
+Particle test 
+
+
+
+16. 
+Name two methods commonly used to disinfect drinking water other than chlorination. 
+
+a. 
+Ozone and ultraviolet light 
+
+b. 
+Soap and agitation 
+
+c. 
+Filtration and adsorption 
+
+d. 
+Salt and vinegar 
+
+
+
+17. 
+Name the two types of hypochlorites used to disinfect water. 
+
+a. 
+Chloride and monochloride 
+
+b. 
+Sodium and calcium 
+
+c. 
+Ozone and hydroxide 
+
+d. 
+Arsenic and manganese 
+
+
+
+18. 
+Free chlorine can only be obtained after point chlorination has been achieved. 
+
+a. 
+Breakpoint 
+
+b. 
+Fastpoint 
+
+c. 
+Softpoint 
+
+d. 
+Onpoint 
+
+
+
+19. 
+The meaning of the " C " and the " T " in the term CT stands for: 
+
+a. 
+Concentration and time 
+
+b. 
+Color and turbidity 
+
+c. 
+Calcium and tortellini 
+
+d. 
+Chlorine and turbidity 
+
+
+
+20. 
+Chloramine is most affective as a disinfectant. 
+
+a. 
+Primary 
+
+b. 
+Secondary 
+
+c. 
+Third 
+
+d. 
+First 
+
+
+
+21. 
+TTHMs and HAA5s can affect: 
+
+a. 
+Health 
+
+b. 
+Aesthetics 
+
+c. 
+Color 
+
+d. 
+Odor 
+
+
+
+22. 
+The multiple barrier treatment approach includes 
+
+a. 
+Sterilization and filtration 
+
+b. 
+Disinfection and filtration 
+
+c. 
+Disinfection and sterilization 
+
+d. 
+Infection and filtration 
+
+
+
+23. 
+The maximum disinfectant residual allowed for chlorine in a water system is a. .02mg/L b. 2.0mg/L c. 3.0mg/L d. 4.0mg/L 
+
+24. 
+What is the disinfectant byproduct caused by ozonation? 
+
+a. 
+Trihalomethanes 
+
+b. 
+Bromate 
+
+c. 
+Chlorite 
+
+d. 
+No DBP formation 
+
+
+
+25. 
+Haloacitic Acids are also known as 
+
+a. 
+TTHM 
+
+b. 
+HOCL 
+
+c. 
+Chlorite d. HAA5 
+
+
+
+26. 
+What is the MCL for trihalomethanes? a. .10mg/L b. .06mg/L c. .08mg/L d. .12mg/L 
+
+27. 
+What is the MCL for Haloacitic Acids? a. 100ppb b. 60ppb c. 80ppb d. 120ppb 
+
+28. 
+What is the MCL for bromate? a. .010mg/L b. .020mg/L c. .030mg/L d. .040mg/L 
+
+29. 
+What is residual Chlorine? 
+
+a. 
+Chlorine used to disinfect 
+
+b. 
+The amount of chlorine after the demand has been satisfied 
+
+c. 
+The amount of chlorine added before disinfection 
+
+d. 
+Film left on DPD kit to measure residual 
+
+
+
+30. 
+When Chlorine reacts with natural organic matter in water it can create 
+
+a. 
+Disinfectant by-products 
+
+b. 
+Coliform bacteria 
+
+c. 
+Chloroform 
+
+d. 
+Calcium 
+
+
+
+31. 
+What are trihalomenthanes classified as 
+
+a. 
+Salts 
+
+b. 
+Inorganic compounds 
+
+c. 
+Volatile organic compounds 
+
+d. 
+Radio 
+
+
+
+32. 
+What disinfectant is used for emergency purposes and not utilized in the water treatment industry? 
+
+a. 
+Chlorine 
+
+b. 
+Iodine 
+
+c. 
+Ozone 
+
+d. 
+Chlorine Dioxide 
+
+
+
+33. 
+What is the disinfectant with the least killing power but that has the longest lasting resid­ual? 
+
+a. 
+Chlorine 
+
+b. 
+Ozone 
+
+c. 
+Chlorine Dioxide 
+
+d. 
+Chloramines 
+
+
+
+34. 
+The active ingredient in household bleach is 
+
+a. 
+Calcium hypochlorite 
+
+b. 
+Calcium hydroxide 
+
+c. 
+Sodium hypochlorite 
+
+d. 
+Sodium hydroxide 
+
+
+
+35. 
+Cryptosporidium is not resistant to this chemical 
+
+a. 
+Ozone 
+
+b. 
+Chlorine Dioxide 
+
+c. 
+Chlorine 
+
+d. 
+Both A&B 
+
+
+
+36. 
+If a coliform test is positive, how many repeat samples are required at a minimum? 
+
+a. 
+None b. 1 c. 3 
+
+d. 
+Depends on the severity of the positive sample 
+
+
+
+37. 
+Your water system takes 75 coliform tests per month. This month there were 6 positive samples. What is the percentage of samples which tested positive? Did your system violate regulations? a. 3% Yes b. 5%No c. 8% Yes d. 10%No 
+
+38. 
+The form of Chlorine which is 100% available chlorine is? 
+
+a. 
+Sodium Hypochlorite 
+
+b. 
+Calcium Hypochlorite 
+
+c. 
+Calcium Hydroxide 
+
+d. 
+Gaseous Chlorine 
+
+
+
+39. 
+What is the minimum amount of chlorine residual required in the distribution system? 
+
+a. 
+There is no minimum 
+
+b. 
+mg/L c. 0.2mg/L 
+
+d. 
+mg/L 
+
+
+
+40. 
+What is the approximate pH range of sodium hypochlorite? a. 4-5 b. 6-7 c. 9- 11 d. 12 - 14 
+
+41. 
+What is the typical concentration of sodium hypochlorite utilized in water treatment? a. 5% b. 65% c. 100% d. 12.5% 
+
+42. 
+Chlorine demand refers to 
+
+a. 
+Chlorine in the system for a given time 
+
+b. 
+The difference between chlorine applied and chlorine residual-usually caused by inor­ganics, organics, bacteria, algae, ammonia, etc. 
+
+c. 
+Chlorine needed to produce a higher pH 
+
+d. 
+None of the above 
+
+
+
+43. 
+What is the most effective chlorine disinfectant? 
+
+a. 
+Dichloramine 
+
+b. 
+Trichloramine 
+
+c. 
+Hypochlorite Ion 
+
+d. 
+Hypochlorous acid 
+
+
+
+44. 
+What can form when chlorine reacts with natural organic matter in source water? 
+
+a. 
+Disinfectant by-products 
+
+b. 
+Sulfur 
+
+c. 
+Algae 
+
+d. 
+Coliform bacteria 
+
+
+
+45. 
+What kind of solution is used to check for a gas chlorine leak? 
+
+a. 
+Sodium hydroxide 
+
+b. 
+Ozone 
+
+c. 
+Ammonia 
+
+d. 
+Calcium hypochlorite 
+
+
+
+46. 
+Chlorine is 
+
+a. 
+Heavier than air 
+
+b. 
+Lighter than air 
+
+c. 
+Brown in color 
+
+d. 
+not harmful to your health 
+
+
+
+47. 
+Chlorine demand may vary due to 
+
+a. 
+Chlorine demand always stays the same 
+
+b. 
+Temperature 
+
+c. 
+pH 
+
+d. 
+BothBandC 
+
+
+
+48. 
+What effect does high turbidity have on disinfection? 
+
+a. 
+It can increase chlorine demand 
+
+b. 
+It has no effect 
+
+c. 
+It gives the water a milky appearance that will clear out after some time 
+
+d. 
+You must increase the temperature of the water 
+
+
+
+49. 
+What is the target chlorine:ammonia ratio? a. 2:1 b. 3:1 c. 4:1 d. 5:1 
+
+50. 
+What is the MCL for Nitrates? a. 1ppm b. 10ppm c. 5ppm 
+
+d. None of the above 
+
+51. 
+What is the molecular weight of Chlorine? a. 70 b. 14 c. 65 d. 20 
+
+52. 
+What disinfectant has the longest lasting residual? 
+
+a. 
+Ozone 
+
+b. 
+Chlorine 
+
+c. 
+Chloramine 
+
+d. 
+Chlorine Dioxide 
+
+
+
+53. 
+What are some of the early indicators of Nitrification? 
+
+a. 
+Lowering chlorine residual 
+
+b. 
+Excess ammonia in treated water 
+
+c. 
+Raise in bacterial heterotrophic plate counts 
+
+d. 
+All of the above 
+
+
+
+54. 
+What are THMs classified as? 
+
+a. 
+Turbidity 
+
+b. 
+Radiological 
+
+c. 
+Volatile Organic Chemicals 
+
+d. 
+Salts 
+
+
+
+55. 
+What method can operators employ to combat nitrification? 
+
+a. 
+Lower residual chlorine target b. Keep reservoir levels static 
+
+c. 
+Minimize free ammonia in treated water 
+
+d. 
+Increase water age 
+
+
+
+56. 
+How many times stronger is Chlorine compared to monochloramine? a. 250 times b. 20 times c. 1500 times d. 5 times 
+
+57. 
+What chemicals are formed when chlorine is mixed with water? 
+
+a. 
+Hydrogen sulfide and ammonia 
+
+b. 
+DPD and carbon dioxide 
+
+c. 
+Sodium hypochlorite and calcium hypochlorite 
+
+d. 
+Hypochlorous acid and hydrochloric acid 
+
+
+
+58. 
+Chlorine residual is measured in the field using the 
+
+a. 
+Electroconductivity method 
+
+b. 
+EDTA titrimetric method 
+
+c. 
+Ortho-tolidine colorimetric method 
+
+d. 
+DPD colorimetric method 
+
+e. 
+Differential pH method 
+
+
+
+59. 
+In nitrification, bacteria consume excess ammonia in the water and produce 
+
+a. 
+Chloramines 
+
+b. 
+Free chlorine 
+
+c. 
+Urine 
+
+d. 
+Nitrite 
+
+e. 
+Sodium thiosulfate 
+
+
+
+60. 
+Which of the following is a form of free chlorine? 
+
+a. 
+Nitrite 
+
+b. 
+Hypochlorous acid 
+
+c. 
+Monochloramine 
+
+d. 
+Hydrochloric acid 
+
+e. 
+Trichloramine 
+
+
+
+61. 
+A distribution system operator measures a total chlorine residual of 1.25mg/L. How many points on the chlorine breakpoint curve may display this residual? 
+
+a. 
+Zero 
+
+b. 
+One 
+
+c. 
+Two 
+
+d. 
+Three 
+
+e. 
+Four 
+
+
+
+62. 
+What is the chlorine dosage that must be applied when disinfecting a pipeline using the slug method? a. 300mg/L b. 100mg/L c. 50mg/L 
+
+d. 25mg/L e. 6mg/L 
+
+63. 
+Which of the following is a form of combined chlorine? 
+
+a. 
+Hypochlorite ion 
+
+b. 
+Hypochlorous acid 
+
+c. 
+Monochloramine 
+
+d. 
+Hydrochloric acid 
+
+e. 
+Free ammonia 
+
+
+
+64. 
+A distribution system operator measures a total chlorine residual of 1.25mg/L, and a free chlorine residual of 1.15mg/L : This indicates that 
+
+a. 
+The system is operating with a chloramine residual 
+
+b. 
+The chlorine demand is 0.10mg/L 
+
+c. 
+The chlorine demand is 2.40mg/L 
+
+d. 
+Chloramines are being destroyed by free chlorine 
+
+e. 
+The system is operating to the right of the breakpoint on the chloramine curve 
+
+
+
+65. 
+Which of the following is the most desirable form of combined residual chlorine? 
+
+a. 
+Hypochlorite ion 
+
+b. 
+Hypochlorous acid 
+
+c. 
+Monochloramine 
+
+d. 
+Dichloramine 
+
+e. 
+Trichloramine 
+
+
+
+66. 
+Of the following, which is the most effective disinfectant? 
+
+a. 
+Hypochlorite ion 
+
+b. 
+Hypochlorous acid 
+
+c. 
+Monochloramine 
+
+d. 
+Dichloramine 
+
+e. 
+Trichloramine 
+
+
+
+67. 
+A field chlorine residual measurement shows no reading at one minute, but 2.1mg/L after three minutes. This indicates that 
+
+a. 
+The field DPD test kit needs to be returned to the laboratory for maintenance 
+
+b. 
+There is no chlorine residual 
+
+c. 
+There is no free chlorine residual, but there are 2.1mg/L of chloramines 
+
+d. 
+There is no combined residual, but the free chlorine residual is 2.1mg/L 
+
+e. 
+The analyst should wait an additional three minutes and re-test 
+
+
+
+68. 
+When disinfecting a storage tank, one method calls for the bottom 6% of the tank volume to be chlorinated for at least 6 hours with an applied chlorine dosage of a. 50mg/L b. 25mg/L c. 6mg/L d. 4mg/L e. 0.2mg/L 
+
+69. 
+Residual chlorine refers to 
+
+a. 
+The amount of chlorine in the chlorinated water after several minutes 
+
+b. 
+The chlorine needed to disinfect the water supply 
+
+c. 
+The chlorine needed to produce floc in the water 
+
+d. 
+The sludge in the bottom of the chlorine solution tank 
+
+e. 
+None of the above 
+
+
+
+70. 
+While handling sodium hypochlorite, proper safety precautions include a. Avoiding situa­tions that could splash hypochlorite solution b. Using a face shield and/or goggles to avoid eye contact c. Minimizing skin contact with rubber gloves and/or protective clothing d. All of the above e. None of the above are necessary 
+
+71. 
+The fusible plug that is in all chlorine containers 
+
+a. 
+Is not necessary 
+
+b. 
+May be used as a tap for the chlorine source 
+
+c. 
+Should be removed after the cylinders are empty 
+
+d. 
+Should never be removed or tampered with 
+
+e. 
+Should be removed prior to withdrawing chlorine from the container 
+
+
+
+72. 
+Sodium hypochlorite is a a. Compound purchased in liquid solution used for disinfection 
+
+b. 
+Dry neutralizing powder for treating chlorine burns 
+
+c. 
+Gas delivered in 100-pound, 150-pound, or one-ton containers 
+
+d. 
+Salt that is formed when hydrochloric acid is neutralized with caustic soda 
+
+e. 
+None of the above 
+
+
+
+73. 
+The chlorine demand abruptly jumps in your source water. This may indicate that a. The water source has been contaminated b. Flow rates in the distribution system have increased 
+
+c. 
+The hypochlorite solution used for disinfection has deteriorated 
+
+d. 
+The hypochlorite solution tank is empty 
+
+e. 
+The hypochlorite ion has a higher concentration than hypochlorous acid 
+
+
+
+74. 
+The chemical compound typically found in chlorination tablets and granules is 
+
+a. 
+Sodium hypochlorite 
+
+b. 
+Sodium hydroxide 
+
+c. 
+Sodium chloride 
+
+d. 
+Calcium hypochlorite 
+
+e. 
+Calcium hydroxide 
+
+
+
+75. 
+The maximum rate of withdrawal of gas from a 150-pound chlorine cylinder in 24-hours is a. 20 pounds b. 40 pounds c. 100 pounds d. 150 pounds 
+
+e. None of the above 
+
+76. 
+The maximum rate of withdrawal of gas from a one-ton chlorine container in 24-hours is a. 40 pounds 
+
+
+
+
+
+
+
+
+
+
+
+
+b. 100 pounds c. 400 pounds 
+d. 
+One ton 
+
+e. 
+Variable, depending on chlorine dosage requirements 
+
+
+77. A chlorine leak can be detected by 
+a. 
+An explosimeter 
+
+b. 
+Checking the leak gauge 
+
+c. 
+Applying ammonia solution 
+
+d. 
+A tri-gas detector 
+
+e. 
+None of the above 
+
+
+78. 
+When using the continuous feed method of disinfection, a new water main should be flushed, disinfected at 50mg/L, and held at above 25mg/L for at least a. 6 hours b. 12 hours c. 24 hours d. 36 hours e. 48 hours 
+
+79. 
+If you encounter a liquid chlorine leak in a one-ton container, what action should you take first, to reduce the severity of the leak? 
+
+a. 
+Apply a caustic solution 
+
+b. 
+Apply an acidic solution 
+
+c. 
+Spray the container with water 
+
+d. 
+Spray the container with an ammonia solution 
+
+e. 
+Rotate the container to place the leak at the top 
+
+
+
+80. 
+What should the chlorine dosage be to water that has a chlorine demand of 1.5mg/L, when a free residual of 1.0mg/L is desired? a. 0.5mg/L b. 1.0mg/L c. 1.5mg/L 
+
+d. 2.5 pounds per day e. 2.5mg/L 
+
+81. 
+When chlorine reacts with natural organic matter in the water, it is possible to form 
+
+a. 
+Disinfection by-products 
+
+b. 
+Arsenic 
+
+c. 
+MTBE 
+
+d. 
+Coliforms e. Synthetic organic compounds 
+
+
+
+82. 
+Which of the following best describes the characteristics of chlorine when used for disin­fection in drinking water? 
+
+a. 
+Colorless, flammable, heavier than air 
+
+b. 
+Greenish-yellow, nonflammable, lighter than air 
+
+c. 
+Greenish-yellow, flammable, lighter than air 
+
+d. 
+Greenish-yellow, nonflammable, heavier than air 
+
+
+
+83. 
+Killing of pathogenic organisms in water treatment is called 
+
+a. 
+Disinfection 
+
+b. 
+Oxidätion 
+
+c. 
+Pasteurization 
+
+d. 
+Sterilization 
+
+
+
+84. 
+Chlorine reacts with nitrogenous compounds to form 
+
+a. 
+Ammonia nitrate 
+
+b. 
+Free chlorine 
+
+c. 
+Chlorinated hydrocarbons 
+
+d. 
+Chloramines 
+
+
+
+85. 
+Sodium Hypochlorite is 
+
+a. 
+A commercially available chlorine solution 
+
+b. 
+A commercially available dry chlorine compound 
+
+c. 
+Chlorine that is available in 100-and 150-pound cylinders 
+
+d. 
+A reaction product of chlorine and caustic soda 
+
+
+
+86. 
+A hypochlorinator is 
+
+a. 
+Used to measure residual chlorine 
+
+b. 
+Used in the treatment of iron and turbidity 
+
+c. 
+Used to feed a liquid solution into a water supply 
+
+d. 
+Used to measure an adequate amount of chlorine gas into the supply 
+
+
+
+87. 
+When calcium hypochlorite is used for disinfecting a water supply, it should be 
+
+a. 
+Dissolved in water, allowed to settle, and the supernatant siphoned off and fed into the water system 
+
+b. 
+Dissolved in water as a dry chemical then injected into the water system 
+
+c. 
+Fed as a dry chemical directly into the pipeline 
+
+d. 
+Fed as a dry powder into the clear well 
+
+
+
+88. 
+The chlorine gas feed rate is usually controlled by adjusting the 
+
+a. 
+water flow to the injector 
+
+b. 
+valve on the chlorine cylinder c.pressure in the chlorine cylinder 
+
+d. 
+rotameter control valve 
+
+
+
+89. 
+If disinfection is incomplete because the chlorine residual is in the hypochlorite ion form, what should you change to improve disinfection? 
+
+a. 
+Calcium 
+
+b. 
+Hardness 
+
+c. 
+pH 
+
+d. 
+alkalinity 
+
+
+
+90. 
+Breakpoint chlorination is achieved when 
+
+a. 
+Free ammonia can be tasted in the water 
+
+b. 
+No chlorine residual is detected 
+
+c. 
+The strong chlorine tasted at the plant did not persist in the distribution system 
+
+d. 
+When chlorine dosage is increased, a corresponding increase in residual is detected 
+
+
+
+91. 
+Because chlorine residual is related to the pH of the water, it may be said that 
+
+a. 
+A higher pH requires a higher chiorine residual 
+
+b. 
+A higher pH requires a lower chlorine residual 
+
+c. 
+A lower pH requires a higher chlorine residual 
+
+d. 
+pH has no effect on chlorine residual 
+
+
+
+92. 
+As long as the temperature is steady, the pressure indicator on a chlorine cylinder will until all the chlorine has been gasified 
+
+a. 
+Remain steady 
+
+b. 
+Decrease slowly 
+
+c. 
+Decrease rapidly 
+
+d. 
+Increase slightly 
+
+
+
+93. 
+When fresh, the typical concentration of sodium hypochlorite solution is a. 1.25% b. 6.5% c. 12.5% d. 65% 
+
+e. variable, depending on the manufacturer 
+
+94. 
+Chlorine in a dry form is called: 
+
+a. 
+hypochlorite 
+
+b. 
+hypochlorous 
+
+c. 
+hydrochlorite 
+
+d. 
+hydroxide 
+
+
+
+95. 
+Which of the following procedures is done when preparing to disconnect a chlorine cylin­der? 
+
+a. 
+close the cylinder valve first to allow time for the chlorine to be drawn off 
+
+b. 
+loosen the line to the tank and then shut off the valve to the chlorine cylinder 
+
+c. 
+shut off the water supply and allow sufficient time for the chlorille to be drawn off 
+
+d. 
+tum the chlorinator feed rate valve off then turn the valve on the chlorinator cylinder 
+
+
+
+96. 
+A vacuum is formed in the chlorinator by the: a chlorine cylinder pressure 
+
+b. 
+pressure differential through the ejector 
+
+c. 
+chlorine feed pump 
+
+d. 
+rotameter­
+
+
+
+97. 
+When calcium hypochlorite is used for disinfecting a water supply, it should be be: 
+
+a. 
+Dissolved in water, allowed to settle, and the supernatant siphoned off and fed into the water system 
+
+b. 
+Dissolved in water as a dry chemical then injected into the water system 
+
+c. 
+Fed as a dry chemical directly into the pipeline 
+
+d. 
+Fed as a dry powder into the clear well 
+
+
+
+98. 
+Because chlorine residual is related to the pH of the water, it may be said that: a. A higher pH requires a higher chlorine residual 
+
+b. 
+A higher pH requires a lower chlorine residual 
+
+c. 
+A lower pH requires a higher chlorine residual 
+
+d. 
+A lower pH has no effect on chlorine residual 
+
+
+
+99. 
+Which of the following best describes "chlorine demand"? 
+
+a. 
+The difference between the amount of chlorine added and turbidity 
+
+b. 
+The difference between the amount of chlorine added and pH 
+
+c. 
+The difference between the total chlorine residual and the free chlorine residual (d.) The difference between the amount of chlorine added and the amount of residual chlorine remaining after a given contact time 
+
+
+
+100. 
+Chlorine reacts with nitrogenous compounds to form 
+
+a. 
+Ammonia nitrate 
+
+b. 
+Free chlorine 
+
+c. 
+Chlorinated hydrocarbons 
+
+d. 
+Chloramines 
+
+
+
+101. 
+When two ton cylinders are feeding gas and one of them is frosted, what might be the problem? 
+
+a. 
+The feed rate is too high 
+
+b. 
+The line on the frosted tank is clogged 
+
+c. 
+The valve on the unfrosted tank 
+
+d. 
+The injector is clogged 
+
+
+
+102. 
+There is low vacuum on the system and the flow rate is low when the rate valve is wide open, what is the problem? 
+
+a. 
+The feed rate is too high 
+
+b. 
+The injector is clogged 
+
+c. 
+There is a clogged feed line 
+
+d. 
+The rotameter is clogged 
+
+
+
+
+
+
+
+
+1. Name the type of valve that is sometimes found on the suction side of a centrifugal pump and is located where the water enters the casing. 
+a. 
+Check valve 
+
+b. 
+Gate valve 
+
+c. 
+Altitude valve 
+
+d. 
+Pressure relief valve 
+
+e. 
+*Foot valve 
+
+
+2. After a pump is shut off but continues to run backwards indicates: 
+a. 
+The bearings are failing 
+
+b. 
+The packing needs tightening 
+
+c. 
+The main lock nut needs to be tightened 
+
+d. 
+*The check valve is leaking 
+
+e. 
+A valve on the discharge side of the pump is shut 
+
+
+3. Wear rings are installed in a pump to: 
+a. 
+hold the shaft in position 
+
+b. 
+keep the impeller in place 
+
+c. 
+*keep wear concentrated on economically replaceable part 
+
+d. 
+wear out the sleeve 
+
+
+4. Pump motors draw more power starting than during normal operating conditions because: 
+a. 
+check valves have to be pushed open 
+
+b. 
+energy is required to get the water moving 
+
+c. 
+the motor and pump have to start turning 
+
+d. 
+*all of the above 
+
+
+5. Head is measured in 
+a. 
+absolute pressure. 
+
+b. 
+gauge pressure. 
+
+c. 
+*feet. 
+
+d. 
+foot-pounds. 
+
+
+6. To ease installation of impeller wear rings, they can be 
+a. 
+lubricated with a light oil. 
+
+b. 
+greased with lithium. 
+
+c. 
+heated. 
+
+d. 
+cooled. 
+
+
+7. Packing is designed to 
+a. 
+add lubricant to the shaft. 
+
+b. 
+expand and deteriorate with normal use. 
+
+c. 
+protect the shaft. 
+
+d. 
+wear and deteriorate with normal use. 
+
+
+8. Bearings on a line shaft turbine can be lubricated with 
+a. 
+oil or water. 
+
+b. 
+grease or oil. 
+
+c. 
+lithium or grease. 
+
+d. 
+graphite or grease. 
+
+
+
+9. Packing replacement is usually performed when 
+a. 
+water leakage sprays out of the pump housing. 
+
+b. 
+no further tightening can be done on the packing gland. 
+
+c. 
+the packing gland bolts are exposed by more than 21/2 inches above the nut. d. the packing has completely disintegrated. 
+
+
+10. Water hammer can be described as 
+a. 
+particle waves. 
+
+b. 
+acoustic waves. 
+
+c. 
+rogue waves. 
+
+d. 
+longitudinal waves. 
+
+
+11. Which is at the top of a stuffing box? 
+a. 
+Packing gland 
+
+b. 
+Lantern ring 
+
+c. 
+Mechanical seal 
+
+d. 
+Seal cage 
+
+
+12. Which assembly holds the lantern ring and packing? 
+a. 
+Shaft assembly 
+
+b. 
+Casing ring assembly 
+
+c. 
+Packing gland casing 
+
+d. 
+Stuffing box 
+
+
+13. Which of the following prevents the impeller of a pump from turning on the shaft? 
+a. 
+Lock nut on threaded shaft 
+
+b. 
+Key 
+
+c. 
+Steel pin 
+
+d. 
+Caliper pin 
+
+
+14. Which device serves the same function as the packing? 
+a. 
+Inline suction gland 
+
+b. 
+Packing gland 
+
+c. 
+*Mechanical seal 
+
+d. 
+Lantern seal 
+
+
+15. Vertical turbine pumps that are used in wells may be oil-lubricated or water-lubricated. Operators should use extreme care not to start any water-lubricated pump before making sure that the: 
+a. 
+Valve on discharge side is open. 
+
+b. 
+Bearings are dry. 
+
+c. 
+Valve on suction side is closed. 
+
+d. 
+Bearings are wet. 
+
+
+
+16. The head against which a pump must operate: 
+a. 
+Is the sum of the static head and the head due to friction loss. 
+
+b. 
+Must always be above the shut-off head. 
+
+c. 
+Is the static head. 
+
+d. 
+Is the friction head. 
+
+
+17. What term describes the condition that exists when the source of the water supply is below the centerline of the pump? 
+a. 
+Pressure head 
+
+b. 
+Velocity head 
+
+c. 
+Suction lift 
+
+d. 
+Total discharge head 
+
+
+18. What is the most common use today for a positive-displacement pump? 
+a. 
+Raw water intake pump 
+
+b. 
+System booster pump 
+
+c. 
+Chemical feed pump 
+
+d. 
+Filter feed pump 
+
+
+19. A pumping condition where the eye of the impeller is above the water is called? 
+a. 
+Dry Well 
+
+b. 
+Suction Head 
+
+c. 
+Wet Well 
+
+d. 
+Suction Lift 
+
+
+20. The force used in an End-suction pump is called 
+a. 
+Pressure 
+
+b. 
+Centrifugal 
+
+c. 
+Velocity 
+
+d. 
+Kinetic 
+
+
+21. __ is the loss of energy as a result of friction. 
+a. 
+Velocity loss 
+
+b. 
+Headloss 
+
+c. 
+Elevation Loss 
+
+d. 
+Pump Loss 
+
+
+22. As the water travels around the volute towards the discharge line the total energy shifts from 
+a. High Velocity Head to low PSI b. Low Velocity Head to high PSI c. Low Velocity Head to low PSI d. High Velocity Head to high PSI 
+23. The part that in an End Suction pump that is used to collect the liquid discharged from the impeller is called? 
+a. 
+Shaft 
+
+b. 
+Packing 
+
+c. 
+Suction Head 
+
+d. 
+Volute 
+
+
+
+24. Head is the energy that a body has by virtue of its position or state. 
+a. 
+Velocity 
+
+b. 
+Potential 
+
+c. 
+Kinetic 
+
+d. 
+Pressure 
+
+
+25. An impeller that has no shrouds and used to pump fluid with large objects is called? 
+a. 
+Semi-open 
+
+b. 
+Open 
+
+c. 
+Closed 
+
+d. 
+Very-closed 
+
+
+26. A pump station design where the eye of the impeller is submerged in water is called? 
+a. 
+Dry Well 
+
+b. 
+Suction Head 
+
+c. 
+Wet Well 
+
+d. 
+Suction Lift 
+
+
+27. The discharge valve on a pump can be closed for short periods of time or during start up. 
+a. 
+Piston 
+
+b. 
+Progressive Cavity 
+
+c. 
+Diaphragm 
+
+d. 
+dynamic 
+
+
+28. Velocity of a pump is measured in: 
+a. 
+Inches per second 
+
+b. 
+PSI 
+
+c. 
+Feet per second 
+
+d. 
+Yards per second 
+
+
+29. An impeller that has shrouds on both sides and is used to pump fluid with little or no ob­jects is called? 
+a. 
+Semi-open 
+
+b. 
+Open 
+
+c. 
+Closed 
+
+d. 
+Very -closed 
+
+
+30. To change the discharge of displacement you have to change the: 
+a. 
+Speed 
+
+b. 
+Discharge valve 
+
+c. 
+Suction valve 
+
+d. 
+Rotation 
+
+
+31. Which pump component prevents leakage from the pump discharge to the suction? 
+a. 
+Lantern ring 
+
+b. 
+Volute 
+
+c. 
+Wear ring 
+
+d. 
+Shaft sleeve 
+
+
+
+32. Mechanical seals are being installed in pumps because 
+a. 
+packing requires an undesirable leakage that seals eliminate. 
+
+b. 
+seals prevent cross connections with potable water. 
+
+c. 
+seals will take more shaft misalignment than packing. 
+
+d. 
+there is a shortage of good packing available on the market. 33. A major cause of pump and motor shaft coupling wear is: 
+
+a. 
+discharge pressure too high. 
+
+b. 
+low suction pressure. 
+
+c. 
+misalignment between pumps and motor flanges. 
+
+d. 
+worn-out seal. 
+
+
+33. The discharge rate of a piston-type pump: 
+a. 
+Is constant as the main drive rpm changes 
+
+b. 
+Is constant at a constant speed 
+
+c. 
+Varies inversely with the head 
+
+d. 
+Varies with the total dynamic head 
+
+
+34. The flow of electrical current is measured in 
+a. 
+Amperes 
+
+b. 
+Ohms 
+
+c. 
+Volts 
+
+d. 
+Watts 
+
+
+35. An operator hears a pinging sound coming from the pump. What is the probable cause? 
+a. 
+Descaling 
+
+b. 
+Cavitation 
+
+c. 
+Corrosion 
+
+d. 
+Hardness 
+
+
+36. During a routine inspection on a centrifugal pump, the operator notices that the bearings are excessively hot. This is most likely caused by: 
+a. 
+Over lubrication 
+
+b. 
+The speed being too slow 
+
+c. 
+A worn impeller 
+
+d. 
+A worn packing 
+
+
+37. The-leakage of seal-wateraround-the-packing on a centrifugal pump is required because it acts as a(n) 
+a. 
+Adhesive 
+
+b. 
+Coolant 
+
+c. 
+Corrosion inhibitor 
+
+d. 
+Scale inhibitor 
+
+
+38. What can happen to a pump if the back pressure on the pump is allowed to drop too low and the pump is operated for a prolonged period of time? 
+
+a. 
+Efficiency would drop off and the pump would heat up 
+
+b. 
+No water would flow 
+
+c. 
+Pump lubricants would disperse more efficiently 
+
+d. 
+Water hammer would occur upstream in the distribution line 
+
+
+39. At a pumping station equipped with centrifugal pumps, what can cause the discharge pressure to suddenly increase and the discharge quantity to suddenly decrease? 
+a. 
+A discharge valve was closed 
+
+b. 
+A suction valve was closed 
+
+c. 
+The pump amperage was decreased 
+
+d. 
+The voltage was suddenly increased 
+
+
+40. The difference between water levels upstream and downstream of a pump when it is not in operation is known as the 
+a. 
+Suction lift 
+
+b. 
+Total dynamic head 
+
+c. 
+Discharge head 
+
+d. 
+Friction loss 
+
+e. 
+Total static head 
+
+
+41. Static suction head plus friction suction head plus static discharge head plus friction dis­charge head is a pump’s 
+a. 
+Pump curve 
+
+b. 
+Operating pressure 
+
+c. 
+Efficiency 
+
+d. 
+Total dynamic head 
+
+e. 
+Velocity head 
+
+
+42. Pumps are primed to 
+a. 
+*Replace air inside the pump with water 
+
+b. 
+Seat the valves 
+
+c. 
+Wet the packing 
+
+d. 
+Provide water for flow testing 
+
+e. 
+Overcome positive suction head 
+
+
+43. Backspin is occurring after well shutdown; this indicates 
+a. 
+A high water table 
+
+b. 
+A low water table 
+
+c. 
+A confined aquifer 
+
+d. 
+A faulty check valve 
+
+e. 
+A leak in the sanitary seal 
+
+
+44. A water seal on a pump serves many purposes, including 
+a. 
+Acts as a coolant to keep the pump bearing from overheating 
+
+b. 
+Keeps gritty material from entering the packing box 
+
+c. 
+Keeps the pumps primed 
+
+d. 
+Is a reserve water supply 
+
+e. 
+Prevents cavitation 
+
+
+
+45. Enclosed, open, and semi-closed are terms used for the designation and selection of: 
+a. 
+Impellers 
+
+b. 
+Lantern rings 
+
+c. 
+Sleeves 
+
+d. 
+Stuffing boxes 
+
+e. 
+None of the above 
+
+
+46. A device that converts electrical energy into mechanical or kinetic energy is called a 
+a. 
+Motor 
+
+b. 
+Generator 
+
+c. 
+Transformer 
+
+d. 
+Battery 
+
+e. 
+Pump 
+
+
+47. If a pump sounds like it is pumping rocks, the most likely cause is 
+a. 
+Cavitation 
+
+b. 
+Corrosion 
+
+c. 
+Over-tightening of the packing gland 
+
+d. 
+Misalignment with the motor 
+
+e. 
+Irregular wear of the mechanical seal 
+
+
+48. The flow of electrical current is measured in 
+a. 
+Amperes 
+
+b. 
+Volts 
+
+c. 
+Watts 
+
+d. 
+Ohms 
+
+e. 
+Farads 
+
+
+49. The rotating element in a centrifugal pump is commonly called the 
+a. 
+Fan 
+
+b. 
+Impeller 
+
+c. 
+Rotor 
+
+d. 
+Volute 
+
+e. 
+Stator 
+
+
+50. The purpose of the packing in a centrifugal pump is 
+a. 
+Comparable to a bearing and is impregnated with lubricant 
+
+b. 
+To prevent vibration of the shaft 
+
+c. 
+To provide support for the impeller 
+
+d. 
+To surround the bearings and lubricate them 
+
+e. 
+None of the above 
+
+
+51. Which of the following is a positive displacement pump? 
+
+a. 
+Air lift pump 
+
+b. 
+Centrifugal pump 
+
+c. 
+Reciprocating pump 
+
+d. 
+Turbine pump 
+
+e. 
+All of the above 
+
+
+52. The practical maximum suction lift for a centrifugal pump in good condition is a. 0 feet b. 2.31 feet c. 14.7 feet 
+d. 20 feet to 25 -feet e. 32-feet to 34-feet 
+53. The linkage between a centrifugal pump and its motor is commonly called the 
+a. 
+Coupling 
+
+b. 
+Impeller 
+
+c. 
+Bearings 
+
+d. 
+Volute 
+
+e. 
+Stator 
+
+
+54. The electrical equivalent to friction in water lines is 
+a. Voltage 
+b: 
+Resistance 
+
+c. 
+Amperage 
+
+d. 
+Capacitance 
+
+e. 
+Inductance 
+
+
+55. The main water-containing body of a centrifugal pump is commonly called the 
+a. 
+Shaft 
+
+b. 
+Impeller 
+
+c. 
+Bearings 
+
+d. 
+Volute 
+
+e. 
+Stator 
+
+
+56. A type of pump that produces high flow rates with low discharge heads is a 
+a. 
+Radial flow 
+
+b. 
+Axial flow 
+
+c. 
+Vertical turbine 
+
+d. 
+Piston 
+
+e. 
+Mixed flow 
+
+
+57. Alternating current is produced by 
+a. 
+A single battery 
+
+b. 
+Two (or more) batteries in series 
+
+c. 
+Two (or more) batteries in parallel 
+
+d. 
+A solenoid 
+
+e. 
+A generator 
+
+
+
+58. What do electrical transformers do? 
+a. 
+Step-up or step-down current 
+
+b. 
+Step-up or step-down voltage 
+
+c. 
+Increase power output 
+
+d. 
+Decrease power output 
+
+e. 
+Reduce resistance 60. An "Open" electrical circuit is one in which 
+
+a. 
+Resistance is low 
+
+b. 
+Power production is high 
+
+c. 
+Capacitance is low 
+
+d. 
+Conductivity is high 
+
+e. 
+Amperage is zero 
+
+
+59. Adding more stages (bowls) to a deep well turbine pump assembly will 
+a. 
+Increase the pump discharge capacity 
+
+b. 
+Decrease the pump discharge capacity 
+
+c. 
+Increase the pump discharge pressure 
+
+d. 
+Decrease the pump discharge pressure 
+
+e. 
+None of the above 
+
+
+60. When installing packing in a centrifugal pump, the packing should be 
+a. 
+Water tight 
+
+b. 
+Pre-heated c. Staggered 90. 
+
+d. 
+Soaked overnight in potable water 
+
+e. 
+Re-used 
+
+
+61. 
+Standard electrical line frequency in the United States is a. 50Hz b. 60Hz c. 110 Hz d. 120 Hz e. 240/480 Hz 
+
+62. 
+In contrast to conventional packing, mechanical seals 
+
+a. 
+Require no adjustment 
+
+b. 
+Do not leak 
+
+c. 
+Are generally more expensive 
+
+d. 
+Are more difficult to remove/replace 
+
+e. 
+All of the above 
+
+
+
+63. 
+The level of water in a reservoir is 200 feet above the main line that carries water into and out of the reservoir. A standpipe in the main line a block away at the same elevation as the reservoir shows a water elevation of 185 feet. Which of the following statements is true? 
+
+a. 
+There is no flow into or out of the reservoir 
+
+b. 
+Water is flowing into the reservoir 
+
+c. 
+Water is flowing out of the reservoir 
+
+d. 
+There is a pump station adjacent to the pressure gauge 
+
+e. 
+Nothing can be deduced from the information in this question. 
+
+
+
+64. 
+Pump motors draw more power starting than during normal operating conditions because: 
+
+a. 
+check valves have to be pushed open b. energy is required to get the water moving 
+
+c. 
+the motor and pump have to start turning 
+
+d. 
+all of the above 
+
+
+
+65. 
+Which of the following does not affect the friction loss in a given length of pipe? 
+
+a. 
+hardness of the water 
+
+b. 
+number of fittings 
+
+c. 
+roughness of the interior of the pipe 
+
+d. 
+velocity of the flow 
+
+
+
+66. 
+The component of a centrifugal pump sometimes installed on the end of the suction pipe in order to hold priming is the: 
+
+a. 
+Casing 
+
+b. 
+Footvalve 
+
+c. 
+Impeller 
+
+d. 
+Lantern ring 
+
+
+
+67. 
+At a pumping station equipped with centrifugal pumps, what can cause the discharge pressure to suddenly increase and the discharge quantity to suddenly decrease? 
+
+a. 
+A discharge valve was closed 
+
+b. 
+A suction valve was closed 
+
+c. 
+The pump amperage was decreased 
+
+d. 
+The voltage was suddenly increased 
+
+
+
+68. 
+The inlet to the pump is called: 
+
+a. 
+Suction 
+
+b. 
+Volute 
+
+c. 
+Impeller 
+
+d. 
+Effluent 
+
+
+
+69. 
+The rotating element in a centrifugal pump is commonly called a(n): 
+
+a. 
+Fan 
+
+b. 
+Impeller 
+
+c. 
+Rotor 
+
+d. 
+Volute 
+
+
+
+70. 
+Pumps are primed to: 
+
+a) 
+be sure the pump operates freely 
+
+b) 
+replace air with water inside the pump 
+
+c) 
+seat the valves . 
+
+d) 
+wet the packing 
+
+e) 
+none of the above 
+
+
+
+71. 
+The joints in the rings of pump packing should be: 
+
+a) 
+placed in line b) placed next to the motor 
+
+c) 
+placed next to pump 
+
+d) 
+staggered e) none of the above 
+
+
+
+72. 
+A vertical turbine pump is an example of a : a) centrifugal pump b) parshall flume c) posi­tive displacement pump 
+
+d) 
+reciprocating pump 
+
+e) 
+all of the above 
+
+
+
+73. 
+Which type of pump is most commonly used for high capacity wells? a) air lift 
+
+b) 
+centrifugal 
+
+c) 
+positive displacement 
+
+d) 
+plunger 
+
+e) 
+none of the above 
+
+
+
+74. 
+What can happen to a pump if the back pressure on the pump is allowed to drop too low and the pump is operated for a prolonged period of time? 
+
+a. 
+Efficiency would drop off and the pump would heat up 
+
+b. 
+No water would flow 
+
+c. 
+Pump lubricants would disperse more efficiently 
+
+d. 
+Water hammer would occur upstream in the distribution line 
+
+
+
+75. 
+Check valves are used to prevent 
+
+a. 
+Excessive pump pressure 
+
+b. 
+Priming 
+
+c. 
+Water from flowing in two directions 
+
+d. 
+Water hammer 
+
+
+
+76. 
+Positive displacement pumps should be operated when 
+
+a. 
+Suction and discharge line valves are closed 
+
+b. 
+Suction and discharge line valves are open 
+
+c. 
+Suction line valves are closed and discharge line valves are open 
+
+d. 
+Suction tine valves are open and discharge line valves are closed 
+
+
+
+77. 
+When comparing friction loss in various types of pumps, a larger Hazen-Williams ’ C ’ value indicates the pipe 
+
+a. 
+is more durable, 
+
+b. 
+is rougher outside. 
+
+d. 
+is able to withstand a higher pressure. 
+
+c. 
+is smoother inside. 
+
+
+
+78. 
+Proper alignment between two shafts can be checked using a: 
+
+a. 
+caliper 
+
+b. 
+micrometer 
+
+c. 
+straight edge d. feeler gauge 
+
+
+
+79. 
+The maximum practical suction lift of a properly engineered centrifugal pump is about: a. 5- 10ft b. 10- 15ft c. 15 - 25ft d. 25 - 34ft 
+
+80. 
+Which type of pump is most commonly used for high capacity wells? 
+
+a. 
+air lift 
+
+b. 
+centrifugal 
+
+c. 
+positive displacement 
+
+d. 
+plunger 
+
+e. 
+none of the above 
+
+
+
+81. 
+A vertical turbine is an example of a: 
+
+a. 
+centrifugal pump 
+
+b. 
+parshall flume 
+
+c. 
+positive displacement pump 
+
+d. 
+reciprocating pump 
+
+e. 
+all of the above 
+
+
+
+82. 
+The joints in the rings of pump packing should be: 
+
+a. 
+placed in line 
+
+b. 
+placed next to the motor 
+
+c. 
+placed next to pump 
+
+d. 
+staggered 
+
+e. 
+none of the above 
+
+
+
+83. 
+Ppmps are primed to: 
+
+a. 
+be sure the pump operates freely 
+
+b. 
+replace air with water inside the pump 
+
+c. 
+seat the valves 
+
+d. 
+wet the packing 
+
+e. 
+none of the above 
+
+
+
+84. 
+When comparing friction loss in various types of pumps, a larger Hazen-Williams ’ C ’ value indicates the pipe 
+
+a. 
+is more durable. 
+
+b. 
+is rougher outside. 
+
+c. 
+is smoother inside. 
+
+d. 
+is able to withstand a higher pressure. 
+
+
+
+85. 
+If the packing on an operating centrifugal pump has a slight leakage, the following action should be taken: 
+
+a. 
+shut down immediately 
+
+b. 
+tighten packing gland 
+
+c. 
+lubricate pump packing gland 
+
+d. 
+decrease pump speed and head *e. nothing 
+
+
+
+86. 
+If bearings on a centrifugal pump are running hot, checking for over lubrication or under lubrication would be. listed as a general preventive maintenance service. If the lubrication is satisfactory, the next preventive maintenance check would be: 
+
+a. 
+replace bearings 
+
+b. 
+operate only when needed 
+
+c. 
+clean the pump 
+
+d. 
+recheck TDH *e. inspect alignment of pump and motor 
+
+
+
+87. 
+If a wastewater pump is to be shut down for a long period of time, the proper procedure is to open and lock out the motor disconnect switch and shut the valves on both sides of the pump. 
+
+a. True *b. False 
+
+88. 
+Centrifugal pump parts include 
+
+a. 
+Diaphragm *b. Impeller 
+
+c. 
+Piston 
+
+d. 
+Rotor 
+
+
+
+89. 
+Where does wear most frequently occur on a plunger pump? *a. Cylinder 
+
+b. 
+Rotor 
+
+c. 
+Stators 
+
+d. 
+Volute 
+
+
+
+90. 
+As rotors or stators accumulate wear on progressive cavity pumps, the capacity of the pump is decreased. What is the easiest way to tell if the pump elements are worn? 
+
+a. 
+Tap into the line between the pump and the discharge valve and determine the pump capacity by timing how long it takes to fill a 20-liter pail *b. Measure the pressure on the discharge side of the pump with valves open and the pump pumping 
+
+c. 
+Disassemble the pump, measure the parts and compare it to the original specifications 
+
+d. 
+Close the discharge valve and measure the resultant pressure 
+
+
+
+91. 
+A centrifugal pump vibrates and is noisy From the choices below, select the most probable cause 
+
+a. 
+Impeller too small 
+
+b. 
+Foot valve too small 
+
+c. 
+Dirt or grit in sealing liquid *d. Air in the pump 
+
+
+
+92. 
+Given the following data, what is the most likely cause of the pump problem? 
+
+
+
+
+
+
+
+DATA: Pump is running Reduced discharge from lift station Impeller is clear Level sensors are operating properly 
+a. 
+Improper packing 
+
+b. 
+Misaligned belt drives *c. Pump air bound 
+
+d. 
+None of the above 
+
+
+93. Excessive leakage around seals on the shafts and plungers of a plunger pump may indicate what? 
+a. 
+Attempting to pump against too great a head *b. Excessive wear of the shaft and plunger 
+
+c. 
+The eccentric needs replacement 
+
+d. 
+The pump needs new ball checks 
+
+
+94. In operating a small pumping station, which is provided with two identical pumps, it is best to adjust the controls so that 
+a. 
+One pump does most of the work and the second pump is held in reserve being operated intermittently to keep it in good running condition *b. The pumps alternate in operation 
+
+c. 
+The pumps both turn on together 
+
+d. 
+None of the above 
+
+
+95. A positive displacement sludge pump should never be placed into operation 
+a. 
+Without being primed. *b. With the discharge valve closed. 
+
+c. 
+With the discharge valve opened. 
+
+d. 
+None of the above 
+
+
+96. Prior to repairing a pump’s electrical circuit, which of the following actions should you take? *a. Disconnect the circuit breaker, place a red tag stating "do not activate," and lock out 
+b. 
+Notify your supervisor 
+
+c. 
+Tell all of the operators not to activate the circuit 
+
+d. 
+Turn pump off 
+
+
+97. Pump maintenance includes 
+a. 
+Checking operating temperature of bearings 
+
+b. 
+Checking packing gland. 
+
+c. 
+Operating two or more pumps of the same size alternately to equalize wear *d. All of the above 
+
+
+98. When carrying out a routine inspection on a centrifugal pump, it is noted by the operator that the bearings are excessively hot This could be caused by *a. Over lubrication 
+
+b. 
+Speed too slow 
+
+c. 
+Worn impeller 
+
+d. 
+Worn packing 
+
+
+99. In a centrifugal pump, internal leakage is prevented by 
+a. 
+Impellers 
+
+b. 
+Sleeves 
+
+c. 
+Volutes *d. Wear rings 
+
+
+100. A horizontal centrifugal pump has "rope" packing When the pump is operating, water slowly drips from the packing gland. This indicates that the 
+a. 
+Packing bolts or nuts on the packing gland should be tightened. 
+
+b. 
+Packing bolts or nuts on the packing gland should be loosened. *c. Packing bolts or nuts on the packing gland are properly adjusted. 
+
+d. 
+Packing should be replaced. 
+
+
+101. Wear rings are installed in a pump to 
+a. 
+Hold the shaft in position 
+
+b. 
+Keep the impeller in place *c. Concentrate wear on an economically replaceable part 
+
+d. 
+Wear out rings instead of sleeves 
+
+
+102. A water seal on a pump serves a dual purpose It acts as a lubricant and it also 
+a. 
+Acts as a coolant to keep the pump bearing from overheating *b. Keeps gritty material from entering the packing box 
+
+c. 
+Keeps the pump primed. 
+
+d. 
+Is a reserve water supply 
+
+
+103. 
+The elevation of any pump above the source of supply should not exceed feet a. 2.2 *b. 22 c. 200 d. 224 
+
+104. 
+What is the vertical distance between the elevation of the free water surface at the suction and that of the free water surface at the discharge of a pump called? 
+
+a. 
+Discharge head. 
+
+b. 
+Dynamic head. 
+
+c. 
+Velocity head. *d. Static head. 
+
+
+
+105. 
+In electrical circuits, a device used to reduce the voltage is a(n) 
+
+a. 
+Ammeter 
+
+b. 
+Transducer 
+
+c. 
+Transformer 
+
+d. 
+Voltmeter 
+
+
+
+106. 
+What can happen to a pump if the back pressure on the pump is allowed to drop too low and the pump is operated for a prolonged period of time? 
+
+a. 
+Efficiency would drop off and the pump would heat up 
+
+b. 
+No water would flow c. Pump lubricants would disperse more efficiently 
+
+d. 
+Water hammer would occur upstream in the distribution line 
+
+
+
+107. 
+Connect a motor to a pump using: 
+
+a. 
+A sleeve clamp 
+
+b. 
+A coupling 
+
+c. 
+Mechanical seals 
+
+d. 
+Bailing wire and bubble gum 
+
+
+
+108. 
+Which of the following would be a good application for a peristaltic pump? 
+
+a. 
+Booster pump 
+
+b. 
+Well pump 
+
+c. 
+Chemical feed pump 
+
+d. 
+Air compressor 
+
+
+
+109. 
+Which component in a diaphragm pump causes the most maintenance problems? 
+
+a. 
+Shaft 
+
+b. 
+Check valves 
+
+c. 
+Diaphragm 
+
+d. 
+Pump head 
+
+
+
+
+
+
+1. What is the reason for keeping adequate, reliable records in a treatment plant? 
+a. 
+*to record the plant’s effectiveness and because of requirements by regulatory agencies 
+
+b. 
+to maintain records for cold cases 
+
+c. 
+in case the IRS wishes to check files for due diligence 
+
+d. 
+because of homeland security issues and files being available to the public 
+
+
+2. Which statement about displacement meters is not correct: 
+a. 
+The most common type of water service meter is the displacement type 
+
+b. 
+Displacement meters are accurate at low flows 
+
+c. 
+Excess sediment can cause the meter to stop registering 
+
+d. 
+*Displacement meters have little head loss due to friction 
+
+e. 
+Displacement meters operated at a rate in excess of its stated capacity can result in excessive wear 
+
+
+3. A fire hydrant should be closed slowly to avoid: 
+a. 
+Excessive wear 
+
+b. 
+*Water hammer 
+
+c. 
+Excessive head loss 
+
+d. 
+Injury to operator 
+
+
+4. The minimum separation between municipal water mains and sanitary sewers for installa­tion in a common trench shall be: 
+a. 
+5 feet horizontal separation 
+
+b. 
+*10 feet horizontal separation 
+
+c. 
+15 feet horizontal separation 
+
+d. 
+25 feet horizontal separation 
+
+
+5. To properly disinfect a water main after new construction, you should: 
+a. 
+*apply 50mg/l chlorine for 24 hours. 
+
+b. 
+clean the pipe out’ with a pig and then disinfect at 10mg/1 for 24 hours 
+
+c. 
+use a 10% solution of calcium chloride d don’t use them main for one week 
+
+
+6. When using a dry-barrel fire hydrant, the valve: a. should never be opened completely 
+b. 
+be opened only during the hours of 8AM to 5PM 
+
+c. 
+be opened to the desired amount of flow 
+
+d. 
+be opened all the way 
+
+
+7. The primary reason for dry barrel-fire hydrants is to: 
+a. 
+allow easy maintenance 
+
+b. 
+prevent water hammer 
+
+c. 
+*keep the hydrant from freezing 
+
+d. 
+keep the barrel from rusting 
+
+
+8. A centrifugal pump should not be run empty except momentarily because: 
+a. 
+a serious counter pressure could develop and damage the pump casing. b. it is a waste of energy to run a pump without water. 
+
+c. 
+the excessive end thrust of the shaft would damage the thrust bearing. 
+
+d. 
+*the parts lubricated by water could be damaged. 
+
+
+
+9. Pipes of dissimilar metal should not be connected together because of problems due: 
+a. 
+to scale formation 
+
+b. 
+*corrosion 
+
+c. 
+water hammer 
+
+d. 
+the venturi effect 
+
+
+10. Which type of valve will prevent the collapse of a pipe? 
+a. 
+Pressure-relief valve 
+
+b. 
+Needle valve 
+
+c. 
+Pinch valve 
+
+d. 
+*Air-and-vacuum relief valve 
+
+
+11. The correct protective methods for backflow-prevention devices in order of decreasing effectiveness are 
+a. 
+air gap, VB, RPZ, and DCVA. 
+
+b. 
+air gap, VB, DCVA, and RPZ. 
+
+c. 
+air gap, RPZ, VB, and DCVA. 
+
+d. 
+*air gap, RPZ, DCVA, and VB. 
+
+
+12. The C-value is a measure of a pipe’s wall 
+a. 
+smoothness. 
+
+b. 
+smoothness giving even flow. 
+
+c. 
+smoothness that retards turbulent flow. 
+
+d. 
+*roughness that retards flow due to friction. 
+
+
+13. Which one of the following is a type of joint for ductile iron piping? 
+a. 
+Expansion joint 
+
+b. 
+*Push-on joint 
+
+c. 
+Bell and spigot with rubber o-ring 
+
+d. 
+Rubber gasket joint 
+
+
+14. Water hammer can be described as 
+a. 
+particle waves. 
+
+b. 
+*acoustic waves. 
+
+c. 
+rogue waves. 
+
+d. 
+longitudinal waves. 
+
+
+15. Which thrust control is easy to use, especially in locations where existing utilities or struc­tures are numerous? 
+a. 
+*Restraining fittings 
+
+b. 
+Tie rods 
+
+c. 
+Thrust anchors 
+
+d. 
+Thrust blocks 16. The backfill material for a pipe installation should contain enough to allow for thorough compaction. 
+
+a. 
+moisture 
+
+b. 
+*sand 
+
+c. 
+gravel 
+
+d. 
+mixed sizes 
+
+
+
+16. Thrust from a water surge almost always acts pushes against. to the inside surface that it 
+a. 
+*vertically 
+
+b. 
+horizontally 
+
+c. 
+perpendicular 
+
+d. 
+vertically and horizontally 
+
+
+17. The breaking of a buried pipe when it is unevenly supported is called 
+a. 
+stress breakage. 
+
+b. 
+shear breakage. 
+
+c. 
+*beam breakage. 
+
+d. 
+flexural breakage. 
+
+
+18. Compression fittings used with copper or plastic tubing seal by means of a 
+a. 
+*beveled sleeve. 
+
+b. 
+compression ring. 
+
+c. 
+compressed beveled gasket. 
+
+d. 
+compressed o-rings located at either end of the fitting’s beveled neck. 
+
+
+19. Which should be installed at a dead-end water main? 
+a. 
+Vacuum valve 
+
+b. 
+Air valve 
+
+c. 
+*Blowoff valve 
+
+d. 
+Water quality sampling station 
+
+
+20. 
+First draw samples for the analysis of lead and copper water must be collected from taps where the water has stood motionless in the plumbing for at least a. 4 hours. b. 6 hours. c. 8 hours. d. *24 hours. 
+
+21. 
+According to AWWA Standard C651, disinfection of water mains requires 24-hour expo­sure to which minimum free chlorine residual? a. 10mg/L b. *25mg/L c. 50mg/L d. 100mg/L 
+
+22. 
+The tensile strength of a pipe is its ability to 
+
+a. 
+*Stretch or pull without breakage 
+
+b. 
+Resist internal pressure without breakage 
+
+c. 
+Resist external pressure without breakage 
+
+d. 
+Twist or bend without breakage 
+
+e. 
+Resist heating without breakage 
+
+
+
+23. 
+The lowest point of the inside of a pipe is known as the a Pervert 
+
+b. 
+Soffit 
+
+c. 
+*Invert 
+
+d. 
+Curb stop 
+
+e. 
+None of the above 
+
+
+
+24. 
+A lightweight type of pipe that has a very smooth interior, is essentially corrosion-free, and which is difficult to locate when buried is 
+
+a. 
+*Polyvinyl chloride 
+
+b. 
+Cast iron 
+
+c. 
+Ductile iron 
+
+d. 
+Concrete cylinder 
+
+e. 
+Steel 
+
+
+
+25. 
+An example of a pipe material that is relatively easy to locate underground is 
+
+a. 
+ABS 
+
+b. 
+PVC 
+
+c. 
+Polyethylene 
+
+d. 
+*Reinforced concrete cylinder 
+
+e. 
+Asbestos-cement 
+
+
+
+26. 
+___ is a type of valve typically found in a storage tank of a water distribution system it closes to prevent the storage tank from overflowing when a pre-set level is reached 
+
+a. 
+Ball valve 
+
+b. 
+Altitude valve 
+
+c. 
+Gate valve 
+
+d. 
+Spring valve 
+
+
+
+27. 
+___ is a valve which opens by lifting a round or rectangular gate/ wedge out of the path of the fluid are designed to fully open or closed service 
+
+a. 
+Ball valve 
+
+b. 
+Spring valve 
+
+c. 
+Altitude valve 
+
+d. 
+Gate valve 
+
+
+
+28. 
+A _ _ is a form of quarter turn valve which uses a hollow perforated and pivoting to control flow through it and is a pivoted 90 degrees by the valve handle. 
+
+a. 
+Gate valve 
+
+b. 
+Spring valve 
+
+c. 
+Ball valve d. d. Altitude valve 
+
+
+
+29. 
+The sudden closure of a check valve will result in 
+
+a. 
+water hammer 
+
+b. 
+flow reversal 
+
+c. 
+cavitation 
+
+d. 
+water aeration 
+
+
+
+30. 
+A ___ located at the bottom end of suction pipe on a pump this valve opens when the pump operates to allow water to enter the suction pipe but closes when the pump shuts off water from flowing out of the suction pipe 
+
+a. 
+Check valve 
+
+b. 
+Foot valve 
+
+c. 
+Spring valve 
+
+d. 
+Ball valve 
+
+
+
+31. 
+A valve that automatically shuts off flow into an elevated storage tank when the water level in the tank reaches a preset level is termed a(n) 
+
+a. 
+Gate valve 
+
+b. 
+Air/ vacuum relief valve 
+
+c. 
+Wet-barrel hydrant 
+
+d. 
+Altitude valve 
+
+e. 
+Angle valve 
+
+
+
+32. 
+A normally buried valve located on a street water main and leading to a water service is known as 
+
+a. 
+Check valve 
+
+b. 
+Gate valve 
+
+c. 
+Corporation stop 
+
+d. 
+Altitude valve 
+
+e. 
+Butterfly valve 
+
+
+
+33. 
+The risk of pipeline damage from water hammer can be reduced by 
+
+a. 
+Installation of gate valves 
+
+b. 
+Air release valves 
+
+c. 
+Repair of defective pipes 
+
+d. 
+Trimming pump impellers 
+
+e. 
+Rapid closing of pump discharge valves 
+
+
+
+34. 
+The valve type most commonly used for isolation in a water distribution system is: 
+
+a. 
+Gate valve 
+
+b. 
+Air relief valve 
+
+c. 
+Globe valve 
+
+d. 
+Ball valve 
+
+e. 
+Butterfly valve 
+
+
+
+35. 
+The proper location for air relief valves is 
+
+a. 
+At low points along a pipeline 
+
+b. 
+At high points along a pipeline 
+
+c. 
+At the bottom of surge tanks 
+
+d. 
+At the mid-line of water storage reservoirs 
+
+e. 
+At the springline of a pipeline 
+
+
+
+36. 
+When fully open, which of the following will have the highest friction loss? a Gate valve 
+
+b. 
+Butterfly valve 
+
+c. 
+Globe valve 
+
+d. 
+Ball valve 
+
+e. 
+All will have about the same friction loss. 
+
+
+
+37. 
+A nutating disc is found in certain: 
+
+a. 
+Centrifugal pumps 
+
+b. 
+Positive displacement pumps 
+
+c. 
+Main line valves 
+
+d. 
+Chemical feeder 
+
+e. 
+Water meters 
+
+
+
+38. 
+The drain hole in a fire hydrant is designed to 
+
+a. 
+Release air upon closing the valve 
+
+b. 
+Relieve vacuum upon opening the valve 
+
+c. 
+Allow access for interior inspection 
+
+d. 
+Relieve excess water. pressure when closing the valve 
+
+e. 
+Remove water from the riser to prevent freezing 
+
+
+
+39. 
+A typical installation site for a compound meter is 
+
+a. 
+Any small commercial business 
+
+b. 
+A common single location with as many as 12 separate customers 
+
+c. 
+A large industrial user 
+
+d. 
+Any location that requires the electronic monitoring of peak flows 
+
+e. 
+A typical residential water flow meter 
+
+
+
+40. 
+A main break may cause low pressure in the distributions system, which in turn may result in 
+
+a. 
+Contamination of the system by backsiphonage 
+
+b. 
+"ice" formation in the pipes 
+
+c. 
+Increase in chlorine residual 
+
+d. 
+Water hammer 
+
+
+
+41. 
+Check valves are used to prevent 
+
+a. 
+Excessive pump pressure 
+
+b. 
+Priming 
+
+c. 
+Water from flowing in two directions 
+
+d. 
+Water hammer 43. The water table is defined as the 
+
+a. 
+Pumping water level in a well 
+
+b. 
+Upper surface of the groundwater 
+
+c. 
+Water level in a reservoir 
+
+d. 
+Bottom of the aquifer 
+
+
+
+42. 
+To protect stored water from contamination, a ground storage reservoir should 
+
+a. 
+Be totally airtight 
+
+b. 
+Have both the overflow pipe and vent screened 
+
+c. 
+Have cathodic protection 
+
+d. 
+Have its interior surface coated with an AWWA-approved paint system 
+
+
+
+43. 
+The peak capacity of water mains is often reduced by 
+
+a. 
+High pressure 
+
+b. 
+Looping 
+
+c. 
+Tuberculation 
+
+d. 
+Vacuum breakers 
+
+
+
+44. 
+The least amount of head loss in a pipeline would be caused by a fully open 
+
+a. 
+Angle valve 
+
+b. 
+Check valve 
+
+c. 
+Gate valve 
+
+d. 
+Globe valve 
+
+
+
+45. 
+The variation in water demand during the course of a day is termed 
+
+a. 
+Seasonal variation 
+
+b. 
+Fire flow requirements 
+
+c. 
+Emergency storage variation 
+
+d. 
+The straight line equalization method 
+
+e. 
+Diurnal variation 
+
+
+
+46. 
+The maximum momentary load placed on a water supply system is known as 
+
+a. 
+Average daily flow 
+
+b. 
+Average daily demand 
+
+c. 
+Rated capacity 
+
+d. 
+System float 
+
+e. 
+Peak demand 
+
+
+
+47. 
+Elevated storage tanks are used primarily to 
+
+a. 
+Eliminate the need for continuous pumping 
+
+b. 
+Minimize variations in the system water pressures 
+
+c. 
+Reduce auxiliary power requirements 
+
+d. 
+Provide a considerable amount of water for storage 
+
+e. 
+Protect against backflows 
+
+
+
+48. 
+A valve that automatically shuts off flow into an elevated storage tank when the water level in the tank reaches a preset level is termed a(n) 
+
+a. 
+Gate valve 
+
+b. 
+Air / vacuum relief valve 
+
+c. 
+Wet-barrel hydrant 
+
+d. 
+Altitude valve 
+
+e. 
+Angle valve 
+
+
+
+49. 
+Because pipe materials come into contact with drinking water, they must conform with 
+
+a. 
+Primary drinking water standards 
+
+b. 
+Secondary drinking water standards 
+
+c. 
+Surface water treatment rule 
+
+d. 
+NSF -National Sanitation Foundation 
+
+d. 
+ANSI/NSF Standard 61’ 
+
+e. 
+All of the above 
+
+
+
+50. 
+An example of a pipe material that is difficult to locate underground is 
+
+a. 
+Mortar lined and coated steel 
+
+b. 
+Reinforced concrete cylinder 
+
+c. 
+Ductile iron 
+
+d. 
+Asbestos-cement 
+
+e. 
+Steel 
+
+
+
+51. 
+Pipe with a " C " factor of 140 is regarded as having a(n) 
+
+a. 
+Extremely smooth interior 
+
+b. 
+Extremely rough interior 
+
+c. 
+Extremely high corrosion resistance 
+
+d. 
+Extremely low corrosion resistance 
+
+e. 
+A purple color 
+
+
+
+52. 
+A lightweight type of pipe that has a very smooth interior, is essentially corrosion-free, and which is difficult to locate when buried is 
+
+a. 
+Polyvinyl chloride : PVC 
+
+b. 
+Cast iron 
+
+c. 
+Ductile iron 
+
+d. 
+Concrete cylinder 
+
+e. 
+Steel 
+
+
+
+53. 
+An example of a pipe material that is relatively easy to locate underground is 
+
+a. 
+ABS 
+
+b. 
+PVC 
+
+c. 
+Reinforced concrete 
+
+d. 
+Asbestos-cement 
+
+
+
+54. 
+Sleeve-type and "victaulic" couplings are the most common forms of 
+
+a. 
+Mechanical couplings 
+
+b. 
+Welded joints 
+
+c. 
+Asbestos-cement pipe fittings 
+
+d. 
+PVC pipe fittings 
+
+e. 
+Flanged joints 
+
+
+
+55. 
+If possible, a water main leak should be repaired under pressure to 
+
+a. 
+Prevent contamination of the water line 
+
+b. 
+Prevent flooding of basements 
+
+c. 
+Save repair time 
+
+d. 
+Use fewer materials 
+
+e. 
+All of the above 
+
+
+
+56. 
+When is the best time to perform a distribution main flushing program? 
+
+a. 
+During night hours, to minimize traffic and other customer concerns 
+
+b. 
+During weekday day shift hours, to minimize overtime costs 
+
+c. 
+During Summer months, due to high system velocities 
+
+d. 
+During Spring months, prior to high system demands of Summer 
+
+e. 
+None of the above 
+
+
+
+57. 
+An system for the prevention of corrosion is called 
+
+a. 
+Water hammer 
+
+b. 
+Reverse osmosis 
+
+c. 
+Diurnal variation 
+
+d. 
+A foot valve 
+
+e. 
+Cathodic protection 
+
+
+
+58. 
+What category of meters is exemplified by propeller and turbine types? 
+
+a. 
+Differential pressure 
+
+b. 
+Positive displacement 
+
+c. 
+Mass flow 
+
+d. 
+Velocity 
+
+
+
+59. 
+The hydraulic grade line in a pipeline is normally determined by 
+
+a. 
+Reading pressure gauges 
+
+b. 
+Checking for backflow 
+
+c. 
+Opening fire hydrants on each loop of the system 
+
+d. 
+Using a leak detector 
+
+e. 
+A venturi meter 
+
+
+
+60. 
+The slope of the hydraulic grade line is due to 
+
+a. 
+Well elevations 
+
+b. 
+Elevations of storage facilities 
+
+c. 
+Pumping 
+
+d. 
+Backflows 
+
+e. 
+Friction loss 
+
+
+
+61. 
+A normally buried valve located on a street water main and leading to a water service is known as a 
+
+a. 
+Check valve 
+
+b. 
+Gate valve 
+
+c. 
+Corporation stop 
+
+d. 
+Altitude valve 
+
+e. 
+Butterfly valve 
+
+
+
+62. 
+The risk of pipeline damage from water hammer can be reduced by 
+
+a. 
+Installation of gate valves 
+
+b. 
+Air release valves 
+
+c. 
+Repair of defective pipes 
+
+d. 
+Trimming pump impellers 
+
+e. 
+Rapid closing of pump discharge valves 
+
+
+
+63. 
+A venturi is a device used to 
+
+a. 
+Increase water flow 
+
+b. 
+Decrease water flow 
+
+c. 
+Regulate water flow 
+
+d. 
+Stop or start water flow 
+
+e. 
+Measure water flow 
+
+
+
+64. 
+The most commonly used meter on small diameter domestic service is the 
+
+a. 
+Venturi meter 
+
+b. 
+Propeller meter 
+
+c. 
+Orifice plate meter 
+
+d. 
+Compound meter 
+
+e. 
+Nutating disc meter 
+
+
+
+65. 
+The valve type most commonly used for isolation in a water distribution system is the 
+
+a. 
+Gate valve 
+
+b. 
+Air relief valve 
+
+c. 
+Globe valve 
+
+d. 
+Ball valve 
+
+e. 
+Butterfly valve 
+
+
+
+66. 
+The proper location for air relief valves is 
+
+a. 
+At low points along a pipeline 
+
+b. 
+At high points along a pipeline 
+
+c. 
+At the bottom of surge tanks 
+
+d. 
+At the mid-line of water storage reservoirs 
+
+e. 
+At the springline of a pipeline 
+
+
+
+67. 
+When fully open, which of the following will have the highest friction loss? 
+
+a. 
+Gate valve 
+
+b. 
+Butterfly valve 
+
+c. 
+Globe valve 
+
+d. 
+Ball valve 
+
+e. 
+All will have about the same friction loss. 70. Which of the following is a device used to measure flow? 
+
+a. 
+Baffle 
+
+b. 
+Diversion box 
+
+c. 
+Stop logs 
+
+d. 
+Weir 
+
+e. 
+None of the above 
+
+
+
+68. 
+A compound meter is a device which 
+
+a. 
+Is installed to allow automated meter reading 
+
+b. 
+Can be installed to measure water use by as many as 12 separate customers 
+
+c. 
+Provides accurate readings over a wide range of flows 
+
+d. 
+Electronically records peak flows, as a demand meter does for electricity 
+
+e. 
+Is a typical residential water flow meter 
+
+
+
+69. 
+Magnetic flow meters and ultrasonic flow meters are well suited to measure flow rates of water with a large concentration of suspended solids, because they have 
+
+a. 
+The best accuracy of any meters 
+
+b. 
+No parts within the flow stream 
+
+c. 
+Easily accessed cleanout ports 
+
+d. 
+Simple recalibration procedures 
+
+e. 
+All of the above 
+
+
+
+70. 
+A nutating disk is found in certain 
+
+a. 
+Centrifugal pumps 
+
+b. 
+Positive displacement pumps 
+
+c. 
+Main line valves 
+
+d. 
+Chemical feeders 
+
+e. 
+Water meters 
+
+
+
+71. 
+The most common valve in a water distribution system is the 
+
+a. 
+Gate valve 
+
+b. 
+Air relief valve 
+
+c. 
+Globe valve 
+
+d. 
+Ball valve 
+
+e. 
+Butterfly valve 
+
+
+
+72. 
+The drain hole in a fire hydrant is designed to 
+
+a. 
+Release air upon closing the valve 
+
+b. 
+Relieve vacuum upon opening the valve 
+
+c. 
+Allow access for interior inspection 
+
+d. 
+Relieve excess water pressure when closing the valve 
+
+e. 
+Remove water from the riser to prevent freezing 
+
+
+
+73. 
+A typical installation site for a compound meter is 
+
+a. 
+Any small commercial business 
+
+b. 
+A common single location with as many as 12 separate customers 
+
+c. 
+A large industrial user 
+
+d. 
+Any location that requires the electronic monitoring of peak flows 
+
+e. 
+A typical residential water flow meter 
+
+
+
+74. 
+An example of a pressure-differential type water meter is a 
+
+a. 
+Venturi meter 
+
+b. 
+Propeller meter 
+
+c. 
+Nutating disk meter 
+
+d. 
+Magnetic flow meter 
+
+e. 
+Utrasonic flow meter 
+
+
+
+75. 
+When closing a hydrant, it should be 
+
+a. 
+Closed rapidly to minimize water loss 
+
+b. 
+Closed slowly to reduce surges 
+
+c. 
+Closed using a standard valve key 
+
+d. 
+Closed using a standard pipe wrench 
+
+e. 
+Closed at the street valve and left slightly open at the hydrant valve 
+
+
+
+76. 
+Dry-barrel fire hydrants have their operating valves 
+
+a. 
+In the base 
+
+b. 
+In the head 
+
+c. 
+Either of the above, depending on the manufacturer 
+
+d. 
+In the street several feet away from the riser 
+
+e. 
+None of the above 
+
+
+
+77. 
+An example of a valve that has a 90 degree travel is a: 
+
+a. 
+Butterfly valve 
+
+b. 
+Plug valve 
+
+c. 
+Ball valve 
+
+d. 
+All of the above 
+
+e. 
+None of the above 
+
+
+
+78. 
+The valve type most commonly found on the discharge of a pump or well, and installed to prevent reverse flows is the 
+
+a. 
+Gate valve 
+
+b. 
+Check valve 
+
+c. 
+Globe valve 
+
+d. 
+Butterfly valve 
+
+e. 
+Ball or Plug valve 
+
+
+
+79. 
+Features that impact the " C " factor for measuring friction in pipelines include 
+
+a. 
+Pipe length 
+
+b. 
+Pipe type 
+
+c. 
+Number of valves 
+
+d. 
+Type of valves 
+
+e. 
+All of the above 83. An abnormal flow condition caused by a difference in water pres­sures is known as: 
+
+a. 
+Backflow 
+
+b. 
+Reverse osmosis 
+
+c. 
+Peak demand 
+
+d. 
+Fire flow 
+
+e. 
+Minimum daily requirement 
+
+
+
+80. 
+"Backflow Device" is a term used to describe a device that 
+
+a. 
+connects three inlet lines with one outlet line 
+
+b. 
+lets air into valve vaults 
+
+c. 
+prevents flow of potentially contaminated source into a drinking water supply 
+
+d. 
+tests for oxygen deficiency in valve vaults 
+
+e. 
+prevents backflow of water through an out-of-service pump 
+
+
+
+81. 
+A cross-connection means 
+
+a. 
+Four pipelines tied together 
+
+b. 
+A T-shaped tool 
+
+c. 
+A connection between potable water and "unapproved" water supplies 
+
+d. 
+A backflow caused by negative pressure 
+
+e. 
+A connection between two or more pressure zones 
+
+
+
+82. 
+Egress is normally required (per OSHA guidelines) for trenches of what minimum depth? a. 4 feet b. 5 feet c. 6 feet d. 7 feet e. 8 feet 
+
+83. 
+A backflow prevention device that can be used in any cross-connection situation is a 
+
+a. 
+Pressure vacuum breaker 
+
+b. 
+Single check valve 
+
+c. 
+Double check valve 
+
+d. 
+Reduced pressure zone device 
+
+e. 
+Atmospheric vacuum breaker 
+
+
+
+84. 
+A backflow prevention device that is designed for intermittent use in situations where there is no backpressure, such as toilet flush valves and lawn sprinkler systems is a 
+
+a. 
+Pressure vacuum breaker 
+
+b. 
+Single check valve 
+
+c. 
+Double check valve 
+
+d. 
+Reduced pressure zone device 
+
+e. 
+Atmospheric vacuum breaker 
+
+
+
+85. 
+A completely fail-safe means of backflow prevention is 
+
+a. 
+Atmospheric vacuum breaker 
+
+b. 
+Pressure vacuum breaker 
+
+c. 
+Air gap 
+
+d. 
+Check valve 
+
+e. 
+Double check valve 
+
+
+
+86. 
+Two hydraulic conditions can induce backflow. These are backsiphonage and 
+
+a. 
+Peak flow 
+
+b. 
+Diurnal flow 
+
+c. 
+Faulty solenoid valves 
+
+d. 
+Back pressure 
+
+e. 
+Fire flow 
+
+
+
+87. 
+When using the continuous feed method of disinfection, a new water main should be flushed, disinfected at 50mg/L, and held at above 25mg/L for at least a. 6 hours b. 12 hours c. 24 hours d. 36 hours e. 48 hours 
+
+88. 
+To properly disinfect a water main after new construction, you should: 
+
+a. 
+apply 50mg/l chlorine for 24 hours. 
+
+b. 
+clean the pipe out’ with a pig and then disinfect at 10mg/1 for 24 hours 
+
+c. 
+use a 10% solution of calcium chloride d don’t use them main for one week 
+
+
+
+89. 
+From a sanitary standpoint. the pressure in a distribution system should never be allowed to fall to zero because: 
+
+a. 
+low pressure allows bacteria to multiply 
+
+b. 
+ground water may e:oter and back siphonage may occur 
+
+c. 
+the chlorine residual will drop faster 
+
+d. 
+the main may collapse 
+
+
+
+90. 
+The primary purpose of pressure-reducing valves between water system pressure zones is to 
+
+a. 
+Minimize surge 
+
+b. 
+Reduce downstream pressure 
+
+c. 
+Control flows 
+
+d. 
+Reduce upstream pressure 
+
+
+
+91. 
+Because pipe materials come into contact with drinking water, they must conform with 
+
+a. 
+Primary drinking water standards 
+
+b. 
+Secondary drinking water standards 
+
+c. 
+Surface water treatment rule 
+
+d. 
+ANSI/NSF Standard 61 
+
+e. 
+All of the above 
+
+
+
+92. 
+An example of a: pipe material that is difficult to locate underground is 
+
+a. 
+Mortar lined and coated steel 
+
+b. 
+Reinforced concrete cylinder 
+
+c. 
+Ductile iron 
+
+d. 
+Asbestos-cement 
+
+e. 
+Steel 
+
+
+
+93. 
+A lightweight type of pipe that has a very smooth interior, is essentially corrosion-free, and which is difficult to locate when buried is: 
+
+a. 
+Polyvinyl chloride 
+
+b. 
+Cast iron 
+
+c. 
+Ductile iron 
+
+d. 
+Concrete cylinder 
+
+e. 
+Steel 
+
+
+
+94. 
+Sleeve-type and "victaulic" couplings are the most common forms of 
+
+a. 
+Mechanical couplings 
+
+b. 
+Welded joints 
+
+c. 
+Asbestos-cement pipe fittings 
+
+d. 
+PVC pipe fittings 
+
+e. 
+Flanged joints 
+
+
+
+95. 
+The tensile strength of a pipe is its ability to 
+
+a. 
+Stretch or pull without breakage b. Resist internal pressure without breakage 
+
+c. 
+Resist external pressure without breakage 
+
+d. 
+Twist or bend without breakage 
+
+e. 
+Resist heating without breakage 
+
+
+
+96. 
+When is the best time to perform a distribution main flushing program? 
+
+a. 
+During night hours, to minimize traffic and other customer concerns 
+
+b. 
+During weekday day shift hours, to minimize overtime costs 
+
+c. 
+During Summer months, due to high system velocities 
+
+d. 
+During Spring months, prior to high system demands of Summer 
+
+e. 
+None of the above 
+
+
+
+97. 
+The drain hole in a fire hydrant is designed to 
+
+a. 
+Release air upon closing the valve 
+
+b. 
+Relieve vacuum upon opening the valve 
+
+c. 
+Allow access for interior inspection 
+
+d. 
+Relieve excess water pressure when closing the valve 
+
+e. 
+Remove water from the riser to prevent freezing 
+
+
+
+98. 
+A typical installation site for a compound meter is 
+
+a. 
+Any small commercial business 
+
+b. 
+A common single location with as many as 12 separate customers 
+
+c. 
+A large industrial user 
+
+d. 
+Any location that requires the electronic monitoring of peak flows e. A typical residen­tial water flow meter 
+
+
+
+99. 
+An example of a pressure-differential type water meter is a: 
+
+a. Venturi meter b. Propeller meter c. Nutating disk meter d. Magnetic flow meter e. Ultra­sonic flow meter 
+
+100. 
+When closing a hydrant, it should be 
+
+a. 
+Closed rapidly to minimize water loss 
+
+b. 
+Closed slowly to reduce surges 
+
+c. 
+Closed using a standard valve key 
+
+d. 
+Closed using a standard pipe wrench 
+
+e. 
+Closed at the street valve and left slightly open at the hydrant valve 
+
+
+
+101. 
+Dry-barrel fire hydrants have their operating valves 
+
+a. 
+Inthe base 
+
+b. 
+In the head 
+
+c. 
+Either of the above, depending on the manufacturer 
+
+d. 
+In the street several feet away from the riser 
+
+e. 
+None of the above 
+
+
+
+102. 
+An example of a valve that has a 90 degree travel is a 
+
+a. 
+Butterfly valve 
+
+b. 
+Plug valve 
+
+c. 
+Ball valve 
+
+d. 
+All of the above 
+
+e. 
+None of the above 
+
+
+
+103. 
+The valve type most commonly found on the discharge of a pump or well, and installed to prevent reverse flows is the 
+
+a. 
+Gate valve 
+
+b. 
+Check valve 
+
+c. 
+Globe valve 
+
+d. 
+Butterfly valve 
+
+e. 
+Ball or Plug valve 
+
+
+
+104. 
+Features that impact the " K " factor for measuring friction in pipelines include 
+
+a. 
+Pipe length 
+
+b. 
+Pipe type 
+
+c. 
+Number of valves 
+
+d. 
+Type of valves 
+
+e. 
+All of the above 
+
+
+
+105. 
+A potable water supply discharges into an irrigation water storage tank. The 3-inch potable supply line should be terminated 
+
+a. 
+Above the tank overflow by at least two pipe diameters 
+
+b. 
+Above the tank outlet by at least two pipe diameters 
+
+c. 
+Below the tank outlet by at least two pipe diameters 
+
+d. 
+Level with the tank outlet 
+
+e. 
+Level with the tank overflow 
+
+
+
+106. 
+A backflow prevention device that is designed for intermittent use in situations where there is no backpressure, such as toilet flush valves and lawn sprinkler systems is a 
+
+a. 
+Pressure vacuum breaker 
+
+b. 
+Single check valve 
+
+c. 
+Double check valve 
+
+d. 
+Reduced pressure zone device 
+
+e. 
+Atmospheric vacuum breaker 
+
+
+
+107. 
+A completely fail-safe means of backflow prevention is 
+
+a. 
+Atmospheric vacunm breaker 
+
+b. 
+Pressure vacuum breaker 
+
+c. 
+Air gap 
+
+d. 
+Check valve 
+
+e. 
+Double check valve 
+
+
+
+108. 
+Back-siphonage is defined as: 
+
+a. 
+Back flow that occurs when a vacuum exists. 
+
+b. 
+Increase in pressure. 
+
+c. 
+Interconnection between the plumbing systems in the building and water supply. 
+
+d. 
+Open end of a water supply through which water is discharged in the plumbing fixture. 
+
+
+
+109. 
+A venturi tube increases the velocity and decreases the pressure as water flows through it, This type of tube is used to measure the: . 
+
+a. 
+Amount of chlorine in the water. 
+
+b. 
+Amount of turbidity in the water. 
+
+c. 
+Rate of aeration. 
+
+d. 
+Rate of water flowing through it. 
+
+
+
+110. 
+A venturi meter measures flow of a fluid in a pipe based upon the: 
+
+a. 
+Difference in pressure between a constricted and a fill size portion of the pipe, 
+
+b. 
+Electronic measurement 
+
+c. 
+Velocity of the fluid past a given point. 
+
+d. 
+Weight of the fluid 
+
+
+
+111. 
+Valves are provided in a distribution system to 
+
+a. 
+Detect any safety hazards. 
+
+b. 
+Detect weak links in the system. 
+
+c. 
+Isolate small areas for maintenance and emergency conditions. 
+
+d. 
+Reduce costs of maintenance. 
+
+
+
+112. 
+A connection that is made into a main that is under pressure is called a: 
+
+a. 
+Cross connection 
+
+b. 
+Dry Tap 
+
+c. 
+Wet Tap 
+
+d. 
+Valve Box 
+
+
+
+113. 
+Because it permits flow in only one direction, which valve would help you determine the direction of the fluid flow? 
+
+a. 
+Butterfly valve 
+
+b. 
+* Check Valve 
+
+c. 
+Pressure valve 
+
+d. 
+Gate valve 
+
+
+
+114. 
+The size of water mains, pumping stations, and storage tanks is primarily determined by: 
+
+a. 
+Maximum day demand during a 24hr. period during the previous year. 
+
+b. 
+Population served 
+
+c. 
+Per-capita water use 
+
+d. 
+Fire protection requirement 
+
+
+
+115. 
+Firefighting may cause low pressure in an area of the distribution system. This low pres­sure might lead to: 
+
+a. 
+contamination of the system by back-siphonage 
+
+b. 
+ice formation in the pipes 
+
+c. 
+loss of chlorine residual 
+
+d. 
+None of the above 
+
+
+
+116. 
+The problem caused by dissolved carbon dioxide in the water of the distribution system is 
+
+b. 
+Corrosion 
+
+c. 
+Excessive encrustation 
+
+d. 
+Tastes and odors 
+
+a. 
+increased trihalomethanes (THMs) 
+
+
+
+117. 
+The peak capacity of water mains is often reduced by 
+
+a. 
+High pressure 
+
+b. 
+Looping 
+
+c. 
+Tuberculation 
+
+d. 
+Vacuum breakers 
+
+
+
+118. 
+When using the AWWA spray method for disinfecting the interior walls of water tanks, the minimum applied chlorine dose is a. 5ppm b. 50ppm c. 10ppm d. 200ppm 
+
+119. 
+Water should be delivered with a minimum working pressure of: a. 45psi a. 100psi b. 35psi c. 50psi 
+
+d. 
+15psi 124. Thrust blocks are installed to 
+
+a. 
+boost flexible joints. 
+
+b. 
+boost water pressure. 
+
+c. 
+minimize corrosion 
+
+d. 
+prevent movement of pipes & joints. 
+
+
+
+120. 
+Distribution system pressure (even during fire fighting demands) should not be allowed to drop below psi. a. 0 b. 5 c. 20 d. 40 
+
+121. 
+Whenever possible the end of a distribution system should be to prevent taste and odor problems. 
+
+a. 
+inspected 
+
+b. 
+looped. 
+
+c. 
+plugged 
+
+d. 
+capped 
+
+
+
+122. 
+The three common types of plastic pipes are listed as PVC, PE, & PB. These names refer to the: 
+
+a. 
+Chemical resistance of the pipe 
+
+b. 
+Composition of the pipe 
+
+c. 
+Pressure for which the pipe is designed 
+
+d. 
+Types of appropriate application 
+
+
+
+123. 
+An invert of a pipe is located: a). According to the pipe manufacturers specifications 
+
+b. 
+At the inside bottom of the pipe 
+
+c. 
+At the inside cross section 
+
+d. 
+At the outside bottom of the pipe 
+
+
+
+124. 
+An Altitude valve is a device used to: 
+
+a. 
+turn water flow off or on 
+
+b. 
+allow two or more pumps to alternate operation 
+
+c. 
+prevent backflow due to a cross connection 
+
+d. 
+regulate the water surface level in a water storage tank 
+
+e. 
+none of the above 
+
+
+
+125. 
+The type of corrosion caused by the use of dissimilar metal in a water system is 
+
+a. 
+Caustic corrosion 
+
+b. 
+Galvanic corrosion 
+
+c. 
+Oxygen corrosion 
+
+d. 
+Tubercular corrosion item The best way to protect the water supply from contamination by cross-connection is: 
+
+a. 
+A double check valve 
+
+b. 
+A vacuum breaker 
+
+c. 
+An air gap 
+
+d. 
+A reduced pressure zone device 
+
+
+
+126. 
+The positive side of the cathodic protection system is the: 
+
+a. 
+Tank 
+
+b. 
+Cathode 
+
+c. 
+Rectifier 
+
+d. 
+Sacrificial anode 
+
+
+
+127. 
+A flow meter on a fire line would probably be a: 
+
+a. 
+Venturi meter 
+
+b. 
+Nutating disk meter 
+
+c. 
+Oscillating piston meter 
+
+d. 
+Compound meter 
+
+
+
+128. 
+When filling a main, the water velocity should never exceed: a. 1ft/sec b. 2.5ft/sec c. 10ft/sec d. 20ft/sec 
+
+129. 
+When two storage tanks that serve the same area have different overflow elevations, what type of valve should be included on the lower tank? 
+
+a. 
+Check valve 
+
+b. 
+Altitude valve 
+
+c. 
+Air relief valve 
+
+d. 
+Ball valve 
+
+
+
+130. 
+Water hammer is caused by: 
+
+a. 
+Opening a valve too slowly 
+
+b. 
+Closing a valve too quickly 
+
+c. 
+Excessive hardness 
+
+d. 
+High pressure on the suction side of a pump 
+
+
+
+131. 
+Comprehensive maps of medium to large systems generally have scales ranging from 
+
+a. 
+250-500 feet to 1 inch. 
+
+b. 
+500 - 1,000 feet to 1 inch. 
+
+c. 
+1,000 - 1,500 feet to 1 inch. 
+
+d. 
+1,500 - 2,000 feet to 1 inch. 
+
+
+
+132. 
+Sectional maps generally have scales ranging from 
+
+a. 
+50-100 feet to 1 inch. 
+
+b. 
+100 - 200 feet to 1 inch. 
+
+c. 
+200- 250 feet to 1 inch. d. 250-400 feet to 1inch. 
+
+
+
+133. 
+A comprehensive map should be 
+
+a. 
+compact enough to fit in a folder. 
+
+b. 
+as large as possible. 
+
+c. 
+as detailed as possible. 
+
+d. 
+written in technical language so that only engineers can read it. 
+
+
+
+134. 
+On a plan and profile drawing, what does the abbreviation EL mean? a. English language 
+
+b. 
+Estimated length 
+
+c. 
+Electric 
+
+d. 
+Elevation 
+
+
+
+135. 
+What type of map is also referred to as a wall map? Comprehensive map 
+
+136. 
+What type of map, commonly called a plat, is a series of maps covering sections of the water system? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. What is the most important aspect in maintaining a high degree of safety awareness in the water treatment facility? 
+a. 
+*Making sure carelessness or negligence is stressed 
+
+b. 
+driver’s training away from the workplace 
+
+c. 
+reading the MSDS postings each day 
+
+d. 
+maintaining batteries in flashlights and emergency storage areas 
+
+
+2. 
+Which is the approximate angle of repose for average soils when using the sloping method for the prevention of cave-ins? (Note: horizontal to vertical distance, respectively) a. 0.5:1.0 b. 1.0:1.0 c. 1.5:1.0 d. 2.0:1.0 
+
+3. 
+What federal law is designed to protect the safety and health of operators? 
+
+a. 
+OSHA 
+
+b. 
+FMLA 
+
+c. 
+FLSA 
+
+d. 
+ADEA 
+
+
+
+4. 
+What are the two most important safety concerns when entering a confined space? 
+
+a. 
+Corrosive chemicals and falls 
+
+b. 
+Bad odors and claustrophobia 
+
+c. 
+Extreme air temperatures and slippery surfaces 
+
+d. 
+Oxygen deficiency and hazardous gases 
+
+
+
+5. 
+Which document provides a profile of hazardous substances? 
+
+a. 
+CERCLA 
+
+b. 
+SARA 
+
+c. 
+CFR 
+
+d. 
+MSDS 
+
+
+
+6. 
+What is the purpose of a pump guard? 
+
+a. 
+Allows operators to turn off pump in emergency situations 
+
+b. 
+Notifies operators of excessive temperatures 
+
+c. 
+Allows operators to pump against a closed discharge valve 
+
+d. 
+Protects operators from rotating parts 
+
+
+
+7. 
+Atmosphere is considered oxygen deficient when the oxygen level is below 
+
+a. 21.5% b. 20% c. 19.5% d. 17% 
+
+8. 
+Employee hazards include 
+
+a. 
+Noxious or toxic gases or vapors 
+
+b. 
+Oxygen deficiency 
+
+c. 
+Physical injuries 
+
+d. 
+All of the above 
+
+
+
+9. 
+Before entering a permit-required confined space, you must: 
+
+a. 
+Check the atmosphere with a calibrated gas detector. 
+
+b. 
+Make notification that personnel are entering the space. 
+
+c. 
+Lock out and tag out all equipment. 
+
+d. 
+All of the above. 
+
+
+
+10. 
+When making a sulfuric acid dilution, the appropriate method is: 
+
+a. 
+Add the water to the acid. 
+
+b. 
+Add the acid to the water. 
+
+c. 
+Add both at the same time. 
+
+d. 
+None of the above. 
+
+
+
+11. 
+When manually lifting any object, be sure to 
+
+a. 
+Hold it at arm’s length. 
+
+b. 
+Keep your back bent and hold it low. 
+
+c. 
+Keep it close to your body and use leg strength. 
+
+d. 
+Keep your knees locked and bend at the waist. 
+
+
+
+12. 
+What is the proper slope of a ladder? 
+
+a. 
+Every 4 feet up the ladder is 1 foot out from the wall. 
+
+b. 
+Every 5 feet up the ladder is 1 foot out from the wall. 
+
+c. 
+Every 6 feet up the ladder is 1 foot out from the wall. 
+
+d. 
+Every 7 feet up the ladder is 1 foot out from the wall. 
+
+
+
+13. 
+When working on a chemical feed pump, what of the following is not required? 
+
+a. 
+Nitrile gloves. 
+
+b. 
+Safety glasses. 
+
+c. 
+Leather work gloves. 
+
+d. 
+Full face shield. 
+
+
+
+14. 
+When must the atmosphere of a confined space be tested? 
+
+a. 
+Only before a worker enters 
+
+b. 
+Never, if adequate ventilation exists 
+
+c. 
+Continuously 
+
+d. 
+Only if welding or painting is being performed 
+
+
+
+15. 
+Some gases in a confined space can be: 
+
+a. 
+Colorless 
+
+b. 
+Odorless 
+
+c. 
+Deadly 
+
+d. 
+All of the above 
+
+
+
+16. 
+Why should you contact other area companies with underground utilities before starting an underground repair job? 
+
+a. 
+To determine if there have been recent excavations in that location b. To ask these com­panies to mark the location of their utilities in the area of the repair job 
+
+c. 
+To see if they also have excavating to do in the area 
+
+d. 
+To see if they will help route traffic while you are doing the repair job 
+
+
+
+17. 
+The only acceptable breathing device to wear while handling chlorine leaks is the 
+
+a. 
+Activated carbon canister type 
+
+b. 
+Potassium tetroxide canister type 
+
+c. 
+Self-contained breathing apparatus 
+
+d. 
+Oxygen supply apparatus 
+
+
+
+18. 
+It is essential to ventilate a vault before entry in order to 
+
+a. 
+Remove excessive moisture 
+
+b. 
+Equalize temperature and pressure 
+
+c. 
+Eliminate foul odors 
+
+d. 
+Remove dangerous gasses 
+
+
+
+19. 
+Permit-required confined space entry requires 
+
+a. 
+Bright orange jackets, rubber boots, and gloves 
+
+b. 
+Safety harness and a lifeline 
+
+c. 
+Tool belts with flashlight attached 
+
+d. 
+Utility belts with a full complement of tools 
+
+
+
+20. 
+During a confined space entry, how often must the confined space be monitored for haz­ardous atmospheres? 
+
+a. 
+Continuously 
+
+b. 
+Every five minutes 
+
+c. 
+Before entry only 
+
+d. 
+Before entry and then once per hour during entry 
+
+
+
+21. 
+Which of the following is the most likely to be a fuel involved in a Class A fire? 
+
+a. 
+Butane 
+
+b. 
+Magnesium 
+
+c. 
+Electrical equipment 
+
+d. 
+Gasoline 
+
+e. 
+Paper and/or fabrics 
+
+
+
+22. 
+In an occupied trench where exits (i.e., ladders) are required, what is the maximum al­lowed travel distance between an occupant and the nearest exit? i. 25 feet 
+
+
+
+
+
+b. 50 feet c. 100 feet 
+d. 
+At the discretion of the safety officer 
+
+e. 
+None of the above 
+
+
+23. Standard first aid procedures direct that the first step to control bleeding is to 
+a. 
+Apply a tight tourniquet 
+
+b. 
+Apply pressure directly to the wound 
+
+c. 
+Let it bleed until natural clotting takes place 
+
+d. 
+Wash wound and bandage 
+
+e. 
+None of the above 
+
+
+24. When excavating materials that will not stand in a vertical position, the most suitable form of shoring is 
+a. 
+Air shores 
+
+b. 
+Hydraulic shores 
+
+c. 
+Screw jacks 
+
+d. 
+Solid sheeting 
+
+e. 
+Cleats 
+
+
+25. A potable water supply discharges into an irrigation water storage tank. The 3 -inch potable supply line should be terminated 
+a. 
+Above the tank overflow by at least two pipe diameters 
+
+b. 
+Above the tank outlet by at least two pipe diameters 
+
+c. 
+Below the tank outlet by at least two pipe diameters 
+
+d. 
+Level with the tank outlet 
+
+e. 
+Level with the tank overflow 
+
+
+26. Which of the following gases is toxic at the lowest concentration? 
+a. 
+Carbon dioxide 
+
+b. 
+Hydrogen sulfide 
+
+c. 
+Methane 
+
+d. 
+Nitrogen 
+
+e. 
+Oxygen 
+
+
+27. Entry into an atmosphere with high concentrations of chlorine gas requires 
+a. 
+A self-contained breathing apparatus 
+
+b. 
+An approved and uncontaminated canister mask 
+
+c. 
+Forced ventilation of the work area 
+
+d. 
+Atmospheric testing with ammonia solution prior to entry 
+
+e. 
+Rubber gloves and a full-face shield 
+
+
+28. 
+Shoring is normally required (per OSHA guidelines) for trenches of what minimum depth? a. 4-feet b. 5-feet c. 6-feet 
+
+d. 7-feet e. 8 -feet 
+
+29. 
+First aid for first-degree burns is to 
+
+a. 
+Bandage tightly 
+
+b. 
+Cover liberally with salve 
+
+c. 
+Pack in ice 
+
+d. 
+Submerge the burned area in cold water e. All of the above 
+
+
+
+30. 
+What information must be on a warning tag attached to a locked-out switch? 
+
+a. 
+Directions for removing the tag 
+
+c. 
+Signature of the person who locked out the switch and who will remove it 
+
+d. 
+Time to unlock the switch 
+
+e. 
+None of the above 
+
+
+
+31. 
+A confined space that contains a material that has the potential for engulfing an entrant is 
+
+a. 
+A transition zone 
+
+b. 
+A permit space 
+
+c. 
+Prohibited by OSHA 
+
+d. 
+Required to undergo atmospheric testing with ammonia solution prior to entry 
+
+e. 
+S Required to use a complete "A" suit for personal protective equipment 
+
+
+
+32. 
+What condition must exist for an area to be considered a confined space? 
+
+a. 
+Limited or restricted means of entry or exit 
+
+b. 
+Is large enough for a person to enter and perform work 
+
+c. 
+Is not designated for continuous occupancy 
+
+d. 
+All of the above 
+
+e. 
+None of the above 
+
+
+
+33. 
+Which of the following is the most likely to be a fuel involved in a Class C fire? 
+
+a. 
+Butane 
+
+b. 
+Magnesium 
+
+c. 
+Paper and/or fabrics 
+
+d. 
+Gasoline 
+
+e. 
+Electrical equipment 
+
+
+
+34. 
+Which of the following is the most likely to be a fuel involved in a Class B fire? 
+
+a. 
+Wood 
+
+b. 
+Magnesium 
+
+c. 
+Electrical equipment 
+
+d. 
+Gasoline 
+
+e. 
+Paper and/or fabrics 
+
+
+
+35. 
+The angle of repose is the angle of the slope of a 
+
+a. 
+Sewer 
+
+b. 
+Graded and/or cut ground elevation 
+
+c. 
+Trench excavation 
+
+d. 
+Unsupported loose soil 
+
+e. 
+Filled and compacted ground elevation 
+
+
+
+36. 
+At least 48 hours prior to conducting excavations in locations where other utilities may be present, whom should you notify? 
+
+a. 
+WARN 
+
+b. 
+USA 
+
+c. 
+AWWA 
+
+d. 
+DHS 
+
+e. 
+EPA 
+
+
+
+37. 
+Which of the following compounds emits a "rotten egg" odor? 
+
+a. 
+Hydrogen sulfide 
+
+b. 
+Chorine dioxide 
+
+c. 
+Chloramines 
+
+d. 
+Hydrochloric acid 
+
+e. 
+Hypochlorous acid 
+
+
+
+38. 
+Where is the best place to store a self -contained breathing apparatus (SCBA)? 
+
+a. 
+inside a cabinet in the chlorinator room 
+
+b. 
+in an unlocked cabinet outside the chlorinator room 
+
+c. 
+locked in a cabinet in the office 
+
+d. 
+locked in a cabinet just outside the chlorinator room 
+
+
+
+39. 
+Which of the following is a hazard when handling hydrofluosilicic acid? 
+
+a. 
+fire 
+
+b. 
+explosion 
+
+c. 
+corrosion 
+
+d. 
+inhalation 
+
+
+
+40. 
+Which of the following chemical substances ii most likely to cause corrosion or deteriora­tion of metal and concrete surfaces 
+
+a. 
+carbon dioxide 
+
+b. 
+ethanol 
+
+c. 
+methane 
+
+d. 
+hydrogen sulfide 
+
+
+
+41. 
+An employee ls caught in a room where ch1orine gas is leaking. He has no SCBA, he should 
+
+a. 
+lay down on the floor and quickly crawl out of the room 
+
+b. 
+walk out of the room quickly 
+
+c. 
+pull shirt over mouth and face and quickly walk out of the room 
+
+d. 
+keep mouth closed, head as high as possible, and quickly walk out of the room holding breath. 
+
+
+
+42. 
+It is essential to ventilate a vault before entry in order to 
+
+
+
+
+a. Rennove exçessive moisture b. Equalize temperature and pressure 
+
+c. Eliminate foul odors 
+d. Remove dangerous gasses 
+43. A portable ladder must extend at least feet above the upper surface of an excavated trench. a. 1 b. 3 c. 4 d. 4.5 
+44. A trench must be shored if it is feet deep or more. a. 3 b. 4 c. 5 d. 6 
+45. When employees are working in a trench 5ft deep or more, an adequate means of exit, such as a ladder or steps, must be located no mote than ft away from them. a. 5 b. 10 c. 25 d. 40 
+46. Permit-required confined space entry requires 
+a. Bright orange jackets, rubber boots, and gloves 
+b. Safety harness and a lifeline 
+c. Tool belts with flashlight attached 
+d. Utility belts with a full complement of tools 
+
+1. 
+How many pounds per day of 100% chlorine gas are needed to arrive at a dosage of 2mg/L, when the flow is 8.8mgd and a zero chlorine demand exists? a. *147 b. 1,097.9 c. 1,468 d. 211.3 e. 417 
+
+2. 
+How many pounds per day of 100% chlorine gas are needed to arrive at a residual of 2.3mg/L, when the flow is 8.25mgd and a chlorine demand is 0.35mg/L? a. 21.8 c. 27.4 e. 812.3 b. *182.3 d. 158.3 
+
+3. 
+When a filter whose surface loading rate is 1,500gpd/sq.ft. and its size is 400 -sq. ft. De­termine the total flow through the filter in gallons per day. a. 0.6 c. 7.85 e. *600,000 b. 375,000 d. 3.75 
+
+4. 
+Determine the Unit Filter Run Volume of a 15-ft. x 20-ft. filter when it registered 2,000,000 gallons during its run. a. 600 c. 989 b. 9423 d. *6667 e. 7200 
+
+5. 
+A filter has the dimensions of 15 - ft. x20 - ft and a backwash rate of 19.5gpm/sq.ft. Determine its backwash rise rate in, inches per minute. a. 58.5 c. 5.85 e. *31.2 b. 37 d. 81.3 
+
+6. 
+Using the Quantity formula (Q = AV), determine the Q when A = 15sq. ft. and velocity is 3.3ft/sec. a. *49.5cfs c. 19.88cfs e. 4.9cfs 
+
+b. 495cfs d. 4.545cfs 
+
+7. 
+Find the gpm/sq.ft. filtration rate when 6,775,000 gallons were produced in 24-hours through a filter that measures 30 - ft.x54 - ft. a. 0.029 c. 2904.2 e. 4.18 b. 0.29 d. *2.9 
+
+8. 
+What is the grain per gallon (gpg) hardness of water that has a total hardness of 228mg/L ? a. *14 c. 18 e. 133.3 b. 3898.8 d. 39 
+
+9. 
+A water tank had a pressure gauge reading of 14 psig on its bottom. Determine the water level in the tank. a. 23.3 feet c. *32.3 feet e. 19.8 b. 28.6 feet d. 38.3 feet 
+
+10. 
+A tank had a diameter of 22 -feet and a pressure of 7.7psi on its bottom. Determine how many pounds of 65% calcium hypochlorite (dry powder chlorine) are needed to arrive at a dosage of 1ppm. a. 0.42 pounds b. *0.65lbs c. 50,302.5 pounds d. 41.9lbs e. 6.5lbs 
+
+11. 
+An iron removal plant processes water with an average iron concentration of 2.5mg/l. If the iron concentration is 0.01mg/l after treatment and the total daily pumpage is one million gallons, how many pounds of iron will be removed per day? a. 10.77 pounds a. *20.77 pounds b. 25.77 pounds c. 30.77 pounds d. 35.77 pounds 
+
+12. 
+A water system bills quarterly at a rate of 25 .//1000 gallons for the first 10,000 gallons, 
+
+30 .//1000 gallons for the next 10,000 gallons, 35f/1000 gallons for all over 20,000 gallons. If a customer uses 35,000 gallons per quarter, what is the water bill? a. $9.50 b. *$10.75 c. $12.25 d. $12.50 e. $13.25 
+
+13. 
+A ground level storage tank is 25 feet long, 20 feet wide, and 10 feet deep. When the storage tank is completely empty, calculate how many minutes it will take to fill the tank with a pump that has a capacity of 300 gallons per minute. a. 60 minutes b. 100 minutes c. *125 minutes d. 150 minutes e. 200 minutes 
+
+14. 
+A room measures 12ft high, 30ft long, and 17ft wide. How many cubic feet per minute of air must a blower in an air exchange unit move to completely change the air every 10 minutes? a. 102 b. 612 c. 1,020 d. 6,120 
+
+15. 
+If a trench is 526ft long, 4.0ft wide, and 5.5ft deep, how many cubic yards of soil were excavated? 
+
+
+
+
+11,572f3 
+526 × 4× 5.5 == 428
+27 
+16. If exactly 100gal of polymer costs $19.50, what will 5,500gal cost, assuming no quantity discount? 
+19.50 
+× 5500 = 1,072.5
+100 
+17. What is the velocity of flow in feet per second for an 8.0-in. diameter pipe if it delivers 675 gprax? 
+150 6.35 
+675 
+= 15cuft/s
+449 430ft/s 
+18. What should the setting be on a chlorinator in pounds per day if the dosage desired is 
+2.90mg/L and the pumping rate from the well is 975gpm ? 975 
+= 1.4MGD 
+69)1 1.4× 8.34 × 2.90 
+
+19. A treatment plant uses 278lb/d of chlorine gas. If the chlorine demand is 0.85mg/L and the chlorine residual is 1.50mg/L, how many million gallons per day are being treated? 
+278 
+= 
+8.34 × 2× 35 dojarge ; 0.85+ 1.50 = 2.35mg/h 
+20. A water tank that is 105ft in diameter needs to be disinfected with a 5.0% sodium hypochlo­rite solution. If the tank is to be filled to only a depth of 5.0ft and the concentration re­quired is 20.0mg/L, how many gallons of sodium hypochlorite are needed? Assume the sodium hypochlorite solution weighs 8.92lb/gal. 
+0.323MGP 
+= 
+0.323 × 8.34 × 20 9/23/19 
+21. 
+Convert 8.0cfs to gpm. a. 1.07gpm b. 64.2gpm c. 480gpm 8× 449 e. 3,436gpm 
+
+22. 
+Conyert 4,000gpm to cfs. a. 8.91cfs b. 66.65cfs c. 499cfs d. 535cfs e. 32,076cfs 
+
+23. 
+Convert 12MGD to gpm. a. 0.00833gpm b. 7,200gpm12 × 700 d. 17,280gpm e. 199,992gpm 
+
+24. 
+Convert 5.5 cfs to MGD. a. 0.059MGD b. 0.148MGD c. 0.475MGD 
+
+(64) more Aaumole e. 7,920 MGD 
+
+25. 
+Convert 45 Acre-feet into million gallons. a. 6.02Mgal 
+
+b. 1.96Mgal c. 14.7Mgal d. 45Mgal e. 336.6Mgal 
+
+26. 
+Convert 6.5 feet per second into miles per hour. a. 4.43mph c. 13.3mph d. 106mph e. 266mph 
+
+27. 
+Convert 3.4 miles into feet. a. 5,000 feet b. 5,280 feet c. 5,984 feet d. 10,000 feet (e.) 17,952 feet 
+
+
+
+6.5/5280 
+= 
+1/60 × 60 1m/e = 25ft 
+28. 
+Convert 2,250gpm into MGD. a. 0.054MGD b. 3.24MGD d. 2, 250MGD e. 3,240 MGD 
+
+29. 
+Convert 9.75MGD into cfs. a. 15.1cfs b. 37.75cfs c. 113cfs d. 363cfs e. 845cfs 
+
+30. 
+Convert 1,000,000 cubic feet into Acre-feet. a. 0.04356AF b. 0.325829AF c. 3.07AF d. 22.96AF e. 172AF 
+
+31. 
+What is the chlorine residual in a treated water if the dosage is 2.1mgi1 and has a demand of 0.8mg/1 a. 0.8mg/1 b. 1mg/l c. 2.1mg/ ! 
+
+d. 2.9mg/1 
+
+32. 
+What is the maximum amount of ch1orine gas that can be removed from a 150-lb cylinder in 24hrs ? a. 26 lbs. b. 40Jbs. c. 75lbs. 
+
+d. there is no maxim.um 
+
+33. 
+Bow many gallons would be contained in a circular tank that is 100ft. in diameter and 10ft deep? a. 587,0.00 gallons b. 657,000 gallons c. 1,340,000 gallons d. 2,349,000 gallons 
+
+34. 
+In order to rebuild a manhole, it will be necessary to remove the asphalt from a 35-foot diameter circle in a street. The pavement area involved is: a. 208 sq.ft b. 241, sq.ft c. 962 sq.ft d. 1125 sq.ft 
+
+35. 
+If the chlorine demand of water is 2.5mg/1 and you want a residual of 0.5mg/l, how much chlorine would need to be fed to one million gallons? a. 25lbs. b. 30lbs. c. 34lbs. d. 38lbs. 
+
+36. 
+If you need to feed chlorine at orate of 2.1mg/1 and you treat 2,300,000 gallons. How many pounds of chlorine should you use? a. 4lbs. b. 17lbs. c. 35lbs. d. 40lbs. 
+
+37. 
+What is the head on a system exerting a static pressure of 62 psi? a. 89 feet b. 107 feet c. 143 feet d. 189 feet 
+
+38. 
+A head of 200 feet would equal: a. 46.6psi b. 56.6psi c. 66.6psi 
+
+d. 86.6psi 
+
+39. 
+If a 3,000,000 gpd flow is to be dosed with 1.2mg/l, what should the chlorinator feed rate be set at in lbs. of chlorine per day? a. 3.0lbs./ day b. 4.51bs./day c. 10lbs./ day d. 30lbs./ day 
+
+40. 
+Which of the following does not affect the friction loss in a given length of pipe? 
+
+a. 
+hardness of the water 
+
+b. 
+number of fittings 
+
+c. 
+roughness of the interior of the pipe 
+
+d. 
+velocity of the flow 
+
+
+
+41. 
+Calculate the area in square feet of: a space 100ft long and 75ft svide. 100× 75 Ans. TTur Sq. Fr. 
+
+42. 
+Calculate the volume of a rectangular tank 20 feet high, 100ft long, and 75 feet wike. Ans. 
+
+
+
+
+10 wo 
+Cu.Ft.
+1 
+43. 
+Calculate the gallons the tank in the preceding problem will hold. Ans. 1,122,000 Gallons 
+
+44. 
+Calculate the area in square feet of a space 40ft long and 50 feet vvide. Ans, 2000 Sq. Ft 
+
+45. 
+Calculate the volume of a rectangular tank 40ft long, 50ft wide and 25 feet tall. Ans. 50, 000 Cu.Ft 
+
+46. 
+Calculate the gallons the tank in the preceding problem will contain. Ans. 374,000 Gallons 
+
+47. 
+Calculate the area of a circle with a 10ft radius. Ans. 314SqFt 
+
+48. 
+Calculate the aren of a circle with a 10ft diameter. Ans. 78 - 5 
+
+49. 
+Calculate the yolmue of a tank with a 50ft diameter that is 20 feet high. Ans. 39, 260 Cu.Ft 
+
+50. 
+How many gallons will the tank in the preceding problem hold? 
+
+51. 
+Calculate the area of a circle with a 100ft dibmeter. Ans. 293, 590 
+
+textbfAns. 7, 800SqFt 
+
+52. 
+Calculate the volume of a tank with a 100ft diameter that is 50 feet high. Ans. 
+
+53. 
+How many gallons ryill the tank in the preceding problen hold? Auls. 
+
+2,935,960 18 × 18 × 0 ' 0408× 1200 
+
+54. 
+How many gallons will an 18'' diameter pipeline, 1200 ’ long contain? imi = 5280 Ans. 15,863 Gallons 
+
+55. 
+How many gallons will a 24 " pipeline, 2 miles long contain? 24 × 24× 0.0408 × 248,168 
+
+56. 
+500 GPM is how many gallons per hour? 
+
+
+
+10560 500 g' 500 30e0r 
+== Ans
+1m 1/10h gph 
+57. 30,000gph is how many gallons per day? 30,000g 30, 000 720,010 
+== 30,020 × 24 Ans. 
+h 1/24 gpd 
+58. A flow of 25gpm is low many gpd? 25g 25 1 
+= × (25× 1440) Ans. 36, 0wgpd
+m 1/60 24 
+800,000
+59. A flow of 800,000gpd is how many gpm? = 560× 24× 60 555.55 0.80gpm
+0.8MGD×700 
+60. 
+A flow of 150gpnn is how many MGD? 700 (wm. 
+
+Ans. MGD 
+
+61. 
+How many gallons will an 8'' pipeline 550 ’ long contain? 8× 8 × 0.0408 × 550 
+
+
+16
+Ans. 1436· 
+gallons 
+62. 
+Water is filling a tank at the rate of 50gpm for a 10 min. period, How many gallons of water are contained in the tank at the end of the 10 minute time period? 
+
+63. 
+A well pump is discharging water at the rate of 400gpm into a tank for 15 minutes. Haw 
+
+
+many gallons will be in the tank at the end of this time period? 6,000... Gal. 
+Dose = Demand T Residual 300 
+20 × 16 
+64. 
+A tank is filling at the rate of 300gpm for a 20 minute period. How many of water will be contained in the tank at the end of 16 minutes? 4880 Gal. 
+
+65. 
+Before pumping, the static water level in a well is 15 feet. During pumping, the water lewel drops to 45 feet. What is the drawdown? 45- 15 = 30 a. 15 b. 30 c. 45 d. 60 e. 90 
+
+66. 
+Over a four year period, the hour meter on a electrical panel at a well site had the follow­ing readings at the end of each year: 1st year -976.3,2nd year -1325.8,3rd year -2007.1 , and 4th year -2371.4 . How many hours does the meter show the well ran during the 3rd 
+
+
+
+year? 
+a. 349.5hrs 
+b. 3364.3hrs 
+c. 981.3hrs 
+d. 830.2hn/s 
+e. 900.1 
+67. 
+One gallon of water weighs how many lbs? a. 7.48 b. 8.34 c. 2.31 d. 43318 . 
+
+68. 
+A water tank is filled to depth of 22 feet. What is the psi at the bottom of the tank? 22/2.31 9.52 
+
+69. 
+The static pressure in a water main is 85 psi. What elevation of water is needed to provide 
+
+that kind of pressure? 85 × 2.31 196 
+
+70. 
+Calculate the pressure at the bottom of a water tank if it is filled to a depth of 33 feet. 33/2.31 
+
+ft 
+
+71. 
+A psi gauge is located at the bottom of a water tank and reads 24 psi. What is the elevation 
+
+of the water inside the tank? 24× 2.31 55 
+
+72. 
+A gauge is reading the pressure at the outlet of a fire hydrant. A tank is elevated 200 feet 
+
+above the hydrant. What is the gaige pressure at the hydirant? 20s/2.31 
+
+73. 
+A gauge is attached to a hose bib at a house. The gauge reads 45p ps. How much elevation 
+
+is needed to supply that pressure? 45 × 2.31 104 
+
+74. 
+How many galtons will the above cylinder hold? 100× 7.48 = 748 
+
+75. 
+Calculate the area in square feet of a space 100ft. long and 75ft widie. Ans. 7500 Sq. Fit 
+
+76. 
+Calculate the volume of a rectangular tank 20 feet high, 100ft long, and 75 feet wide. Ans. 150,00 Cu.F. 
+
+77. 
+Calculate the gallons the tauk in the preceding problem will hold. 
+
+78. 
+Calculate the area in square feet of a space 40ft long and 50 feet wide. Ans, 2,000 Sq. Ft 
+
+79. 
+Calculate the volume of a rectangular tank 40ft long, 50ft wide and 25 feet tall. Ans. 50000 Cu.Ft 
+
+80. 
+Calculate the gallons the tank in the preceding problem will contain. 50,000× 7.48 Ans. 374,000 Gallons 
+
+81. 
+Caiculate the area of a circle with a 10ft radius. D = 20 
+
+Ans. 314SqFt 
+
+82. 
+Calculate the area of a circle with a 10ft diameter. Ans. 78.5 SqFt 
+
+83. 
+Calculate the volume of a tank with a 50ft diameter that is 20 feet high. Ans. 250 Cu. Ft 
+
+84. 
+How many gallons will the tank in the preceding problem hold? 
+
+85. 
+Calculate the area of a circle with a 100ft ciameter. Ans. 293590 Gallons
+
+
+1 
+
+7850 
+86. Caiculate the volume of a tank zwith a 100ft diameter that is 50 feet higl, 300 gallons 
+× 6 mm
+1 mute 
+87. 
+A tank is filling at the rate of 300gpm for a 20 minute period. How many of water will be contained in the tank at the end of 16 minutes? 
+
+88. 
+Before pumping, the static water level in a well is 15 feet. During pumping, the water level drops to 45 feet. What is the drawdown? a. 15 b. 30 c. 45 d. 60 e. 90 
+
+89. 
+Over a four year period, the hour meter on a electrical panel at a well site had the follow­ing.readings at the end of each year: 1sl year -976.3,2td year -1325.8,3rd year -20071 , and 4th year -2371 . 4 . How many hours does the meter show the well ran during the 3rd year? a. 349.5hrs b. 3364.3 his 
+
+
+H 
+c. 81.3hrs 
+d. 830.2hrs 
+e. 900.1 
+90. 
+Approximately how many gallons of water can fit into a reservoir that is 35 feet tall and has a 100 foot diameter? a. 2,000,000 b. 2.055MG c. 4MG d. 275,000 
+
+91. 
+Determine the detention time in hours for the following water treatment system: Distribution pipe from water plant to storage tank is 549ft in length and 14in. in diameter -Storage tank averages 2,310,000 gal of water at any given time. Flow through system is 6.72mgd a. 7.2hr b. 7.4hr c. 8.0hr d. 8.3hr 
+
+92. 
+If chlorine is being fed at a rate of 260lb/day for a flow rate of 23cfs, what should be the adjustment on the chlorinator when the flow rate is decreased to 16cfs, if all other water parameters remain the same? a. 160lb/day b. 180lb/day c. 310lb/ day d. 370lb/ day 
+
+93. 
+How many gallons of a sodium hypochlorite solution that contains 12.1% available chlo­rine are needed to disinfect a 1.5 -ft diameter pipeline that is 283ft long, if the dosage required is 50.0mg/L ? Assume the sodium hypochlorite is 9.92lb/gal. 
+
+a. 
+0.87 gal sodium hypochlorite 
+
+b. 
+1.0 gal sodium hypochlorite 
+
+c. 
+1.3 gal sodium hypochlorite 
+
+d. 
+1.5 gal sodium hypochlorite 
+
+
+
+94. 
+A storage tank has a 60.0-ft radius and averages 25.5ft in water depth. Calculate the av­erage detention time in hours for this storage tank, if flow through the tank averages 2.91 mgd during the month in question. a. 17.5hr b. 17.8hr c. 18.6hr 
+
+d. 19.8hr 95. A 24.0-in. pipeline, 427ft long, was disinfected with calcium hypochlorite tablets with 65.0% available chlorine. Determine the chlorine dosage in mg/L, if 7.01b of calcium hypochlorite was used. a. 25mg/L chlorine b. 39mg/L chlorine c. 43mg/L chlorine d. 54mg/L chlorine 
+
+95. 
+A well yields 2,840 gallons in exactly 20 minutes. What is the well yield in gpm? a. 140gpm b. 142gpm c. 145gpm d. 150gpm 
+
+96. 
+What is the area of a circular tank pad in ft2, if it has a diameter of 102ft ? a. 6,160ft2 b. 6,167ft2 c. 8,170ft2 d. 8,200ft2 
+
+97. 
+What is the pressure at 1.85 feet from the bottom of a water storage tank if the water level is 28.7 feet? a. 11.6psi b. 12.4psi c. 62.0psi d. 66.3 psi 
+
+98. 
+How many gallons are in a pipe that is 18.0 inches in diameter and 1,165 feet long? a. 2,060 gal b. 10,300gal c. 15,400 gal d. 17,200 gal 
+
+99. 
+Convert 37.4 degrees Fahrenheit to degrees Celsius. a. 3.0C b. 5.3C c. 7.9C d. 9.7C 
+
+100. 
+If 288 is 70.3%, how much is 100% ? a. 410 b. 202 c. 218 d. 438 
+
+101. 
+If the pressure head on a fire hydrant is 134ft, what is the pressure in psi? a. 50psi b. 52psi c. 54 psi d. 58psi 
+
+102. 
+A meter indicates the water flow from a fire hydrant is 5.5ft3/min. How many gallons will flow from the hydrant in 20 minutes? a. 820 gal b. 850gal c. 880gal d. 920 gal 
+
+103. 
+Records for a pump show that on June 1 at exactly 9:00 a.m. the number of pumped gal­lons was 71,576,344 and on July 1 at exactly 9:00 a.m. it was 72,487,008 gallons. Deter­mine the average gallons pumped per day (gal/day) for this month to the nearest gallon. 
+
+a. 18,605gal/day b. 25,875gal/day c. 30,355gal/day d. 34,325gal/day 
+
+104. 
+How much paint will it take for a single coat of the top and sidewalls of the storage tank that is 100 -feet in diameter and 30 -feet tall, if one gallon of paint covers 200 square feet? a. 86 gallons b. 96 gallons c. 106 gallons d. 116 gallons e. 126 gallons 
+
+105. 
+Under like conditions, how much more water would an 8-inch pipe carry than a 4-inch pipe? a. 2 times b. 3 times c. 4 times 
+
+d. not enough information given 
+
+106. 
+If a lake is 574 feet deep, what is the pressure in pounds per square inch at the bottom of the lake? a. 248psi b. 1326psi c. 69psi d. 62.4psi 
+
+107. 
+A pressure gauge reading is 80 psi. How many feet of head is this? a. 173 feet b. 185 feet c. 200 feet 
+
+d. 212 Feet 109. The pump is 150 feet below the reservoir level. What is the pressure reading on the gauge in psi? a. 52psi b. 60 psi c. 65 psi d. 75psi 
+
+108. 
+A tank is 20' ’ 60' ’ by 15' deep. What is the volume in gallons? a. 115, 000 gallons b. 128,000 gallons c. 135,000 gallons d. 154,000 gallons 
+
+109. 
+A tank is 60 ’ in diameter and 22’ high. How many gallons will it hold? a. 465,000 gallons 
+
+b. 528,000 gallons c. 640,000 gallons d. 710,000 gallons 
+
+110. 
+A dosage of 2.4mg/l of chlorine gas is added to 3.8mgd. How many pounds per day of chlorine are needed? a. 68lbs/ day b. 76lbs/day c. 82lbs/ day d. 88lbs/ day 
+
+111. 
+How many gallons are in a 6" pipe 950 feet long? a. 1108 gallons b. 1253 gallons c. 1308 gallons d. 1395 gallons 
+
+112. 
+A 12 " pipe is carrying water at a velocity of 5.8fps. What is the flow? a. 4.55cfs b. 5.36cfs c. 5.67cfs d. 6.04cfs 
+
+113. 
+The pressure at the top of the hill is 62 psi. The pressure at the bottom of the hill, 60 feet below, is 100psi. The water is flowing uphill at 120gpm. What is the friction loss, in feet, in the pipe? a. 24.6 feet b. 27.8 feet c. 31.2 feet 
+
+d. 33.8 feet 116. A tank is 82 ’ in diameter and 31 feet high. The flow is 1600gpm. What is the detention time in hours? a. 12.75 hours b. 14.80 hours c. 16.00 hours d. 18.25 hours 
+
+114. 
+A tank is 120' x 50' ’ 14' ’deep. The flow is 2.8mgd. What is the detention time in hours? a. 3.8 hours b. 4.4 hours c. 5.3 hours d. 6.2 hours 
+
+115. 
+A 16" pipe is 1250 feet long. How much 65% HTH is needed to dose it with 50mg/l of chlorine? a. 6.50lbs b. 7.25lbs 
+
+c. 7.96lbs d. 8.34lbs 
+
+116. 
+A solution of hydrofluosilisic acid is 22% fluoride. If 750ppb are added to 5,600,000 gal­lons/day, how many ml/min should the pump be feeding? a. 26ml/min b. 35ml/min c. 42ml/min d. 50ml/min 
+
+117. 
+A bleach system feeds 12% bleach. The dosage is 1.4mg/l for 8.2mgd. How many ml/min should the pump feed? a. 200ml/min b. 250ml/min c. 300ml/min d. 350ml/min 
+
+118. 
+Pump Data: 
+
+119. 
+Feet -Positive Suction Head 158 Feet -Discharge Head 26 Feet -Friction Loss 1200 gpm -Flow Motor Efficiency -86% Pump Efficiency -78% What is the motor horsepower? a. 60MHp b. 65MHp c. 70MHp d. 75MHp 
+
+120. 
+Pump Data: 20 Feet -Positive Suction Head 185 Feet -Discharge Head 18 Feet -Friction Loss 300gpm -Flow Motor Efficiency -90% Pump Efficiency -80% Kw-Hour Cost = 0.11/Kw- Hr Average Run Time -6 Hours/day What is the cost to run the pump for 30 days? a. $245.08 b. $284.34 c. $410.50 d. $463.82 
+
+121. 
+Determine the drawdown from a well measuring a static water level of 120 feet and a pumping water level of 205 feet? a. 105ft b. 320 feet c. 85 feet d. 310 feet 
+
+122. 
+Before pumping, the static water level in a well is 15 feet. During pumping, the water level drops to 45 feet. What is the drawdown? a. 15ft b. 30ft c. 45ft d. 60ft e. 90ft 
+
+123. 
+What is the chlorine demand of a tank that is dosed at 3.5ppm and has a residual of 1.25 ppm. a. 2.25 b. 4.75 c. 1.25 d. 3.5 
+
+e. not enough information 
+
+124. 
+What 1 s the area of a trench that is 22.4ft Jong and 3.3 feet wide? a. 26 sq.ft 
+
+b. 
+74 sq. ft. 
+
+c. 
+143 sq. ft 
+
+d. 
+187 sq. ft. 127. What is the pounds per square inch pressure at the bottom ofa tank if the water level is 38.29 feet? a. 7.3psi b. 16.6psi c. 53.9psi d. 88.4psi 
+
+
+
+125. 
+What is the pressure head on a system exerting a static pressm.e of 62 psi? a. 27ft b. 89ft c. 143ft d. 175ft 
+
+126. 
+How many gallons are in a pipe that is 18 " in diameterand 216 feet long? a.1908 gallons b. 2246 gallons c. 2430 gallons d. 2861 gallons 
+
+127. 
+How many pounds of chlorine are required to u.eat 8.65mgd if the dosage is 2.75ppm ? a. 11lb/ day b. 24lb/day c. 72lb/ day d. 198lb/ day 
+
+128. 
+What should the setting be on a chlorinator in pounds per day if the dosage desired is 2.9 mg/l and the pumping rate from the well is 975gpm ? a. 29lb/ day b. 34lb/day c. 41lb/ day d. 336lb/day 
+
+129. 
+What is the chlorine residual in a system that bas a chlorine dosage of 2.75mg/1anda chlorine demand of 1.93mg!1 ? a. 0.82mg/l b. 1.75mg/l c. 4.67mg/l d. 5.31mg/l 
+
+130. 
+How many pounds per day of chlorine are needed to treat 38.75mgd if the residual is 2.0 mg/1 and the demand is 1.5mg/l? a. 42lb/ day b. 136lb/day c. 323lb/day 
+
+d. 1131lb/day 134. A pump discharges 680 gpm, How many gallons will it discharge in 8 hours? a. 5440 gallons. b. 130560 gallons c. 1 ac-ft d. 408000 gallons. 
+
+131. 
+How many gallons are contained in 2167 cu.ft? a. 260 gallons b. 295 gallons c. 16253 gallons d. 18070 gallons 
+
+132. 
+What is the typical strength of calcium hypochlorite, i.e., available chlorine range? a. 5to10% b. 45to50% c. 65to70% d. 80to85% 
+
+133. 
+A four log removal is a. 90.00% 
+
+b. 99.00% c. 99.90% d. 99.99% 
+
+134. 
+A circular clearwell is 150 feet in diameter and 40 feet tall. The Clearwell has an overflow at 35 feet. What is the maximum amount of water the clearwell can hold in Million gallons rounded to the nearest hundredth? a. 0.92MG b. 4.62MG c. 18.50MG d. 7.50 MG 
+
+135. 
+A sedimentation basin is 400 feet length, 50 feet in width, and 15 feet deep. What is the volume expressed in cubic feet? a. 100,000ft3 b. 200,000ft3 c. 300,000ft3 d. 400,000ft3 
+
+136. 
+A clearwell holds 314,000ft3 of water. It is 100ft in diameter. What is the height of the clearwell? a. 25ft b. 30ft c. 35ft d. 40ft 
+
+137. 
+A treatment plant operator must fill a clearwell with 10,000ft3 of water in 90 minutes. What is the rate of flow expressed in GPM? a. 111 GPM b. 831 GPM c. 181 GPM d. 900 GPM 
+
+138. 
+A water tank has a capacity of 6MG. It is currently half full. It will take 6 hours to fill. What is the flow rate of the pump? a. 3,333 GPM b. 6,333 GPM c. 8,333 GPM d. 16,666 GPM 
+
+139. 
+A clearwell with the capacity of 2.5MG is being filled after a maintenance period. The flow rate is 2,500 GPM. The operator begins filling at 7 AM. At what time will the clear-well be full? a. 10:00 PM b. 10:40 PM c. 11:00 PM 
+
+d. 11:40 PM 
+
+140. 
+There are four filters at a water treatment plant. The filters measure 20 feet wide by 30 feet in length. What is the filtration rate if the plant processes 8.0 MGD? a. 1.51GPM/sq.ft. b. 2.31GPM/sq.ft. c. 2.61GPM/sq.ft. d. 2.91GPM/sq.ft. 
+
+141. 
+A water treatment plant treats 6.0 MGD with four filters. The filters use 60,000 gallons per wash. What is the percent backwash at the plant? a. 10% b. 8% c. 6% d. 4% 
+
+142. 
+A treatment plant filter washes at a rate of 10,000GPM. The filter measures 18ft. wide by 24ft. long. What is the rate of rise expressed in inches per minute? a. 17inch/min b. 27inch/min c. 37inch/min d. 47inch/min 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,344 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+%\usepackage{gensymb}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{mathabx}
+\usepackage{textcomp,mathcomp}
+\usepackage[shortlabels]{enumitem}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+\usepackage{siunitx}
+
+%\usepackage{textcomp}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usetikzlibrary{calc, decorations.markings}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes,snakes}
+\usetikzlibrary{quotes,angles, positioning}
+%\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}}}
+%\rhead{\ifthenelse{\value{page}=1}{Final Exam}{}}
+%\lhead{\ifthenelse{\value{page}=1}{Water Treatment - Oct-Dec 2022}{\textbf Final Exam}}
+%\rfoot{\ifthenelse{\value{page}=1}{}{}}
+%
+%\cfoot{}
+%\lfoot{Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+
+\begin{enumerate}
+
+  \item 35 degrees Celsius is equivalent to\\
+a) 0\\
+*b) 95\\
+c) 1.6\\
+d) 55 degrees Fahrenheit.\\
+
+      \item The treatment facility treats 100,000 cuft of water a day and operates for 18 hours a day. How much water do they treat a day expressed in MGD?\\
+*a) $.75 \mathrm{MGD}$\\
+b) $1.80 \mathrm{MGD}$\\
+c) $2.92 \mathrm{MGD}$\\
+d) 5.75 MGD\\
+     \item 25 MGD is equivalent to\\
+
+a) $1122 \mathrm{gpm}$ and $1560 \mathrm{cu} / \mathrm{ft}$ of water\\
+b) $36000 \mathrm{gpm}$ and $187 \mathrm{cuft} / \mathrm{sec}$\\
+*c) $17362 \mathrm{gpm}$ and $38.75 \mathrm{cuft} / \mathrm{sec}$\\
+d) $15600 \mathrm{gpm}$ and $466.7 \mathrm{cuft} / \mathrm{sec}$\\
+
+\item Convert 1000 $ft^3$ to cu. yards\\
+
+
+$1000 \cancel{ft^3}*\dfrac{cu.yards}{27\cancel{ft^3}} = 37 cu.yards$
+
+
+\item Convert 10 gallons/min to $ft^3$/hr\\
+
+
+$\frac{10 \cancel{gallons}}{\cancel{min}}*  \dfrac{ft^3}{7.48 \cancel{gallons}}  * \dfrac{60 \cancel{min}}{hr}   = \dfrac{80.2 ft^3}{hr}$
+
+\item Convert 100,000 $ft^3$ to acre-ft.\\
+
+
+
+$100,000 \cancel{ft^3} * \dfrac{acre-ft}{43,560 \cancel{ft^2-ft}} =  2.3 acre-ft$\\
+
+\textbf{Note:} From the conversion table: acre = 43,560 $ft^2$\\
+
+Thus, acre-ft  = 43,560 $ft^2$-ft or 43,560 $ft^3$\\
+
+\item Find the flow in gpm when the total flow for the day is 65,000 gpd.
+
+
+$
+\dfrac{65,000 \mathrm{gpd}}{1,440 \mathrm{~min} / \mathrm{day}}=45 \mathrm{gpm}
+$
+
+
+\item Find the flow in gpm when the flow is $1.3 \mathrm{cfs}$.
+
+$
+1.3 \dfrac{\mathrm{cfs}}{1} \mathrm{x} \dfrac{448 \mathrm{gpm}}{1 \mathrm{cfs}}=582 \mathrm{gpm}
+$
+
+
+\item Find the flow in gpm when the flow is $0.25 \mathrm{cfs}$.
+
+$
+0.25 \dfrac{\mathrm{cfs}}{1} \times \dfrac{448 \mathrm{gpm}}{1 \mathrm{cfs}}=112 \mathrm{gpm}
+$
+
+\item Convert $22\degree{C}$ into degree Fahrenheit.
+
+\item Convert $56\degree{C}$ into degree Celsius.
+
+\item Convert 45 psi to feet of head\\
+
+ 
+$
+45 \enspace \cancel{psi}*\dfrac{ft \enspace head}{0.433\cancel{psi}}=\boxed{92.4 \text { feet }}
+$
+
+
+\item convert 3 miles to cm\\
+Solution:\\
+$3 \enspace \cancel{miles} * \dfrac{5,280 \enspace \cancel{ft}}{\cancel{mile}}*\dfrac{30.48 \enspace cm}{\cancel{ft}}=\boxed{482,803 \enspace cm}$
+
+\item The water flow to a treatment plant has a velocity of 61 cm/s. What is this velocity expressed in ft/min. Given: 1 ft = 30.48 cm\\
+Solution:\\
+$61 \enspace \dfrac{\cancel{cm}}{\cancel{s}} * \dfrac{ft}{30.48 \enspace \cancel{cm}}* \dfrac{60 \enspace \cancel{s}}{min} =  \boxed{120 \enspace ft/min}$\\
+
+\item The wastewater flow to a treatment plant has a velocity of 61 cm/s. What is this velocity expressed in ft/min.
+
+(1 ft = 30.48 cm)
+
+$61 \enspace \dfrac{\cancel{cm}}{\cancel{s}} * \dfrac{ft}{30.48 \enspace \cancel{cm}}* \dfrac{60 \enspace \cancel{s}}{min} =  \boxed{120 \enspace ft/s}$\\
+Correct Answer(s):\\
+a. 120.0 \\
+
+\item The velocity of the wastewater flow through a grit chamber is 62 ft/min.  What is the velocity expressed in inches per second.
+
+
+$Velocity \enspace in \enspace \dfrac{in}{sec} = 62 \enspace \dfrac{\cancel{ft}}{\cancel{min}} * \dfrac{12 \enspace in}{\cancel{ft}}* \dfrac{\cancel{min}}{60 \enspace sec} =  \boxed{12.4 \enspace \dfrac{in}{sec}}$\\
+
+
+\item Convert 1.7 MGD to ft3/s\\
+Correct Answer(s):\\
+
+\item Convert 100 Ac-ft to MG\\
+Correct Answer(s):\\
+a. 32.6\\
+
+\item Convert 3.5 cu. ft/s to MGD\\
+Correct Answer(s):\\
+a. 2.26\\
+
+\item Sludge with a sludge density of 7\% would have a solids concentration of\\
+a. 7 mg/l\\
+b. 700 mg/l\\
+c. 7000 mg/l\\
+*d. 70,000 mg/l
+
+
+
+\item As an operator of a wastewater plant you are treating a flow of 21 MGD, what is the flow in gallons per minute?\\
+a. 1,458\\b. 5,833 \\c. 8,750 \\d. 14,583 \\e. 87,500
+Solution:\\
+$\dfrac{21 \cancel{MG}}{\cancel{day}}*\dfrac{1,000,000 \enspace gal}{\cancel{MG}}*\dfrac{\cancel{day}}{24*60 \enspace min}=\boxed{\dfrac{14,583 \enspace gal}{min}}$\\
+
+
+\item Given 1 ft = 30.48 cm and 5,280 ft = mile, convert 3 miles to cm\\
+Solution:\\
+$3 \enspace \cancel{miles} * \dfrac{5,280 \enspace \cancel{ft}}{\cancel{mile}}*\dfrac{30.48 \enspace cm}{\cancel{ft}}=\boxed{482,803 \enspace cm}$
+
+\item The wastewater flow to a treatment plant has a velocity of 61 cm/s. What is this velocity expressed in ft/min. Given: 1 ft = 30.48 cm\\
+Solution:\\
+$61 \enspace \dfrac{\cancel{cm}}{\cancel{s}} * \dfrac{ft}{30.48 \enspace \cancel{cm}}* \dfrac{60 \enspace \cancel{s}}{min} =  \boxed{120 \enspace ft/min}$\\
+
+\item Convert $8.0 \mathrm{cfs}$ to $\mathrm{gpm}$.\\
+a. $1.07 \mathrm{gpm}$\\
+$\begin{array}{ll}\text { b. } 64.2 \mathrm{gpm} \\ \text { c. } 480 \mathrm{gpm} & 8 \times 449\end{array}$\\
+(e.) $3,436 \mathrm{gpm}$\\
+
+\item Conyert 4,000 gpm to cfs.\\
+a.  $8.91 \mathrm{cfs}$\\
+b. $66.65 \mathrm{cfs}$\\
+c. $499 \mathrm{cfs}$\\
+d. $535 \mathrm{cfs}$\\
+e. $32,076 \mathrm{cfs}$\\
+
+\item Convert $12 \mathrm{MGD}$ to gpm.\\
+a. $0.00833 \mathrm{gpm}$\\
+b. $7,200 \mathrm{gpm} \quad 12 \times 700$\\
+d. $17,280 \mathrm{gpm}$\\
+e. $199,992 \mathrm{gpm}$\\
+
+\item Convert $5.5$ cfs to MGD.\\
+a. $0.059 \mathrm{MGD}$\\
+b. $0.148$ MGD\\
+c. $0.475 \mathrm{MGD}$\\
+(64) more Aaumole\\
+e. 7,920 MGD\\
+
+\item Convert 45 Acre-feet into million gallons.\\
+a. $6.02 \mathrm{Mgal}$\\
+b. $1.96 \mathrm{Mgal}$\\
+c.  $14.7 \mathrm{Mgal}$\\
+d. $45 \mathrm{Mgal}$\\
+e. $336.6 \mathrm{Mgal}$\\
+
+\item Convert $6.5$ feet per second into miles per hour.\\
+a.  $4.43 \mathrm{mph}$\\
+c. $13.3 \mathrm{mph}$\\
+d. $106 \mathrm{mph}$\\
+e. $266 \mathrm{mph}$\\
+
+\item Convert $3.4$ miles into feet.\\
+a. 5,000 feet\\
+b. 5,280 feet\\
+c. 5,984 feet\\
+d. 10,000 feet\\
+(e.) 17,952 feet\\
+$$=\frac{6.5 / 5280}{1 / 60 \times 60}$$\\
+$1 \mathrm{~m} / \mathrm{e}=25$ ft\\
+
+\item Convert $2,250 \mathrm{gpm}$ into MGD.\\
+a. 0.054MGD\\
+b. $3.24 \mathrm{MGD}$\\
+d. $2,250 \mathrm{MGD}$\\
+e. 3,240 MGD\\
+
+\item Convene $9.75 \mathrm{MGD}$ into cfs.\\
+a.  $15.1 \mathrm{cfs}$\\
+b. $37.75 \mathrm{cfs}$\\
+c. $113 \mathrm{cfs}$\\
+d. $363 \mathrm{cfs}$\\
+e. $845 \mathrm{cfs}$\\
+$$236 \pi$$\\
+
+\item Convert $1,000,000$ cubic feet into Acre-feet.\\
+a. $0.04356 \mathrm{AF}$\\
+b. $0.325829 \mathrm{AF}$\\
+c. $3.07 \mathrm{AF}$\\
+d. $22.96 \mathrm{AF}$\\
+e. $172 \mathrm{AF}$\\
+
+\item How many milliliters (ml) are in 1 gallon of water?
+*a. 3,785ml
+b. 2,345ml
+c. 834ml
+d. 743ml
+
+
+\item If exactly $100 \mathrm{gal}$ of polymer costs $\$ 19.50$, what will $5,500 \mathrm{gal}$ cost, assuming no quantity discount?\\
+$$\frac{19.50}{100} \times 5500=1,072.5$$\\
+
+\item A room measures $12 \mathrm{ft}$ high, 30 ft long, and 17 ft wide. How many cubic feet per minute of air must a blower in an air exchange unit move to completely change the air every 10 minutes?\\
+a. 102\\
+b. 612\\
+c. 1,020\\
+d. 6,120\\
+
+
+\item 500 GPM is how many gallons per houl?\\
+10560\\
+$$\frac{500 \mathrm{~g}^{\prime}}{1 \mathrm{~m}}=\frac{500}{1 / 10 h}=\text { Ans } \frac{30 \text { e0r }}{\mathrm{gph}}$$\\
+
+\item 30,000 gph is how many gallons per day?\\
+$$\frac{30,000 \mathrm{~g}}{h}=\frac{30,000}{1 / 24}=30,020 \times 24 \text { Ans. } \frac{720,010}{\mathrm{gpd}}$$\\
+\item A flow of $25 \mathrm{gpm}$ is low many gpd?\\
+$$\frac{25 \mathrm{~g}}{m}=\frac{25}{1 / 60} \times \frac{1}{24} \quad(25 \times 1440) \text { Ans. } 36,0 w \text { gpd }$$\\
+
+\item A flow of $800,000 \mathrm{gpd}$ is how many gpm? $\frac{800,000}{0.8 M G D \times 700}=560 \times 24 \times 60 \quad 555.55$\\
+$0.80 \mathrm{gpm}$\\
+
+\item A flow of $150 \mathrm{gpnn}$ is how many MGD?\\
+$$700 \text { (wm. }$$\\
+Ans.\\
+$\mathrm{MGD}$\\
+
+
+\item Convert 1000 $ft^3$ to cu. yards\\
+Solution:\\
+\vspace{0.2cm}
+
+
+
+
+\vspace{0.2cm}
+\item Convert 10 gallons/min to $ft^3$/hr\\
+Solution:\\
+\vspace{0.2cm}
+$\dfrac{ft^3}{hr}=10\dfrac{\cancel{gal}}{\cancel{min}}*\dfrac{ft^3}{7.48\cancel{gal}}*\dfrac{60\cancel{min}}{hr}=\boxed{80.2 \dfrac{ft^3}{hr}}$
+
+\vspace{0.2cm}
+\item Find the flow in gpm when the flow is $0.25 \mathrm{cfs}$.\\
+Solution:\\
+\vspace{0.2cm}
+$\dfrac{gal}{min}=0.25\dfrac{\cancel{ft^3}}{\cancel{sec}}*\dfrac{7.48gal}{\cancel{ft^3}}*\dfrac{60\cancel{sec}}{min}=\boxed{112.2 \dfrac{gal}{min}}$
+
+
+\vspace{0.2cm}
+\item The flow rate through a filter is 4.25 MGD. What is this flow rate expressed as gpm?\\
+Solution:\\
+\vspace{0.2cm}
+$\dfrac{gal}{min}=4.25\dfrac{\cancel{MG}}{\cancel{day}}*\dfrac{1,000,000gal}{\cancel{MG}}*\dfrac{\cancel{day}}{1,440min}=\boxed{2,951 \dfrac{gal}{min}}$
+
+\vspace{0.2cm}
+\item After calibrating a chemical feed pump, you've determined that the maximum feed rate is $178 \mathrm{~mL} /$ minute. If this pump ran continuously, how many gallons will it pump in a full day?\\
+Solution:\\
+\vspace{0.2cm}
+$\dfrac{gal}{day}=178\dfrac{\cancel{mL}}{\cancel{min}}*\dfrac{L}{1000\cancel{mL}}*\dfrac{1,440\cancel{min}}{day}=\boxed{119,680 \dfrac{gal}{day}}$
+
+
+\vspace{0.2cm}
+\item A plant produces 2,000 cubic foot of water per hour. How many gallons of water is produced in an 8-hour shift?\\
+Solution:\\
+\vspace{0.2cm}
+
+$\dfrac{gal}{8-hr \enspace shift}=2,000\dfrac{\cancel{ft^3}}{\cancel{hr}}*\dfrac{7.48gal}{\cancel{ft^3}}*\dfrac{8\cancel{hr}}{8-hr \enspace shift}=\boxed{253.6 \dfrac{gal}{day}}$
+
+\vspace{0.2cm}
+\item Change 70 °F to °C\\
+Solution:\\
+\vspace{0.2cm}
+$\degree{C} = \dfrac{\degree{F}-32}{1.8} = \dfrac{70-32}{1.8}=\boxed{21.1\degree{C}}$
+\vspace{0.2cm}
+\item Change 4 °C to °F\\
+Solution:\\
+\vspace{0.2cm}
+$\degree{F}=(\degree{C} \times 1.8)+32 = (4*1.8)+32=\boxed{39.2\degree{F}}$
+\end{enumerate}
+
+
+
+\end{document}

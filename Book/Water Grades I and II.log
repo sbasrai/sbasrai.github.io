@@ -1,0 +1,477 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.5)  10 NOV 2022 08:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Water Grades I and II.tex"
+(Water Grades I and II.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks19
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-10-26 L3 programming layer (loader) 
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box53
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count272
+\calc@Bcount=\count273
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count274
+\calc@Cskip=\skip54
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count275
+\g__chemgreek_tmpa_int=\count276
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen150
+\stockheight=\dimen151
+))
+\l__mhchem_ce_distanceFromLastComma_int=\count277
+\__mhchem_arrow_extPgfLength_skip=\skip55
+\mhchem@minispace@tmp=\skip56
+\mhchem@minibackspace@tmp=\skip57
+\mhchem@bondwidth=\skip58
+\mhchem@bondheight=\skip59
+\mhchem@smallbondwidth@tmpA=\skip60
+\mhchem@smallbondwidth@tmpB=\skip61
+\mhchem@smallbondwidth=\skip62
+\mhchem@bondtmp@minussidebearingleft=\skip63
+\mhchem@bondtmp@minussidebearingright=\skip64
+\l__mhchem_option_version_int=\count278
+\mhchem@option@minusmathsidebearingleft=\dimen152
+\mhchem@option@minusmathsidebearingright=\dimen153
+\mhchem@option@minustextsidebearingleft=\dimen154
+\mhchem@option@minustextsidebearingright=\dimen155
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box54
+)
+\tc@llx=\dimen158
+\tc@lly=\dimen159
+\tc@urx=\dimen160
+\tc@ury=\dimen161
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen162
+\adjbox@Height=\dimen163
+\adjbox@Depth=\dimen164
+\adjbox@Totalheight=\dimen165
+\adjbox@pwidth=\dimen166
+\adjbox@pheight=\dimen167
+\adjbox@pdepth=\dimen168
+\adjbox@ptotalheight=\dimen169
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count280
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box55
+\sift@deathcycles=\count281
+\@vwid@loff=\dimen170
+\@vwid@roff=\dimen171
+)) (Water Grades I and II.aux)
+\openout1 = `"Water Grades I and II.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+Package chemgreek Info: Activating mapping `default' on line 18.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen172
+\scratchbox=\box56
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen173
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) [1
+
+{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 8
+2.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+[2] [3] [4] [5] [6] [7] [8]
+Overfull \hbox (23.33286pt too wide) in paragraph at lines 411--416
+[]\T1/cmr/m/n/10 Which is the Max-i-mum Con-tam-i-nant Level for to-tal tri-hal
+omethanes (TTHMs)? 
+ []
+
+[9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+
+ []
+
+[11] [12] [13] [14] [15]
+Overfull \hbox (0.72617pt too wide) in paragraph at lines 697--702
+[]\T1/cmr/m/n/10 A 1.75-mil gal stor-age tank needs to be dis-in-fected with a 
+sodium hypochlo-
+ []
+
+[16] [17] [18] [19]
+Overfull \hbox (20.78293pt too wide) in paragraph at lines 924--925
+[]\T1/cmr/m/n/10 Equation: Pipe vol-ume, gal $\OT1/cmr/m/n/10 = (0\OML/cmm/m/it
+/10 :\OT1/cmr/m/n/10 785)([][])[]($ \T1/cmr/m/n/10 Length, $[]\OT1/cmr/m/n/10 )
+ []$ 
+ []
+
+[20]
+Overfull \hbox (27.0255pt too wide) in paragraph at lines 1007--1008
+[]\T1/cmr/m/n/10 Equation: Pumped, gal/day $\OT1/cmr/m/n/10 = []$ 
+ []
+
+[21]
+Overfull \hbox (0.37125pt too wide) in paragraph at lines 1076--1077
+[]\T1/cmr/m/n/10 Equation: Vol-ume, gal $\OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 :
+\OT1/cmr/m/n/10 785)([][])[]($ \T1/cmr/m/n/10 Length, $[]\OT1/cmr/m/n/10 ) []$
+ []
+
+[22]
+<2022_11_10_d6923b5a412978ed01fcg-36.jpg, id=83, 1276.77pt x 120.45pt>
+File: 2022_11_10_d6923b5a412978ed01fcg-36.jpg Graphic file (type jpg)
+<use 2022_11_10_d6923b5a412978ed01fcg-36.jpg>
+Package pdftex.def Info: 2022_11_10_d6923b5a412978ed01fcg-36.jpg  used on input
+ line 1102.
+(pdftex.def)             Requested size: 1276.76689pt x 120.44969pt.
+
+Overfull \hbox (24.98581pt too wide) in paragraph at lines 1102--1103
+[][] 
+ []
+
+
+Overfull \hbox (20.78293pt too wide) in paragraph at lines 1128--1129
+[]\T1/cmr/m/n/10 Equation: Pipe vol-ume, gal $\OT1/cmr/m/n/10 = (0\OML/cmm/m/it
+/10 :\OT1/cmr/m/n/10 785)([][])[]($ \T1/cmr/m/n/10 Length, $[]\OT1/cmr/m/n/10 )
+ []$ 
+ []
+
+
+Overfull \hbox (23.17827pt too wide) in paragraph at lines 1146--1147
+[]\T1/cmr/m/n/10 Substitute known val-ues and solve: $[] \OT1/cmr/m/n/10 = [] =
+ 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 61632[]$ 
+ []
+
+[23 <./2022_11_10_d6923b5a412978ed01fcg-36.jpg>] [24]
+Overfull \hbox (5.24156pt too wide) in paragraph at lines 1228--1229
+[]\T1/cmr/m/n/10 Top area, $[][] \OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 :\OT1/cmr
+/m/n/10 785)([][])[] = (0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 785)(80\OML/cmm/m/it
+/10 :\OT1/cmr/m/n/10 1[])(80\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1[]) = 5\OML/cmm/
+m/it/10 ; \OT1/cmr/m/n/10 037[][]$ 
+ []
+
+
+Overfull \hbox (4.25317pt too wide) in paragraph at lines 1246--1247
+[]\T1/cmr/m/n/10 Equation: Vol-ume, gal $\OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 :
+\OT1/cmr/m/n/10 785)([][])[]($ \T1/cmr/m/n/10 Length, $[]\OT1/cmr/m/n/10 ) []$ 
+
+ []
+
+[25] [26]
+Overfull \hbox (3.29941pt too wide) in paragraph at lines 1356--1357
+[]\T1/cmr/m/n/10 Volume of pipe, gal $\OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 785)(2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0[])(2\OML/cmm/m/it/10 :\O
+T1/cmr/m/n/10 0[])(427[]) [] = 10\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 029[]$ 
+ []
+
+
+Overfull \hbox (37.7977pt too wide) detected at line 1398
+[][]
+ []
+
+[27]
+Overfull \hbox (14.2216pt too wide) in paragraph at lines 1456--1457
+[]\T1/cmr/m/n/10 Gallons per capita per day $\OT1/cmr/m/n/10 ([]) =$ \T1/cmr/m/
+n/10 Vol-ume gal/day $\OMS/cmsy/m/n/10 ^^D$ \T1/cmr/m/n/10 Pop-u-la-tion served
+/day 
+ []
+
+
+Overfull \hbox (10.158pt too wide) in paragraph at lines 1464--1464
+[]\T1/cmr/bx/n/14.4 Additional Dis-tri-bu-tion Op-er-a-tor Prac-tice Ques-
+ []
+
+[28] [29] [30] [31] [32] [33] [34] [35] [36]
+Overfull \hbox (6.61362pt too wide) in paragraph at lines 1835--1840
+\T1/cmr/m/n/10 (MS)/Facility map-ping (FM)/Geographic In-for-ma-tion Sys-tems (
+GIS) would
+ []
+
+[37]
+Overfull \hbox (5.68903pt too wide) in paragraph at lines 1881--1886
+\T1/cmr/m/n/10 c. De-creas-ing chlo-rine de-ten-tion time in reser-voirs and di
+s-tri-bu-tion pipelines 
+ []
+
+[38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+Overfull \hbox (16.50009pt too wide) in paragraph at lines 2411--2416
+[]\T1/cmr/m/n/10 Which is the Lo-ca-tional Run-ning An-nual Av-er-age (LRAA) fo
+r tri-halomethanes
+ []
+
+
+Overfull \hbox (32.60727pt too wide) in paragraph at lines 2411--2416
+\T1/cmr/m/n/10 (THM) and haloacetic acid 5 (HAA5) un-der the Stage 2 Dis-in-fec
+-tants/Disinfection
+ []
+
+[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+Overfull \hbox (0.72617pt too wide) in paragraph at lines 3023--3028
+[]\T1/cmr/m/n/10 A 1.75-mil gal stor-age tank needs to be dis-in-fected with a 
+sodium hypochlo-
+ []
+
+[66] [67] (Water Grades I and II.aux) ) 
+Here is how much of TeX's memory you used:
+ 5299 strings out of 475380
+ 91232 string characters out of 2776772
+ 445633 words of memory out of 3000000
+ 26612 multiletter control sequences out of 15000+600000
+ 476672 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 59i,11n,68p,484b,273s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\indov\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\indov\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\indov\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\indov\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk><C:/Users/indov/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Use
+rs/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pf
+b><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr5.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/indov/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/indov/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "Water Grades I and II.pdf" (67 pages, 317806 bytes).
+PDF statistics:
+ 437 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

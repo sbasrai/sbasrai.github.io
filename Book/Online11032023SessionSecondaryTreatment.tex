@@ -1,0 +1,166 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+%\usepackage{gensymb}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1 in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{mathabx}
+\usepackage{textcomp,mathcomp}
+\usepackage[shortlabels]{enumitem}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+\usepackage{siunitx}
+
+%\usepackage{textcomp}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usetikzlibrary{calc, decorations.markings}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes,snakes}
+\usetikzlibrary{quotes,angles, positioning}
+%\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}}}
+%\rhead{\ifthenelse{\value{page}=1}{Final Exam}{}}
+%\lhead{\ifthenelse{\value{page}=1}{Water Treatment - Oct-Dec 2022}{\textbf Final Exam}}
+%\rfoot{\ifthenelse{\value{page}=1}{}{}}
+%
+%\cfoot{}
+%\lfoot{Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{1pt}
+\graphicspath{ {./images/} }
+
+\chead{\ifthenelse{\value{page}=1}{\textbf \\ \textbf November 23, 2023 Online Math Session}{\textbf \\ \textbf November 23, 2023 Online Math Session}}
+\rhead{\ifthenelse{\value{page}=1}{}{}}
+\lhead{\ifthenelse{\value{page}=1}{}{}}
+\rfoot{\ifthenelse{\value{page}=1}{Secondary Treatment - Activated Sludge and Trickling Filter}{Secondary Treatment - Activated Sludge and Trickling Filter}}
+
+\cfoot{}
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+
+\begin{enumerate}
+
+
+\item At an activated sludge wastewater treatment plant receiving 3.25 MGD, the final effluent suspended solids concentration averages 21.2 mg/L. What would the calculated MCRT value be when the aeration basin carries 2,050 mg/L MLSS and wastes 0.0550 MGD. The waste activated sludge has a concentration of 7,980 mg/L. The aeration tank has a volume of 1.00 MG and the secondary clarifier has an operational volume of 0.250 MG.\\
+\vspace{1cm}
+$MCRT (days) =  \dfrac{MLSS \enspace in \enspace aeration \enspace tank \enspace (lbs)+MLSS \enspace in \enspace clarifier \enspace (lbs)}{SS \enspace effluent \enspace (lbs/day)+SS \enspace WAS \enspace (lbs/day)}$\\
+\vspace{0.3cm} 
+$MLSS \enspace in \enspace aeration \enspace tank \enspace (lbs)=1*2050*8.34=17,097lbs$\\
+\vspace{0.3cm} 
+$MLSS \enspace in \enspace clarifier \enspace (lbs)=0.25*2050*8.34=4,274.3lbs$\\
+\vspace{0.3cm} 
+$SS \enspace effluent \enspace (lbs/day)=3.25MGD *21.2mg/l*8.34=574.6 lbs/day$\\
+\vspace{0.3cm} 
+$SS \enspace WAS \enspace (lbs/day)=0.055MGD *7,980mg/l*8.34=3,660.4lbs/day$\\
+\vspace{0.3cm} 
+Plugging in the values calculated above: $MCRT (days) =  \dfrac{17,097.6+4,274.3}{574.6+3,660.4}=4.8=\boxed{5 \enspace days}$\\
+\vspace{0.2cm}
+
+\item Given that an activated sludge plant with an influent flow of 1.2 MGD is operated at an MCRT of 6 days and the parameters below, calculate the WAS flow rate  in gallons per day.\\
+\vspace{1cm}
+\begin{tabular}{ | m {7 cm} | m {7 cm}| } 
+ \hline
+Two aeration tanks – 0.5 MG each & Two final clarifiers – 0.25 MG each \\ 
+ \hline
+ Final effluent $= 20mg/l$ & WAS – 7500 ppm\\ 
+ \hline
+ MLSS –$3600mg/l$ & MLSS volatile solids content = 80\%  \\
+ \hline
+\end{tabular}\\
+\vspace{1cm}
+MCRT$=\dfrac{lbs MLSS (system)}{\dfrac{lbs}{day}Effluent SS + \dfrac{lbs}{day}WAS_{SS}}  $
+
+\noindent lbs MLSS (system)$=(2*0.5 + 2*0.25)MG * 3600\dfrac{mg}{L} * 8.34 = 45036lbs$
+
+\noindent $\dfrac{lbs}{day} Effluent SS= 1.2 MG * 20\dfrac{mg}{L} * 8.34 = 200.2lbs$
+
+\noindent MCRT: $6 days=\dfrac{45036}{200.2 \dfrac{lbs}{day}+ \dfrac{lbs}{day}WAS_{SS}}  $
+
+\noindent $\dfrac{lbs}{day}WAS_{SS} = \dfrac{45036}{6} - 200.2 = 7306 \dfrac{lbs}{day}$
+
+\noindent $7306 \dfrac{lbs}{day} = WAS Flow (MGD) * 7500 * 8.34$\\
+$ \implies WAS Flow (MGD)=\dfrac{7306}{7500*8.34}=0.116 MGD = \boxed {116,000 \dfrac{gal}{day}}  $
+\newpage
+
+\item The 1.5 MGD influent to a treatment plant has an average BOD of 280 mg/L.  32\% of this BOD is removed in the primary sedimentation tank. The primary effluent flows into an aeration tank containing 7000 lbs of MLSS with 79 \% volatile matter.  Calculate this plant's F to M ratio.\\
+
+\vspace{1cm}
+
+Influent BOD concentration to the AS basin: $280\dfrac{mg}{l}*(1-0.32)= 190.4 \dfrac{mg}{l}$\\
+
+$\dfrac{F}{M}= \dfrac{1.5 MGD * 190.4\dfrac{mg}{l}*8.34}{7000*0.79}= \boxed{0.43\dfrac{F}{M}}$\\
+\vspace{0.3cm}
+
+
+\item The desired F/M ratio is .35 lbs BOD/day/lb MLVSS. If 2,100 lbs of BOD enter the aerator daily, how many lbs of MLVSS should be maintained in the aeration tank?\\
+\vspace{1cm}
+$F:M=\dfrac{(lbs/day) \enspace primary \enspace effluent  \enspace BOD \enspace entering \enspace the  \enspace aeration \enspace tank}{(lbs) \enspace MLVSS \enspace in \enspace the  \enspace aeration \enspace tank}$\\
+\vspace{0.3cm}
+$\implies 0.35=\dfrac{2100}{x}\implies x = \boxed{6000lbs \enspace MLVSS}$\\
+
+\item In an aeration tank, the MLSS is 2650 mg/l and recorded 30-minute settling test indicates 221 ml/L.  What is the sludge volume index?\\
+\vspace{1cm}
+SVI (ml/g)= $\dfrac{Settled \enspace sludge \enspace volume \enspace in \enspace ml/l \enspace after \enspace 30 \enspace min}{MLSS \enspace mg/l}*1000 \dfrac{mg}{g}$\\
+\vspace{0.5cm}
+SVI=$\dfrac{221ml/l}{2650mg/l}*1000\dfrac{mg}{g}=\boxed{83ml/g}$
+
+
+\item The total influent flow (including recirculation) to a trickling filter is 1.89 MGD. If the trickling filter is 80 ft in diameter, what is the hydraulic loading in gpd/sq ft on the trickling filter?\\
+\vspace{1cm}
+ $Hydraulic \enspace loading \enspace \frac{gpd}{ft^2}=\frac{(1.89*10^6)gpd}{(0.785*80^2)ft^2} =\boxed{376\frac{gpd}{ft^2}}$
+\item  The suspended solids concentration entering a trickling filter is 236 mg/l. If the suspended solids concentration of the trickling filter effluent is 33 mg/l, what is the suspended solids removal efficiency of the trickling filter?\\
+\vspace{1cm}
+$\% Removal=\frac{236 mg/l-33 mg/l}{236 mg/l}*100=\boxed{86\%}$
+\newpage
+
+\item  A trickling filter, 70 ft in diameter with a media depth of 6 ft, receives a flow of 0.78 MGD. If the BOD concentration of the primary effluent is 167 mg/L, what is the organic loading on the trickling filter in lbs BOD/day/1000 cu ft?\\
+\vspace{1cm}
+$Organic \enspace loading:\dfrac{lbs \enspace BOD}{day-1000ft^3}=\dfrac{lbs \enspace BOD \enspace feed \enspace to \enspace TF \enspace per \enspace day}{volume \enspace in \enspace 1000ft^3}$\\
+\vspace{0.3cm}
+$=\dfrac{\dfrac{(0.78*167*8.34)lbs \enspace BOD}{day}}{(0.785*70^2*6)ft^3*\dfrac{1000ft^3}{1000ft^3}}=\boxed{\dfrac{47 lbs \enspace BOD}{day-1000 ft^3}}$
+
+
+\item A trickling filter has a total flow of 32 MGD.  If the recirculation ratio is 0.8, what is the primary effluent flow to the TF?\\
+\vspace{1cm}
+$Total \enspace Flow (Q_T) = Influent \enspace Flow (Q_I)*(Recirculation \enspace Ratio(R_R) +1)$\\
+$\implies 32 MGD=Q_I*(0.8+1)\implies Q_I=\dfrac{32}{1.8}=\boxed{17.8 MGD}$
+
+\item The desired trickling filter recirculation ratio is 1.4.  If the primary effluent flow is 4.4 MGD what is the trickling filter effluent flow that needs to be recirculated.\\
+Solution:\\
+$R_R=\dfrac{Q_R}{Q_I}\implies 1.4=\dfrac{Q_R}{4.4}\implies Q_R =1.4*4.4=\boxed{6.2 MGD}$\\
+
+
+
+
+
+\end{enumerate}
+
+\end{document}

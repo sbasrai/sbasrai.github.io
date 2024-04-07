@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Module 2}}{9}{part.1}%
+\contentsline {chapter}{\numberline {1}Water Properties and Sources}{11}{chapter.1}%
+\contentsline {part}{\@mypartnumtocformat {II}{Module 3}}{25}{part.2}%
+\contentsline {chapter}{\numberline {2}Water Quality \& Laboratory Procedures}{27}{chapter.2}%
+\contentsline {part}{\@mypartnumtocformat {III}{Module 4}}{41}{part.3}%
+\contentsline {chapter}{\numberline {3}Water Regulations}{43}{chapter.3}%
+\contentsline {part}{\@mypartnumtocformat {IV}{Module 5}}{79}{part.4}%
+\contentsline {chapter}{\numberline {4}Water Treatment}{81}{chapter.4}%
+\contentsline {part}{\@mypartnumtocformat {V}{Module 6}}{103}{part.5}%
+\contentsline {chapter}{\numberline {5}Disinfection}{105}{chapter.5}%
+\contentsline {part}{\@mypartnumtocformat {VI}{Module 7}}{121}{part.6}%
+\contentsline {chapter}{\numberline {6}Pumping Systems}{123}{chapter.6}%
+\contentsline {part}{\@mypartnumtocformat {VII}{Module 8}}{139}{part.7}%
+\contentsline {chapter}{\numberline {7}Water Distribution}{141}{chapter.7}%
+\contentsline {part}{\@mypartnumtocformat {VIII}{Module 9}}{161}{part.8}%
+\contentsline {chapter}{\numberline {8}Safety}{163}{chapter.8}%
+\contentsline {part}{\@mypartnumtocformat {IX}{Module 10}}{173}{part.9}%
+\contentsline {chapter}{\numberline {9}Water Math}{175}{chapter.9}%
+\contentsfinish 

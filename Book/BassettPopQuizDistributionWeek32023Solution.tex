@@ -1,0 +1,157 @@
+\documentclass{article}
+
+%\usepackage[english]{babel}%
+
+\usepackage{graphicx}
+
+\usepackage{tabulary}
+
+\usepackage{tabularx}
+
+\usepackage[table,xcdraw]{xcolor}
+
+\usepackage{pdflscape}
+
+\usepackage{float}
+
+\usepackage{lastpage}
+
+\usepackage{multirow}
+
+\usepackage{xcolor}
+
+\usepackage{cancel}
+
+\usepackage{amsmath}
+
+\usepackage[table]{xcolor}
+
+\usepackage{fixltx2e}
+
+\usepackage[T1]{fontenc}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{ifthen}
+
+\usepackage{fancyhdr}
+
+\usepackage[document]{ragged2e}
+
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+
+\usepackage{ifthen}
+
+\usepackage{fancyhdr}
+
+\everymath{\displaystyle}
+
+\usepackage[document]{ragged2e}
+
+\usepackage{fancyhdr}
+
+\usepackage{mathabx}
+
+\usepackage[shortlabels]{enumitem}
+\usepackage{tikz}
+\usepackage{mwe}
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usetikzlibrary{calc, decorations.markings}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes,snakes}
+\usetikzlibrary{quotes,angles, positioning}
+
+\everymath{\displaystyle}
+
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+
+%\pagestyle{fancy}
+
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+
+%\everymath{\displaystyle}
+
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+
+%\pagestyle{fancy}
+
+\pagestyle{fancy}
+
+\setlength{\headheight}{56.2pt}
+
+\usepackage{soul}
+
+ \graphicspath{ {./images/} }
+
+\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}\\ \textbf \textbf Pop Quiz 1/24/2023}}
+
+\rhead{\ifthenelse{\value{page}=1}{Solution}{}}
+
+\lhead{\ifthenelse{\value{page}=1}{Water Distribution - January 2023}{Pop Quiz 1/24/2023}}
+
+\rfoot{\ifthenelse{\value{page}=1}{}{}}
+
+ 
+
+\cfoot{}
+
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+
+\renewcommand{\headrulewidth}{2pt}
+
+\renewcommand{\footrulewidth}{1pt}
+
+\begin{document}
+
+ 
+
+
+\begin{enumerate}
+
+\item An operator mixes 40 lb of lime in a 100-gal tank containing 80 gal of water. What is the percent of lime in the slurry?\\
+\vspace{0.3cm}
+Solution:\\
+\vspace{0.3cm}
+Method 1: Using lbs formula: $\mathrm{mg/l}=\dfrac{40}{\dfrac{80}{1,000,000}*8.34}=59,952=60,000mg/l=\boxed{6\%}$
+
+\vspace{0.3cm}
+
+Method 2: Using unit conversion: $\dfrac{40 \enspace  \mathrm{lbs}}{80 \enspace\mathrm{gal}}*\dfrac{454 \enspace  \mathrm{gms}}{\mathrm{lb}}*\dfrac{1000 \enspace  \mathrm{mg}}{\mathrm{gm}}*\dfrac{\mathrm{gal}}{3.785 \enspace  \mathrm{l}}=60,000mg/l=\boxed{6\%}$
+
+\item Find the detention time in minutes for a clarifier that has a diameter of 152 ft and a water depth of 8.22 ft, if the flow rate is 6.8 mgd.
+\vspace{0.4cm}
+
+Solution: 
+$
+\mathrm{DT}=\dfrac{Volume}{Flow}=\dfrac{0.785*152^2*8.22\enspace  \mathrm{ft^3}}{\dfrac{6.8*1,000,000 \enspace  \mathrm{gal}}{\mathrm{day}}*\dfrac{ft^3}{7.48 \enspace  \mathrm{gal}}*\dfrac{\mathrm{day}}{1,440 \enspace  \mathrm{min}}}=\boxed{236 \mathrm{~min}}
+$
+
+\vspace{0.3cm}
+
+\item Water is flowing at a velocity of 1.70 fps in a 10-in. diameter pipe. If the pipe changes from the 10-in. to a 6-in. pipe, what will the velocity be in the 6-in. pipe?
+
+\vspace{0.3cm}
+Solution:\\
+\vspace{0.3cm}
+Method 1: Finding the Q given the velocity in the 10 in. pipe and then using that Q to find velocity in the 6 in. pipe.  Note:  The Q remains the same, only the velocity will change as the pipe becomes smaller.\\
+\vspace{0.3cm}
+Step A - Finding the flow rate:\\
+\vspace{0.3cm}
+$\mathrm{Q}=\mathrm{V}*\mathrm{A}= \dfrac{1.70 \enspace \mathrm{ft}}{\mathrm{sec}}*0.785*(\dfrac{10}{12})^2 \enspace \mathrm{ft}^2=0.9267 \enspace \mathrm{ft}^3/\mathrm{sec}$\\
+\vspace{0.3cm}
+Step B - Finding the veocity through the 6 in. pipe:\\
+\vspace{0.3cm}
+$\mathrm{Q}=\mathrm{V}*\mathrm{A} \implies \mathrm{V}= \dfrac{\mathrm{Q}}{\mathrm{A}} \implies  \dfrac{0.9267 \enspace \mathrm{ft}^3/sec}{0.785*\Big(\dfrac{6}{12}\Big)^2 \mathrm{ft}^2}=\boxed{4.7 \enspace \mathrm{ft/sec}}$\\
+\vspace{0.3cm}
+Method 2: Using proportions method.\\
+\vspace{0.3cm}
+As Q is constant, $\mathrm{V} \propto \dfrac{1}{\mathrm{A}} \propto \dfrac{1}{\mathrm{D}^2} \implies V*\mathrm{D}^2=constant$\\
+\vspace{0.3cm}
+$\implies \mathrm{V}_{10}*\mathrm{D_{10}}^2=  V_{6}*\mathrm{D}_{6}^2 \implies V_{6} = \dfrac{\mathrm{V}_{10}*\mathrm{D_{10}}^2}{\mathrm{D}_{6}^2} = \dfrac{1.70*10^2}{6^2}=\boxed{4.7 \enspace \mathrm{ft/sec}}$
+
+
+
+\end{enumerate}
+\end{document}

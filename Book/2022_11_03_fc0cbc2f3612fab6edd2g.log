@@ -1,0 +1,1230 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  18 NOV 2022 18:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./2022_11_03_fc0cbc2f3612fab6edd2g.tex
+(2022_11_03_fc0cbc2f3612fab6edd2g.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks19
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-10-26 L3 programming layer (loader) 
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box53
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count272
+\calc@Bcount=\count273
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count274
+\calc@Cskip=\skip54
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count275
+\g__chemgreek_tmpa_int=\count276
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen150
+\stockheight=\dimen151
+))
+\l__mhchem_ce_distanceFromLastComma_int=\count277
+\__mhchem_arrow_extPgfLength_skip=\skip55
+\mhchem@minispace@tmp=\skip56
+\mhchem@minibackspace@tmp=\skip57
+\mhchem@bondwidth=\skip58
+\mhchem@bondheight=\skip59
+\mhchem@smallbondwidth@tmpA=\skip60
+\mhchem@smallbondwidth@tmpB=\skip61
+\mhchem@smallbondwidth=\skip62
+\mhchem@bondtmp@minussidebearingleft=\skip63
+\mhchem@bondtmp@minussidebearingright=\skip64
+\l__mhchem_option_version_int=\count278
+\mhchem@option@minusmathsidebearingleft=\dimen152
+\mhchem@option@minusmathsidebearingright=\dimen153
+\mhchem@option@minustextsidebearingleft=\dimen154
+\mhchem@option@minustextsidebearingright=\dimen155
+
+
+Package mhchem Warning: You did not specify a 'version' option for the mhchem
+(mhchem)                package. Please write \usepackage[version=4]{mhchem}
+(mhchem)                in your preamble (or any lower number for
+(mhchem)                compatibility mode), because you might get slightly
+(mhchem)                different output with the same input in future versions
+.
+
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box54
+)
+\tc@llx=\dimen158
+\tc@lly=\dimen159
+\tc@urx=\dimen160
+\tc@ury=\dimen161
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen162
+\adjbox@Height=\dimen163
+\adjbox@Depth=\dimen164
+\adjbox@Totalheight=\dimen165
+\adjbox@pwidth=\dimen166
+\adjbox@pheight=\dimen167
+\adjbox@pdepth=\dimen168
+\adjbox@ptotalheight=\dimen169
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count280
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box55
+\sift@deathcycles=\count281
+\@vwid@loff=\dimen170
+\@vwid@roff=\dimen171
+))
+No file 2022_11_03_fc0cbc2f3612fab6edd2g.aux.
+\openout1 = `2022_11_03_fc0cbc2f3612fab6edd2g.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+Package chemgreek Info: Activating mapping `default' on line 19.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen172
+\scratchbox=\box56
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen173
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 2
+0.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+[1
+
+{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+[3] [4] [5]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-05' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-05}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-05(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-05(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-05(2).jpg, id=27, 1318.9275pt x 310
+.15875pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-05(2).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-05(2).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-05(2).jpg  
+used on input line 184.
+(pdftex.def)             Requested size: 1318.92429pt x 310.15799pt.
+
+Overfull \hbox (14.98596pt too wide) in paragraph at lines 184--185
+[][] 
+ []
+
+[7 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-05(2).jpg>]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-06' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.199 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-06}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-06(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-06(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-07' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-07}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-07(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.216 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-07(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-07(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-07(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-08' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.245 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-08}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+[9]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-09' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-09}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-09(1).jpg, id=42, 1270.7475pt x 350
+.30875pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-09(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-09(1).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-09(1).jpg  
+used on input line 265.
+(pdftex.def)             Requested size: 1270.7444pt x 350.30789pt.
+
+Overfull \hbox (15.00664pt too wide) in paragraph at lines 265--266
+[][] 
+ []
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-10.jpg, id=43, 1319.93124pt x 734.7
+45pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-10.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-10.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-10.jpg  use
+d on input line 272.
+(pdftex.def)             Requested size: 1319.92802pt x 734.7432pt.
+
+Overfull \hbox (14.98668pt too wide) in paragraph at lines 272--273
+[][] 
+ []
+
+[10 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-09(1).jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-10(1).jpg, id=47, 884.30376pt x 737
+.75626pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-10(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-10(1).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-10(1).jpg  
+used on input line 274.
+(pdftex.def)             Requested size: 884.3016pt x 737.75446pt.
+
+Overfull \hbox (14.99852pt too wide) in paragraph at lines 274--275
+[][] 
+ []
+
+[11 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-10.jpg> <./images//2022_11_03_f
+c0cbc2f3612fab6edd2g-10(1).jpg>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+[13]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-12' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.332 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-12}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-13.jpg, id=58, 1288.815pt x 570.13p
+t>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-13.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-13.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-13.jpg  use
+d on input line 340.
+(pdftex.def)             Requested size: 1288.81187pt x 570.12862pt.
+
+Overfull \hbox (14.99551pt too wide) in paragraph at lines 340--341
+[][] 
+ []
+
+[14 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-13.jpg>]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-14' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-14}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-14(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-14(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-14(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.363 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-14(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-14(3)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.367 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-14(3)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[15]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-15' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.390 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-15}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[16]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-16' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-16}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+[17]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-17' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.421 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-17}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-17(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.433 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-17(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
+ []
+
+[18]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-18' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.442 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-18}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+
+ []
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-18(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.451 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-18(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-19.jpg, id=74, 1352.05125pt x 1099.
+10625pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-19.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-19.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-19.jpg  use
+d on input line 463.
+(pdftex.def)             Requested size: 1352.04796pt x 1099.10356pt.
+
+Overfull \hbox (14.98512pt too wide) in paragraph at lines 463--464
+[][] 
+ []
+
+[19]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-20.jpg, id=79, 612.2875pt x 457.71p
+t>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20.jpg  use
+d on input line 471.
+(pdftex.def)             Requested size: 612.28601pt x 457.7089pt.
+ [20 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-19.jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(1).jpg, id=83, 593.21625pt x 459
+.7175pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(1).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(1).jpg  
+used on input line 476.
+(pdftex.def)             Requested size: 593.2148pt x 459.71637pt.
+ [21 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-20.jpg> <./images//2022_11_03_
+fc0cbc2f3612fab6edd2g-20(1).jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(2).jpg, id=87, 358.33875pt x 437
+.635pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(2).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(2).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(2).jpg  
+used on input line 482.
+(pdftex.def)             Requested size: 358.33788pt x 437.63393pt.
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(3).jpg, id=88, 331.2375pt x 432.
+61626pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(3).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(3).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(3).jpg  
+used on input line 488.
+(pdftex.def)             Requested size: 331.23668pt x 432.6152pt.
+ [22 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(2).jpg>]
+[23 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(3).jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(4).jpg, id=95, 698.61pt x 971.63
+pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(4).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(4).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(4).jpg  
+used on input line 506.
+(pdftex.def)             Requested size: 698.60829pt x 971.62764pt.
+ [24] [25 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-20(4).jpg>]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-21' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.529 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-21}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-21(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.536 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-21(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[26]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-22' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.544 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-22}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
+
+ []
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-22(1).jpg, id=106, 1288.815pt x 449
+.68pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-22(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-22(1).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-22(1).jpg  
+used on input line 552.
+(pdftex.def)             Requested size: 1288.81187pt x 449.6789pt.
+
+Overfull \hbox (14.99551pt too wide) in paragraph at lines 552--553
+[][] 
+ []
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-23.jpg, id=107, 1352.05125pt x 1619
+.04875pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-23.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-23.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-23.jpg  use
+d on input line 556.
+(pdftex.def)             Requested size: 1352.04796pt x 1619.04482pt.
+
+Overfull \hbox (14.98512pt too wide) in paragraph at lines 556--557
+[][] 
+ []
+
+[27 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-22(1).jpg>] [28 <./images//2022
+_11_03_fc0cbc2f3612fab6edd2g-23.jpg>] [29]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-25' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.610 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-25}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-25(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.614 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-25(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[30]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-26.jpg, id=121, 830.10126pt x 560.0
+925pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-26.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-26.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-26.jpg  use
+d on input line 626.
+(pdftex.def)             Requested size: 830.09924pt x 560.09113pt.
+
+Overfull \hbox (14.99226pt too wide) in paragraph at lines 626--627
+[][] 
+ []
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-26(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.628 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-26(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-26(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-26(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[31 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-26.jpg>]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-27' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.647 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-27}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-27(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.651 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-27(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-27(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.655 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-27(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-27(3)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.661 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-27(3)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[32]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-28' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.668 ...dth]{2022_11_03_fc0cbc2f3612fab6edd2g-28}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-28(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.672 ...]{2022_11_03_fc0cbc2f3612fab6edd2g-28(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[33]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-30.jpg, id=132, 641.39626pt x 530.9
+8375pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30.jpg  use
+d on input line 726.
+(pdftex.def)             Requested size: 641.39468pt x 530.98244pt.
+
+Overfull \hbox (15.00801pt too wide) in paragraph at lines 726--727
+[][] 
+ []
+
+[34]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(1).jpg, id=136, 660.4675pt x 402
+.50375pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(1).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(1).jpg  
+used on input line 730.
+(pdftex.def)             Requested size: 660.46588pt x 402.50276pt.
+
+Overfull \hbox (15.00714pt too wide) in paragraph at lines 730--731
+[][] 
+ []
+
+[35 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-30.jpg> <./images//2022_11_03_f
+c0cbc2f3612fab6edd2g-30(1).jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(2).jpg, id=140, 1320.935pt x 477
+.785pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(2).jpg Graphic file (type j
+pg)
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(2).jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(2).jpg  
+used on input line 737.
+(pdftex.def)             Requested size: 1320.93178pt x 477.78383pt.
+
+Overfull \hbox (14.987pt too wide) in paragraph at lines 737--738
+[][] 
+ []
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-31.jpg, id=141, 1310.8975pt x 777.9
+0625pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-31.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-31.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-31.jpg  use
+d on input line 754.
+(pdftex.def)             Requested size: 1310.89432pt x 777.90434pt.
+[36 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-30(2).jpg>] [37 <./images//2022
+_11_03_fc0cbc2f3612fab6edd2g-31.jpg>] [38]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-33.jpg, id=152, 1096.095pt x 478.78
+876pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-33.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-33.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-33.jpg  use
+d on input line 811.
+(pdftex.def)             Requested size: 1096.09233pt x 478.78758pt.
+
+Overfull \hbox (15.00415pt too wide) in paragraph at lines 811--812
+[][] 
+ []
+
+[39 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-33.jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-34.jpg, id=156, 1112.155pt x 736.75
+25pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-34.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-34.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-34.jpg  use
+d on input line 817.
+(pdftex.def)             Requested size: 1112.1523pt x 736.7507pt.
+
+Overfull \hbox (15.00208pt too wide) in paragraph at lines 817--818
+[][] 
+ []
+
+[40 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-34.jpg>]
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-35.jpg, id=160, 1353.055pt x 925.45
+75pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-35.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-35.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-35.jpg  use
+d on input line 828.
+(pdftex.def)             Requested size: 1353.0517pt x 925.45525pt.
+
+Overfull \hbox (14.99348pt too wide) in paragraph at lines 828--829
+[][] 
+ []
+
+[41 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-35.jpg>] [42] [43] [44]
+[45] [46] [47]
+Underfull \hbox (badness 10000) in paragraph at lines 973--974
+
+ []
+
+<./images//2022_11_03_fc0cbc2f3612fab6edd2g-41.jpg, id=183, 1226.5825pt x 1959.
+32pt>
+File: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-41.jpg Graphic file (type jpg)
+
+<use ./images//2022_11_03_fc0cbc2f3612fab6edd2g-41.jpg>
+Package pdftex.def Info: ./images//2022_11_03_fc0cbc2f3612fab6edd2g-41.jpg  use
+d on input line 975.
+(pdftex.def)             Requested size: 1226.57951pt x 1959.31525pt.
+
+Overfull \hbox (33.46649pt too wide) in paragraph at lines 975--976
+[][]$[][]$
+ []
+
+[48]
+Overfull \vbox (1.0873pt too high) has occurred while \output is active []
+
+
+[49 <./images//2022_11_03_fc0cbc2f3612fab6edd2g-41.jpg>]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-42' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1000 ...th]{2022_11_03_fc0cbc2f3612fab6edd2g-42}
+                                                  \\
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[50]
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-42(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 ...{2022_11_03_fc0cbc2f3612fab6edd2g-42(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-42(2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1009 ...{2022_11_03_fc0cbc2f3612fab6edd2g-42(2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-43' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1025 ...th]{2022_11_03_fc0cbc2f3612fab6edd2g-43}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `2022_11_03_fc0cbc2f3612fab6edd2g-43(1)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1029 ...{2022_11_03_fc0cbc2f3612fab6edd2g-43(1)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[51] [52] [53] [54] [55] [56] [57] (2022_11_03_fc0cbc2f3612fab6edd2g.aux) ) 
+Here is how much of TeX's memory you used:
+ 6754 strings out of 475380
+ 158836 string characters out of 2776771
+ 441633 words of memory out of 3000000
+ 28046 multiletter control sequences out of 15000+600000
+ 481927 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 59i,6n,68p,1165b,260s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:
+\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.p
+k> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbx1440.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm1728.pk><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/indov/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/indov/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/indov/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/indov/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy7.pfb>
+Output written on 2022_11_03_fc0cbc2f3612fab6edd2g.pdf (57 pages, 1979064 bytes
+).
+PDF statistics:
+ 424 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+

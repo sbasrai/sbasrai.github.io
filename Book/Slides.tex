@@ -1,0 +1,197 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage{graphicx} % Required for including pictures
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+
+\usepackage{lipsum} % Inserts dummy text
+
+\usepackage{tikz} % Required for drawing custom shapes
+
+\usepackage[english]{babel} % English language/hyphenation
+
+\usepackage[shortlabels]{enumitem}
+
+
+% \usepackage{enumitem} % Customize lists
+\setlist{nolistsep} % Reduce spacing between bullet points and numbered lists
+
+\usepackage{booktabs} % Required for nicer horizontal rules in tables
+
+\usepackage{xcolor} % Required for specifying colors by name
+\definecolor{ocre}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
+\linespread{1.25}
+%----------------------------------------------------------------------------------------
+%	MARGINS
+%----------------------------------------------------------------------------------------
+
+\usepackage{geometry} % Required for adjusting page dimensions and margins
+
+\geometry{
+	paper=a4paper, % Paper size, change to letterpaper for US letter size
+	top=3cm, % Top margin
+	bottom=3cm, % Bottom margin
+	left=3cm, % Left margin
+	right=3cm, % Right margin
+	headheight=14pt, % Header height
+	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
+	headsep=10pt, % Space from the top margin to the baseline of the header
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+
+
+
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{cancel}
+\usepackage{pagecolor}
+\usepackage{afterpage}
+\usepackage{soul}
+\usepackage{fixltx2e}
+\usepackage[utf8]{inputenc}
+\usepackage{siunitx} %degrees for Laboratory
+\usepackage{pdflscape} %sidescape figure in Laboratory
+\usepackage{float}
+\usepackage{afterpage}
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{soul}
+%\textsubscript{this}
+\usepackage{lastpage}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage[document]{ragged2e}
+% \usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{subcaption}
+%Chapter 2
+\usetikzlibrary{calc}
+\usetikzlibrary{arrows}
+\usetikzlibrary{snakes}
+\usepackage{rotating}%for sidewaysfigure
+\usepackage[final]{pdfpages}
+\usepackage{gensymb}
+\usepackage{tcolorbox}
+%\usepackage[dvipsnames]{xcolor}
+\usepackage{colortbl}
+\usepackage{chemfig}
+\usepackage{lscape}
+\usepackage{wrapfig}
+\usepackage{float}
+% FOR CENTERING TEXT IN TABLE
+\usepackage{array}
+\usepackage{multirow}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mhchem}
+\usepackage{stmaryrd}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\graphicspath{ {./images/} }
+\usepackage{makecell}
+\usepackage{hyperref}
+\usepackage[justification=centering]{caption}
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+\graphicspath{ {./images/} }
+\usetikzlibrary{positioning}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{automata}
+\usetikzlibrary {shapes.multipart}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+%\everymath{\displaystyle}
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+
+\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}\\ \textbf \textbf Water Regulations}}
+\rhead{\ifthenelse{\value{page}=1}{Shabbir Basrai}{Shabbir Basrai}}
+\lhead{\ifthenelse{\value{page}=1}{}{\textbf Water Regulations Full Text}}
+
+
+\cfoot{}
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+\rfoot{Module 8}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+\pagestyle{empty}
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\scriptsize
+
+%\tiny, \scriptsize, \footnotesize, \small, \normalsize, \large, \Large, \LARGE, \huge, and \Huge.
+\begin{tabular}{|c|p{7.1cm}|p{7cm}|}
+\hline
+\thead{Grade} & \thead{Minimum Qualifications for\\ Examination                                                                                                                                                                                                                                                                                            } & \thead{Eligibility Criteria for\\ Certification                                                                                                                                                                                                                                                                                                                                                                                                                      } \\ \hline
+D1    & High School Diploma / GED Equivalency*                                                                                                                                                                                                                                                                                             & \makecell[l]{Successful completion of the Grade   D1 examination within \\the three years prior to\\submitting certification application.                                                                                                                                                                                                                                                                                                                                 } \\ 
+\hline
+D2    & \makecell[l]{High School Diploma / GED Equivalency*\\ AND\\ One 3-unit (or 36-hour) course of specialized training covering\\the fundamentals of water supply principles.} & \makecell[l]{Successful completion of the Grade D2 examination within \\the three years prior to submitting certification \\application}.                                                                                                                                                                                                                                                                                                                                \\ 
+\hline
+D3    & \makecell[l]{Current D2 Certification\\AND\\Two 3-unit (or 36-hour) courses of specialized training that\\includes at least one course in the fundamentals of water supply\\ principles and a second course in either drinking water\\distribution, treatment, or   wastewater treatment.} & \makecell[l]{Successful completion of the Grade D3 examination within\\the three years prior to submitting certification application\\AND\\At least one year of operator experience working as a certified\\D2 operator for a D2 system or higher\\AND\\At least one additional year of operator experience working\\as a distribution operator. This may be substituted with (1)\\or (2) below.}\\ 
+\hline
+D4    & \makecell[l]{Current D3 certification\\ AND \\Three 3-unit (or 36-hour) courses of specialized training\\that includes at least two courses in the fundamentals of water supply\\ principles and a third course in either drinking water distribution,\\treatment, or wastewater treatment.}& \makecell[l]{Successful completion of the Grade   D4 examination within the \\three years prior to submitting the application for certification\\ AND\\ At least one year of operator experience working as a\\certified D3 operator for a D3 system or higher\\ AND\\ At least three additional years of operator experience working\\as a distribution operator. This may be substituted with (1)\\or (2) below.}\\ \hline
+D5    & \makecell[l]{Current D4 certification\\AND\\Four 3-unit (or 36-hour) courses of specialized training\\ that includes at least two courses in the fundamentals of water\\supply principles and two additional courses in either\\ drinking water distribution, treatment, or wastewater treatment.} & \makecell[l]{Successful completion of the Grade D5 examination within\\the three years prior to submitting the application for\\certification\\AND\\At least two years of operator experience working as a\\certified D4 operator for a D4 or D5 system\\AND\\At least three additional years of operator experience\\working as a distribution operator. This may be substituted\\with (1) or (2) below.}\\ \hline
+\end{tabular}
+
+\footnotesize{\caption{Drinking Water Distribution\\
+Minimum Qualifications for Examination and Eligibility Criteria for Certification}}
+
+\end{table}
+\begin{tiny}
+
+High School Diploma/GED equivalency for Grades 1 and 2 ONLY can be fulfilled with either successful completion of Basic Small Water Systems Operations course provided by the Department OR 1 year as an operator of a facility that required an understanding of a piping system that included pumps, valves, and storage tanks.\\
+
+"Experience substitutions for certification, as referenced above.
+\begin{enumerate}[]
+\item A relevant degree earned at an accredited academic institution may be substituted as follows:
+\begin{enumerate}[label=(\alph*)]
+\item Associate’s Degree or Certificate in Water or Wastewater Technology that includes at least 15 units of physical, chemical, or biological science may be used to fulfill 1 year of operator experience.
+\item Bachelor’s Degree in engineering or in physical, chemical, or biological sciences (e.g. Biology, Chemical Engineering, Chemistry, Civil Engineering, Environmental Engineering, Microbiology, Public Health, or Sanitary Engineering) may be used to fulfill 1.5 years of operator experience.
+\item Master’s Degree in the above mentioned fields in (b) may be used to fulfill 2 years of operator experience.
+\end{enumerate}
+\item A certified operator may substitute, on a day-for-day basis, 1 additional year of operator experience working as a distribution operator with experience gained while working with lead responsibility for water quality or quantity related projects or research."	
+\end{enumerate}	
+\end{tiny}
+
+
+
+\end{document}

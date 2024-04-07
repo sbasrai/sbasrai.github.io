@@ -1,0 +1,679 @@
+\documentclass{article}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{fixltx2e}
+\usepackage{framed}
+\usepackage{tikz}
+\usepackage{mwe}
+\usepackage{xcolor}
+%\textsubscript{this}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usepackage{soul}
+\usepackage{cancel}
+\usepackage[utf8]{inputenc}
+%\usepackage[dvipsnames]{xcolor}
+%\usepackage{xcolor}
+%\textsubscript{this}
+\usepackage{lastpage}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+%\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\colorlet{Mycolor1}{green!10!orange!90!}
+\definecolor{shadecolor}{RGB}{80,180,180}
+
+
+\begin{document}
+\chead{\ifthenelse{\value{page}=1}{\textbf Removal Efficiencies}{}}
+\rhead{\ifthenelse{\value{page}=1}{Shabbir Basrai}{Shabbir Basrai}}
+\lhead{\ifthenelse{\value{page}=1}}
+\cfoot{}
+\cfoot{\thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+%Defining colour with different models.
+%\definecolor{mypink1}{rgb}{0.858, 0.188, 0.478}
+%\definecolor{mypink2}{RGB}{219, 48, 122}
+%\definecolor{mypink3}{cmyk}{0, 0.7808, 0.4429, 0.1412}
+%\definecolor{mygray}{gray}{0.6}
+%\colorlet{LightRubineRed}{RubineRed!70!}
+%\colorlet{Mycolor1}{green!10!orange!90!}
+%\definecolor{Mycolor2}{HTML}{00F9DE}
+
+%New command used in the table with all available colour names
+\newcommand{\thiscolor}[1]{\texttt{#1} \hfill \fcolorbox{black}{#1}{\hspace{2mm}}}
+
+%This changes the row separation in the table
+\renewcommand{\arraystretch}{1.5}
+
+%This document present several examples on how to use the \texttt{color} package to change the colour of elements in \LaTeX.
+
+%\begin{itemize}
+%\item \textcolor{Mycolor1}{First item}
+%\item \textcolor{Mycolor2}{Second item}
+%\end{itemize}
+
+%\noindent
+%{\color{LightRubineRed} \rule{\linewidth}{1mm} }
+
+%\noindent
+%{\color{RubineRed} \rule{\linewidth}{1mm} }
+
+
+%Not only blocks, such as environments, can be set to a determined colour, but some \textcolor{red}{special words} too. You can even use your own user-defined colours. Below the same colour with different models:
+
+%\begin{enumerate}
+%\item \textcolor{mypink1}{Pink with rgb}
+%\item \textcolor{mypink2}{Pink with RGB}
+%\item \textcolor{mypink3}{Pink with cmyk}
+%\item \textcolor{mygray}{Gray with gray}
+%\end{enumerate}
+
+%The background colour of some text can also be \textcolor{red}{easily} set. For instance, you can change to orange the background of \colorbox{BurntOrange}{this text} and then continue typing.
+
+%\clearpage
+
+%\begin{center}
+%\begin{tabular}{ llll } 
+%\thiscolor{Apricot} & \thiscolor{Emerald} & %\thiscolor{OliveGreen} & \thiscolor{RubineRed} \\ 
+%\thiscolor{Aquamarine} & \thiscolor{ForestGreen} & \thiscolor{Orange} & \thiscolor{Salmon} \\ 
+%\thiscolor{Bittersweet} & \thiscolor{Fuchsia} & %\thiscolor{OrangeRed} & \thiscolor{SeaGreen}\\ 
+%\thiscolor{Black} & \thiscolor{Goldenrod} & %\thiscolor{Orchid} & \thiscolor{Sepia}\\ 
+%\thiscolor{Blue} & \thiscolor{Gray} & %\thiscolor{Peach} & \thiscolor{YellowOrange}\\ 
+%\thiscolor{BlueGreen} & \thiscolor{Green} & %\thiscolor{Periwinkle} & \thiscolor{SkyBlue}\\ 
+%\thiscolor{BlueViolet} & \thiscolor{GreenYellow} & \thiscolor{PineGreen} & \thiscolor{SpringGreen}\\ 
+%\thiscolor{BrickRed} & \thiscolor{JungleGreen} & \thiscolor{Plum} & \thiscolor{Tan}\\ 
+%\thiscolor{Brown} & \thiscolor{Lavender} & \thiscolor{ProcessBlue} & \thiscolor{TealBlue}\\ 
+%\thiscolor{BurntOrange} & \thiscolor{LimeGreen} & \thiscolor{Purple} & \thiscolor{Thistle}\\ 
+%\thiscolor{CadetBlue} & \thiscolor{Magenta} & \thiscolor{RawSienna} & \thiscolor{Turquoise}\\ 
+%\thiscolor{CarnationPink} & \thiscolor{Mahogany} & \thiscolor{Red} & \thiscolor{Violet}\\ 
+%\thiscolor{Cerulean} & \thiscolor{Maroon} & \thiscolor{RedOrange} & \thiscolor{VioletRed}\\ 
+%\thiscolor{CornflowerBlue} & \thiscolor{Melon} & \thiscolor{RedViolet} & \thiscolor{White}\\ 
+%\thiscolor{Cyan} & \thiscolor{MidnightBlue} & \thiscolor{Rhodamine} & \thiscolor{WildStrawberry}\\ 
+%\thiscolor{Dandelion} & \thiscolor{Mulberry} & \thiscolor{RoyalBlue} & \thiscolor{Yellow}\\ 
+%\thiscolor{DarkOrchid} & \thiscolor{NavyBlue} & \thiscolor{RoyalPurple} & \thiscolor{YellowGreen}
+%\end{tabular}%
+%\end{center}%
+
+\textbf{PROCESS REMOVAL RATES OR EFFICIENCY}\\
+\begin{itemize}
+\item Process removal rate or removal efficiency is the percentage of the inlet concentration removed.  
+\item It is used for quantifying the pollutant removal during wastewater treatment and is established based upon the amount of a particular wastewater constituent entering and leaving a treatment process.
+
+\item $Process \enspace Removal \enspace Rate \enspace (\%) = \frac{Pollutant \enspace  In-Pollutant\enspace  Out}{Pollutant \enspace In}*100$\\
+
+\item If 10 units of a pollutant are entering a process and 8 units of pollutant are leaving (process removes 2 units), then the process removal rate for that pollutant is (10-8)/10*100=20\%.  In this example the process is 20\% efficient in removing that particular pollutant.
+
+\item The amount of pollutant can be measured in terms of concentration (mg/l) or in terms of mass loading (lbs).  The pounds formula is used for calculating the mass loadings.  
+\end{itemize}
+The above example is for calculating the removal efficiency using the inlet and outlet concentrations or mass loading.\\
+The methods below can be used for calculating either the inlet or outlet pollutant concentrations, if the removal efficiency and the corresponding inlet or outlet concentrations are given. 
+
+\begin{snugshade*}
+\noindent\textsc{Case 1:  Calculating outlet conc. (X) given the inlet conc. and removal efficiency (RE\%):}
+\end{snugshade*}
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.9in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.9in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$\tiny{Removal \enspace Efficiency=RE\% \enspace (Given)}$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-5.8cm}$A \enspace mg/l \enspace (Given) $} node [below] {\hspace{-5.8cm}$100 \enspace mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-4cm}$X \enspace mg/l \enspace (Unknown)$} node [below] {\hspace{-3.9cm}($100-RE\%)\enspace mg/l$};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+Using the fact that if the inlet concentration was 100 mg/l, the outlet concentration would be 100 minus the removal efficiency.\\
+Setup the equation as:  $\frac{Out}{In}: \enspace \frac{X \enspace mg/l}{A \enspace mg/l}=\frac{100-RE\%}{100}$\\
+\vspace{0.3cm}
+Calculate X using cross multiplication - if $\frac{A}{B}=\frac{C}{D} \implies A=B*\frac{C}{D}$:\\
+$X \enspace mg/l=A \enspace mg/l*\frac{100-RE\%}{100}$\\
+
+ \vspace{3cm}
+\begin{snugshade*}
+\noindent\textsc{Case 2:  Calculating inlet conc. (X) given the outlet conc. and removal efficiency (RE\%):}
+\end{snugshade*}
+
+
+
+
+
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.9in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.9in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=RE\% \enspace (Given)$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-5.8cm}$X \enspace mg/l \enspace (Unknown)$} node [below] {\hspace{-5.8cm}$100 \enspace mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-4cm}$A \enspace mg/l \enspace (Given)$} node [below] {\hspace{-3.9cm}($100-RE\%)\enspace mg/l$};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+Using the fact that if the inlet concentration was 100 mg/l, the outlet concentration would be 100 minus the removal efficiency.\\
+Setup the equation as:  $\frac{In}{Out}: \enspace \frac{X \enspace mg/l}{A \enspace mg/l}=\frac{100}{100-RE\%}$\\
+\vspace{0.3cm}
+Calculate X using cross multiplication - if $\frac{A}{B}=\frac{C}{D} \implies A=B*\frac{C}{D}$:\\
+$X \enspace mg/l=A \enspace mg/l*\frac{100}{100-RE\%}$\\
+
+\pagebreak
+
+\begin{enumerate}
+
+
+
+\item  Given the following for a primary sedimentation tank: TSS removal efficiency = 63\% Effluent TSS concentration = 95 mg/L Calculate the influent TSS concentration (mg/L) Correct Answer(s): \\
+
+*a. 257 \\
+b. 356 \\
+c. 94 \\
+d. 220 \\
+
+Solution:\\
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=7em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Primary \\Sedimentation\\ Tank};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In TSS};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out TSS};
+	\node (Removal) [below of=Process, yshift=-0.25in] {$Removal \enspace Efficiency=63\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$Xmg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}95mg/l} node [below] {\hspace{-3cm}37mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+$\frac{In}{Out} \enspace : \enspace \frac{Actual \enspace inlet \enspace  (X)}{95}=\frac{100}{100-63}$\\
+$\implies \frac{Actual \enspace inlet \enspace  (X)}{95}=2.7$\\    
+Rearranging the equation:   $Actual \enspace inlet (X)=2.7*95 = \boxed{257 mg/l}$\\
+
+
+
+\item What is the clarifier influent TSS if its outlet concentration is 60 mg/l and the known clarifier removal efficiency is 75\%? \\
+*a. 240 mg/l \\
+b. 300 mg/l \\
+c. 80 mg/l \\
+d. 120 mg/l \\
+
+Solution:\\
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=7em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Clarifier};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In TSS};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out TSS};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=75\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$Xmg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}60mg/l} node [below] {\hspace{-3cm}37mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+$\frac{In}{Out} \enspace : \enspace \frac{Actual \enspace inlet \enspace  (X)}{60}=\frac{100}{100-75}$\\
+$\implies \frac{Actual \enspace inlet \enspace  (X)}{60}=4$\\    
+Rearranging the equation:   $Actual \enspace inlet (X)=4*60 = \boxed{240 mg/l}$\\
+
+
+
+\item If a primary clarifier consistently operates at 30\% efficiency and produces an effluent which averages 140 mg/l BOD, what is the influent BOD?\\
+Solution:\\
+\vspace{0.3cm}
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=7em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Clarifier};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In TSS};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out TSS};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=30\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$Xmg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}140mg/l} node [below] {\hspace{-3cm}70mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+$\frac{In}{Out} \enspace : \enspace \frac{Actual \enspace inlet \enspace  (X)}{140}=\frac{100}{100-30}$\\
+$\implies Actual \enspace inlet \enspace  (X)=\frac{140*100}{70}=\boxed{200mg/l}$\\
+
+\item What is the clarifier removal efficiency if the inlet and outlet concentrations are 300 mg/l and 60 mg/l respectively?\\
+
+a. 20\%\\
+b. 30\%\\
+*c. 80\%\\
+d. 72\%
+
+
+\item A primary clarifier has an influent suspended solids concentration of 250 mg/L. If the suspended solids removal efficiency is 60\%, what is the primary effluent suspended solids concentration?\\
+
+a. 10 mg/L\\
+*b. 100 mg/L\\
+c. 50 mg/L\\
+d. 150 mg/L
+
+\item The influent to a trickling filter plant is 200 mg/L and the effluent BOD is 20 mg/L. What is the BOD removal efficiency (\%)?
+Correct Answer(s):\\
+a. 90.0
+
+
+\item If a plant removes 35\% of the influent BOD in the primary treatment and 85\% of the remaining BOD in the secondary system, what is the BOD removal (lbs/day), if the BOD of the final effluent is 20mg/l 
+
+a. 2445 lbs/day 
+*b. 2211 lbs/day 
+c. 3800 lbs/day 
+d. 4200 lbs/day 
+
+
+\item If a plant removes 35\% of the influent BOD in the primary treatment and 85\% of the remaining BOD in the secondary system, what is the BOD of the raw wastewater if the BOD of the final effluent is 20mg/l \\
+
+a. 48 mg/l \\
+b. 67 mg/l \\
+c. 86.7 mg/l \\
+d. 155 mg/l \\
+*e. 205 mg/l
+Solution:\\
+
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Primary) {Primary};
+    
+   \node[node distance=1.9in] (dummy_in) [left of=Primary] {Influent BOD};
+   \node[node distance=1.9in] (dummy_out) [right of=Primary] {Primary BOD Out};
+	\node (Removal) [below of=Primary, yshift=-0in] {$Removal \enspace Efficiency=35\% $};
+    \path [arrow] (dummy_in)-- (Primary)  node [above] {\hspace{-4.8cm}$X \enspace mg/l \enspace$} node [below] {};
+    \path [arrow] (Primary) -- (dummy_out)  node [above] {\hspace{-4.9cm}$0.65X \enspace mg/l$} node [below] {};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Secondary) {Secondary};
+    
+   \node[node distance=1.9in] (dummy_in) [left of=Secondary] {Primary BOD Out};
+   \node[node distance=1.9in] (dummy_out) [right of=Secondary] {Secondary BOD Out};
+	\node (Removal) [below of=Secondary, yshift=-0in] {$Removal \enspace Efficiency=85\% $};
+    \path [arrow] (dummy_in)-- (Secondary)  node [above] {\hspace{-4.8cm}$0.65X \enspace mg/l \enspace$} node [below] {\hspace{-5cm}$100 \enspace mg/l$};
+    \path [arrow] (Secondary) -- (dummy_out)  node [above] {\hspace{-4.9cm}$20 \enspace mg/l$} node [below] {\hspace{-4.9cm}$15 \enspace mg/l$};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+\vspace{0.3cm}
+For the Secondary process:\\
+$\frac{In}{Out}: \enspace \frac{0.65X}{20}=\frac{100}{15} \implies X \enspace mg/l=\frac{100*20}{15*0.65}=\boxed{205 \enspace mg/l}$\\
+
+\vspace{0.3cm}
+Alternate Solution \#1
+
+$\xrightarrow[
+				\text{X}\frac{mg}{l}
+			]
+			{
+			\text{Influent BOD}
+			}
+ \boxed{Primary}
+ \xrightarrow[
+ 				\text{X-0.35X=X*(1-0.35)=0.65X}\frac{mg}{l}
+ 			]
+ 			{
+ 			\text{Primary Effluent BOD}
+ 			}
+ \boxed{Secondary}
+ \xrightarrow[
+				\text{0.65X-0.5525X=(0.65-0.5525)X=0.0975X }
+			 ]
+			{
+			\text{Secondary Effluent BOD}
+			}
+$\\
+
+\hspace{2.8cm}$\downarrow$ {\tiny(0.35X)BOD Removed}\hspace{3.2cm}$\downarrow$ {\tiny(0.65*0.85)X = 0.5525X BOD Removed}\\
+$\implies 0.0975X=20 \implies X=\frac{20}{0.0975}=\boxed{205\frac{mg}{l}}$\\
+
+\vspace{0.3cm}
+
+Alternate Solution \#2:\\
+$\xrightarrow[\text{X}\frac{mg}{l}]{\text{Influent BOD}}\boxed{Primary}\xrightarrow[\text{0.65X}]{\text{Primary Effluent BOD}}\boxed{Secondary}\xrightarrow[\text{(0.65*0.15)X}]{\text{Secondary Effluent BOD}}$\\
+\hspace{2.8cm}$\downarrow$ {\tiny(0.35X)BOD Removed}\hspace{2.2cm}$\downarrow$ {\tiny(0.65X*0.85)BOD Removed}\\
+
+Primary Effluent BOD = Influent BOD * (1-Primary BOD Removal), and\\
+Secondary Effluent BOD=[Primary Effluent BOD]*(1-Secondary BOD Removal)\\
+Secondary Eff. BOD=[Influent BOD * (1-Primary BOD Removal)]*(1-Secondary BOD Removal)\\
+
+Therefore, 20 = [X*(1-0.35)] * (1-0.85)= X*0.65*0.15\\
+$\implies 20 \enspace \frac{mg}{l}= 0.0975X \implies X=\frac{20}{0.0975}=\boxed{205 \enspace \frac{mg}{l}}$\\
+
+\item Calculate the inlet concentration if the outlet concentration is 80 mg/l and the process removal efficiency is 60\%\\
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=60\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$Xmg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}80mg/l} node [below] {\hspace{-3cm}40mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+$\frac{In}{Out} \enspace : \enspace \frac{Actual \enspace inlet \enspace  (X)}{80}=\frac{100}{100-60}$\\
+$\implies \frac{Actual \enspace inlet \enspace  (X)}{80}=2.5$\\    
+Rearranging the equation:   $Actual \enspace inlet (X)=2.5*80 = \boxed{200 mg/l}$\\
+
+\item Calculate the outlet concentration if the inlet concentration is 80 mg/l and the process removal efficiency is 60\%\\
+Solution:\\
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=60\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$80mg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}$Xmg/l$} node [below] {\hspace{-3cm}40mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+%\caption[MFCC]{Diagrama en bloques del cálculo de las MFCC para un frame.}
+%\label{MFCC}
+\end{figure}
+\vspace{0cm}
+$\frac{Out}{In} \enspace:\enspace\frac{Actual \enspace Outlet (X)}{80}=\frac{100-60}{100}$\\
+$\implies \frac{Actual \enspace Outlet (X)}{80} =0.4$\\
+$\implies Actual \enspace  Outlet (X) = 0.4 * 80 = \boxed{32 mg/l}$\\
+
+\item Calculate the primary clarifier influent solids concentration if its outlet concentration is 60 mg/l and the known clarifier removal efficiency is 75\%?\\
+$\frac{Actual \enspace  inlet \enspace (X)}{Actual \enspace outlet}=\frac{100}{100-Removal \enspace efficiency}$\\ 
+$\frac{Actual \enspace  inlet \enspace (X)}{60}=\frac{100}{100-75}=4$\\
+$\implies Actual \enspace inlet \enspace (X)=4*60 = \boxed{240 mg/l}$\\
+
+\item What is the \% removal efficiency if the influent concentration is 10 mg/L and the effluent concentration is 2.5 mg/L?\\
+$Removal \enspace Rate (\%) = \frac{In-Out}{In}*100 \implies \frac{10-2.5}{10}*100=\boxed{75\%}$
+
+\item The influent to a trickling filter plant is 200 mg/L and the effluent BOD is 20 mg/L. What is the BOD removal efficiency (\%)?\\
+Solution:\\
+\vspace{0.3cm}
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=?\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$200mg/l$} node [below] {};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-1.8cm}$20mg/l$} node [below] {};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+\vspace{0.5cm}
+$Removal \enspace Efficiency \enspace (\%) = \frac{In-Out}{In}*100 \implies \frac{200-20}{200}*100=\boxed{90\%}$
+
+
+
+
+\item Calculate the primary clarifier influent solids concentration if its outlet concentration is 60 mg/l and the known clarifier removal efficiency is 75\%?\\
+$\frac{Actual \enspace  inlet \enspace (X)}{Actual \enspace outlet}=\frac{100}{100-Removal \enspace efficiency}$\\ 
+$\frac{Actual \enspace  inlet \enspace (X)}{60}=\frac{100}{100-75}=4$\\
+$\implies Actual \enspace inlet \enspace (X)=4*60 = \boxed{240 mg/l}$\\
+
+\item If a primary clarifier consistently operates at 30\% efficiency and produces an effluent which averages 140 mg/l BOD, what is the influent BOD? \\
+Solution:\\
+\vspace{0.3cm}
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=30\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$Xmg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}$140mg/l$} node [below] {\hspace{-3cm}70mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+%\caption[MFCC]{Diagrama en bloques del cálculo de las MFCC para un frame.}
+%\label{MFCC}
+\end{figure}
+$\frac{Actual \enspace  inlet \enspace (X)}{Actual \enspace outlet}=\frac{100}{100-Removal \enspace efficiency}$\\ 
+$\frac{Actual \enspace  inlet \enspace (X)}{140}=\frac{100}{100-30}=1.43$\\
+$\implies Actual \enspace inlet \enspace (X)=1.43*140 = \boxed{200 mg/l}$\\
+
+
+
+\item If a primary clarifier consistently operates at 30 \% efficiency and produces an effluent which averages 140 mg/l BOD, what is the influent BOD? 
+
+a. 100 mg/l \\
+b. 125 mg/l \\
+c. 175 mg/l \\
+*d. 200 mg/l \\
+e. 225 mg/l \\
+
+\item A primary clarifier has an influent suspended solids concentration of 250 mg/L. If the suspended solids removal efficiency is 60\%, what is the primary effluent suspended solids concentration \\
+
+a. 10 mg/L \\
+*b. 100 mg/L \\
+c. 50 mg/L \\
+d. 150 mg/L \\
+
+\item The influent to a trickling filter plant is 200 mg/L and the effluent BOD is 20 mg/L. What is the BOD removal efficiency (\%)? \\
+
+a. 20\% \\
+*b. 90\% \\
+c. 10\% \\
+d. 180\% \\
+
+\item A 3.1 MGD flow with a 190 mg/l TSS concentration is treated in a primary clarifier which averages 55\% removal efficiency. Calculate the pounds/day TSS in the primary effluent. \\
+
+a. 2701 lbs/day \\
+*b. 2211 lbs/day \\
+c. 3800 lbs/day \\
+d. 4200 lbs/day \\
+
+\item Calculate the outlet concentration if the inlet concentration is 80 mg/l and the process removal efficiency is 60\% \\
+
+*a. 32mg/l \\
+b. 63mg/l \\
+c. 20mg/l \\
+d. 48mg/l \\
+
+\item What is the \% removal efficiency if the influent concentration is 10 mg/L and the effluent concentration is 2.5 mg/L? \\
+
+a. 25\% \\
+b. 97.5\% \\
+*c. 75\% \\
+d. 2.5\% \\
+
+\item A rectangular sedimentation tank is 85 feet long, 35 feet wide, and 14 feet deep including 3 feet of freeboard. Flow to this tank is 2.3 MGD. Calculate the surface loading to this tank in gpd per ft2. \\
+
+a. 318 gpd/ft2 \\
+*b. 773 gpd/ft2 \\
+c. 845 gpd/ft2 \\
+d. 1932 gpd/ft2 \\
+
+\item  If a primary clarifier consistently operates at 30 \% efficiency and produces an effluent which averages 140 mg/l BOD, what is the influent BOD? \\
+
+a. 100 mg/l \\
+b. 125 mg/l \\
+c. 175 mg/l \\
+*d. 200 mg/l \\
+
+\item  A primary clarifier has an influent suspended solids concentration of 250 mg/L. If the suspended solids removal efficiency is 60\%, what is the primary effluent suspended solids concentration \\
+
+a. 10 mg/L \\
+*b. 100 mg/L \\
+c. 50 mg/L \\
+d. 150 mg/L \\
+
+\item  The influent to a trickling filter plant is 200 mg/L and the effluent BOD is 20 mg/L. What is the BOD removal efficiency (\%)? \\
+
+a. 20\% \\
+*b. 90\% \\
+c. 10\% \\
+d. 180\% \\
+
+\item A 3.1 MGD flow with a 190 mg/l TSS concentration is treated in a primary clarifier which averages 55\% removal efficiency. Calculate the pounds/day TSS in the primary effluent. \\
+
+a. 2701 lbs/day \\
+*b. 2211 lbs/day \\
+c. 3800 lbs/day \\
+d. 4200 lbs/day \\
+
+
+
+\item Calculate the outlet concentration if the inlet concentration is 80 mg/l and the process removal efficiency is 60\% \\
+
+*a. 32mg/l \\
+b. 63mg/l \\
+c. 20mg/l \\
+d. 48mg/l \\
+
+\item What is the \% removal efficiency if the influent concentration is 10 mg/L and the effluent concentration is 2.5 mg/L? \\
+
+a. 25\% \\
+b. 97.5\% \\
+*c. 75\% \\
+d. 2.5\% \\
+
+
+
+\item Use the information below to answer the following questions.\\
+Plant Flow: 4.5 MGD\\
+Influent P concentration: 1.5 mg/l\\
+Aeration tank volume: 2000 cu.ft.\\
+Effluent P concentration: 0.5 mg/l\\
+What is the phosphorus removal efficiency?:\\
+a. 34 percent\\
+b. 67 percent\\
+c. 1.0 percent\\
+d. 10 percent\\
+Solution:\\
+$\frac{1.5-0.5}{1.5}*100=\boxed{67\%}$
+
+\item Calculate the log removal for a water treatment plant if the samples show a raw water coliform count of 295/100 mL (through extrapolation) and the finished water shows 2.0/100 mL.
+a. 1.8 log removal
+b. 2 log removal
+c. 2.1 log removal
+*d. 2.2 log removal
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Treatment};
+   \node[node distance=1.9in] (dummy_in) [left of=Process] {295/100 mL};
+   \node[node distance=1.9in] (dummy_out) [right of=Process] {2.0/100 mL};
+	\node (Removal) [below of=Process, yshift=-0in] {$Coliform \enspace Removal - log \enspace Reduction $};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {} node [below] {};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {} node [below] {};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+
+Log Reduction = log$_{10}$C$_{In}$ \hspace{0.2cm} - \hspace{0.2cm}log$_{10}$ C$_{Out}$\hspace{0.2cm}= \hspace{0.2cm}log$_{10}$ \hspace{0.02cm} 295 - log$_{10}$\hspace{0.02cm} 2\hspace{0.2cm}=\hspace{0.2cm}2.47\hspace{0.2cm}-\hspace{0.2cm}0.30\hspace{0.2cm}=\hspace{0.2cm}$\boxed{2.17 \enspace log \enspace removal}$
+
+  \item Which is the percentage of removal across a settling basin, if the influent is 17.1 NTU and the effluent is 1.13 NTU ?\\
+  
+
+
+  \item Calculate the percent removal across a settling basin and filter complex, if the raw water influent is $5.45 \mathrm{ntu}$ and the effluent (post filters) is $0.018 \mathrm{ntu}$. Give answer to three significant figures.\\
+  
+      \item Calculate the amount of iron removed in pounds per year from a water plant that treats an average of $20.2 \mathrm{mgd}$ if the average iron concentration is 0.52 mg/l and the removal efficiency is 84 \%.\\
+a. $26,859 \mathrm{lb} / \mathrm{yr}$ of Fe removed\\
+*b. $27,000 \mathrm{lb} / \mathrm{yr}$ of Fe removed\\
+c. $31,975 \mathrm{lb} / \mathrm{yr}$ of Fe removed\\
+d. $32,000 \mathrm{lb} / \mathrm{yr}$ of Fe removed\\
+
+\begin{figure}[]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{lbs/yr}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{(0.52*0.84)\\ mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{20.2 MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{yr}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{yr}}* \mathrm{Concentration \enspace iron \enspace removed}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34$
+\\
+\vspace{0.2cm}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=20.2 \dfrac{\mathrm{MG}}{\cancel{\mathrm{day}}}* 365\dfrac{\cancel{\mathrm{days}}}{\mathrm{yr}}*(20.2*0.84)\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 = \boxed{26,859\dfrac{lbs}{yr}}$
+
+   \item Determine the amount of iron removed per year, if the iron concentration is 0.21 mg/l, the plant treats an average of $14.1 \mathrm{mgd}$, and the removal efficiency is $95.7 \%$ (0.957).\\
+a. $8,000 \mathrm{lb} / \mathrm{yr}$\\
+b. $8,200 \mathrm{lb} / \mathrm{yr}$\\
+*c. $8,600 \mathrm{lb} / \mathrm{yr}$\\
+d. $9,000 \mathrm{lb} / \mathrm{yr}$\\
+
+A: $(0.21*0.957)\dfrac{mg}{l}*14.1\dfrac{MG}{day}*8.34*365\dfrac{days}{yr}=\boxed{8,626\enspace lbs/day}$\\
+ 
+
+\end{enumerate}
+
+
+\end{document}

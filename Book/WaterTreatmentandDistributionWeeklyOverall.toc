@@ -1,0 +1,249 @@
+\babel@toc {english}{}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Week 1}}{11}{part.1}%
+\contentsline {chapter}{\numberline {1}Water Systems Operator Certifications}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Drinking Water Operator License}{13}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Water Distribution System Operator License}{14}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Water Treatment Operator License}{30}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Wastewater Treatment Operator License}{43}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Water Reuse Operator License}{44}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Water Properties and Sources}{49}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Properties of water}{52}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Water use}{53}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Water Supplies}{53}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Water Sources}{57}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Groundwater}{58}{subsection.2.4.1}%
+\contentsline {subsubsection}{Water Wells}{60}{section*.18}%
+\contentsline {subsection}{\numberline {2.4.2}Groundwater Under the Direct Influence of Surface Water}{60}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Surface Water}{62}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Advantages and Disadvantages of Surface Water vs Groundwater }{64}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Recycled Water}{65}{subsection.2.4.5}%
+\contentsline {chapter}{\numberline {3}Water Math - Week 1}{67}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Fractions}{69}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Decimals \& Powers of Ten}{70}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Rounding and Significant Digits}{71}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Averages}{73}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Week 1 Assessment}{75}{chapter.4}%
+\contentsline {part}{\@mypartnumtocformat {II}{Week 2}}{79}{part.2}%
+\contentsline {chapter}{\numberline {5}Water Quality \& Laboratory Procedures}{81}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Aesthetic Quality Tests}{84}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Turbidity}{84}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Color}{85}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Taste and Odor}{85}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Temperature}{85}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Total dissolved solids}{86}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Alkalinity}{87}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Hardness}{87}{subsection.5.1.7}%
+\contentsline {section}{\numberline {5.2}Inorganic and Organic Contaminants}{88}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Metals}{88}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Chlorine Residual}{89}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}pH}{90}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Radionuclides}{90}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Organics}{91}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Nutrients}{92}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Trace Constituents}{92}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Langelier Index}{93}{subsection.5.2.8}%
+\contentsline {section}{\numberline {5.3}Bacteriological Analysis}{93}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Bacteriological testing methods}{94}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}The Multiple-Tube Fermentation technique}{94}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Membrane Filtration Method}{97}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Quanti-trays tests}{98}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Presence - Absence (P-A) Method}{98}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}Bacteriological sampling}{99}{subsection.5.3.6}%
+\contentsline {section}{\numberline {5.4}Other Physical Properties}{99}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Density}{99}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Specific Gravity}{99}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Sampling}{100}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Sampling methods}{100}{subsection.5.5.1}%
+\contentsline {subsubsection}{Grab samples}{100}{section*.33}%
+\contentsline {subsubsection}{Composite Samples}{101}{section*.34}%
+\contentsline {subsection}{\numberline {5.5.2}Sampling Precautions and Protocols}{101}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Bacteriological Sampling Procedures}{102}{subsection.5.5.3}%
+\contentsline {chapter}{\numberline {6}Water Math - Week 2}{105}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Working with Percent}{107}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Area \& Volume}{108}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Flow and Velocity}{109}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Contaminant Removal Efficiency}{111}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Week 2 Assessment}{113}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Week 2 Assessment}{113}{section.7.1}%
+\contentsline {part}{\@mypartnumtocformat {III}{Week 3}}{117}{part.3}%
+\contentsline {chapter}{\numberline {8}Water Regulations}{119}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Drinking Water Regulations}{123}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}National Primary Drinking Water Regulations}{124}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Secondary Drinking Water Regulations}{126}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Unregulated Contaminant Monitoring Rule}{126}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}Community Confidence Reports}{126}{subsection.8.1.4}%
+\contentsline {section}{\numberline {8.2}Surface Water Treatment Rules}{126}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Surface Water Treatment Rule}{127}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Interim Enhanced Surface Water Treatment Rule}{128}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Long-Term 1 Enhanced Surface Water Treatment Rule}{128}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}Long-Term 2 Enhanced Surface Water Treatment Rule}{128}{subsection.8.2.4}%
+\contentsline {section}{\numberline {8.3}Summary of Requirements under Surface Water Treatment Rules}{128}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Total Coliform Rule}{130}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Revised Total Coliform Rule}{131}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Filter Backwash Recycle Rule}{132}{subsection.8.4.2}%
+\contentsline {section}{\numberline {8.5}Ground Water Rules}{133}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Microbial and Disinfection Byproducts Rules}{133}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Other Drinking Water Rules}{135}{section.8.7}%
+\contentsline {subsection}{\numberline {8.7.1}Lead and Copper Rule}{135}{subsection.8.7.1}%
+\contentsline {subsection}{\numberline {8.7.2}Radionuclides Rule}{136}{subsection.8.7.2}%
+\contentsline {subsection}{\numberline {8.7.3}Arsenic Rule}{137}{subsection.8.7.3}%
+\contentsline {subsection}{\numberline {8.7.4}Vulnerability Assessment}{137}{subsection.8.7.4}%
+\contentsline {subsection}{\numberline {8.7.5}Public Notification Rule}{138}{subsection.8.7.5}%
+\contentsline {subsection}{\numberline {8.7.6}SDWA Monitoring, Reporting and Recordkeeping Requirements}{139}{subsection.8.7.6}%
+\contentsline {section}{\numberline {8.8}Recycled Water Regulations}{141}{section.8.8}%
+\contentsline {section}{\numberline {8.9}State and Local Drinking Water Regulations}{141}{section.8.9}%
+\contentsline {chapter}{\numberline {9}Water Math - Week 3}{171}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Ratio and Proportion}{173}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Unit Conversions}{175}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Temperature Conversion}{176}{subsection.9.2.1}%
+\contentsline {section}{\numberline {9.3}Well Hydraulics Calculations}{177}{section.9.3}%
+\contentsline {chapter}{\numberline {10}Week 3 Assessment}{179}{chapter.10}%
+\contentsline {part}{\@mypartnumtocformat {IV}{Week 4}}{183}{part.4}%
+\contentsline {chapter}{\numberline {11}Water Treatment}{185}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Background}{188}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Categories of Treatment Methods}{190}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Source Management}{191}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Surface Water Treatment Processes}{191}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Source Water Treatment}{191}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}Screening}{192}{subsection.11.4.2}%
+\contentsline {subsection}{\numberline {11.4.3}Coagulation and Flocculation}{192}{subsection.11.4.3}%
+\contentsline {subsection}{\numberline {11.4.4}Clarification/Sedimentation}{194}{subsection.11.4.4}%
+\contentsline {subsubsection}{Clarifier Zones}{196}{section*.64}%
+\contentsline {subsection}{\numberline {11.4.5}Filtration}{196}{subsection.11.4.5}%
+\contentsline {subsubsection}{Process Basics}{196}{section*.65}%
+\contentsline {subsubsection}{Operation}{202}{section*.71}%
+\contentsline {section}{\numberline {11.5}Other Treatment Processes}{202}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}Pre-chlorination}{202}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}Packed Tower Air Stripping}{203}{subsection.11.5.2}%
+\contentsline {subsection}{\numberline {11.5.3}Aeration}{203}{subsection.11.5.3}%
+\contentsline {subsection}{\numberline {11.5.4}Iron and Manganese Sequestration}{204}{subsection.11.5.4}%
+\contentsline {subsection}{\numberline {11.5.5}Hardness Removal}{204}{subsection.11.5.5}%
+\contentsline {subsection}{\numberline {11.5.6}Corrosion Control}{206}{subsection.11.5.6}%
+\contentsline {section}{\numberline {11.6}Best Available Technology (BAT)}{208}{section.11.6}%
+\contentsline {subsection}{\numberline {11.6.1}BATs for Inorganics}{208}{subsection.11.6.1}%
+\contentsline {subsection}{\numberline {11.6.2}BATs for Microbiological Contaminants}{209}{subsection.11.6.2}%
+\contentsline {subsection}{\numberline {11.6.3}BATs for Radionuclides}{209}{subsection.11.6.3}%
+\contentsline {section}{\numberline {11.7}Chemical Feed Systems}{209}{section.11.7}%
+\contentsline {subsection}{\numberline {11.7.1}Key Components of a Chemical Feed System}{210}{subsection.11.7.1}%
+\contentsline {subsubsection}{Delivery Systems}{210}{section*.77}%
+\contentsline {subsubsection}{Chemical Storage Systems}{212}{section*.81}%
+\contentsline {subsubsection}{Accessories}{212}{section*.82}%
+\contentsline {subsubsection}{Types of Chemical Feed Systems}{213}{section*.84}%
+\contentsline {subsubsection}{Chemical control systems}{213}{section*.85}%
+\contentsline {chapter}{\numberline {12}Disinfection}{215}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Background}{217}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Chlorination}{218}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Chlorine properties}{218}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}Chlorine storage and safety}{219}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}Forms of chlorine}{220}{subsection.12.2.3}%
+\contentsline {subsection}{\numberline {12.2.4}Chlorine reactions related to disinfection}{221}{subsection.12.2.4}%
+\contentsline {subsection}{\numberline {12.2.5}Factors affecting chlorine disinfection}{221}{subsection.12.2.5}%
+\contentsline {subsection}{\numberline {12.2.6}Chlorine Application}{222}{subsection.12.2.6}%
+\contentsline {subsection}{\numberline {12.2.7}Chlorination Byproducts}{222}{subsection.12.2.7}%
+\contentsline {subsection}{\numberline {12.2.8}Chloroamination}{223}{subsection.12.2.8}%
+\contentsline {subsection}{\numberline {12.2.9}Chlorine dosing terms}{226}{subsection.12.2.9}%
+\contentsline {subsection}{\numberline {12.2.10}Contact Time}{226}{subsection.12.2.10}%
+\contentsline {section}{\numberline {12.3}Chloroamines}{229}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Advantages of Chloramines}{229}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Disadvantages of Chloramines}{230}{subsection.12.3.2}%
+\contentsline {section}{\numberline {12.4}Chlorine Dioxide}{230}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Advantages of Chlorine Dioxide}{230}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}Disdvantages of Chlorine Dioxide}{230}{subsection.12.4.2}%
+\contentsline {section}{\numberline {12.5}Ultraviolet (UV) disinfection}{230}{section.12.5}%
+\contentsline {subsection}{\numberline {12.5.1}Advantages of UV disinfection}{231}{subsection.12.5.1}%
+\contentsline {subsection}{\numberline {12.5.2}Disadvantages of UV disinfection}{231}{subsection.12.5.2}%
+\contentsline {section}{\numberline {12.6}Ozone}{231}{section.12.6}%
+\contentsline {subsection}{\numberline {12.6.1}Advantages of ozonation}{232}{subsection.12.6.1}%
+\contentsline {subsection}{\numberline {12.6.2}Disadvantages of ozonation}{232}{subsection.12.6.2}%
+\contentsline {section}{\numberline {12.7}Summary of Disinfectants' Attributes}{232}{section.12.7}%
+\contentsline {chapter}{\numberline {13}Water Math - Week 4}{233}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Density}{235}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Specific Gravity}{235}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Concentration}{236}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Pounds Formula}{237}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Chemicals Related Math Problems}{238}{section.13.5}%
+\contentsline {subsection}{\numberline {13.5.1}Chemical Dosing}{238}{subsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.5.2}Chlorine dosing problems}{239}{subsection.13.5.2}%
+\contentsline {subsection}{\numberline {13.5.3}Blending and Dilution Calculations}{240}{subsection.13.5.3}%
+\contentsline {chapter}{\numberline {14}Week 4 Assessment}{243}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Week 4 Assessment}{243}{section.14.1}%
+\contentsline {part}{\@mypartnumtocformat {V}{Week 5}}{249}{part.5}%
+\contentsline {chapter}{\numberline {15}Pumping Systems}{251}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Background}{253}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Rotodynamic Pumps}{254}{section.15.2}%
+\contentsline {subsection}{\numberline {15.2.1}Centrifugal pumps}{254}{subsection.15.2.1}%
+\contentsline {subsubsection}{Centrifugal Pump Types}{255}{section*.97}%
+\contentsline {subsection}{\numberline {15.2.2}Axial-flow Pumps}{257}{subsection.15.2.2}%
+\contentsline {subsection}{\numberline {15.2.3}Mixed-flow Pumps}{257}{subsection.15.2.3}%
+\contentsline {section}{\numberline {15.3}Positive Displacement Pump}{257}{section.15.3}%
+\contentsline {subsection}{\numberline {15.3.1}Turbine Pumps}{260}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.3.2}Choosing Between Positive Displacement and Centrifugal Pumps}{261}{subsection.15.3.2}%
+\contentsline {subsection}{\numberline {15.3.3}Mechanical Parts of Rotodynamic Pumps}{262}{subsection.15.3.3}%
+\contentsline {section}{\numberline {15.4}Pump Calculations}{264}{section.15.4}%
+\contentsline {subsection}{\numberline {15.4.1}Glossary of Pump Calculations Terms}{264}{subsection.15.4.1}%
+\contentsline {chapter}{\numberline {16}Water Math - Week 5}{269}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Force, Pressure and Head}{271}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Pumping Calculations}{272}{section.16.2}%
+\contentsline {subsection}{\numberline {16.2.1}Glossary of Pump Calculations Terms}{272}{subsection.16.2.1}%
+\contentsline {subsection}{\numberline {16.2.2}Pumping Rate Calculations}{275}{subsection.16.2.2}%
+\contentsline {subsection}{\numberline {16.2.3}Power Requirements for Pumping}{276}{subsection.16.2.3}%
+\contentsline {subsection}{\numberline {16.2.4}Example Problems}{277}{subsection.16.2.4}%
+\contentsline {chapter}{\numberline {17}Week 5 Assessment}{279}{chapter.17}%
+\contentsline {part}{\@mypartnumtocformat {VI}{Week 6}}{285}{part.6}%
+\contentsline {chapter}{\numberline {18}Water Distribution}{287}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Introduction}{291}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Pipelines}{292}{section.18.2}%
+\contentsline {subsection}{\numberline {18.2.1}Transmission Mains}{292}{subsection.18.2.1}%
+\contentsline {subsection}{\numberline {18.2.2}Distribution Mains}{292}{subsection.18.2.2}%
+\contentsline {subsection}{\numberline {18.2.3}Service Laterals}{295}{subsection.18.2.3}%
+\contentsline {subsection}{\numberline {18.2.4}Piping Material}{295}{subsection.18.2.4}%
+\contentsline {subsection}{\numberline {18.2.5}Basic Water Main Installation}{298}{subsection.18.2.5}%
+\contentsline {section}{\numberline {18.3}Storage Systems}{300}{section.18.3}%
+\contentsline {section}{\numberline {18.4}Valves used in Water Distribution}{301}{section.18.4}%
+\contentsline {subsection}{\numberline {18.4.1}Flow Control and Isolation Valves}{302}{subsection.18.4.1}%
+\contentsline {subsection}{\numberline {18.4.2}Air Valves}{305}{subsection.18.4.2}%
+\contentsline {subsection}{\numberline {18.4.3}Backflow Prevention}{308}{subsection.18.4.3}%
+\contentsline {section}{\numberline {18.5}Fire Hydrants}{311}{section.18.5}%
+\contentsline {section}{\numberline {18.6}Water Meters}{312}{section.18.6}%
+\contentsline {section}{\numberline {18.7}Distribution System Operation and Maintenance Elements}{314}{section.18.7}%
+\contentsline {subsection}{\numberline {18.7.1}Maintaining distribution system pressure}{314}{subsection.18.7.1}%
+\contentsline {subsection}{\numberline {18.7.2}System Disinfection Program}{314}{subsection.18.7.2}%
+\contentsline {subsubsection}{Disinfecting New and Existing Wells}{314}{section*.134}%
+\contentsline {subsubsection}{Disinfecting Water Mains}{314}{section*.135}%
+\contentsline {subsection}{\numberline {18.7.3}Disinfecting Water Storage Tanks}{315}{subsection.18.7.3}%
+\contentsline {subsection}{\numberline {18.7.4}System Flushing Program}{316}{subsection.18.7.4}%
+\contentsline {subsection}{\numberline {18.7.5}Valves Operation and Maintenance}{316}{subsection.18.7.5}%
+\contentsline {subsection}{\numberline {18.7.6}Distribution System Map}{318}{subsection.18.7.6}%
+\contentsline {subsection}{\numberline {18.7.7}Distribution System Record keeping}{318}{subsection.18.7.7}%
+\contentsline {subsection}{\numberline {18.7.8}Water Usage Records}{318}{subsection.18.7.8}%
+\contentsline {subsection}{\numberline {18.7.9}Storage Tank Maintenance}{318}{subsection.18.7.9}%
+\contentsline {subsection}{\numberline {18.7.10}Lead and Copper Sampling}{319}{subsection.18.7.10}%
+\contentsline {subsection}{\numberline {18.7.11}Computer Based Controls and Monitoring}{319}{subsection.18.7.11}%
+\contentsline {subsection}{\numberline {18.7.12}Corrosion Control}{320}{subsection.18.7.12}%
+\contentsline {chapter}{\numberline {19}Safety}{323}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Hazard Control Approaches}{325}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Water Treatment Hazards}{325}{section.19.2}%
+\contentsline {subsection}{\numberline {19.2.1}Hazardous Chemicals}{325}{subsection.19.2.1}%
+\contentsline {subsubsection}{Effects of Chemical Hazards}{325}{section*.143}%
+\contentsline {subsubsection}{Protection from chemicals}{326}{section*.144}%
+\contentsline {subsection}{\numberline {19.2.2}Falls}{350}{subsection.19.2.2}%
+\contentsline {subsection}{\numberline {19.2.3}Noise}{350}{subsection.19.2.3}%
+\contentsline {subsection}{\numberline {19.2.4}Electrical Hazards}{350}{subsection.19.2.4}%
+\contentsline {subsection}{\numberline {19.2.5}Trenching \& Excavation Hazards}{351}{subsection.19.2.5}%
+\contentsline {subsection}{\numberline {19.2.6}Rotating and Moving Equipment}{352}{subsection.19.2.6}%
+\contentsline {subsection}{\numberline {19.2.7}Heat Stress}{353}{subsection.19.2.7}%
+\contentsline {subsection}{\numberline {19.2.8}Material Handling Ergonomics}{353}{subsection.19.2.8}%
+\contentsline {subsection}{\numberline {19.2.9}Fire Safety}{354}{subsection.19.2.9}%
+\contentsline {section}{\numberline {19.3}Safety Practices}{354}{section.19.3}%
+\contentsline {subsection}{\numberline {19.3.1}Lockout - Tagout (LOTO)}{354}{subsection.19.3.1}%
+\contentsline {subsection}{\numberline {19.3.2}Personal Protective Equipment (PPE)}{355}{subsection.19.3.2}%
+\contentsline {subsection}{\numberline {19.3.3}Confined Space Entry}{355}{subsection.19.3.3}%
+\contentsline {chapter}{\numberline {20}Week 6 Assessment}{357}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Assessments Solutions}{361}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Week 1 Assessment}{361}{section.21.1}%
+\contentsline {section}{\numberline {21.2}Week 2 Assessment}{366}{section.21.2}%
+\contentsline {section}{\numberline {21.3}Week 3 Assessment}{372}{section.21.3}%
+\contentsline {section}{\numberline {21.4}Week 4 Assessment}{377}{section.21.4}%
+\contentsline {section}{\numberline {21.5}Week 5 Assessment}{385}{section.21.5}%
+\contentsline {section}{\numberline {21.6}Week 6 Assessment}{391}{section.21.6}%
+\contentsfinish 

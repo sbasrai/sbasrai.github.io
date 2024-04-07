@@ -1,0 +1,323 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{mathabx}
+\usepackage{textcomp,mathcomp}
+\usepackage[shortlabels]{enumitem}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+%\everymath{\displaystyle}
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+
+\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}}}
+\rhead{\ifthenelse{\value{page}=1}{Final Exam}{}}
+\lhead{\ifthenelse{\value{page}=1}{Water Treatment - Oct-Dec 2022}{\textbf Final Exam}}
+\rfoot{\ifthenelse{\value{page}=1}{}{}}
+
+\cfoot{}
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+
+
+\section{Sedimentation}\index{Sedimentation}
+\begin{itemize}
+\item \colorbox{lime}{Hydraulic or Surface Loading Rate} - measures how rapidly wastewater moves through the primary clarifier.  It is measured in terms of the number of gallons flowing each day through one square foot surface area of the clarifier.
+
+The hydraulic or surface loading rate  
+$$Clarifier \enspace hydraulic \enspace loading \enspace 	\Big(\dfrac{gpd}{ft^2}\Big) =\dfrac{Clarifier \enspace influent 	\enspace flow (gpd)}{Clarifier \enspace surface \enspace area 	(ft^2)}$$ 
+		Rectangular clarifier surface area  = width * length\\
+		Circular clarifier surface area  = 0.785 * Diameter$^2 $\\
+\item \colorbox{lime}{Detention Time} - it is the length of time that water stays in the sedimentation tank.  It is also the time it takes for a unit volume of water to pass entirely through it.\\
+$$Clarifier \enspace detention \enspace time \enspace (hr) = 	\dfrac{ Clarifier \enspace volume (cu.ft \enspace or \enspace gal)}{Influent \enspace flow \enspace (cu.ft \enspace or \enspace gal)/hr)}$$
+Rectangular clarifier volume = width * length * depth of water\\
+Circular clarifier volume = 0.785 * Diameter$^2$ * depth of water\\
+Typically volume is calculated in cu. ft and influent flow is given in gallons.  Use 7.48 gal/ft$^3$ conversion factor to convert volume in cu. ft to gallons.\\
+
+\item \colorbox{lime}{Overflow Rate} - The weirs at the end of the sedimentation basin allow for the even distribution of the the outlet flow across the entire length of the weir.  An adequate length of weir is needed to ensure smooth and even flow of water over the weirs.  Weir overflow rate measures the number of gallons of water per day flowing over one foot of weir. 
+
+		$$Weir \enspace over \enspace flow \enspace rate \Big(\dfrac{gpd}{ft}\Big) =\Big(\dfrac{Clarifier \enspace influent \enspace  flow (gpd)}{Total \enspace effluent 					\enspace weir \enspace length \enspace (ft)}\Big)$$
+		Circular clarifier weir length = 3.14 * Diameter\\
+
+\hl{Example problem for (a), (b) and (c) above:}\\
+		\vspace{0.2cm}
+A circular clarifier receives a flow of 5 MGD.  If the clarifier is 90 ft. in diameter and is 12 ft. deep, what is: a) the hydraulic/surface loading rate, b) clarifier detention time in hours, and c) weir overflow rate?\\
+		\vspace{0.2cm}
+a) Hydraulic/surface loading rate:\\
+$Clarifier \enspace hydraulic \enspace loading \enspace 	\Big(\dfrac{gpd}{ft^2}\Big) ==\dfrac{\dfrac{5\cancel{MG}}{{day}}*\dfrac{10^6gal}{\cancel{MG}}}{0.785*90^2 ft^2}=\boxed{786gpd/ft^2}$\\
+		\vspace{0.5cm}
+b) Clarifier detention time:\\
+$Clarifier \enspace detention \enspace time \enspace (hr) = 	\dfrac{ Clarifier \enspace volume (cu.ft \enspace or \enspace gal)}{Influent \enspace flow \enspace (cu.ft \enspace or \enspace gal)/hr)}$\\
+		\vspace{0.2cm}
+$Clarifier \enspace detention \enspace time \enspace (hr) = 	\dfrac{(0.785*90^2*12)\cancel{ft^3}}{\dfrac{5\cancel{MG}}{\cancel{day}}*\dfrac{10^6\cancel{gal}}{\cancel{MG}}*\dfrac{\cancel{ft^3}}{7.48\cancel{gal}}*\dfrac{\cancel{day}}{24hrs}}=\boxed{2.7hrs}$\\
+		\vspace{0.5cm}
+c) Overflow rate:\\
+		\vspace{0.2cm} 
+$Weir \enspace overflow \enspace rate \Big(\dfrac{gpd}{ft}\Big) =\dfrac{\dfrac{5\cancel{MG}}{{day}}*\dfrac{10^6gal}{\cancel{MG}}}{3.14*90 ft}=\boxed{17,692 \mathrm{gpd}/\mathrm{ft}}$\\
+\end{itemize}
+
+\section{Filtration}\index{Filtration}
+
+\begin{itemize}
+\item \colorbox{lime}{Filter Flow Rates} – the flow rate expressed in gpm can be calculated from the total flow over certain time or vice-versa can be used for determining either the time it would take to process a certain flow or calculate the total flow.\\
+
+ 
+
+ 
+
+\textbf{Example 1:}  A filter box is 20 ft by 30 ft (including the sand area). If the influent valve is shut, the water drops 3 inches per minute. What is the rate of filtration in MGD?\\
+
+First let's write down what we are given:\\
+
+ 
+
+Filter box = 20 ft x 30 ft Water drops = 3 in/min\\
+
+Area = 20 ft x 30 ft = 600 ft2\\
+
+Answer:  1122 gpm\\
+
+ 
+
+ 
+
+\textbf{Example 2:}  The flow rate through a filter is 4.25 MGD. What is this flow rate expressed as gpm?\\
+
+\vspace{0.2cm}
+
+$Flow rate, gpm=\dfrac{Flow \enspace rate, \enspace gpd}{1440 \enspace min/day}$\\
+
+\vspace{0.2cm}
+
+Note:  We are assuming that the filter operated uniformly over that 24 hour period.\\
+
+\vspace{0.3cm}
+
+$Flow rate, gpm=\dfrac{4.25 \enspace \dfrac{\cancel{MG}}{\cancel{day}} *1,000,000 \enspace \dfrac{gal}{\cancel{MG}}}{1440\dfrac{min}{\cancel{day}}}=\boxed{2,951 \enspace gpm}$
+
+ 
+
+\vspace{0.3cm}
+
+\textbf{Example 3:}  At an average flow rate of 4000 gpm, how long of a filter run, in hours, would be required to produce 25 MG of filtered water?\\
+
+\vspace{0.2cm}
+
+$Flow \enspace rate \enspace (gpm)=\dfrac{Total \enspace flow \enspace (gal)}{Filter \enspace run \enspace time \enspace (min)}$
+
+\vspace{0.3cm}
+
+$\implies Filter \enspace run \enspace time \enspace (min)=\dfrac{Total \enspace flow \enspace (gal)}{Flow \enspace rate \enspace (gpm)}$\\
+
+\vspace{0.3cm}
+
+$\implies Filter \enspace run \enspace time \enspace (hr)=25 \enspace MG*\dfrac{1,000,000 \enspace \cancel{gal}}{MG}*\dfrac{\cancel{min}}{4,000 \enspace \cancel{gal}}*60 \enspace \dfrac{hr}{\cancel{min}}=\boxed{104 \enspace hrs}$
+
+ 
+
+ 
+
+\item \colorbox{lime}{Filtration Rates} – It is the gallons of water filtered per minute through each square foot of filter area.  It generally ranging from 2 to $10 \mathrm{gpm} / \mathrm{ft}^{2}$.\\
+
+Filtration rate is determined by the following equation:\\
+$$
+\text { Filtration rate, } \mathrm{gpm} / \mathrm{ft}^{2}=\frac{\text { Flow rate, } \mathrm{gpm}}{\text { Filter surface area, } \mathrm{ft}^{2}}
+$$\\
+
+\textbf{Example 1:} A filter $28 \mathrm{ft}$ long by $18 \mathrm{ft}$ wide treats a flow of $3.5 \mathrm{MGD}$. What is the filtration rate in gpm/ft ${ }^{2}$ ?\\
+
+\vspace{0.2cm}
+\textit{Approach:  The flow will need to be converted to gpm and the surface area calculated in feet.}\\
+
+$\text{Filtration rate, } \mathrm{gpm} / \mathrm{ft}^{2} = 
+\dfrac{
+\dfrac{3.5 \enspace \cancel{MG}}{ \cancel{day}} * \dfrac{1,000,000 \enspace gal}{\cancel{MG}}
+*\dfrac{\cancel{day}}{1440 \mathrm{ min}}}
+{28 \enspace ft * 18 \enspace feet}= \boxed{4.8 \enspace gpm/ft^2}$\\
+\vspace{0.2cm}
+\textbf{Example 2:} A filter is $40 \mathrm{ft}$ long by $20 \mathrm{ft}$ wide. During a test of flow rate, the influent valve to the filter is closed for 6 minutes. The water level drop during this period is 16 inches. What is the filtration rate for the filter in $\mathrm{gpm} / \mathrm{ft}^{2}$ ?\\
+\vspace{0.2cm}
+\textit{Note:  The volume of the water dropped after the inlet valve was closed would be the filter flow rate.  Since the dimensions to calculate are in feet and inches, the volume needs to be converted from ft$^3$ to gallons}\\
+\vspace{0.2cm}
+$\text{Filtration rate, } \mathrm{gpm} / \mathrm{ft}^{2} = 
+\dfrac{(
+40 \mathrm{ ft}*20 \mathrm{ ft} * 16 \mathrm{\cancel{in}}*
+\dfrac{ft}{12 \enspace \cancel{in}}
+)
+\cancel{ft^3}*7.48 \enspace 
+\dfrac
+{gal}
+{\cancel{ft^3}}}
+{40 \enspace ft * 20 \enspace feet}= \boxed{1.7\enspace gpm/ft^2}$\\
+
+\item \colorbox{lime}{Backwashing Rates} - is the amount of water, in gallons, required for each backwash. This is analogous to the Filter Flow Rate.
+
+\textbf{Example 1:}
+A filter has the following dimensions: $30 \mathrm{ft}$ long by $20 \mathrm{ft}$ wide with a depth of 24 inches of filter media. Assuming that a backwash rate of $15 \mathrm{gal} / \mathrm{ft}^{2} / \mathrm{min}$ is recommended and 10 minutes of backwash is required, calculate the amount of water, in gallons, required for each backwash.
+
+\textit{The backwashing rate given in $gal/ft^2/min$ will need to be converted into gallons by multiplying it with the area (to eliminate $ft^2$ and by the backwash time in minutes}
+
+$ \text{Backwashing rate (gal)} = 15\dfrac{gal}{\cancel{ft^2}-\cancel{min}}*(30 \mathrm{ ft} \times 20 \mathrm{ ft})\cancel{ft^2}*10 \enspace \cancel{min}=\boxed{90,000 \enspace \text{gal}}$
+
+\item \colorbox{lime}{Backwash Rinse Rates} - it is the upward velocity of the water during backwashing, expressed as in/min rise. To convert from $\mathrm{gpm} / \mathrm{ft}^{2}$ backwash rate to an in/min rise rate, use either of the following equations:
+
+$$\text{ Backwash rinse rate, in/} \mathrm{min}=\frac{\text { Backwash rate, } \mathrm{gpm} / \mathrm{ft}^{2} \times 12 \mathrm{in} / \mathrm{ft}}{7.48 \mathrm{gal} / \mathrm{ft}^{3}}$$
+
+\textbf{Example:1}
+A filter $22 \mathrm{ft}$ long by $12 \mathrm{ft}$ wide has a backwash rate of $3260 \mathrm{gpm}$. What is this backwash rate expressed as a in/min rise?
+
+$$\text{ Backwash rinse rate, in/} \mathrm{min}=\frac{\text { Backwash rate, } \mathrm{gpm} / \mathrm{ft}^{2} \times 12 \mathrm{in} / \mathrm{ft}}{7.48 \mathrm{gal} / \mathrm{ft}^{3}}$$
+
+\textit{Based upon the above formula, the Backwash tate in $gpm/ft^2$ needs to be calculated by dividing the gpm flow by the surface area}
+
+$\text{Backwash Rinse Rate, in/} \mathrm{min}=\dfrac{
+\Biggl(\dfrac{3260 \mathrm{gpm}}{22 \mathrm{ft} \times 12 \mathrm{ft}}\Biggr) \mathrm{gpm} / \mathrm{ft}^{2} \times 12 \mathrm{in} / \mathrm{ft}
+}
+{
+7.48 \mathrm{gal} / \mathrm{ft}^{3}
+}=\boxed{19.7in/min}$
+
+
+\item \colorbox{lime}{Percent Product Water Used for Backwashing} - the equation for percent of product water used for backwashing calculations used is:\\
+$$
+\text { Backwash water, } \%=\frac{\text { Backwash water, gal }}{\text { Water filtered, gal }} \times 100
+$$
+
+\textbf{Example:1}
+A total of $11,400,000$ gal of water was filtered during a filter run. If backwashing used 48,500 gal of this product water, what percent of the product water is used for backwashing?
+
+Backwash water, $\%=\dfrac{48,500 \text { gal }}{11,400,000 \text { gal }} \times 100 = \boxed{0.43 \%}$
+
+\end{itemize}
+
+
+\section{Chlorine dosing problems}\index{Chlorine dosing problems}
+\textbf{Example 1:}\\
+Determine the chlorinator setting (lb/day) required to treat a flow of $4 \mathrm{MGD}$ with a chlorine dose of $5 \mathrm{mg} / \mathrm{L}$.
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L}) \times$ Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=5 \mathrm{mg} / \mathrm{L} \times 4 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=167 \mathrm{lb} /$ day
+
+\textbf{Example 2 :}\\
+A pipeline that is 12 inches in diameter and $1400 \mathrm{ft}$ long is to be treated with a chlorine dose of $48 \mathrm{mg} / \mathrm{L}$. How many lb of chlorine will this require?
+
+First determine the gallon volume of the pipeline:
+
+Volume $(\mathrm{gal})=0.785 \times \mathrm{D}^{2} \times$ length $(\mathrm{ft}) \times 7.48 \mathrm{gal} / \mathrm{cu} \mathrm{ft}$
+
+Volume $(\mathrm{gal})=0.785 \times(1 \mathrm{ft})^{2} \times 1400 \mathrm{ft} \times 7.48 \mathrm{gal} / \mathrm{cu} \mathrm{ft}$ Volume $(\mathrm{gal})=8221 \mathrm{gal}$
+
+Next calculate the amount of chlorine required:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L})$ x Flow $($ MGD) $\times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=48 \mathrm{mg} / \mathrm{L} \times 0.008221 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=3.3 \mathrm{lb}$
+
+\textbf{Example 3:}\\
+A water sample is tested and found to have a chlorine demand of $1.7 \mathrm{mg} / \mathrm{L}$. If the desired chlorine residual is $0.9 \mathrm{mg} / \mathrm{L}$, what is the desired chlorine dose (in $\mathrm{mg} / \mathrm{L}$ )?
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=$ Chlorine Demand $+$ Chlorine Residual
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=1.7 \mathrm{mg} / \mathrm{L}+0.9 \mathrm{mg} / \mathrm{L}$
+
+Chlorine $\operatorname{Dose}(\mathrm{mg} / \mathrm{L})=2.6 \mathrm{mg} / \mathrm{L}$
+
+\textbf{Example 4:}\\
+The chlorine dosage for water is $2.7 \mathrm{mg} / \mathrm{L}$. If the chlorine residual after a 30-minute contact time is found to be $0.7 \mathrm{mg} / \mathrm{L}$, what is the chlorine demand (in $\mathrm{mg} / \mathrm{L}$ )?
+
+Chlorine Demand $=$ Chlorine Dose $-$ Chlorine Residual
+
+Chlorine Demand $=2.7 \mathrm{mg} / \mathrm{L}-0.7 \mathrm{mg} / \mathrm{L}$
+
+Chlorine Demand $=2.0 \mathrm{mg} / \mathrm{L}$
+
+\textbf{Example 5:}\\
+What should the chlorinator seting be (lb/day) to treat a flow of $2.35 \mathrm{MGD}$ if the chlorine demand is $3.2 \mathrm{mg} / \mathrm{L}$ and a chlorine residual of $0.9 \mathrm{mg} / \mathrm{L}$ is desired?
+
+First, determine the chlorine dosage (in $\mathrm{mg} / \mathrm{L}$ ):
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=$ Chlorine Demand $+$ Chlorine Residual
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=3.2 \mathrm{mg} / \mathrm{L}+0.9 \mathrm{mg} / \mathrm{L}$
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=4.1 \mathrm{mg} / \mathrm{L}$
+
+Next calculate the chlorine dosage (feed rate) in $\mathrm{lb} /$ day:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L}) \times$ Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=4.1 \mathrm{mg} / \mathrm{L} \times 2.35 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=80.4 \mathrm{lb} /$ day
+
+
+\textbf{Example 6:}\\
+A chlorinator setting is increased by $2 \mathrm{lb} /$ day. The chlorine residual before the increased dosage was $0.2 \mathrm{mg} / \mathrm{L}$. After the increased chlorine dose, the chlorine residual was $0.5 \mathrm{mg} / \mathrm{L}$. The average flow rate being chlorinated is $1.25 \mathrm{MGD}$. Is the water being chlorinated beyond the breakpoint?
+
+First calculate the expected increase in chlorine residual:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L})$ x Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$2 \mathrm{lb} /$ day $=\times \mathrm{mg} / \mathrm{L} \times 1.25 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$x=2 /(1.25 \times 8.34)$
+
+$\mathrm{x}=0.19 \mathrm{mg} / \mathrm{L}$
+
+Actual increase in residual is:
+
+$0.5 \mathrm{mg} / \mathrm{L}-0.19 \mathrm{mg} / \mathrm{L}=0.31 \mathrm{mg} / \mathrm{L}$
+
+\textbf{Example 7:}\\
+A chlorinator setting of $18 \mathrm{lb}$ chlorine per 24 hours result in a chlorine residual of $0.3 \mathrm{mg} / \mathrm{L}$. The chlorinator setting is increased to $22 \mathrm{lb}$ per 24 hours. The chlorine residual increased to $0.4 \mathrm{mg} / \mathrm{L}$ at this new dosage rate. The average flow being treated is $1.4 \mathrm{MGD}$. On the basis of these data, is the water being chlorinated past the breakpoint?
+
+First calculate the expected increase in chlorine residual:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L}) \times$ Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$4 \mathrm{lb} /$ day $=\mathrm{x} \mathrm{mg} / \mathrm{L} \times 1.4 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$\mathrm{x}=4 /(1.4 \times 8.34)$
+
+$\mathrm{x}=0.34 \mathrm{mg} / \mathrm{L}$
+
+Next calculate the actual increase in residual:
+
+$0.4 \mathrm{mg} / \mathrm{L}-0.3 \mathrm{mg} / \mathrm{L}=0.1 \mathrm{mg} / \mathrm{L}$

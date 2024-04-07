@@ -1,0 +1,1221 @@
+\chapterimage{Water1.png} % Chapter heading image
+
+\chapter{Wastewater Math - Part I}
+\chapterimage{MathCover.png} % Chapter heading image
+\chapter{Wastewater Math}
+
+
+% \begin{enumerate}
+% \definecolor{shadecolor}{RGB}{200, 200, 240}
+% \begin{snugshade*}
+%\section{Units and Unit Conversion}\index{Units and Unit Conversion}
+% 	\item \noindent\textsc{Units and Unit Conversion}
+% \end{snugshade*}
+\section{Unit Conversions}\index{Unit Conversions}
+Common Units:\\
+
+Length:  inches, ft, miles\\
+
+Area:  ft$^2$, acres \\
+
+Volume:  ft$^3$, gallons, acres-ft.\\
+
+Density:  weight per volume, lbs/ft$^3$, lbs/gallon\\
+
+Flow:  ft$^3$/min, MGD, acres-ft/day\\
+
+		
+
+
+Powers of Ten
+
+\begin{center}
+    
+   
+    \begin{tabular}{ | c | p{4cm} | c |p{8cm}|}
+    \hline
+
+%\hline
+%\multicolumn{4}{|c|}{\textbf{ESSAYS}} \\
+%\hline
+%\thead{A Head} & \thead{A Second \\ Head} & \thead{A Third \\ Head} \\
+%\hline%
+
+$10^{12}$ & 1,000,000,000,000 & Tera & Like in tera byte drive - trillion\\
+\hline 
+$10^{9}$ & 1,000,000,000 & Giga & Like in giga byte data - billion\\
+\hline
+$10^{6}$ & 1,000,000 & Mega & Like in mega bytes or megawatts - million\\
+\hline 
+$10^{3}$ & 1,000 & Kilo & Like in kilogram \\
+\hline 
+$10^{0}$ & 1 &  & \\
+\hline 
+$10^{-3}$ & 0.001 & milli & Like in millimeter - thousandth of a meter\\
+\hline 
+$10^{-6}$ & 0.000001 & micro & Like in microgram - millionth of a gram \\
+\hline 
+$10^{-9}$ & 0.000000001 & nano & Like in nanometer - billionth of a meter\\
+\hline 
+
+
+    \end{tabular}
+    
+    \end{center}
+
+
+For converting one measurement unit to another.
+
+Step 1:  Make sure the original unit is for the same measurement as the conversion unit.  So if the original unit is for area, say ft$^2$ the conversion unit can be another area unit such as in$^2$ or acre but it cannot be gallons as gallon is a unit of volume.
+
+Step 2: Write down the conversion formula as:
+
+$Quantity \enspace in \enspace converted \enspace unit = Quantity \enspace (\cancel{Original \enspace Unit}) *   Conversion  \enspace Factor \enspace  \frac{Conversion \enspace unit}{\cancel{Original \enspace unit}}$
+
+
+\section{Example Problems}
+Problem 1\\
+Convert 1000 $ft^3$ to cu. yards\\
+
+$1000 \cancel{ft^3}*\frac{cu.yards}{27\cancel{ft^3}} = 37 cu.yards$
+
+Problem 2\\
+Convert 10 gallons/min to $ft^3$/hr\\
+
+$\frac{10 \cancel{gallons}}{\cancel{min}}*  \frac{ft^3}{7.48 \cancel{gallons}}  * \frac{60 \cancel{min}}{hr}   = \frac{80.2ft^3}{hr}$
+
+
+Problem 3\\
+Convert 100,000 $ft^3$ to acre-ft.\\
+$100,000 \cancel{ft^3} * \frac{acre-ft}{43,560 \cancel{ft^2-ft}} =  2.3 acre-ft$\\
+\textbf{Note:} From the conversion table: acre = 43,560 $ft^2$\\
+Thus, acre-ft  = 43,560 $ft^2$-ft\\
+
+\section{Pounds Formula}\index{Pounds Formula}
+%\section{Pounds Formula}\index{Pounds Formula}
+
+% \begin{snugshade*}
+% \item \noindent\textsc{Pounds Formula}
+% \end{snugshade*}
+Pounds formula is used for:
+\begin{itemize}
+\item Calculating the quantity in pounds of a particular wastewater constituent entering or leaving a wastewater treatment process
+\item Calculating the pounds of chemicals to be added\\
+\end{itemize}
+So if the concentration of a particular constituent (in mg/liter) and the volume or flow of wastewater is given, one can calculate the amount of that constituent in pounds using the following – Pounds Formula:
+$$lbs \enspace \textbf{or} \enspace \frac{lbs}{day}=concentration(\frac{mg}{l})*8.34*volume(MG) \enspace \textbf{or} \enspace flow(\frac{MG}{day}(MGD)$$
+
+\begin{center}
+\includegraphics[scale=0.5]{PoundsFormula}
+\end{center}
+
+There are three variables – (lbs, concentration and volume) and one constant (8.34) in the pounds formula.  Knowing any of the two variables in the formula, one can calculate the third (unknown) variable by rearranging the equation.
+
+\section{Concentration}\index{Concentration}
+
+Concentration is typically expressed as mg/l which is the weight of the constituent (mg) in 1 l (liter) of solution (wastewater).  As 1 l of water weighs 1 million mg, a concentration of 1 mg/l implies 1 mg of constituent per 1 million mg of water or one part per million (ppm).   \textbf{Thus, mg/l and ppm are synonymous.}\\  
+Sometimes the constituent concentration is expressed in terms of percentage.\\
+\vspace{6pt}
+For example:  sludge containing 5\% solids or a 12.5\% chlorine concentration solution.\\
+\vspace{6pt}
+As one liter of water weighs 1,000,000 mg, one percent of that weight is 10,000 mg.  So 1\% solids implies 10,000 mg of solids per liter or 10,000 mg/l or 10,000 ppm.\\
+\vspace{6pt}
+$1\% concentration = 10,000 \enspace ppm \enspace or \enspace\frac{mg}{l}$\\
+$0.1\% concentration = 1,000 \enspace ppm \enspace or \enspace \frac{mg}{l}$\\
+$0.01\% concentration = 100 \enspace ppm \enspace or \enspace \frac{mg}{l}$\\
+$10\% concentration = 100,000 \enspace ppm \enspace or \enspace \frac{mg}{l}$\\
+$5\% concentration = 50,000 \enspace ppm \enspace or \enspace \frac{mg}{l}$\\
+$12.5\% concentration = 125,000 \enspace ppm \enspace or \enspace \frac{mg}{l}$
+
+\subsection{Example Problems}
+% \hl{Example Problems}\\
+
+Problem 1\\Calculate the lbs/day of solids entering the plant given the influent flow is 5 MGD with an average solids concentration  of 250 mg/l.\\
+
+Solution:\\
+
+Applying lbs formula:\\
+$\dfrac{lbs}{day}=5 MGD *250\dfrac{mg}{l}*8.34 = \boxed{10,425\dfrac{lbs}{day}}$
+\\
+Problem 2\\Calculate the lbs of solids in the primary sludge if the sludge flow is 7500 gallons and the solids concentration is 4.5\%.\\
+Solution\\
+Applying lbs formula:\\
+$lbs \enspace solids = \dfrac{7500}{1,000,000}MG * 4.5*10,000 *8.34 = \boxed{2,815 \enspace lbs \enspace solids}$\\
+\textbf{Note:}\\  
+1) 7500 gallons was converted to MG by dividing by 1,000,000\\
+$7500 \enspace gallons * \dfrac{1 MG}{1,000,000 \enspace gallon}$\\
+2) 4.5\% was converted to mg/l by multiplying by 10,000 as 1\%=10,000mg/l
+
+\newpage
+\section{Area \& Volume}\index{Area \& Volume}
+% \section{Area \& Volume}\index{Area \& Volume}
+
+% \begin{snugshade*}
+% 	\item \noindent\textsc{Area \& Volume}
+% \end{snugshade*}
+
+\begin{center}
+\includegraphics[scale=0.5]{Area&VolumeFormula}
+\end{center}
+\subsection{Example Problems}
+% \hl{Example Problems}\\
+\begin{enumerate}
+
+\item The floor of a rectangular building is 20 feet long by 12 feet wide and the inside walls are 10 feet high. Find the total surface area of the inside walls of this building\\
+Solution:\\
+% \begin{center}
+\begin{tikzpicture}
+	%%% Edit the following coordinate to change the shape of your
+	%%% cuboid
+      
+	%% Vanishing points for perspective handling
+	\coordinate (P1) at (-7cm,1.5cm); % left vanishing point (To pick)
+	\coordinate (P2) at (8cm,1.5cm); % right vanishing point (To pick)
+
+	%% (A1) and (A2) defines the 2 central points of the cuboid
+	\coordinate (A1) at (0em,0cm); % central top point (To pick)
+	\coordinate (A2) at (0em,-2cm); % central bottom point (To pick)
+
+	%% (A3) to (A8) are computed given a unique parameter (or 2) .8
+	% You can vary .8 from 0 to 1 to change perspective on left side
+	\coordinate (A3) at ($(P1)!.8!(A2)$); % To pick for perspective 
+	\coordinate (A4) at ($(P1)!.8!(A1)$);
+
+	% You can vary .8 from 0 to 1 to change perspective on right side
+	\coordinate (A7) at ($(P2)!.7!(A2)$);
+	\coordinate (A8) at ($(P2)!.7!(A1)$);
+
+	%% Automatically compute the last 2 points with intersections
+	\coordinate (A5) at
+	  (intersection cs: first line={(A8) -- (P1)},
+			    second line={(A4) -- (P2)});
+	\coordinate (A6) at
+	  (intersection cs: first line={(A7) -- (P1)}, 
+			    second line={(A3) -- (P2)});
+
+	%%% Depending of what you want to display, you can comment/edit
+	%%% the following lines
+
+	%% Possibly draw back faces
+
+	\fill[gray!40] (A2) -- (A3) -- (A6) -- (A7) -- cycle; % face 6
+	\node at (barycentric cs:A2=1,A3=1,A6=1,A7=1) {\tiny Floor=W*L};
+	
+	\fill[gray!50] (A3) -- (A4) -- (A5) -- (A6) -- cycle; % face 3
+	\node at (barycentric cs:A3=1,A4=1,A5=1,A6=1) {\tiny Wall - W*H};
+	
+	\fill[gray!10, opacity=0.2] (A5) -- (A6) -- (A7) -- (A8) -- cycle; % face 4
+	\node at (barycentric cs:A5=1,A6=1,A7=1,A8=1) {\tiny Wall - L*H};
+	
+	\fill[gray!10,opacity=0.5] (A1) -- (A2) -- (A3) -- (A4) -- cycle; % f2
+	\node at (barycentric cs:A1=1,A2=1,A3=1,A4=1) {\tiny Wall - L*H};
+	
+	\fill[gray!40,opacity=0.2] (A1) -- (A4) -- (A5) -- (A8) -- cycle; % f5
+	\node at (barycentric cs:A1=1,A4=1,A5=1,A8=1) {\tiny Ceiling=W*L};	
+	
+	\draw[thick,dashed] (A5) -- (A6);
+	\draw[thick,dashed] (A3) -- (A6);
+	\draw[thick,dashed] (A7) -- (A6);
+
+	%% Possibly draw front faces
+
+	%\fill[orange] (A1) -- (A8) -- (A7) -- (A2) -- cycle; % face 1
+	\node at (barycentric cs:A1=1,A8=1,A7=1,A2=1) {\tiny Wall - W*H};
+	
+
+
+	%% Possibly draw front lines
+	\draw[thick] (A1) -- (A2);
+
+	\draw[<->] (-1.8,0.38) -- (-1.8,-1.3)node [midway, above=-1.8mm] {\hspace{-1.3cm}\tiny Height=10'};
+	\draw[<->] (-1.6,-1.4) -- (-.3,-2.1)node [midway, above=-2.6mm] {\hspace{-1.3cm}\tiny Length=20'};
+	\draw[<->] (2.6,-1.13) -- (0.2,-2.2)node [midway, below=.6mm] {\hspace{1.2cm}\tiny Width=12'};
+	\draw[thick] (A3) -- (A4);
+	\draw[thick] (A7) -- (A8);
+	\draw[thick] (A1) -- (A4);
+	\draw[thick] (A1) -- (A8);
+	\draw[thick] (A2) -- (A3);
+	\draw[thick] (A2) -- (A7);
+	\draw[thick] (A4) -- (A5);
+	\draw[thick] (A8) -- (A5);
+	
+	% Possibly draw points
+	% (it can help you understand the cuboid structure)
+%	\foreach \i in {1,2,...,8}
+%	{
+%	  \draw[fill=black] (A\i) circle (0.15em)
+%	    node[above right] {\tiny \i};
+%	}
+	% \draw[fill=black] (P1) circle (0.1em) node[below] {\tiny p1};
+	% \draw[fill=black] (P2) circle (0.1em) node[below] {\tiny p2};
+\end{tikzpicture}\\
+% \end{center}
+2 Walls W*H + 2 Walls L*H= $2*12*10ft^2 + 2*20*10ft^2$\\
+$=240+400=\boxed{640ft^2}$
+
+2 Walls W*H + 2 Walls L*H + Floor + Ceiling= $2*12*10ft^2 + 2*20*10ft^2 + 2*12*20ft^2$\\
+$=240+400+480=\boxed{1,120ft^2}$
+
+\item How many gallons of paint will be required to paint the inside walls of a 40 ft long x 65 ft wide x 20 ft high tank if the paint coverage is 150 sq. ft per gallon.  Note:  We are painting walls only.  Disregard the floor and roof areas.
+Solution:\\
+\vspace{0.3cm}
+% \begin{center}
+\begin{tikzpicture}
+	%%% Edit the following coordinate to change the shape of your
+	%%% cuboid
+      
+	%% Vanishing points for perspective handling
+	\coordinate (P1) at (-7cm,1.5cm); % left vanishing point (To pick)
+	\coordinate (P2) at (8cm,1.5cm); % right vanishing point (To pick)
+
+	%% (A1) and (A2) defines the 2 central points of the cuboid
+	\coordinate (A1) at (0em,0cm); % central top point (To pick)
+	\coordinate (A2) at (0em,-2cm); % central bottom point (To pick)
+
+	%% (A3) to (A8) are computed given a unique parameter (or 2) .8
+	% You can vary .8 from 0 to 1 to change perspective on left side
+	\coordinate (A3) at ($(P1)!.8!(A2)$); % To pick for perspective 
+	\coordinate (A4) at ($(P1)!.8!(A1)$);
+
+	% You can vary .8 from 0 to 1 to change perspective on right side
+	\coordinate (A7) at ($(P2)!.7!(A2)$);
+	\coordinate (A8) at ($(P2)!.7!(A1)$);
+
+	%% Automatically compute the last 2 points with intersections
+	\coordinate (A5) at
+	  (intersection cs: first line={(A8) -- (P1)},
+			    second line={(A4) -- (P2)});
+	\coordinate (A6) at
+	  (intersection cs: first line={(A7) -- (P1)}, 
+			    second line={(A3) -- (P2)});
+
+	%%% Depending of what you want to display, you can comment/edit
+	%%% the following lines
+
+	%% Possibly draw back faces
+
+	\fill[gray!40] (A2) -- (A3) -- (A6) -- (A7) -- cycle; % face 6
+	\node at (barycentric cs:A2=1,A3=1,A6=1,A7=1) {};
+	
+	\fill[gray!50] (A3) -- (A4) -- (A5) -- (A6) -- cycle; % face 3
+	\node at (barycentric cs:A3=1,A4=1,A5=1,A6=1) {\tiny Wall - W*H};
+	
+	\fill[gray!10, opacity=0.2] (A5) -- (A6) -- (A7) -- (A8) -- cycle; % face 4
+	\node at (barycentric cs:A5=1,A6=1,A7=1,A8=1) {\tiny Wall - L*H};
+	
+	\fill[gray!10,opacity=0.5] (A1) -- (A2) -- (A3) -- (A4) -- cycle; % f2
+	\node at (barycentric cs:A1=1,A2=1,A3=1,A4=1) {\tiny Wall - L*H};
+	
+	\fill[gray!40,opacity=0.2] (A1) -- (A4) -- (A5) -- (A8) -- cycle; % f5
+	\node at (barycentric cs:A1=1,A4=1,A5=1,A8=1) {};	
+	
+	\draw[thick,dashed] (A5) -- (A6);
+	\draw[thick,dashed] (A3) -- (A6);
+	\draw[thick,dashed] (A7) -- (A6);
+
+	%% Possibly draw front faces
+
+	%\fill[orange] (A1) -- (A8) -- (A7) -- (A2) -- cycle; % face 1
+	\node at (barycentric cs:A1=1,A8=1,A7=1,A2=1) {\tiny Wall - W*H};
+	
+
+
+	%% Possibly draw front lines
+	\draw[thick] (A1) -- (A2);
+
+	\draw[<->] (-1.8,0.38) -- (-1.8,-1.3)node [midway, above=-1.8mm] {\hspace{-1.3cm}\tiny Height=20'};
+	\draw[<->] (-1.6,-1.4) -- (-.3,-2.1)node [midway, above=-2.6mm] {\hspace{-1.3cm}\tiny Length=45'};
+	\draw[<->] (2.6,-1.13) -- (0.2,-2.2)node [midway, below=.6mm] {\hspace{1.2cm}\tiny Width=65'};
+	\draw[thick] (A3) -- (A4);
+	\draw[thick] (A7) -- (A8);
+	\draw[thick] (A1) -- (A4);
+	\draw[thick] (A1) -- (A8);
+	\draw[thick] (A2) -- (A3);
+	\draw[thick] (A2) -- (A7);
+	\draw[thick] (A4) -- (A5);
+	\draw[thick] (A8) -- (A5);
+	
+	% Possibly draw points
+	% (it can help you understand the cuboid structure)
+%	\foreach \i in {1,2,...,8}
+%	{
+%	  \draw[fill=black] (A\i) circle (0.15em)
+%	    node[above right] {\tiny \i};
+%	}
+	% \draw[fill=black] (P1) circle (0.1em) node[below] {\tiny p1};
+	% \draw[fill=black] (P2) circle (0.1em) node[below] {\tiny p2};
+\end{tikzpicture}\\
+% \end{center}
+\vspace{0.3cm}
+2 Walls W*H + 2 Walls L*H = $2*65*20ft^2 + 2*40*20ft^2= 2,600+1,600=4,200ft^2$\\
+$\implies @150\dfrac{ft^2}{gal} \enspace paint \enspace coverage \enspace \rightarrow \enspace \dfrac{4,200\cancel{ft^2}}{150\dfrac{\cancel{ft^2}}{gal}}=\boxed{28 \enspace gallons}$
+\vspace{0.3cm}
+\item What is the circumference of a 100 ft diameter circular clarifier?\\
+\vspace{0.3cm}
+Solution:\\
+\vspace{0.3cm}
+$Circumference=\pi*D=3.14*100ft=\boxed{314ft}$
+\vspace{0.3cm}
+\item If the surface area of a clarifier is 5,025$ft^2$, what is its diameter?\\
+\vspace{0.3cm}
+Solution:\\
+\vspace{0.3cm}
+$Surface \enspace area=\dfrac{\pi}{4}*D^2 \enspace \implies 5025(ft^2)=0.785*D^2 (ft^2)$\\
+$\implies D^2=\dfrac{5025}{0.785} \implies D=\sqrt{6401.3}=\boxed{80ft}$
+\vspace{0.3cm}
+
+\item How many gallons of wastewater would 600 feet of 6-inch diameter pipe hold, approximately?\\
+\vspace{0.3cm}
+Solution:\\
+
+\vspace{0.3cm}
+% \begin{center}
+\begin{tikzpicture}
+\draw (0,0) ellipse (0.1cm and 0.3cm);
+\draw (10,0) ellipse (0.1cm and 0.3cm);
+\draw [-] (0,-0.29) -- (10,-0.29);
+\draw [-] (0,0.29) -- (10,0.29);
+\draw [<->] (10,-0.28) -- (10,0.28) node [midway, below=-3mm] {\hspace{2.6cm}Diameter=6"};
+\draw [<->] (0,-.68) -- (10,-.68)node [midway, below] {\hspace{0.9cm}Length=600'};
+\end{tikzpicture}
+% \end{center}
+\vspace{0.3cm}
+$Volume=\dfrac{\pi}{4}D^2*L=0.785*\Big(\dfrac{6}{12}\Big)^2*600\cancel{ft^3}*7.48\dfrac{gallons}{\cancel{ft^3}}=\boxed{881 \enspace gallons}$
+\newpage
+\item A 110 ft diameter digester with a 12 ft deep cone is operated at a side water depth of 20 ft.  Caluclate the volume of sludge in the digester in $ft^3$ and gallons.\\
+\vspace{0.3cm}
+Solution:\\
+\vspace{0.3cm}
+% \begin{center}
+\begin{tikzpicture}
+\draw (0,0) ellipse (2cm and 0.3cm);
+\draw (0,-2.3) ellipse (2cm and 0.3cm);
+\draw (0,-.8) ellipse (2cm and 0.3cm);
+\draw [-] (2,-2.3) -- (2,0);
+\draw [<->] (-2,0) -- (2,0) node [midway, below=-0.9cm] {\hspace{0.9cm}Diameter (D)=110'}; 
+\draw [<->] (-2.6,-2.3) -- (-2.6,0) node [midway, below=-.3cm] {\hspace{-2.6cm}Cylinder Height};
+\draw [<->] (2.5,-2.3) -- (2.5,-0.8) node [midway, below=-0.2cm] {\hspace{5.2cm}Side Water Depth (SWD) =20'};
+\draw [-] (0,-4) -- (2,-2.3);
+\draw [-] (0,-4) -- (-2,-2.3);
+\draw [-] (0,-4) -- (2,-2.3);
+\draw [-] (-2,0) -- (-2,-2.3);
+\draw [<->] (2.5,-2.3) -- (2.5,-4)node [midway, below=-0.4cm] {\hspace{3.8cm}Cone Depth (CD)=12'};
+\end{tikzpicture}\\
+% \end{center}
+$Digester \enspace volume=Volume_{cylinder}+Volume_{cone}$\\
+$\implies Digester \enspace volume=\dfrac{\pi}{4}D^2*SWD+\dfrac{1}{3}*\Bigg(\dfrac{\pi}{4}*D^2*CD\Bigg)$\\
+\vspace{0.3cm}
+$=0.785*110^2*20+1.05*110^2*12=\boxed{227,988ft^3}$\\
+\vspace{0.3cm}
+$227,988\cancel{ft^3}*7.48\dfrac{gallons}{\cancel{ft^3}}=\boxed{1,705,352 \enspace gallons}$
+\end{enumerate}
+
+\section{Process Removal Efficiency}\index{Process Removal Efficiency}
+
+% \section{Process Removal Efficiency}\index{Process Removal Efficiency}
+% \begin{snugshade*}
+% 	\item \noindent\textsc{Process Removal Efficiency}
+% \end{snugshade*}
+\begin{itemize}
+\item Process removal rate or removal efficiency is the percentage of the inlet concentration removed.  
+\item It is used for quantifying the pollutant removal during wastewater treatment and is established based upon the amount of a particular wastewater constituent entering and leaving a treatment process.
+
+\item $Process \enspace Removal \enspace Rate \enspace (\%) = \dfrac{Pollutant \enspace  In-Pollutant\enspace  Out}{Pollutant \enspace In}*100$\\
+
+\item If 10 units of a pollutant are entering a process and 8 units of pollutant are leaving (process removes 2 units), then the process removal rate for that pollutant is (10-8)/10*100=20\%.  In this example the process is 20\% efficient in removing that particular pollutant.
+
+\item The amount of pollutant can be measured in terms of concentration (mg/l) or in terms of mass loading (lbs).  The pounds formula is used for calculating the mass loadings.  
+\end{itemize}
+The above example is for calculating the removal efficiency using the inlet and outlet concentrations or mass loading.\\
+The methods below can be used for calculating either the inlet or outlet pollutant concentrations, if the removal efficiency and the corresponding inlet or outlet concentrations are given. 
+
+
+\hl{Case 1:  Calculating outlet conc. (X) given the inlet conc. and removal efficiency (RE\%):}
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.9in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.9in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {${Removal \enspace Efficiency=RE\% \enspace (Given)}$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-5.8cm}$A \enspace mg/l \enspace (Given) $} node [below] {\hspace{-5.8cm}$100 \enspace mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-4cm}$X \enspace mg/l \enspace (Unknown)$} node [below] {\hspace{-3.9cm}($100-RE\%)\enspace mg/l$};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+Using the fact that if the inlet concentration was 100 mg/l, the outlet concentration would be 100 minus the removal efficiency.\\
+Setup the equation as:  $\dfrac{Out}{In}: \enspace \dfrac{X \enspace mg/l}{A \enspace mg/l}=\dfrac{100-RE\%}{100}$\\
+Calculate X using cross multiplication - if $\dfrac{A}{B}=\dfrac{C}{D} \implies A=B*\dfrac{C}{D}$:\\
+$X \enspace mg/l=A \enspace mg/l*\dfrac{100-RE\%}{100}$\\
+
+
+\hl{Case 2:  Calculating inlet conc. (X) given the outlet conc. and removal efficiency (RE\%):}
+
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.9in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.9in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=RE\% \enspace (Given)$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-5.8cm}$X \enspace mg/l \enspace (Unknown)$} node [below] {\hspace{-5.8cm}$100 \enspace mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-4cm}$A \enspace mg/l \enspace (Given)$} node [below] {\hspace{-3.9cm}($100-RE\%)\enspace mg/l$};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+Using the fact that if the inlet concentration was 100 mg/l, the outlet concentration would be 100 minus the removal efficiency.\\
+Setup the equation as:  $\dfrac{In}{Out}: \enspace \dfrac{X \enspace mg/l}{A \enspace mg/l}=\dfrac{100}{100-RE\%}$\\
+\vspace{0.3cm}
+Calculate X using cross multiplication - if $\dfrac{A}{B}=\dfrac{C}{D} \implies A=B*\dfrac{C}{D}$:\\
+$X \enspace mg/l=A \enspace mg/l*\dfrac{100}{100-RE\%}$\\
+
+\vspace{0.4cm}
+\subsection{Example Problems}
+% \hl{Example Problems:}\\
+
+\begin{enumerate}
+
+\item What is the \% removal efficiency if the influent concentration is 10 mg/L and the effluent concentration is 2.5 mg/L?\\
+$Removal \enspace Rate (\%) = \dfrac{In-Out}{In}*100 \implies \dfrac{10-2.5}{10}*100=\boxed{75\%}$
+
+
+
+\item Calculate the outlet concentration if the inlet concentration is 80 mg/l and the process removal efficiency is 60\%\\
+Solution:\\
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=60\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$80mg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}$Xmg/l$} node [below] {\hspace{-3cm}40mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+%\caption[MFCC]{Diagrama en bloques del cálculo de las MFCC para un frame.}
+%\label{MFCC}
+\end{figure}
+
+$\dfrac{Out}{In} \enspace:\enspace\dfrac{Actual \enspace Outlet (X)}{80}=\dfrac{100-60}{100}$\\
+$\implies \dfrac{Actual \enspace Outlet (X)}{80} =0.4$\\
+$\implies Actual \enspace  Outlet (X) = 0.4 * 80 = \boxed{32 mg/l}$\\
+
+
+\item Calculate the inlet concentration if the outlet concentration is 80 mg/l and the process removal efficiency is 60\%\\
+
+\tikzstyle{block} = [rectangle, draw, fill=red!40, 
+    text width=6em, text centered, rounded corners, minimum height=3em]
+\tikzstyle{arrow} = [draw, -latex']
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Process) {Process};
+   \node[node distance=1.5in] (dummy_in) [left of=Process] {In};
+   \node[node distance=1.5in] (dummy_out) [right of=Process] {Out};
+	\node (Removal) [below of=Process, yshift=-0in] {$Removal \enspace Efficiency=60\%$};
+    \path [arrow] (dummy_in)-- (Process)  node [above] {\hspace{-4.39cm}$Xmg/l$} node [below] {\hspace{-4.39cm}$100mg/l$};
+    \path [arrow] (Process) -- (dummy_out)  node [above] {\hspace{-3.cm}80mg/l} node [below] {\hspace{-3cm}40mg/l};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+$\dfrac{In}{Out} \enspace : \enspace \dfrac{Actual \enspace inlet \enspace  (X)}{80}=\dfrac{100}{100-60}\implies \dfrac{Actual \enspace inlet \enspace  (X)}{80}=2.5$\\    
+Rearranging the equation:   $Actual \enspace inlet (X)=2.5*80 = \boxed{200 mg/l}$\\
+
+\item If a plant removes 35\% of the influent BOD in the primary treatment and 85\% of the remaining BOD in the secondary system, what is the BOD of the raw wastewater if the BOD of the final effluent is 20mg/l\\
+Solution:\\
+
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Primary) {Primary};
+    
+   \node[node distance=1.9in] (dummy_in) [left of=Primary] {Influent BOD};
+   \node[node distance=1.9in] (dummy_out) [right of=Primary] {Primary BOD Out};
+	\node (Removal) [below of=Primary, yshift=-0in] {$Removal \enspace Efficiency=35\% $};
+    \path [arrow] (dummy_in)-- (Primary)  node [above] {\hspace{-4.8cm}$X \enspace mg/l \enspace$} node [below] {};
+    \path [arrow] (Primary) -- (dummy_out)  node [above] {\hspace{-4.9cm}$0.65X \enspace mg/l$} node [below] {};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+
+
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}[node distance =1.5cm, auto]
+    \draw ++(0,0) node [block] (Secondary) {Secondary};
+    
+   \node[node distance=1.9in] (dummy_in) [left of=Secondary] {Primary BOD Out};
+   \node[node distance=1.9in] (dummy_out) [right of=Secondary] {Secondary BOD Out};
+	\node (Removal) [below of=Secondary, yshift=-0in] {$Removal \enspace Efficiency=85\% $};
+    \path [arrow] (dummy_in)-- (Secondary)  node [above] {\hspace{-4.8cm}$0.65X \enspace mg/l \enspace$} node [below] {\hspace{-5cm}$100 \enspace mg/l$};
+    \path [arrow] (Secondary) -- (dummy_out)  node [above] {\hspace{-4.9cm}$20 \enspace mg/l$} node [below] {\hspace{-4.9cm}$15 \enspace mg/l$};
+   \draw[arrow] (Process) -- (Removal);
+\end{tikzpicture}
+\end{figure}
+\vspace{0.3cm}
+For the Secondary process:\\
+$\dfrac{In}{Out}: \enspace \dfrac{0.65X}{20}=\dfrac{100}{15} \implies X \enspace mg/l=\dfrac{100*20}{15*0.65}=\boxed{205 \enspace mg/l}$\\
+
+\vspace{0.3cm}
+Alternate Solution \#1
+
+$\xrightarrow[
+				\text{X}\dfrac{mg}{l}
+			]
+			{
+			\text{Influent BOD}
+			}
+ \boxed{Primary}
+ \xrightarrow[
+ 				\text{X-0.35X=X*(1-0.35)=0.65X}\dfrac{mg}{l}
+ 			]
+ 			{
+ 			\text{Primary Effluent BOD}
+ 			}
+ \boxed{Secondary}
+ \xrightarrow[
+				\text{0.65X-0.5525X=(0.65-0.5525)X=0.0975X }
+			 ]
+			{
+			\text{Secondary Effluent BOD}
+			}
+$\\
+\hspace{2.8cm}$\downarrow$ {\tiny(0.35X)BOD Removed}\hspace{3.2cm}$\downarrow$ {\tiny(0.65*0.85)X = 0.5525X BOD Removed}\\
+$\implies 0.0975X=20 \implies X=\dfrac{20}{0.0975}=\boxed{205\dfrac{mg}{l}}$\\
+
+\vspace{0.3cm}
+
+Alternate Solution \#2:\\
+$\xrightarrow[\text{X}\dfrac{mg}{l}]{\text{Influent BOD}}\boxed{Primary}\xrightarrow[\text{0.65X}]{\text{Primary Effluent BOD}}\boxed{Secondary}\xrightarrow[\text{(0.65*0.15)X}]{\text{Secondary Effluent BOD}}$\\
+\hspace{2.8cm}$\downarrow$ {\tiny(0.35X)BOD Removed}\hspace{2.2cm}$\downarrow$ {\tiny(0.65X*0.85)BOD Removed}\\
+
+Primary Effluent BOD = Influent BOD * (1-Primary BOD Removal), and\\
+Secondary Effluent BOD=[Primary Effluent BOD]*(1-Secondary BOD Removal)\\
+Secondary Eff. BOD=[Influent BOD * (1-Primary BOD Removal)]*(1-Secondary BOD Removal)\\
+
+Therefore, 20 = [X*(1-0.35)] * (1-0.85)= X*0.65*0.15\\
+$\implies 20 \enspace \dfrac{mg}{l}= 0.0975X \implies X=\dfrac{20}{0.0975}=\boxed{205 \enspace \dfrac{mg}{l}}$
+
+\end{enumerate}
+\section{Pumping}\index{Pumping}
+% \section{Pumping}\index{Pumping}
+% \pagebreak
+% \begin{snugshade*}
+% 	\item \noindent\textsc{Pumping}
+% \end{snugshade*}
+For Grades I \& II, pumping rate problems include the following:
+% \begin{enumerate}
+% \definecolor{shadecolor}{RGB}{225, 235, 235}
+% \begin{snugshade*}
+% \item \noindent\textsc{Calculating volume pumped in a given time interval given the pump flow rate\\}
+% \end{snugshade*}
+\subsection{Calculating volume pumped given the pump flow rate}\index{Calculating volume pumped given the pump flow rate}
+
+\textbf{Method:\\}
+\hspace{1cm}Step 1. Multiply the pump flow rate by the time interval\\
+\textbf{Make sure:}
+\begin{itemize}
+\item The time units - in the given time interval and in the pump flow rate match
+\end{itemize}
+\subsection{Calculating time to pump a certain volume}\index{Calculating time to pump a certain volume}
+% \begin{snugshade*}
+% \item \noindent\textsc{Calculating time to pump a certain volume given the pump flow rate\\}
+% \end{snugshade*}
+\textbf{Method:}
+\hspace{1cm}Step 1. Calculate the total volume pumped\\
+\hspace{1cm}Step 2.	Divide the total volume by the pump flow rate\\
+\textbf{Make sure:}
+\begin{itemize}
+\item The volume units - in the volume that needs to be pumped and in the pump flow rate match
+\item The time unit in the pump flow rate needs to be converted to the time unit that you need the answer in
+\end{itemize}
+% \end{enumerate}
+
+\section{Example Problems}
+% \hl{Example Problems:}\\
+
+\begin{enumerate}
+
+\item A sludge pump is set to pump 5 minutes each hour. It pumps at the rate of 35 gpm. How many gallons of sludge are pumped each day?\\
+Solution:\\
+$\dfrac{35 \enspace gal \enspace sludge}{\cancel{min}}*\dfrac{5 \enspace \cancel{min}}{\cancel{hr}} *\dfrac{24 \enspace \cancel{hr}}{day}=\boxed{\dfrac{4,200 \enspace gallons}{day}}$\\
+\vspace{0.5cm}
+
+\item A sludge pump operates 5 minutes each 15 minute interval.  If the pump capacity is 60 gpm, how many gallons of sludge are pumped daily?
+
+$\dfrac{60 \enspace gal \enspace sludge}{\xcancel{min}}*\dfrac{5 \enspace \xcancel{min}}{15 \enspace \cancel{min}}*1440\dfrac{\cancel{min}}{day}=\boxed{\dfrac {28,800 \enspace gal \enspace sludge }{day}}$\\
+
+\item Given the tank is 10ft wide, 12 ft long and 18 ft deep tank including 2 ft of freeboard when filled to capacity. How much time (minutes) will be required to pump down this tank to a depth of 2 ft when the tank is at maximum capacity using a 600 GPM pump\\
+Solution:\\
+\vspace{0.5cm}
+
+
+\begin{tikzpicture}
+
+\pgfmathsetmacro{\cubexx}{4}
+\pgfmathsetmacro{\cubeyy}{1.5}
+\pgfmathsetmacro{\cubezz}{2}
+\pgfmathsetmacro{\cubex}{4}
+\pgfmathsetmacro{\cubey}{0.5}
+\pgfmathsetmacro{\cubez}{2}
+\pgfmathsetmacro{\cubexxx}{4}
+\pgfmathsetmacro{\cubeyyy}{4}
+\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(-\cubexx,0,0) -- ++(0,-\cubeyy,0) -- ++(\cubexx,0,0) -- cycle ;
+\filldraw [fill=cyan!0!white, draw=black] (0,-\cubey,0) -- ++(0,0,-\cubezz) -- ++(0,-\cubeyy,0) -- ++(0,0,\cubezz) -- cycle;
+\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(0,0,-\cubezz) -- ++(0,-\cubeyy,0) -- ++(0,0,\cubezz) -- cycle;
+%\filldraw [fill=cyan!10!white, draw=black] (0,-\cubey,0) -- ++(-\cubexx,0,0) -- ++(0,0,-\cubezz) -- ++(\cubexx,0,0) -- cycle;
+%%%\draw (0,-0.5,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,-\cubez) -- ++(\cubex,0,0) -- cycle;
+\draw (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\draw (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle ;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+\filldraw [fill=white, draw=black] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+
+%\filldraw [fill=RoyalBlue!10!white, draw=black] (0,-1.5,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle ;
+
+%\filldraw [fill=RoyalBlue!10!white, draw=black] (0,-1.5,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+
+
+
+%%\draw (0,-0.5,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
+%%\filldraw [fill=white, draw=black] (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
+%%\filldraw [fill=white, draw=black] (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle ;
+
+\draw [<->] (-4,-2.3) -- (0,-2.3) node [midway, below] {12' Long};
+\draw [<->] (1,-1.3) -- (1,.2) node [midway, midway] {\hspace{4.5cm}16' Water Depth (Initial)};
+\draw [<->] (0.4,-1.62) -- (0.4,-1.1) node [midway, midway] {\hspace{-4.8cm} 2' Water Depth (Final)};
+\draw [<->] (1,.8) -- (1,.2) node [midway, midway] {\hspace{2.4cm}2' Freeboard};
+\draw [<->] (1,-1.3) -- (0,-2.3) node [midway, midway] {\hspace{2.3cm}10' Wide};
+\end{tikzpicture}\\
+Volume to be pumped=$12 \enspace ft*10 \enspace ft *(16-2)\enspace ft=1,680ft^3$\\
+\vspace{0.3cm}
+$\implies \dfrac{1,680\cancel{ft^3}*7.48\dfrac{\cancel{gal}}{\cancel{ft^3}}}{600\dfrac{\cancel{gal}}{min}}=\boxed{21min}$
+\end{enumerate}
+
+\chapterimage{TitleIII.png} % Chapter heading image
+
+\chapter{Wastewater Constituents and Analysis}
+% \begin{enumerate}[1.]
+% 	\definecolor{shadecolor}{RGB}{200, 200, 240}
+
+% 	%%%%%%%%%%%
+% 	% LEVEL 2 %
+% 	%%%%%%%%%%%
+
+% 	\begin{snugshade*}
+% 		\item \noindent\textsc{Wastewater Constituents}%$$$$$$$$$$$$$$$$$$$$%
+% 	\end{snugshade*}
+% 	Solids, organic matter, nutrients, pathogens and oil \& grease are the main target constituents of wastewater treatment operations.
+% 	\begin{enumerate}[A.]%___________%
+% 			\definecolor{shadecolor}{RGB}{225, 235, 235}
+
+				%%%%%%%%%%%
+				% LEVEL 3 %
+				%%%%%%%%%%%
+		% \begin{snugshade*}
+		% 	\item \noindent\textsc{Organic Matter}%###############################%
+		% \end{snugshade*}
+		
+		\section{Organics}\index{Organics}		
+		\begin{itemize}
+			\item The main reason for treating domestic wastewater is to remove the organic matter.  
+			\item Organics are substances containing carbon, hydrogen and oxygen, and some of which may be combined with nitrogen, sulfur or phosphorous.
+			\item About 50 percent of the solids present in wastewater are organic.  This fraction is generally of animal or vegetable life, dead animal matter, plant tissue or organisms, and also include synthetic organic compounds.
+			\item The principal organic compounds present in domestic wastewater are proteins, carbohydrates and fats together with the products of their decomposition.
+			\item Organics are subject to decay or decomposition through the activity of bacteria and other living organisms.  \hl{Since the organic fraction can be driven off at high temperatures, they are also called \textbf{volatile solids}}.\
+			\item \emph{Organics in wastewater is typically quantified in terms of oxygen required to oxidize the carbon based material present} in wastewater using the following methods:\\
+\subsection{Biochemical Oxygen Demand (BOD)}\index{Biochemical Oxygen Demand (BOD)}
+
+			  %     \begin{enumerate}[i.]
+			  %     	\definecolor{shadecolor}{RGB}{220,220,220}
+					% %%%%%%%%%%%
+					% % LEVEL 4 %
+					% %%%%%%%%%%%
+			  %     	\begin{snugshade*}
+			  %     		\item \noindent\textsc{Biochemical Oxygen Demand (BOD)}%@@@@@@@@@@@@@@@@@@%
+			  %     	\end{snugshade*}					
+			      	\begin{itemize}
+			      		\item The BOD of wastewater is measured in terms of oxygen required for the microorganisms to consume the organic material present.
+			      		\item BOD is typically measured as BOD$_5$ which is the oxygen demand of the wastewater measured after 5 days of the initiation of the test.
+			      		\item The test involves incubating a known dilution of wastewater in a 300 ml bottle for 5 days at 20\si{\degree}C.  The dissolved oxygen (DO) content at the start and end of the incubation period is used for calculating the BOD.
+			      		\item For the test to be considered valid, the following criteria need to be met: 1) DO consumption during the test must be at least 2 mg/l, 2) DO remaining at the end of the test must be at least 1 mg/l, and 3) DO consumed in blank should be 0.2 mg/l or less
+			      		      			
+			      		\item BOD is a parameter to measure the strength of wastewater and the measurement of the wastewater treatment plant or treatment process influent and effluent BOD is standard practice to measure its performance.  Typical domestic wastewater BOD is about 200-250 mg/l.
+			      		\item The oxygen consumed by the microorganisms during the BOD test is primarily for: 1) Oxidizing the carbonaceous material (cBOD – carbonaceous BOD), and 2) Oxidizing nitrogenous constituents such as ammonia (nBOD – nitrogenous BOD).
+			      		\item Thus, BOD (Total) = cBOD + nBOD.  The cBOD and nBOD is measured by adding certain chemical inhibitors which will inhibit the bacteria responsible for consuming the nitrogenous matter, thus measuring only the cBOD as part of the BOD test.
+			      		\item Since not all of the organics is metabolized in the 5 days of the regular BOD test, certain wastewater discharge permits require reporting of the ultimate BOD value (BOD$_U$)\\
+			      	\end{itemize}
+
+			    \subsection{Chemical Oxygen Demand (COD)}\index{Chemical Oxygen Demand (COD)}
+			      	% \begin{snugshade*}
+			      	% 	\item \noindent\textsc{Chemical Oxygen Demand (COD)}%@@@@@@@@@@@@@@@@@@%
+			      	% \end{snugshade*}		  
+			      	\begin{itemize}
+			      		\item The COD test involves using chemical oxidizers to measure the oxygen demand of the wastewater.
+			      		\item As the chemical oxidizers will oxidize other constituents present, including inorganic matter, the COD value of wastewater will be higher than the BOD.  
+			      		\item The COD test can be conducted rather quickly than the 5 day BOD test, it is an effective method to quantify the wastewater strength and process efficiencies and allow operators to make timely process adjustments.
+			      	\end{itemize}
+
+			    \subsection{Total Organic Carbon (TOC)}
+			      	% \begin{snugshade*}
+			      	% 	\item \noindent\textsc{Total Organic Carbon (TOC):}\\%@@@@@@@@@@@@@@@@@@%
+			      	% \end{snugshade*}
+			      	The TOC method utilizes laboratory analytical instruments which directly measure the organic carbon content by quantifying the amount of carbon dioxide produced from the complete combustion of the organics present.
+			      % \end{enumerate}
+		\end{itemize}
+		
+		
+		
+			\hl{Note: BOD measures the amount of oxygen required by the microorganisms present to consume the organic material while COD measures the chemical oxidation required to oxidize all chemicals including organics present in wastewater.  BOD value of typical domestic sewage is about 200 - 250 mg/l while the COD value ranges from 300 - 450 mg/l.  Typical BOD:COD ratio ranges from 0.5-0.8.}\\
+
+
+\section{Solids}\index{Solids}
+% 		\pagebreak
+% 				\begin{snugshade*}
+% 			\item \noindent\textsc{Solids}
+% 		\end{snugshade*}	
+		Like BOD, wastewater solids is another critical parameter for establishing the wastewater strength and determining treatment process efficiencies. 
+		\begin{itemize}
+			\item The \texthl{solids can be classified as suspended or dissolved} based upon its ability to pass through a standardized filter paper.
+			\item When the wastewater is filtered:
+			      \begin{itemize}
+			      	\item the residual solids remaining on the filter paper after drying in an oven at 103\si{\degree}C is the \hl{suspended solids} portion, and 
+			      	\item the solids remaining after drying the filtrate are the \hl{dissolved solids}.
+			      \end{itemize}
+			\item Suspended solids include larger floating particles and consist of sand, grit, clay, fecal matter, paper, pieces of wood, particles of food and garbage, and similar materials.
+			\item Suspended solids can be categorized based upon its settling characteristics as:
+			      \begin{itemize}
+			      	\item \hl{Settleable}
+			      	\item \hl{Non-settleable}
+			      	      \begin{itemize}
+			      	      	\item \hl{Colloidial}-small, charged (typically negative) particles which do not settle easily.  Some of the colloidial particles are small enough to pass through the filter paper used for filtering the suspended solids
+			      	      	\item \hl{Floatable}-example oil and grease and small plastics
+			      	      \end{itemize}
+			      \end{itemize}
+			\item Dissolved solids in wastewater include organics.  However, the major elements of dissolved solids are inorganic ions such as Ca$^{+2}$, Mg$^{+2}$, Cl$^-$, SO$_4$ $^{-2}$ , HCO$_3$ $^-$, Fe$^{+2}$, PO$_4$ $^{-3}$, NO$_3$ $^-$.  These ions are part of the dissolved salts such as sodium chloride (NaCl), calcium bicarbonate (Ca(HCO$_3$)$_2$), magnesium phosphate (Mg$_3$PO$_4$) and others which are normally present in water and wastewater. 
+			      \begin{itemize}
+			      	\item Conductivity or electrical conductance (EC) measurement is typically conducted as the wastewater enters the plant as \hl{conductivity provides an indirect and simple measure of the amount of dissolved solids present.}  
+			      	\item Conductivity or electrical conductance (EC) is a measure the amount of electrical current that can be conducted by a solution.  
+			      	\item The conductance of electricity in a solution is due to the presence of dissolved inorganic ions 
+			      	\item The higher the concentration of these ions, the higher is the conductivity. 
+			      	\item \underline{Conductivity is measured in the units of mhos/cm or Siemens/cm.}  (Note:  mhos is the reverse of ohm which is a measure of resistance).
+			      	\item Typical wastewater conductivities range from 50 to 1500 S/cm
+			      \end{itemize}
+			\item Both suspended and dissolved solids can be either \hl{volatile (organic)} or \hl{fixed (inorganic)}.
+			\item \hl{Total Solids is thus a sum of TSS and dissolved solids or volatile and fixed solids.}
+			      \begin{itemize}
+			      	\item The volatile solids are typically of plant or animal origin .
+			      	\item The fixed solids include sand, gravel and silt as well as the dissolved salts.
+			      \end{itemize}
+			      \begin{minipage}{0.5\textwidth}
+			      	\item The volatile or fixed fractions are quantified by incinerating the solids in a muffler furnace at 550\si{\degree} which removes only the volatile solids leaving only the fixed solids behind.
+			      	\item In terms of the size of the solids, the distribution is approximately thirty percent suspended and about seventy percent dissolved solids - which includes the colloidal particles which have passed through the filter paper.\\ 
+			      	\item As primary treatment process involve settling of solids, establishing the settleable portion of the suspended solids is important.\\  
+			      	\item \hl{The settleable solids are quantified using an Imhoff cone and are reported in ml/L}.  Imhoff cone is a 1 liter, clear cone shaped container, with volume graduations (ml) at the bottom.
+			      						
+			      \end{minipage}	
+			      \begin{minipage}{0.5\textwidth}
+			      	\begin{center}
+			      		\includegraphics[scale=0.7]{ImhoffCone}\\
+			      		Imhoff Cone\\
+			      		\textit{Note the ml markings at the bottom of the cone}
+			      		
+			      		
+			      	\end{center}
+		      \end{minipage}
+%			      \end{minipage}
+			      	\item One factor which affects settleability is the conveyance time of the sewage to the treatment plant. 			
+			      	\item The settleable component of the suspended solids will decrease as the sewage becomes more septic due to longer conveyance times.
+			\item Influent and effluent total suspended solids are measured to establish the overall treatment and individual process efficiencies.  
+			\item Volatile solids measurements before and after biological processes such as secondary treatment and digestion provide information on the process efficiency.\\
+		\end{itemize}
+
+
+	\subsection{Procedures for Solids Analysis}\index{Procedures for Solids Analysis}
+% 		\begin{enumerate}%$$$$$$$$$$$$$$$$$$$$%
+% 			\definecolor{shadecolor}{RGB}{220, 220, 220}
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Procedures for Solids Analysis}
+% 			\end{snugshade*}		
+	\subsubsection{Determining wastewater suspended solids - Total(TSS) and Volatile(VSS) concentrations}\index{Determining wastewater suspended solids - Total(TSS) and Volatile(VSS) concentrations}			
+			% \begin{enumerate}[a.]
+			% 	\definecolor{shadecolor}{RGB}{110, 192, 221}
+			% 	\begin{snugshade*}
+			% 		\item \noindent\textsc{Determining wastewater suspended solids - Total(TSS) and Volatile(VSS) concentrations:}
+			% 	\end{snugshade*}
+				 
+				%\hl{How total suspended solids concentration is established for a wastewater sample:}
+				\begin{itemize}
+					\item A known volume of wastewater sample is filtered through a pre-weighed filter paper
+					\item The suspended solids will be retained by the filter
+					\item The water with the dissolved solids will pass through the filter
+					\item The filter paper with the filter solids is rinsed with distilled water to remove 
+					\item The filter paper with the solids is dried in the oven and then weighed
+					\item The difference between the weight of the dried filter paper with the solids and the pre-weighed filter paper, measured in mg, will be the suspended solids in: mg per the original quantity of wastewater sample taken.  This value can be converted to give the suspended solids content in mg/l
+					\item A filter paper with the dried solids is incinerated in a muffler furnace
+					\item The difference in the weight of the solids, before and after incineration is the fixed solids
+					\item The difference between the weight of the solids before incineration and the fixed solids is the volatile solids
+				\end{itemize}
+				
+	\subsubsection{Determining wastewater and sludge total solids (TS) and volatile solids (VS) concentrations}\index{Determining wastewater and sludge total solids (TS) and volatile solids (VS) concentrations}				
+				
+				% \begin{snugshade*}
+				% 	\item \noindent\textsc{Determining wastewater and sludge total solids (TS) and volatile solids (VS) concentrations:}
+				% \end{snugshade*}
+				\begin{itemize}
+					\item A certain quantity of wastewater (by volume) or sludge (by weight) is taken in a pre-weighed dish and weighed.  Note:  the sample is not filtered.
+					\item The dish with the sample is dried in an oven
+					\item The difference in the weight of the pre-weighed dish from that of the dish with the dried sample is the total solids
+					\item The dried solids are incinerated in a muffler furnace
+					\item The difference in the weight of the solids, before and after incineration is the fixed solids
+					\item The difference between the fixed solids and the total solids is the volatile solids
+					\item Total solids of a sludge sample is reported as a \% of the sludge weight.  A 7\% sludge has 7 lbs of solids for every 100 lbs of sludge.
+				\end{itemize}
+				
+							
+				
+				
+					\hl{For sludge samples, volatile solids is typically reported as the volatile solids fraction in \% of the total solids content of the sludge.  For example, if a 8\% sludge (i.e sludge which has 8\% TS or 80,000mg/l solids), is reported to have 70\% volatile, it means that 70\% of the total solids - 0.7*8\%=5.6\% or 56,000mg/l is the sludge volatile solids content.  \emph{70\% volatile does not meet the sludge has 700,000mg/l volatile solids}}\\
+				
+% 			\end{enumerate}
+	\subsection{Summary of Wastewater Solids}\index{Summary of Wastewater Solids}		
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Summary of Wastewater Solids}
+% 			\end{snugshade*}
+			\begin{itemize}
+				\item Solids in wastewater can be categorized as dissolved or suspended
+				      \begin{itemize}
+				      	\item Suspended solids can be further categorized as settleable or unsettleable
+				      \end{itemize}
+				\item Solids can also be categorized as organic (aka: volatile) or inorganic (aka: fixed)
+				\item Colloidial particles are small sized particles some of which pass through the filter and accounted as part of dissolved solids
+				\item TSS - Total Suspended Solids are the solids that are captured on the filter paper upon filtration of the wastewater sample.  
+				\item Wastewater samples typically analyzed for TSS include:  plant, primary and secondary processes - influent and effluent.  TSS is reported in mg/l
+				\item TS - Total Solids are solids content of sludge.  TS of sludge is established by drying a preweighed quantity of sludge in an oven and is typically reported as \% solids - which is how many parts (by weight) of solids per 100 parts (by weight) of sludge.
+				\item Volatile solids are solids that are removed when the solids are incinerated at 550C.  The solids that remain after incineration are fixed or non-volatile or inorganic solids.
+			\end{itemize}
+	\subsubsection{Wastewater Solids Content}\index{Wastewater Solids Content}			
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Typical influent wastewater contains:}
+% 			\end{snugshade*}
+			\begin{itemize}
+				\item Less than 0.1\% total solids.  Total solids concentration in typical wastewater is about 750mg/l
+				\item The total solids are 50\% organic (volatile) and 50\% inorganic (fixed)
+				\item Of the total solids, dissolved solids constitute about 70\% of the solids and the remaining 30\% solids are suspended solids
+				\item 40\% of the dissolved solids are volatile the remaining 60\% are fixed
+				\item 70\% of the suspended solids are volatile and the remaining 30\% are fixed
+			\end{itemize}
+			% \clearpage\thispagestyle{empty}
+			\begin{figure}[!htbp]
+			\vspace{2cm}
+				\begin{center}
+					\includegraphics[scale=0.8]{WastewaterSolids}\\
+					\caption{Typical Wastewater Solids Concentrations}
+				\end{center}
+				\end{figure}
+% % 			\end{enumerate}
+				
+\section{Nutrients}\index{Nutrients}	
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Nutrients}
+% 			\end{snugshade*}	
+			\begin{itemize}
+				\item Plant nutrients - nitrogen and phosphorous, present in wastewater effluent discharge, promote growth of plant and algal matter in the receiving waters causing destruction of the normal aquatic life mainly due to oxygen depletion - eutrophication.
+				      
+				\item Because of the potential impacts of the presence of these nutrients in wastewater effluent on the receiving waters,  limits on the levels of these nutrients is typically stipulated in the treatment plant's wastewater discharge permit.
+				      
+				\item Typically, conventional secondary treatment processes are designed primarily remove the organics from the wastewater.  Secondary treatment process designed to additionally remove nutrients is deemed as tertiary or advanced treatment is termed as Biological Nutrient Removal (BNR).
+			\end{itemize}
+	\subsection{Nitrogen}\index{Nitrogen}				
+% 			\begin{enumerate}%@@@@@@@@@@@@@@@@@@%
+% 				\definecolor{shadecolor}{RGB}{220,220,220}
+% 				\begin{snugshade*}
+% 					\item \noindent\textsc{Nitrogen}%@@@@@@@@@@@@@@@@@@%
+% 				\end{snugshade*}
+
+	\subsubsection{Forms of nitrogen}\index{Forms of nitrogen}	
+% 				\begin{itemize}
+% 					\item Forms of nitrogen:\\
+					      \begin{itemize}
+					      	\item About 60\% of nitrogen in wastewater is present as ammonia nitrogen (about 60\%).  The ammonium nitrogen is present either in the form of ammonia (NH$_3$ ) or as ammonium (NH$_4^+$ ) ion.   These two forms can rapidly change from one to the other depending on pH and temperature.  Under low pH (acidic) or neutral conditions – pH less than or equal to 7, ammonia exists mostly as ammonium.  Ammonia becomes the dominant form as the pH increases to 8 and beyond.
+					      	\item The other dominant form of nitrogen, about 40\% of the total nitrogen is as organic nitrogen
+					      	\item Nitrogen measured as Total Kjeldahl Nitrogen (TKN) which is the sum of the organic nitrogen and the ammonia nitrogen concentrations.  Total inorganic nitrogen is the total concentration of ammonia nitrogen, NO3-, and NO2-.   Table provides the concentrations and forms of nitrogen in wastewater.
+					      \end{itemize}
+					      \setlength{\arrayrulewidth}{0.7mm}
+					      \setlength{\tabcolsep}{8 pt}
+					      \renewcommand{\arraystretch}{0.8}
+					      \begin{center}
+					      \begin{figure}[!htbp]
+					      	\noindent \begin{tabular}[!htbp]{ |p{6cm}|p{2.0cm}|p{2.5cm}|p{2.cm}|}
+					      	\hline
+					      	\multicolumn{4}{|c|}{\textbf{Forms of Nitrogen in Wastewater}} \\
+					      	\hline
+					      	%\thead{A Head} & \thead{A Second \\ Head} & \thead{A Third \\ Head} \\
+					      	%\hline%
+					      	
+					      	\hspace{1.8 cm}Forms of Nitrogen & \hspace{0.25 cm} Formula & \hspace{.4 cm} Found in & \hspace{.4 cm} Typical \newline \hspace{.2 cm}Concentration\\
+					      	\hline
+					      	\small Ammonia/Ammonium & \small NH$_3$/NH$_4^{\enspace +}$ &  \small Influent wastewater & 30-50 mg/l\\
+					      	
+					      	Total Kjeldahl Nitrogen \newline  \small (Ammonia/Ammonium + Organic Nitrogen) &  \small TKN &  \small Wastewater \newline  \small effluent  & 30-60 mg/l \\
+					      	
+					      	\small Total Inorganic Nitrogen \newline  \small (Ammonia/Ammonium + Nitrite + Nitrate) & \small TIN &  \small  Wastewater \newline  \small effluent  & 1-40 mg/l \\
+					      	
+					      	\small Nitrate  & $NO_3^{\enspace -}$ &  \small Nitrified effluent &  \small 1-35 mg/l \\
+					      	
+					      	\small Nitrate  &  $NO_2^{\enspace -}$ &  \small Partially nitrified effluent &  \small 0.1-2 mg/l \\
+					      	
+					      	\hline
+					      	\end{tabular}
+					      	\caption{Forms of Nitrogen}
+					      	\end{figure}
+					      \end{center}
+					      
+		\subsection{Phosphorous}\index{Phosphorous}			
+		\subsubsection{Forms of phosphorous}\index{Forms of phosphorous}
+					      \begin{itemize}
+					      	\item The principal forms are organically bound phosphorus, polyphosphates, and orthophosphates.
+					      	\item Organically bound phosphorus originates from body and food waste and, upon biological decomposition of these solids, is converted to orthophosphates. 
+					      	\item Polyphosphates originate from synthetic detergents and are hydrolyzed to orthophosphates. Thus, the principal form of phosphorus in wastewater is assumed to be orthophosphates, although the other forms may exist. Orthophosphates consist of the negative ions PO$_4$$^{3-}$, HPO$_4$$^{2-}$, and H$_2$PO$_4$ $^-$.  These may form chemical combinations with cations (positively charged ions).
+					      \end{itemize}
+
+\section{Oil and Grease}\index{Oil and Grease}	
+			Fats, oil and grease in wastewater originate from homes, food establishments and industries.
+			\begin{itemize}
+				\item Oil and grease content of wastewater is established in the laboratory by extracting it with a solvent - \textit{n}-hexane.  The concentration of oil and grease is reported in mg/l and typical oil and grease content of wastewater ranges from 80 - 120 mg/l
+				\item Presence of excessive oils and grease could potentially impact the secondary treatment process
+				\item Oils and grease are removed as floatables in primary treatment and sent with the sludge to the digesters
+			\end{itemize}
+		
+
+
+
+\section{Wastewater Parameters}\index{Wastewater Parameters}			
+		Laboratory and field tests are conducted to measure parameters which are critical for monitoring and controlling treatment.  The following are the key parameters that are measured.	
+			
+\subsection{pH}\index{pH}	
+			\hl{pH is a measure of the hydrogen ion (H$^+$) content or the acidity or basicity of a solution.}  pH impacts the chemical and micribiological elements of wastewater treatment processes and thus pH measurement and control is critical.
+			\begin{itemize}
+				\item Pure water dissociates into equal concentration of hydrogen ions and hydroxide ions:\\ 
+				      $H_2O \rightarrow H^+ + OH^-$.
+				\item The H$^+$ are responsible for acidic properties and the OH$^-$ ions for the basic properties.  
+				\item pH is the inverse of H$^+$ concentration; pH increases when the concentration of H$^+$ decreases relative to the concentration of OH-. 
+				\item pH scale ranges from 0 – 14. When the concentration of both H$^+$ and OH$^-$ are equal, as in pure water, it is considered neutral and its pH is 7.0.  \item If the pH of a sample solution is below 7.0, the sample is termed acidic and is alkaline or basic if its pH is above 7.0. 
+				\item Each change of 1 pH unit represents a 10 fold change in concentration.  For example, a sample with a pH of 2.0 is 1000 times more acidic than a sample with a pH of 5.0. 
+				\item pH is measured by an electrode that is sensitive only to H$^+$ or using a pH strip which is essentially an adsorbent paper which is pre-impregnated with chemicals which change color under different H$^+$ concentrations.
+				\item Most organisms involved in biological wastewater treatment processes do well within a a narrow range of pH near neutral (pH of 7).			
+			\end{itemize}
+			
+\subsection{Oxidation Reduction Potential (ORP)}\index{Oxidation Reduction Potential (ORP)}			
+			ORP is a measure of the potential of a wastewater to allow for microbiological oxidation and reduction reactions.\\
+			An example of wastewater treatment process where microbiological oxidation involved include the activated sludge process.  Whereas, anaerobic digestion is a microbiological reduction based process.
+			\begin{itemize}
+				\item ORP value is measured in millivolts (mV), using an electrochemical probe
+				\item The measured ORP value provides an indication of the potential of oxidation and reduction reactions in that sample.
+				\item A higher positive ORP is indicative of oxidation potential of the wastewater whereas a negative ORP value indicates potential for a reduction reaction to occur.
+				\item ORP measurements are used for controlling treatment processes including nitrification, odor control and disinfection.  For example, in the disinfection process utilizing chlorine (bleach), ORP measurements provides the strength of the oxidation potential of chlorine present in the wastewater being disinfected.  This measurement is used for precisely controlling the chlorine dosing.  The proper chlorine control results in optimizing chlorine dosing which reduces potential toxicity issues and dechlorination costs.
+			\end{itemize}
+			Typical ORP applications include the following processes and process elements
+			
+			
+			\setlength{\arrayrulewidth}{0.3mm}
+			\setlength{\tabcolsep}{8 pt}
+			\renewcommand{\arraystretch}{0.8}
+			\begin{center}
+				\begin{tabular}{ |p{9.5cm}|p{4.0cm}|}
+					\hline
+					\multicolumn{2}{|c|}{\textbf{Typical Wastewater Process ORPs}} \\
+					\hline
+					
+					\hline
+					\small Collections	Sulfide formation                                & \small -50 to -250 mV  \\
+					\small Influent wastewater                                          & \small - 200 mV        \\
+					\small Activated sludge	cBOD degradation with free molecular oxygen & \small +50 to +250 mV  \\
+					\small Biological phosphorous removal                               & \small +25 to +250 mV  \\
+					\small Denitrification                                              & \small +50 to -50 mV   \\
+					\small Anaerobic Digestion: Acid formation (Acidogenesis)           & \small -100 to -225 mV \\
+					\small Anaerobic Digestion: Methane production (Methanogenesis)     & \small -75 to -400 mV  \\
+					\hline
+				\end{tabular}
+				
+			\end{center}
+			
+\subsection{Alkalinity}\index{Alkalinity}	
+			\begin{itemize}
+				\item \hl{Alkalinity is the ability of a water to neutralize acids.}  
+				\item During certain wastewater treatment processes including anaerobic digestion, acids are generated as a result of microbiological activity.  The bacteria and other biological entities which play an active role in wastewater treatment are most effective at a neutral to slightly alkaline pH of 7 to 8.  In order to maintain these optimal pH conditions for biological activity there must be sufficient alkalinity present in the wastewater to neutralize acids generated by the active biomass.
+				\item This ability to maintain the proper pH in the wastewater as it undergoes treatment is the reason why alkalinity is so important to the wastewater industry.
+				\item The alkalinity is due to the presence of acid neutralizing bases in the water including the hydroxyl (OH$^-$), carbonate (CO$_3$$^-$) and bicarbonate (HCO$_3$$^-$)  ions.  These ions are of mineral origin and are also formed from carbon dioxide which comes from the atmosphere and from the microbial decomposition of organic material.  The resistance to pH change of the water will continue until all the alkalinity contributing ions are neutralized.  
+				\item The pH of a water serves as a guide to the types of alkalinity present in the water but is unrelated to the alkalinity content of a water.  Important Note:  Alkalinity is a measure of the ability to neutralize acids whereas a solution is termed alkaline (or basic) if its pH greater than 7. 
+				\item Alkalinity is expressed as milligrams per liter of CaCO$_3$
+			\end{itemize}
+			
+\subsection{Dissolved Oxygen}\index{Dissolved Oxygen}	
+			\begin{itemize}
+				\item Dissolved oxygen (DO) is the concentration of oxygen dissolved in the wastewater sample and is typically measured in the field using a DO probe.  A titration based Winkler Test is used in the laboratory
+				\item The \hl{presence of oxygen indicates an aerobic environment} where dissolved, free oxygen is available for aerobic microorganisms to live, BOD removal in the activated sludge process occurs as a result of the activity of aerobic bacteria.  The absence of DO indicates that the environment or condition is either anoxic or anaerobic.  
+				\item \hl{In an anoxic environment, free oxygen is not present, but oxygen is available from its combined  forms - nitrate (NO$_3$ $^-$) and sulfate (SO$_4$ $^-$)} for the the consumption of microorganisms.  Example of an anoxic process is denitrification.  In denitrification, the anoxic bacteria in the presence of food (cBOD) consume the combined oxygen in nitrates (NO$_3$ $^-$ ) and convert it to nitrogen gas.
+				\item \hl{The complete absence of oxygen including free and combined oxygen is an anaerobic environment.}
+				\item Microorganisms are termed as obligate aerobes if they cannot survive without free oxygen.  Facultative aerobes are microorganisms which can survive in both aerobic and anaerobic environments.  
+			\end{itemize}
+			
+\subsection{Microbiological testing and monitoring}\index{Microbiological testing and monitoring}	
+			
+			Microbiological testing and monitoring is conducted as part of the wastewater treatment for two main reasons:
+			\begin{enumerate}[1.]
+				\item Heterotrohic (organisms that consume organic material) microbes are responsible for the biological wastewater treatment processes - secondary treatment process, digestion and nutrient removal; and
+				\item Pathogens - agents that cause disease are present in wastewater effluent.
+			\end{enumerate}
+
+\begin{itemize}
+				
+				\item Microbiological testing related to monitoring and troubleshooting biological wastewater treatment\\
+				
+				Microbes involved in biological wastewater treatment processes include:\\
+				\begin{itemize}
+					\item Fungi - Filamentous fungi occasionally bloom in activated sludge processes due to low pH or nutrient deficiency and cause problems with the settleability.
+					\item Protozoa - Protozoas play a important role in the secondary treatment process.  Common protozoas in the activated sludge process include:
+					      \begin{itemize}
+					      	\item Amoeba
+					      	\item Flagellate
+					      	\item Cilliate
+					      \end{itemize}
+					\item Rotifers
+					\item Nematodes
+					\item Bacteria - Bacteria is the predominant microorganism responsible for the biological wastewater water treatment.  
+				\end{itemize}
+				\begin{itemize}
+					\item The effectiveness of the biological wastewater treatment processes is primarily due to the presence of a microbial ecosystem with a right balance of populations of different microbial species.
+					\item Methods used for monitoring the microbial composition include direct monitoring using a light microscope to see which and how many of the different microbial species are present - typically used for activated sludge process.
+					\item Indirect method includes monitoring other parameters such as pH and alkalinity which are influenced by microbiological activity.
+					\item The microbial monitoring ensures process stability and helps identify potential process upset conditions caused by changes to the microbial population due to other external factors - toxicty, organic loading, temperature etc.
+				\end{itemize}
+
+\item Microbiological testing related to monitoring and controlling pathogens in treated wastewater effluent\\
+
+	
+				Pathogens in wastewater belong to the following groups:
+				\begin{itemize}
+					\item Bacteria:  Although, bacteria is present in large numbers in feces, pathogenic or bacteria are present only because of an infection and this pathogenic bacteria can potentially spread the infection to other healthy individuals.  Disease spread by pathogenic bacteria include diarrhea, cholera and typhoid among many others.
+					      
+					\item Viruses: A large number of viruses may infect humans and are present in feces.  These include enteroviruses (including polioviruses), hepatitis A virus, reoviruses and diarrhea-causing viruses (especially rotavirus).
+					      
+					\item Protozoa:  Many species of protozoa can infect humans and cause diarrhoea and dysentery. Girardia which casues diarrheal illness is an example of a protozoan pathogen
+					      
+					\item Helminths:  These are parasitic worms that can infect humans and are transmitted to others through its eggs or larval forms
+					      
+				\end{itemize}
+				
+				\begin{itemize}
+					\item As one of the main reasons for treating wastewater is to protect public health, microbiological/pathogen testing of the wastewater effluent and the surface water impacted by the wastewater discharge is conducted to meet the requirements of a wastewater discharge permit, to monitor the pathogen impact of treated wastewater discharge and assess the level of contamination of a public body of water.
+					\item The bacteriological tests involves detection and quantification of one or more of the following bacteria:  total coliforms, fecal coliforms, E. Coli, and Enterococcus.  
+					      \begin{itemize}
+					      	\item The main reason why these bacteria such as coliforms and enterococcus are used \hl{as it is not practical to detect and quantify all pathogens associated with wastewater.}  
+					      	\item These selected bacteria originate from feces and indicate fecal contamination and thus serve as an indicator organisms for pathogens of wastewater origin.  
+					      	\item Also, they are abundant, potentially less harmful, and easy to detect.  E. coli has been shown to be a better predictor of the potential for impacts to human health and therefore many newer wastewater discharge permits require E. Coli testing in lieu of fecal coliform testing requirements.
+					      \end{itemize}
+					\item The microbiological test sample is always collected as a grab in a clean, sterile borosilicate glass or plastic bottle containing sodium thiosulfate. 
+					      \begin{itemize}
+					      	\item Sodium thiosulfate is added to remove residual chlorine which will kill coliforms during transit. 
+					      	\item If the sample is not preserved or maintained under proper conditions until the test is conducted in the laboratory, the test would provide erroneous results.
+					      	\item Samples must be refrigerated if they cannot be analyzed within 1 hour of collection and must be handled with care to prevent contamination and adverse conditions such as prolonged exposure to direct sunlight.
+					      	\item The maximum holding time for state or federal permit reporting purposes is 6 hours. 
+					      \end{itemize} 
+					\item As it is not possible to exactly quantify the number of bacteria present, a statistical based - \hl{Most Probable Number (MPN)} approach is utilized.  The methods for wastewater bacteriological tests include:  multiple-tube fermentation technique, membrane filtration and quanti-tray testing. 
+				\end{itemize}
+			\end{itemize}
+
+\subsection{Specific Gravity}\index{Specific Gravity}				
+			\begin{itemize}
+				\item Specific gravity is a term to express the weight of a solution with respect to that of water
+				\item Water weighs 1 kg/L or 8.34 lbs/gallon or 62.4 lbs/ft$^3$
+				\item A solution with a specific gravity of 1.2 will weigh 1.2 times the same volume of water.  1 L of that solution will weigh ( 1.2 kg )/L  or  ( 1.2*8.34=10lbs )/gallon.
+				\item Typically wastewater and the associated unthickened sludge, for all practical purposes is assumed to have a specific gravity of 1 - implying 8.34 lbs/gallon.
+				\item Specific gravity is typically used for calculations related to chemicals used in wastewater treatment.
+			\end{itemize}
+			
+\section{Wastewater Sampling}\index{Wastewater Sampling}
+		\begin{itemize}
+			\item Field or laboratory measurement of a certain parameter is critical in wastewater treatment operations to obtain information about wastewater characteristics in order to either characterize a wastewater stream, or to monitor a treatment process or for permit compliance.  
+			\item A sample is a small part of the whole representing the whole.  Thus, a sample needs to be such that it truly represents the entire population – which in a wastewater operations could be either a wastewater stream, wastewater solids or a chemical used.
+		\end{itemize}
+		
+\subsection{Sampling Methods}\index{Sampling Methods}
+\subsubsection{Grab Samples}\index{Grab Samples}
+				\begin{itemize}
+					\item A grab sample is a sample collected at a specific spot at a site over a short period of time.  
+					\item Grab sampling allows for instantaneous analysis of parameters such as pH, dissolved oxygen, chlorine residual, temperature and other parameters which change rapidly with time.
+					\item A grab sample represents a snapshot of space and time of a process stream.
+					\end{itemize}
+\subsubsection{Composite Samples}\index{Composite Samples}
+				\begin{itemize}
+					\item A composite sample is a collection of discrete samples are combined over a certain period or space and therefore represent the average performance of a wastewater treatment plant or a process during the collection period.\\  
+					\item Composite sampling can be either based on:
+					      
+					      1. constant time interval (time proportioned sampling)\\
+					      2. constant wastewater volume interval (flow-proportioned sampling), and\\
+					      3. treatment process space - includes samples taken at different depths\\
+					      
+					\item Composite samples are typically collected using automated samplers which can be programmed to collect samples at pre-established time intervals – for time proportional sampling.
+					\item Time and space composite samples are collected by adding equal volumes of samples collected from different times or locations.  
+					\item Flow proportional composite samples comprise of volume of each subsample based on flow.\\  
+				\end{itemize}
+				
+			\begin{center}
+				\includegraphics[scale=0.2]{Autosampler} \hspace{2cm} \includegraphics[scale=0.37]{Grabsampler}\\
+			\end{center}
+			\hspace{2.3cm} Automated Sampler \hspace{2.0cm} \parbox{\textwidth}{Grab Sampling Using a Long Handle Dipper}\\
+
+\subsubsection{Sampling Precautions and Protocols}\index{Sampling Precautions and Protocols}
+			\begin{itemize}
+				\item Samples should represent the major portion of the process or the process stream and should be taken from places where the mixing is thorough, avoiding dead spots and areas of heavier or lighter loadings. 
+				\item The collected sample is invariably exposed to conditions very different from the original source and is subject to change due to chemical and microbiological activity.  
+				\item Thus, in order to ensure integrity of sample, sample preservation techniques specific to the analysis to be performed is needed.  
+				      \begin{itemize}
+				      	\item The preservation technique should not only allow for stabilizing the parameter to be analyzed, it should also not interfere with the analyses.  
+				      	\item The common preservation techniques involve use of proper containers, temperature control, addition of chemical preservatives, and observance of the recommended maximum sample holding time.
+				      \end{itemize}
+			\end{itemize}
+
+\section{Data Reporting}\index{Data Reporting}	
+		\begin{itemize}
+			\item Arithmetic mean is typically calculated for reporting data where multiple samples have been collected and analyzed for the same process stream at different times and for reporting average value over a certain time period – daily, monthly etc.\\ \item Arithmetic mean mathematically is calculated by adding all the result values and dividing by the total number of data points.\\
+		\end{itemize}
+		Mathematically the arithmetic mean is represented as:\\
+		$$\bar{x}=\dfrac{\sum_{i=1}^{n} x^i}{n} = \dfrac{x_1+x_2+x_3...x_n}{n}$$
+		For example:\\
+		Arithmetic mean of the following set of data points:  200, 304, 250, 400 is calculated as:\\
+		\vspace{10pt}
+		Arithmetic Mean = $\dfrac{200 + 302 + 250 + 400}{4}= 288$\\
+		\vspace{10pt}
+		For data sets for analysis such as fecal coliform could include values which vary by several orders of magnitudes, using the arithmetic mean to report the average value is not appropriate as the lower or higher values would bias the calculated mean.\\
+		\vspace{10pt}
+		For example, consider a data set with values:  260, 300, 500, 5,000, 320 and 200.\\
+		\vspace{10pt}
+		The arithmetic mean = $\dfrac{260+300+500+5,000+320+200}{6} = 3,444$\\
+		Here the 5000 value completely skews the arithmetic mean.
+		
+		Therefore, for such tests, the geometric mean calculation is used for reporting the average value.\\
+		
+		
+		Mathematically a geometric mean is represented as:\\
+		$$\Bigg(\prod_{i=a}^n\Bigg)^{\dfrac{1}{n}}=\sqrt[n]{a_1*a_2*a_3...a_n}$$
+		 
+		Calculation method:\\
+		1.	Find the product of all the data points (analogous to first calculating the sum of all the data points when calculating the arithmetic mean)\\
+		260*300*500*5,000*320*200 = 12,480,000,000,000,000\\
+		2.	Raise the product to the inverse of the number of data points\\
+		(*Using the power function of a scientific calculator)\\
+		Here n (\# data points) = 6 $\implies$ geometric mean = $(12,480,000,000,000,000)^{\dfrac{1}{6}}   = 482$
+

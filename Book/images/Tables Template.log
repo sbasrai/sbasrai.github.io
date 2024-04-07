@@ -1,0 +1,792 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  23 FEB 2024 18:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Tables Template.tex"
+(Tables Template.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+\rotheadsize=\dimen145
+\c@nlinenum=\count193
+\TeXr@lab=\toks19
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen146
+\TX@old@table=\dimen147
+\TX@old@col=\dimen148
+\TX@target=\dimen149
+\TX@delta=\dimen150
+\TX@cols=\count194
+\TX@ftn=\toks20
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tabulary\tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count195
+\TY@linewidth=\dimen151
+\tymin=\dimen152
+\tymax=\dimen153
+\TY@tablewidth=\dimen154
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pbox\pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count196
+\calc@Bcount=\count197
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count198
+\calc@Cskip=\skip54
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\pb@xlen=\skip55
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count199
+\multirow@dima=\skip57
+\bigstrutjot=\dimen157
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks21
+\minrowclearance=\skip58
+\rownum=\count266
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2023/07/24 v2.0c lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2023/07/24 v2.0c Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty
+Package: lastpagemodern 2023-07-24 v2.0c Refers to last page's name (HMM; JPG)
+) 
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip59
+\f@nch@O@elh=\skip60
+\f@nch@O@erh=\skip61
+\f@nch@O@olh=\skip62
+\f@nch@O@orh=\skip63
+\f@nch@O@elf=\skip64
+\f@nch@O@erf=\skip65
+\f@nch@O@olf=\skip66
+\f@nch@O@orf=\skip67
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks24
+\footnotemargin=\dimen158
+\@outputbox@depth=\dimen159
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
+.
+)
+\CenteringLeftskip=\skip68
+\RaggedLeftLeftskip=\skip69
+\RaggedRightLeftskip=\skip70
+\CenteringRightskip=\skip71
+\RaggedLeftRightskip=\skip72
+\RaggedRightRightskip=\skip73
+\CenteringParfillskip=\skip74
+\RaggedLeftParfillskip=\skip75
+\RaggedRightParfillskip=\skip76
+\JustifyingParfillskip=\skip77
+\CenteringParindent=\skip78
+\RaggedLeftParindent=\skip79
+\RaggedRightParindent=\skip80
+\JustifyingParindent=\skip81
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks25
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip82
+\enit@outerparindent=\dimen168
+\enit@toks=\toks26
+\enit@inbox=\box53
+\enit@count@id=\count270
+\enitdp@description=\count271
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count272
+\float@exts=\toks27
+\float@box=\box54
+\@float@everytoks=\toks28
+\@floatcapt=\box55
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box56
+) (Tables Template.aux)
+\openout1 = `"Tables Template.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen169
+\scratchbox=\box57
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen170
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks30
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package ragged2e Info: ABD: executing \RaggedRight on input line 46.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(72.26999pt, 650.43001pt, 72.26999pt)
+* v-part:(T,H,B)=(86.72377pt, 455.30124pt, 72.26999pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=650.43001pt
+* \textheight=455.30124pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-49.77365pt
+* \headheight=56.2pt
+* \headsep=7.22743pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 49.
+
+Overfull \hbox (1.71375pt too wide) in paragraph at lines 78--78
+[]|$[]$|  
+ []
+
+<SCC.png, id=1, 654.94687pt x 94.85437pt>
+File: SCC.png Graphic file (type png)
+<use SCC.png>
+Package pdftex.def Info: SCC.png  used on input line 87.
+(pdftex.def)             Requested size: 196.48558pt x 28.45651pt.
+[1{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+ <./SCC.png>] [2] [3]
+Overfull \vbox (115.0798pt too high) has occurred while \output is active []
+
+
+[4]
+Overfull \vbox (115.0798pt too high) has occurred while \output is active []
+
+
+[5]
+
+Package array Warning: Column s is already defined on input line 234.
+
+
+Overfull \vbox (115.0798pt too high) has occurred while \output is active []
+
+
+[6]
+Overfull \vbox (115.0798pt too high) has occurred while \output is active []
+
+
+[7]
+<Amoeba.png, id=33, 523.20468pt x 382.42876pt>
+File: Amoeba.png Graphic file (type png)
+<use Amoeba.png>
+Package pdftex.def Info: Amoeba.png  used on input line 256.
+(pdftex.def)             Requested size: 183.12437pt x 133.85207pt.
+<StalkedCilliate.png, id=34, 194.97844pt x 146.04562pt>
+File: StalkedCilliate.png Graphic file (type png)
+<use StalkedCilliate.png>
+Package pdftex.def Info: StalkedCilliate.png  used on input line 256.
+(pdftex.def)             Requested size: 171.58154pt x 128.52052pt.
+<Flagellate.png, id=35, 194.22563pt x 144.54pt>
+File: Flagellate.png Graphic file (type png)
+<use Flagellate.png>
+Package pdftex.def Info: Flagellate.png  used on input line 258.
+(pdftex.def)             Requested size: 170.91907pt x 127.19557pt.
+<Suctorian.png, id=36, 194.97844pt x 146.04562pt>
+File: Suctorian.png Graphic file (type png)
+<use Suctorian.png>
+Package pdftex.def Info: Suctorian.png  used on input line 258.
+(pdftex.def)             Requested size: 171.58154pt x 128.52052pt.
+
+Overfull \vbox (26.07172pt too high) has occurred while \output is active []
+
+
+[8 <./Amoeba.png> <./StalkedCilliate.png> <./Flagellate.png> <./Suctorian.png>]
+[9]
+Overfull \vbox (26.72409pt too high) has occurred while \output is active []
+
+
+[10]
+<LaboratoryBODBottlePicture.png, id=46, 6.62476pt x 9.1542pt>
+File: LaboratoryBODBottlePicture.png Graphic file (type png)
+<use LaboratoryBODBottlePicture.png>
+Package pdftex.def Info: LaboratoryBODBottlePicture.png  used on input line 333
+.
+(pdftex.def)             Requested size: 195.58415pt x 170.96947pt.
+ [11 <./LaboratoryBODBottlePicture.png>] [12] [13]
+Overfull \hbox (93.00212pt too wide) in paragraph at lines 404--417
+[][]  
+ []
+
+
+Overfull \hbox (396.78873pt too wide) in paragraph at lines 418--434
+[][]  
+ []
+
+[14]
+Overfull \hbox (352.24272pt too wide) in paragraph at lines 436--444
+[][]  
+ []
+
+[15] [16]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(119.2467pt, 556.47656pt, 119.24672pt)
+* v-part:(T,H,B)=(56.9055pt, 528.93675pt, 28.45274pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=556.47656pt
+* \textheight=528.93675pt
+* \oddsidemargin=46.97672pt
+* \evensidemargin=46.97672pt
+* \topmargin=-78.79192pt
+* \headheight=56.2pt
+* \headsep=7.22743pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<DeadEndTreeDistributionSystem.png, id=67, 432.11438pt x 266.49562pt>
+File: DeadEndTreeDistributionSystem.png Graphic file (type png)
+<use DeadEndTreeDistributionSystem.png>
+Package pdftex.def Info: DeadEndTreeDistributionSystem.png  used on input line 
+463.
+(pdftex.def)             Requested size: 108.02832pt x 66.62373pt.
+
+Overfull \hbox (709.2223pt too wide) in paragraph at lines 457--492
+ [][] 
+ []
+
+<RingDistributionSystem.png, id=68, 449.42906pt x 286.82156pt>
+File: RingDistributionSystem.png Graphic file (type png)
+<use RingDistributionSystem.png>
+Package pdftex.def Info: RingDistributionSystem.png  used on input line 507.
+(pdftex.def)             Requested size: 121.34746pt x 77.44284pt.
+
+Overfull \hbox (709.2223pt too wide) in paragraph at lines 500--531
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<RadialDistributionSystem.png, id=69, 802.49812pt x 325.96782pt>
+File: RadialDistributionSystem.png Graphic file (type png)
+<use RadialDistributionSystem.png>
+Package pdftex.def Info: RadialDistributionSystem.png  used on input line 544.
+(pdftex.def)             Requested size: 120.36952pt x 48.89305pt.
+
+Overfull \hbox (709.2223pt too wide) in paragraph at lines 536--569
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<GridIronDistributionSystem.png, id=70, 493.845pt x 359.84438pt>
+File: GridIronDistributionSystem.png Graphic file (type png)
+<use GridIronDistributionSystem.png>
+Package pdftex.def Info: GridIronDistributionSystem.png  used on input line 583
+.
+(pdftex.def)             Requested size: 133.33992pt x 97.15927pt.
+
+Overfull \hbox (709.2223pt too wide) in paragraph at lines 576--610
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17
+
+ <./DeadEndTreeDistributionSystem.png>]
+
+LaTeX Warning: Text page 18 contains only floats.
+
+[18 <./RingDistributionSystem.png> <./RadialDistributionSystem.png>] [19 <./Gri
+dIronDistributionSystem.png>]
+File: DeadEndTreeDistributionSystem.png Graphic file (type png)
+<use DeadEndTreeDistributionSystem.png>
+Package pdftex.def Info: DeadEndTreeDistributionSystem.png  used on input line 
+622.
+(pdftex.def)             Requested size: 108.02832pt x 66.62373pt.
+File: RingDistributionSystem.png Graphic file (type png)
+<use RingDistributionSystem.png>
+Package pdftex.def Info: RingDistributionSystem.png  used on input line 653.
+(pdftex.def)             Requested size: 107.86517pt x 68.83858pt.
+File: RadialDistributionSystem.png Graphic file (type png)
+<use RadialDistributionSystem.png>
+Package pdftex.def Info: RadialDistributionSystem.png  used on input line 675.
+(pdftex.def)             Requested size: 120.36952pt x 48.89305pt.
+File: GridIronDistributionSystem.png Graphic file (type png)
+<use GridIronDistributionSystem.png>
+Package pdftex.def Info: GridIronDistributionSystem.png  used on input line 702
+.
+(pdftex.def)             Requested size: 133.33992pt x 97.15927pt.
+
+Overfull \hbox (646.30045pt too wide) in paragraph at lines 615--729
+[][]  
+ []
+
+[20
+
+]
+Overfull \vbox (542.53842pt too high) has occurred while \output is active []
+
+
+[21]
+Overfull \hbox (732.85141pt too wide) in paragraph at lines 737--847
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 423.48354pt on input line 849.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<AirGap.jpg, id=94, 397.485pt x 413.545pt>
+File: AirGap.jpg Graphic file (type jpg)
+<use AirGap.jpg>
+Package pdftex.def Info: AirGap.jpg  used on input line 860.
+(pdftex.def)             Requested size: 63.59889pt x 66.16855pt.
+<AtmosphericVacuumBreaker(3).jpg, id=95, 495.597pt x 169.506pt>
+File: AtmosphericVacuumBreaker(3).jpg Graphic file (type jpg)
+<use AtmosphericVacuumBreaker(3).jpg>
+Package pdftex.def Info: AtmosphericVacuumBreaker(3).jpg  used on input line 87
+8.
+(pdftex.def)             Requested size: 143.71944pt x 49.15547pt.
+<SpillResitantVacuumBreaker1.jpg, id=96, 402.303pt x 204.327pt>
+File: SpillResitantVacuumBreaker1.jpg Graphic file (type jpg)
+<use SpillResitantVacuumBreaker1.jpg>
+Package pdftex.def Info: SpillResitantVacuumBreaker1.jpg  used on input line 90
+0.
+(pdftex.def)             Requested size: 152.87672pt x 77.64505pt.
+<SwingCheckValve1.jpg, id=97, 480.924pt x 233.892pt>
+File: SwingCheckValve1.jpg Graphic file (type jpg)
+<use SwingCheckValve1.jpg>
+Package pdftex.def Info: SwingCheckValve1.jpg  used on input line 918.
+(pdftex.def)             Requested size: 144.2783pt x 70.16814pt.
+
+Overfull \hbox (519.44661pt too wide) in paragraph at lines 853--933
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 423.5147pt on input line 935.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (330.83682pt too wide) in paragraph at lines 938--948
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 311.65753pt on input line 949.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (47.39047pt too wide) in paragraph at lines 953--967
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (325.14633pt too wide) in paragraph at lines 977--998
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 158.38684pt on input line 1002.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (4.3976pt too wide) in paragraph at lines 1008--1008
+[]|[]|  
+ []
+
+
+Overfull \hbox (562.13486pt too wide) in paragraph at lines 1005--1017
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 266.89362pt on input line 1018.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (954.08734pt too wide) in paragraph at lines 1022--1036
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 22.93062pt on input line 1039.
+
+
+Overfull \hbox (600.03734pt too wide) in paragraph at lines 1044--1059
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 13.68715pt on input line 1059.
+
+
+Overfull \hbox (10.5046pt too wide) in paragraph at lines 1063--1074
+[][]  
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 1079.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1079.
+
+Overfull \hbox (928.4683pt too wide) in paragraph at lines 1079--1122
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 774.73302pt on input line 1125.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1127.
+
+<DinfectantMRDLS.png, id=98, 615.80063pt x 225.84375pt>
+File: DinfectantMRDLS.png Graphic file (type png)
+<use DinfectantMRDLS.png>
+Package pdftex.def Info: DinfectantMRDLS.png  used on input line 1129.
+(pdftex.def)             Requested size: 307.89955pt x 112.92159pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1134.
+
+<DBPMCLS.png, id=99, 865.73438pt x 372.64218pt>
+File: DBPMCLS.png Graphic file (type png)
+<use DBPMCLS.png>
+Package pdftex.def Info: DBPMCLS.png  used on input line 1136.
+(pdftex.def)             Requested size: 432.86613pt x 186.32063pt.
+<LCRMonitoring.png, id=100, 727.21687pt x 511.15968pt>
+File: LCRMonitoring.png Graphic file (type png)
+<use LCRMonitoring.png>
+Package pdftex.def Info: LCRMonitoring.png  used on input line 1145.
+(pdftex.def)             Requested size: 363.60754pt x 255.57921pt.
+[22 <./LCRMonitoring.png>]
+Overfull \hbox (87.21985pt too wide) in paragraph at lines 1154--1165
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (722.30096pt too wide) in paragraph at lines 1174--1201
+[][]  
+ []
+
+
+Overfull \hbox (910.92067pt too wide) in paragraph at lines 1203--1228
+[][]  
+ []
+
+
+Overfull \hbox (530.8375pt too wide) in paragraph at lines 1230--1251
+[][]  
+ []
+
+
+Overfull \hbox (910.92067pt too wide) in paragraph at lines 1253--1280
+[][]  
+ []
+
+
+Overfull \hbox (530.8375pt too wide) in paragraph at lines 1282--1303
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 833.97093pt on input line 1305.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23] [24 <./AirGap.jpg> <./AtmosphericVacuumBreaker(3).jpg> <./SpillResitantVac
+uumBreaker1.jpg> <./SwingCheckValve1.jpg>] [25] [26] [27] [28] [29] [30]
+[31] [32] [33 <./DinfectantMRDLS.png> <./DBPMCLS.png>] [34] [35]
+
+enddocument/afterlastpage: lastpage setting LastPage.
+(Tables Template.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4475 strings out of 475248
+ 74334 string characters out of 5757813
+ 2011785 words of memory out of 5000000
+ 25931 multiletter control sequences out of 15000+600000
+ 565105 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,18n,67p,639b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+0900.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\indov\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Users/indov/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/indov/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/in
+dov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.p
+fb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb>
+Output written on "Tables Template.pdf" (35 pages, 2209665 bytes).
+PDF statistics:
+ 552 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+

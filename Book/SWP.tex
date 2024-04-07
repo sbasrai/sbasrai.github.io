@@ -1,0 +1,443 @@
+\documentclass{article}
+
+
+\usepackage{verbatim}
+
+
+\usepackage{tocloft}
+
+
+\usepackage{graphicx} % Required for including pictures
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+
+\usepackage{lipsum} % Inserts dummy text
+
+\usepackage{tikz} % Required for drawing custom shapes
+
+\usepackage[english]{babel} % English language/hyphenation
+
+\usepackage[shortlabels]{enumitem}
+
+
+% \usepackage{enumitem} % Customize lists
+\setlist{nolistsep} % Reduce spacing between bullet points and numbered lists
+
+\usepackage{booktabs} % Required for nicer horizontal rules in tables
+
+\usepackage{xcolor} % Required for specifying colors by name
+\definecolor{ocre}{RGB}{243,102,25}
+\definecolor{golden}{RGB}{252, 29, 3}
+
+ % Define the orange color used for highlighting throughout the book
+
+%----------------------------------------------------------------------------------------
+%	MARGINS
+%----------------------------------------------------------------------------------------
+
+\usepackage{geometry} % Required for adjusting page dimensions and margins
+
+\geometry{
+	paper=a4paper, % Paper size, change to letterpaper for US letter size
+	top=3cm, % Top margin
+	bottom=3cm, % Bottom margin
+	left=3cm, % Left margin
+	right=3cm, % Right margin
+	headheight=14pt, % Header height
+	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
+	headsep=10pt, % Space from the top margin to the baseline of the header
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+
+
+
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{cancel}
+\usepackage{pagecolor}
+\usepackage{afterpage}
+\usepackage{soul}
+\usepackage{fixltx2e}
+\usepackage[utf8]{inputenc}
+\usepackage{siunitx} %degrees for Laboratory
+\usepackage{pdflscape} %sidescape figure in Laboratory
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{mdframed}
+\usepackage{soul}
+%\textsubscript{this}
+\usepackage{lastpage}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage[document]{ragged2e}
+% \usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{subcaption}
+%Chapter 2
+\usetikzlibrary{calc}
+\usetikzlibrary{arrows}
+\usepackage{rotating}%for sidewaysfigure
+\usepackage[final]{pdfpages}
+\usepackage{tcolorbox}
+%\usepackage[dvipsnames]{xcolor}
+\usepackage{colortbl}
+\usepackage{chemfig}
+\usepackage{lscape}
+\usepackage{wrapfig}
+\usepackage[final]{pdfpages}
+\usepackage{setspace}
+\usepackage{hhline}
+\usepackage{multirow}
+\usepackage{array}
+    \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+    \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+%\usepackage[table]{xcolor}
+%----------------------------------------------------------------------------------------
+%	FONTS
+%----------------------------------------------------------------------------------------
+
+\usepackage{avant} % Use the Avantgarde font for headings
+%\usepackage{times} % Use the Times font for headings
+\usepackage{mathptmx} % Use the Adobe Times Roman as the default text font together with math symbols from the Sym­bol, Chancery and Com­puter Modern fonts
+
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+\usepackage[utf8]{inputenc} % Required for including letters with accents
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY AND INDEX
+%----------------------------------------------------------------------------------------
+
+\usepackage[style=numeric,citestyle=numeric,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
+\addbibresource{bibliography.bib} % BibTeX bibliography file
+\defbibheading{bibempty}{}
+
+\usepackage{calc} % For simpler calculation - used for spacing the index letter headings correctly
+\usepackage{makeidx} % Required to make an index
+\makeindex % Tells LaTeX to create the files required for indexing
+
+
+
+%----------------------------------------------------------------------------------------
+%	MAIN TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	MAIN TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\usepackage{titletoc} % Required for manipulating the table of contents
+
+\contentsmargin{0cm} % Removes the default margin
+
+% Part text styling (this is mostly taken care of in the PART HEADINGS section of this file)
+\titlecontents{part}
+	[0cm] % Left indentation
+	{\addvspace{20pt}\bfseries} % Spacing and font options for parts
+	{}
+	{}
+	{}
+
+% Chapter text styling
+\titlecontents{chapter}
+	[1.25cm] % Left indentation
+	{\addvspace{12pt}\large\sffamily\bfseries} % Spacing and font options for chapters
+	{\color{ocre!60}\contentslabel[\Large\thecontentslabel]{1.25cm}\color{ocre}} % Formatting of numbered sections of this type
+	{\color{ocre}} % Formatting of numberless sections of this type
+	{\color{ocre!60}\normalsize\;\titlerule*[.5pc]{.}\;\thecontentspage} % Formatting of the filler to the right of the heading and the page number
+
+% Section text styling
+\titlecontents{section}
+	[1.25cm] % Left indentation
+	{\addvspace{3pt}\sffamily\bfseries} % Spacing and font options for sections
+	{\contentslabel[\thecontentslabel]{1.25cm}} % Formatting of numbered sections of this type
+	{} % Formatting of numberless sections of this type
+	{\hfill\color{black}\thecontentspage} % Formatting of the filler to the right of the heading and the page number
+
+% Subsection text styling
+\titlecontents{subsection}
+	[1.25cm] % Left indentation
+	{\addvspace{1pt}\sffamily\color{golden}} % Spacing and font options for subsections
+	{\contentslabel[\thecontentslabel]{1.25cm}} % Formatting of numbered sections of this type
+	{} % Formatting of numberless sections of this type
+	{\ \titlerule*[.5pc]{.}\;\thecontentspage} % Formatting of the filler to the right of the heading and the page number
+	
+% Subsection text styling
+\titlecontents{subsubsection}
+	[1.25cm] % Left indentation
+	{\addvspace{1pt}\sffamily\color{ocre}} % Spacing and font options for subsections
+	{\contentslabel[\thecontentslabel]{1.25cm}} % Formatting of numbered sections of this type
+	{} % Formatting of numberless sections of this type
+	{\ \titlerule*[.5pc]{.}\;\thecontentspage} % Formatting of the filler to the right of the heading and the page number
+
+% Figure text styling
+\titlecontents{figure}
+	[1.25cm] % Left indentation
+	{\addvspace{1pt}\sffamily\small} % Spacing and font options for figures
+	{\thecontentslabel\hspace*{1em}} % Formatting of numbered sections of this type
+	{} % Formatting of numberless sections of this type
+	{\ \titlerule*[.5pc]{.}\;\thecontentspage} % Formatting of the filler to the right of the heading and the page number
+
+% Table text styling
+\titlecontents{table}
+	[1.25cm] % Left indentation
+	{\addvspace{1pt}\sffamily\small} % Spacing and font options for tables
+	{\thecontentslabel\hspace*{1em}} % Formatting of numbered sections of this type
+	{} % Formatting of numberless sections of this type
+	{\ \titlerule*[.5pc]{.}\;\thecontentspage} % Formatting of the filler to the right of the heading and the page number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%\usepackage{tikz}
+%\usepackage[utf8]{inputenc}
+%\usepackage{graphicx}
+%\usepackage{fancyhdr}
+%\usepackage{microtype}
+%\usepackage{geometry}
+%\usepackage{xcolor} % Required for specifying colors by name
+%\definecolor{ocre}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
+%
+%
+%\usepackage{amsfonts, amsmath, amssymb, amsthm}
+%\usepackage[T1]{fontenc}
+%
+
+
+
+\begin{document}
+The California State Water Project (SWP) is a multi-purpose water storage and delivery system that extends more than 705 miles -- two-thirds the length of California. A collection of canals, pipelines, reservoirs, and hydroelectric power facilities delivers clean water to 27 million Californians, 750,000 acres of farmland, and businesses throughout our state.\\
+\vspace{0.3cm}
+Planned, built, operated and maintained by DWR, the SWP is the nation’s largest state-owned water and power generator and user-financed water system. The project is considered an engineering marvel that has helped fuel California’s population boom and economic prosperity since its initial construction.\\
+\vspace{0.3cm}
+For the last 20 years, the California State Water Project’s average water is 34 percent for agricultural and 66 percent for residential, municipal, and industrial.\\
+\vspace{0.3cm}
+The State Water Project also plays an important role in efforts to combat climate change. Not only does it help California manage its water supply during extremes such as flooding and drought, it is also a major source of hydroelectric power deliveries for the State's power grid.\\\vspace{0.3cm}
+Benefits of the SWP:
+The primary purpose of the SWP is water supply delivery and flood control, but it provides many additional benefits, including:\\
+\vspace{0.3cm}
+Power generation\\
+Recreation activities\\
+Environmental stewardship
+
+
+
+
+
+\begin{center}
+\includegraphics[scale=0.5]{Power, Pumping Plants}
+\end{center}
+
+\begin{table}[!ht]
+\renewcommand{\arraystretch}{2}
+    \centering
+    \begin{tabular}{|l|l|l|l|l|}
+    \hline
+          & ~ & ~ & ~ & ~ \\ \hline
+        Name & Watercourse & Capacity & Annual generation  & ~ \\ \hline
+        (2010)[73] & Type  & ~ & ~ & ~ \\ \hline
+        Alamo & East Branch California Aqueduct & 17 MW & 79 GWh & Recovery  \\ \hline
+        Castaic & West Branch California Aqueduct & 1,247 MW & 624 GWh & Pumped-storage  \\ \hline
+        Devil Canyon & East Branch California Aqueduct & 240 MW & 993 GWh & Recovery  \\ \hline
+        Foothill Feeder & West Branch California Aqueduct & 11 MW & 47 GWh & Recovery  \\ \hline
+        Gianelli (San Luis) & Offstream & 424 MW & 200 GWh & Pumped-storage  \\ \hline
+        Hyatt (Oroville) & Feather River & 819 MW & 1,386 GWh & Pumped-storage  \\ \hline
+        Mojave Siphon & East Branch California Aqueduct & 32.4 MW & 63 GWh & Recovery  \\ \hline
+    \end{tabular}
+\end{table}
+
+\newpage
+\begin{center}
+\includegraphics[scale=0.5]{Conveyance Systems}
+\end{center}
+
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|l|}
+    \hline
+        Pumping plants[72]  & ~ & ~ & ~ \\ \hline
+        Name & Aqueduct & Lift  & ~ \\ \hline
+        ft & m  & ~ & ~ \\ \hline
+        Banks & California Aqueduct & 244 & 74  \\ \hline
+        Dos Amigos & California Aqueduct & 118 & 36  \\ \hline
+        Buena Vista & California Aqueduct & 205 & 62  \\ \hline
+        Teerink & California Aqueduct & 233 & 71  \\ \hline
+        Chrisman & California Aqueduct & 518 & 158  \\ \hline
+        Edmonston & California Aqueduct & 1,926 & 587  \\ \hline
+        Pearblossom & East Branch California Aqueduct & 540 & 160  \\ \hline
+        Las Perillas & Coastal Branch California Aqueduct & 55 & 17  \\ \hline
+        Badger Hill & Coastal Branch California Aqueduct & 151 & 46  \\ \hline
+        Devil's Den & Coastal Branch California Aqueduct & 521 & 159  \\ \hline
+        Bluestone & Coastal Branch California Aqueduct & 484 & 148  \\ \hline
+        Polonio Pass & Coastal Branch California Aqueduct & 533 & 162  \\ \hline
+        Barker Slough & North Bay Aqueduct & 120 & 37  \\ \hline
+        Cordelia & North Bay Aqueduct & 138 & 42  \\ \hline
+        South Bay & South Bay Aqueduct & 566 & 173  \\ \hline
+        Del Valle & South Bay Aqueduct & 38 & 12  \\ \hline
+        Oso & West Branch California Aqueduct & 231 & 70  \\ \hline
+    \end{tabular}
+\end{table}
+
+
+\begin{table}[!ht]
+\renewcommand{\arraystretch}{2}
+    \centering
+    \begin{tabular}{|l|c|c|c|c|p{3cm}|}
+    \hline
+    \textbf{Aqueduct} & \multicolumn{2}{c|}{\textbf{Length}}& \multicolumn{2}{c|}{\textbf{Annual Deliveries}} &\textbf{Areas Served}\\
+    \hline
+         & mi & km & acre.ft & dam$^3$ & \\ \hline
+       
+       
+        California Aqueduct & 304 & 489 & 2,300,000 & 2,800,000 & San Joaquin Valley All SWP aqueducts except for North Bay\\ \hline
+        Coastal Branch California Aqueduct & 143 & 230 & 48,000 & 59,000 & San Luis Obispo County Santa Barbara County\\ \hline
+        East Branch California Aqueduct & 140 & 230 & 995,000 & 1,227,000 & Riverside County San Bernardino County Orange County \\ \hline
+        
+        North Bay Aqueduct & 27.4 & 44.1 & 120,000 & 150,000 & Napa County
+Solano County \\ \hline
+South Bay Aqueduct & & & 188,000 & 232,000 & Alameda County
+Santa Clara County \\ \hline
+West Branch California Aqueduct & 24.7 & 39.8 & 537,000 & 662,000 & Ventura County
+Los Angeles County \\ \hline
+    \end{tabular}
+\end{table}
+\pagebreak
+\begin{center}
+\includegraphics[scale=0.35]{Reservoirs}
+\end{center}
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|p{3cm}|p{3cm}|c|c|c|p{3cm}|p{3cm}|}
+    \hline
+        \textbf{Dam} & \textbf{Reservoir} & \textbf{Year}& \multicolumn{2}{c|}{\textbf{Capacity}} & \textbf{Stream} & \textbf{Purpose}\\ \hline
+        & & &acre.ft & dam$^3$ &  &     \\ \hline
+        Antelope Dam & Antelope Lake & 1964 & 47,466 & 58,548 & Indian Creek & Storage  \\ \hline
+        B.F. Sisk Dam & San Luis Reservoir* & 1967 & 1,020,500 & 1,258,800 & San Luis Creek California Aqueduct  & Storage \\ \hline
+        Bethany Dam & Bethany Reservoir & 1967 & 5,250 & 6,480 & California Aqueduct & Reregulation \\ \hline
+        Castaic Dam & Castaic Lake & 1973 & 325,000 & 401,000 & Castaic Creek West Branch California Aqueduct & Storage\\ \hline
+        Cedar Springs Dam & Silverwood Lake & 1971 & 73,000 & 90,000 & West Fork Mojave River East Branch California Aqueduct   & Storage\\ \hline
+        Del Valle Dam & Lake Del Valle South Bay Aqueduct/  & 1968 & 77,000 & 95,000 & Arroyo Valle & Storage \\ \hline
+        Elderberry Forebay Dam & Elderberry Forebay & 1974 & 24,800 & 30,600 & Castaic Creek West Branch California Aqueduct  & Power Reregulation\\ \hline
+        Fish Barrier Dam &  & 1964 &  &  & Feather River & Mitigation\\ \hline
+        Frenchman Dam & Frenchman Lake & 1961 & 55,477 & 68,430 & Little Last Chance Creek & Storage  \\ \hline
+        Grizzly Valley Dam & Lake Davis & 1966 & 83,000 & 102,000 & Big Grizzly Creek & Storage  \\ \hline
+        Little Panoche Detention Dam dagger & Little Panoche Reservoir & 1966 & 5,580 & 6,880 & Little Panoche Creek & Flood control  \\ \hline
+        Los Banos Detention Dam dagger & Los Banos Reservoir & 1965 & 34,600 & 42,700 & Los Banos Creek & Flood control  \\ \hline
+        O'Neill Dam & O'Neill Forebay & 1967 & 56,400 & 69,600 & San Luis Creek California Aqueduct & Reregulation\\ \hline
+        Oroville Dam & Lake Oroville & 1968 & 3,537,577 & 4,363,537 & Feather River &  Storage Power Flood Control\\ \hline
+        Perris Dam & Lake Perris & 1973 & 131,400 & 162,100 & East Branch California Aqueduct & Storage  \\ \hline
+        Pyramid Dam & Pyramid Lake & 1970 & 180,000 & 220,000 & Piru Creek West Branch California Aqueduct & Storage Power\\ \hline
+        Quail Lake Dam & Quail Lake & ~ & 7,580 & 9,350 & West Branch California Aqueduct & Reregulation  \\ \hline
+        Tehachapi Afterbay Dam & Tehachapi Afterbay & ~ & ~ & ~ & California Aqueduct & Reregulation  \\ \hline
+        Thermalito Afterbay Dam & Thermalito Afterbay & 1968 & 57,040 & 70,360 & Offstream & Power Storage \\ \hline
+        Thermalito Diversion Dam & Diversion Pool & 1968 & 13,350 & 16,470 & Feather River & Power  \\ \hline
+        Thermalito Forebay Dam & Thermalito Forebay & 1968 & 11,770 & 14,520 & Offstream & Power  \\ \hline
+       \multicolumn{3}{|c|}{\textbf{Total}} & 5,746,790 & 7,088,560 & ~ &   \\ \hline
+    \end{tabular}
+\end{table}
+This is the portion of total capacity of San Luis Reservoir allocated to SWP.  The total capacity is 2,041,000 acre ft (2,518,000 dam$^3$.
+
+
+
+\newpage
+
+
+\begin{center}
+\includegraphics[scale=0.35]{Contractors}
+\end{center}
+
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|l|}
+    \hline
+        List of State Water Project water contractors[70]  & ~ & ~ & ~ \\ \hline
+        Agency or entity & Annual allocation & Share  & ~ \\ \hline
+        acre.ft & dam3 &   & ~ \\ \hline
+        Alameda County Flood Control and Water Conservation District & 80,619 & 99,442 & 1.9\%  \\ \hline
+        Alameda County Water District & 42,000 & 52,000 & 1.0\%  \\ \hline
+        Antelope Valley-East Kern Water Agency & 144,844 & 178,662 & 3.5\%  \\ \hline
+        Butte County & 27,500 & 33,900 & 0.6\%  \\ \hline
+        Castaic Water Agency & 95,200 & 117,400 & 2.3\%  \\ \hline
+        Coachella Valley Water District & 138,350 & 170,650 & 3.3\%  \\ \hline
+        Crestline-Lake Arrowhead Water Agency & 5,800 & 7,200 & 0.1\%  \\ \hline
+        Desert Water Agency & 55,750 & 68,770 & 1.3\%  \\ \hline
+        Dudley Ridge Water District & 45,350 & 55,940 & 1.1\%  \\ \hline
+        Empire West Side Irrigation District & 3,000 & 3,700 & <0.1\%  \\ \hline
+        Kern County Water Agency & 982,730 & 1,212,180 & 23.5\%  \\ \hline
+        Kings County & 9,305 & 11,478 & 0.2\%  \\ \hline
+        Littlerock Creek Irrigation District & 2,300 & 2,800 & <0.1\%  \\ \hline
+        Metropolitan Water District of Southern California & 1,911,500 & 2,357,800 & 45.8\% \\ \hline
+        Mojave Water Agency & 85,800 & 105,800 & 2.1\%  \\ \hline
+        Napa County Flood Control and Water Conservation District & 29,025 & 35,802 & 0.7\%  \\ \hline
+        Oak Flat Water District & 5,700 & 7,000 & <0.1\%  \\ \hline
+        Palmdale Water District & 21,300 & 26,300 & 0.5\%  \\ \hline
+        Plumas County Flood Control \& Water Conservation District & 2,600 & 3,200 & <0.1\%  \\ \hline
+        San Bernardino Valley Municipal Water District & 102,600 & 126,600 & 2.5\%  \\ \hline
+        San Gabriel Valley Municipal Water District & 28,800 & 35,500 & 0.7\%  \\ \hline
+        San Gorgonio Pass Water Agency & 17,300 & 21,300 & 4.2\%  \\ \hline
+        San Luis Obispo County Flood Control and Water Conservation District & 25,000 & 31,000 & 0.6\%  \\ \hline
+        Santa Barbara County Flood Control and Water Conservation District & 45,486 & 56,106 & 1.1\%  \\ \hline
+        Santa Clara Valley Water District & 100,000 & 120,000 & 2.4\%  \\ \hline
+        Solano County Water Agency & 47,756 & 58,906 & 1.1\%  \\ \hline
+        Tulare Lake Basin Water Storage District & 87,471 & 107,894 & 2.1\%  \\ \hline
+        Ventura County Watershed Protection District & 20,000 & 25,000 & 0.5\%  \\ \hline
+        Yuba City & 9,600 & 11,800 & 0.2\%  \\ \hline
+        Total & 4,172,686 & 5,146,932 &   \\ \hline
+    \end{tabular}
+\end{table}
+
+
+\end{document}

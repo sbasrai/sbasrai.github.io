@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[
+  sort=none % no sorting or indexing required
+]
+{glossaries}
+\newglossaryentry
+ {cafe}% label
+ {% definition:
+   name={caf\'e},
+   description={small restaurant selling refreshments}
+ }
+\setacronymstyle{long-short}
+\newacronym
+ {html}% label
+ {HTML}% short form
+ {hypertext markup language}% long form
+\newglossaryentry
+ {pi}% label
+ {% definition:
+   name={\ensuremath{\pi}},
+   description={Archimedes' Constant}
+ }
+\newglossaryentry
+ {distance}% label
+ {% definition:
+   name={distance},
+   description={the length between two points},
+   symbol={m}
+ }
+\begin{document}
+First use: \gls{cafe}, \gls{html}, \gls{pi}.
+Next use: \gls{cafe}, \gls{html}, \gls{pi}.
+\Gls{distance} (\glsentrydesc{distance}) is measured in
+\glssymbol{distance}.
+\end{document}

@@ -1,0 +1,512 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{pdflscape}
+%\usepackage{gensymb}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{fixltx2e}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{mathabx}
+\usepackage{textcomp,mathcomp}
+\usepackage[shortlabels]{enumitem}
+\everymath{\displaystyle}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+\usepackage{soul}
+\usepackage{siunitx}
+
+%\usepackage{textcomp}
+\usetikzlibrary{shapes.multipart, shapes.geometric, arrows}
+\usetikzlibrary{calc, decorations.markings}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes,snakes}
+\usetikzlibrary{quotes,angles, positioning}
+%\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{BassettCTCLogo}}}
+%\rhead{\ifthenelse{\value{page}=1}{Final Exam}{}}
+%\lhead{\ifthenelse{\value{page}=1}{Water Treatment - Oct-Dec 2022}{\textbf Final Exam}}
+%\rfoot{\ifthenelse{\value{page}=1}{}{}}
+%
+%\cfoot{}
+%\lfoot{Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+
+\begin{enumerate}
+
+
+
+    \item Your water treatment plant uses $39.6 \mathrm{lbs}$. of cationic polymer to treat a flow of 2.71 MGD. What is the polymer dosage?\\
+a) $0.07 \mathrm{ppm}$\\
+*b) $1.75 \mathrm{ppm}$\\
+c) $14.61 \mathrm{ppm}$\\
+d) $3.23 \mathrm{ppm}$\\
+
+  \item The flow through a water plant is 5.25 MGD. Jar tests have indicated that the desired dosage of lime is $150 \mathrm{mg} / \mathrm{l}$. What would the correct lime feeder setting per day and per minute?\\
+
+a) $3294.0 \mathrm{lbs}$ a day/ $2.29 \mathrm{lbs}$ a minute\\
+*b) $6567.8 \mathrm{lbs}$ a day/ $4.56 \mathrm{lbs}$ a minute\\
+c) $4930.9 \mathrm{lbs}$ a day/ $3.42 \mathrm{lbs}$ a minute\\
+d) $6587.8 \mathrm{lbs}$ a day/ $274.5 \mathrm{lbs}$ a minute\\
+
+
+\item Determine the chlorinator setting (lb/day) required to treat a flow of $4 \mathrm{MGD}$ with a chlorine dose of $5 \mathrm{mg} / \mathrm{L}$.
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L}) \times$ Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=5 \mathrm{mg} / \mathrm{L} \times 4 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=167 \mathrm{lb} /$ day
+
+\item A pipeline that is 12 inches in diameter and $1400 \mathrm{ft}$ long is to be treated with a chlorine dose of $48 \mathrm{mg} / \mathrm{L}$. How many lb of chlorine will this require?
+
+First determine the gallon volume of the pipeline:
+
+Volume $(\mathrm{gal})=0.785 \times \mathrm{D}^{2} \times$ length $(\mathrm{ft}) \times 7.48 \mathrm{gal} / \mathrm{cu} \mathrm{ft}$
+
+Volume $(\mathrm{gal})=0.785 \times(1 \mathrm{ft})^{2} \times 1400 \mathrm{ft} \times 7.48 \mathrm{gal} / \mathrm{cu} \mathrm{ft}$ Volume $(\mathrm{gal})=8221 \mathrm{gal}$
+
+Next calculate the amount of chlorine required:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L})$ x Flow $($ MGD) $\times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=48 \mathrm{mg} / \mathrm{L} \times 0.008221 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=3.3 \mathrm{lb}$
+
+\textbf{Example 3:}\\
+A water sample is tested and found to have a chlorine demand of $1.7 \mathrm{mg} / \mathrm{L}$. If the desired chlorine residual is $0.9 \mathrm{mg} / \mathrm{L}$, what is the desired chlorine dose (in $\mathrm{mg} / \mathrm{L}$ )?
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=$ Chlorine Demand $+$ Chlorine Residual
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=1.7 \mathrm{mg} / \mathrm{L}+0.9 \mathrm{mg} / \mathrm{L}$
+
+Chlorine $\operatorname{Dose}(\mathrm{mg} / \mathrm{L})=2.6 \mathrm{mg} / \mathrm{L}$
+
+\item The chlorine dosage for water is $2.7 \mathrm{mg} / \mathrm{L}$. If the chlorine residual after a 30-minute contact time is found to be $0.7 \mathrm{mg} / \mathrm{L}$, what is the chlorine demand (in $\mathrm{mg} / \mathrm{L}$ )?
+
+Chlorine Demand $=$ Chlorine Dose $-$ Chlorine Residual
+
+Chlorine Demand $=2.7 \mathrm{mg} / \mathrm{L}-0.7 \mathrm{mg} / \mathrm{L}$
+
+Chlorine Demand $=2.0 \mathrm{mg} / \mathrm{L}$
+
+\item What should the chlorinator seting be (lb/day) to treat a flow of $2.35 \mathrm{MGD}$ if the chlorine demand is $3.2 \mathrm{mg} / \mathrm{L}$ and a chlorine residual of $0.9 \mathrm{mg} / \mathrm{L}$ is desired?
+
+First, determine the chlorine dosage (in $\mathrm{mg} / \mathrm{L}$ ):
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=$ Chlorine Demand $+$ Chlorine Residual
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=3.2 \mathrm{mg} / \mathrm{L}+0.9 \mathrm{mg} / \mathrm{L}$
+
+Chlorine Dose $(\mathrm{mg} / \mathrm{L})=4.1 \mathrm{mg} / \mathrm{L}$
+
+Next calculate the chlorine dosage (feed rate) in $\mathrm{lb} /$ day:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L}) \times$ Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=4.1 \mathrm{mg} / \mathrm{L} \times 2.35 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=80.4 \mathrm{lb} /$ day
+
+
+\item A chlorinator setting is increased by $2 \mathrm{lb} /$ day. The chlorine residual before the increased dosage was $0.2 \mathrm{mg} / \mathrm{L}$. After the increased chlorine dose, the chlorine residual was $0.5 \mathrm{mg} / \mathrm{L}$. The average flow rate being chlorinated is $1.25 \mathrm{MGD}$. Is the water being chlorinated beyond the breakpoint?
+
+First calculate the expected increase in chlorine residual:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L})$ x Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$2 \mathrm{lb} /$ day $=\times \mathrm{mg} / \mathrm{L} \times 1.25 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$x=2 /(1.25 \times 8.34)$
+
+$\mathrm{x}=0.19 \mathrm{mg} / \mathrm{L}$
+
+Actual increase in residual is:
+
+$0.5 \mathrm{mg} / \mathrm{L}-0.19 \mathrm{mg} / \mathrm{L}=0.31 \mathrm{mg} / \mathrm{L}$
+
+\item A chlorinator setting of $18 \mathrm{lb}$ chlorine per 24 hours result in a chlorine residual of $0.3 \mathrm{mg} / \mathrm{L}$. The chlorinator setting is increased to $22 \mathrm{lb}$ per 24 hours. The chlorine residual increased to $0.4 \mathrm{mg} / \mathrm{L}$ at this new dosage rate. The average flow being treated is $1.4 \mathrm{MGD}$. On the basis of these data, is the water being chlorinated past the breakpoint?
+
+First calculate the expected increase in chlorine residual:
+
+Chlorine feed rate $(\mathrm{lb} /$ day $)=$ Chlorine $(\mathrm{mg} / \mathrm{L}) \times$ Flow $(\mathrm{MGD}) \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$4 \mathrm{lb} /$ day $=\mathrm{x} \mathrm{mg} / \mathrm{L} \times 1.4 \mathrm{MGD} \times 8.34 \mathrm{lb} / \mathrm{gal}$
+
+$\mathrm{x}=4 /(1.4 \times 8.34)$
+
+$\mathrm{x}=0.34 \mathrm{mg} / \mathrm{L}$
+
+Next calculate the actual increase in residual:
+
+$0.4 \mathrm{mg} / \mathrm{L}-0.3 \mathrm{mg} / \mathrm{L}=0.1 \mathrm{mg} / \mathrm{L}$
+
+\item If the water in a tank with a 40-foot diameter has a chlorine demand of 0.70 mg/L and the pressure on the bottom of the tank measures 13 psi, how many gallons of 5.75\% bleach would be needed to arrive at a residual of 2.5 mg/L?\\
+a.	7.5 gallons\\
+b.	130.9  gallons\\
+*c.	16 gallons\\
+d.	273 gallons\\
+e.	not enough information to solve
+
+
+
+\item What is the chlorine residual of a 2.5 MGD secondary effluent stream if its chlorine demand is 9 mg/l and is treated with 300 lbs/day chlorine?\\
+*a. 5.4\\
+b. 7.9\\
+c. 18.2\\
+d. 262
+
+
+\item The chlorine demand is 4.8 mg/l and a chlorine residual is 0.75 mg/l is desired.  For a flow of 2.8 MGD, how many pounds per day should the chlorinator be set to deliver.\\
+
+*a. 130 \\
+b. 116 \\
+c. 112 \\
+e. 16 \\
+
+
+\item Chlorine is being fed at the rate of 75 pounds per day. Plant flow is 1.2 MGD. The chlorine residual is measured and found to be 2.6 mg/L Calculate chlorine demand.\\
+*a. 4.9 mg/L\\ 
+b. 5.7 mg/L \\
+c. 7.5 mg/L \\
+d. 8.3 mg/L 
+
+\item Assuming that a chlorine residual of 0.5 mg/L is being maintained and the chlorine demand is 19.5 mg/L, approximately how many pounds of chlorine per day will be required to treat a flow of 5.0 MGD?\\
+
+a. 21 lbs \\
+b. 792 lbs \\
+c. 813 lbs \\
+*d. 834 lbs 
+
+
+\item Chlorine is being fed at the rate of 75 pounds per day. Plant flow is 1.2 MGD. The chlorine residual is measured and found to be 2.6 mg/L Calculate chlorine demand.\\
+*a. 4.9 mg/L \\
+b. 5.7 mg/L \\
+c. 7.5 mg/L \\
+d. 8.3 mg/L 
+
+
+\item If 25 Ibs/day of chlorine is being applied to a wastewater effluent flow of 250,000 gpd. Calculate the chlorine demand in mg/L if the chlorine residue is 1.2 mg/L.\\
+a. 2.5 mg/L \\
+*b. 10.8 mg/L \\
+c. 15.1 mg/L \\
+d. 6.3 mg/L \\
+
+
+\item Calculate how many pounds per day of chlorine should be used to maintain a dosage of 12 mg/L at 6.0 MGD flow\\
+
+a. 60 lbs/day \\
+b. 450 lbs/day \\
+c. 500 lbs/day \\
+*d. 600 lbs/day \\
+e. 6,700 lbs/day 
+
+\item Chlorine is being fed at the rate of 200 pounds per day. Plant flow is 4 MGD. The chlorine residual is measured and found to be 3 mg/L Calculate chlorine demand.\\
+
+\vspace{0.5cm}
+*a. 3 mg/L \\
+b. 2 mg/L \\
+c. 16 mg/L \\
+d. 9 mg/L \\
+
+\vspace{0.5cm}
+
+Solution:\\
+$Chlorine \enspace dosage (lbs/day)=conc. (mg/l)*flow(MGD)*8.34$\\
+$\implies chlorine \enspace dosage \enspace conc. (mg/l)=\frac{lbs/day}{flow(MGD)*8.34}=\frac{200}{4*8.34}=6mg/l$\\
+\vspace{0.5cm}
+Chlorine dosage = chlorine demand + chlorine residual\\
+$ \implies chlorine \enspace demand = chlorine \enspace dosage - chlorine \enspace residual=6-3=\boxed{3mg/l}$
+
+\item Jar testing shows that the chlorine demand of an effluent is 12.5 mg/l. In order to ensure disinfection, a residual of 1.0 mg/l is required. How many pounds per day of chlorine must be fed for a 1 MGD flow to ensure disinfection.\\
+\vspace{0.3cm}
+Solution:\\
+\vspace{0.3cm}
+$ chlorine \enspace dosage = chlorine \enspace demand \enspace + \enspace chlorine \enspace residual$\\
+$\implies chlorine \enspace dosage = (12.5 \enspace + \enspace 1 )mg/l=13.5 mg/l$\\
+$lbs/day=13.5 \enspace mg/l*1 \enspace MGD*8.34=\boxed{112.6 \enspace lbs/day}$
+
+
+\item What should the setting be on a chlorinator in pounds per day if the dosage desired is $2.90 \mathrm{mg} / \mathrm{L}$ and the pumping rate from the well is $975 \mathrm{gpm}$ ?\\
+$$\frac{975}{69)^{1}}=1.4 MGD $$\\
+$$1.4 \times 8.34 \times 2.90$$\\
+
+\item A treatment plant uses $278 \mathrm{lb} / \mathrm{d}$ of chlorine gas. If the chlorine demand is $0.85 \mathrm{mg} / \mathrm{L}$ and the chlorine residual is $1.50 \mathrm{mg} / \mathrm{L}$, how many million gallons per day are being treated?\\
+$$\frac{278}{8.34 \times 2 \times 35}=$$\\
+$$\text { dojarge } ;$$\\
+$$\begin{aligned}& 0.85+1.50= \\& 2.35 \mathrm{mg} / \mathrm{h}\end{aligned}$$\\
+
+\item A water tank that is $105 \mathrm{ft}$ in diameter needs to be disinfected with a $5.0 \%$ sodium hypochlorite solution. If the tank is to be filled to only a depth of $5.0 \mathrm{ft}$ and the concentration required is $20.0 \mathrm{mg} / \mathrm{L}$, how many gallons of sodium hypochlorite are needed? Assume the sodium hypochlorite solution weighs 8.92 lb/gal.\\
+$$\frac{0.323 M G P}{0.323 \times 8.34 \times 20}=$$\\
+$$9 / 23 / 19$$\\
+
+\item What is the chlorine residual in a treated water if the dosage is $2.1 \mathrm{mgi1}$ and has a demand of $0.8 \mathrm{mg} / \mathrm{l}$\\
+a. $0.8 \mathrm{mg} / \mathrm{l}$\\
+b. $1 \mathrm{mg} / \mathrm{l}$\\
+c. $\quad 2.1 \mathrm{mg} / !$\\
+d. $\quad 2.9 \mathrm{mg} / \mathrm{l}$\\
+
+\item If the chlorine demand of water is $2.5 \mathrm{mg} / \mathrm{l}$ and you want a residual of $0.5 \mathrm{mg} / \mathrm{l}$, how much chlorine would need to be fed to one million gallons?\\
+a. $\quad 25 \mathrm{lbs}$.\\
+b. $\quad 30 \mathrm{lbs}$.\\
+c. $\quad 34 \mathrm{lbs}$.\\
+d. $\quad 38 \mathrm{lbs}$.\\
+
+\item If you need to feed chlorine at orate of $2.1 \mathrm{mg} / \mathrm{l}$ and you treat $2,300,000$ gallons. How many pounds of chlorine should you use?\\
+a. $\quad 4 \mathrm{lbs}$.\\
+b. $\quad 17 \mathrm{lbs}$.\\
+c. $\quad 35 \mathrm{lbs}$.\\
+d. $\quad 40 \mathrm{lbs}$.\\
+
+\item If a 3,000,000 gpd flow is to be dosed with $1.2 \mathrm{mg} / \mathrm{l}$, what should the chlorinator feed rate be set at in lbs. of chlorine per day?\\
+a. $\quad 3.0 \mathrm{lbs} . /$ day\\
+b. $\quad 4.5$ 1bs./day\\
+c. $10 \mathrm{lbs} . /$ day\\
+d. $\quad 30 \mathrm{lbs} . /$ day\\
+
+
+\item If chlorine is being fed at a rate of 260 lb/day for a flow rate of 23 cfs, what should be the adjustment on the chlorinator when the flow rate is decreased to 16 cfs, if all other water parameters remain the same?\\
+a.	160 lb/day\\
+b.	180 lb/day\\
+c.	310 lb/day\\
+d.	370 lb/day\\
+
+\item How many gallons of a sodium hypochlorite solution that contains 12.1\% available chlorine are needed to disinfect a 1.5-ft diameter pipeline that is 283 ft long, if the dosage required is 50.0 mg/L? Assume the sodium hypochlorite is 9.92 lb/gal.\\
+a.	0.87 gal sodium hypochlorite\\
+b.	1.0 gal sodium hypochlorite\\
+c.	1.3 gal sodium hypochlorite\\
+d.	1.5 gal sodium hypochlorite\\
+
+\item A water treatment plant operates at the rate of 75 gallons per minute. They dose soda ash at 14 mg/L. How many pounds of soda ash will they use in a day?
+Solution:\\
+\vspace{0.2cm}
+\begin{figure}[h]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{14 mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{75 GPM}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34$
+\\
+\vspace{0.2cm}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=75 \dfrac{\cancel{\mathrm{gallons}}}{\cancel{\mathrm{min}}}* 1440\dfrac{\cancel{\mathrm{min}}}{\mathrm{day}}*\dfrac{\mathrm{MG}}{1,000,000 \enspace \cancel{\mathrm{gallons}}}*14\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 = \boxed{12.6\dfrac{lbs}{day}}$
+\vspace{0.2cm}
+
+\item A water treatment plant is producing 1.5 million gallons per day of potable water, and uses 38 pounds of soda ash for pH adjustment. What is the dose of soda ash at that plant?\\
+Solution:\\
+ \begin{figure}[h!]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{38 lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{? mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{1.5 MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 \hspace{0.2cm} \implies \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=\dfrac{ \dfrac{\mathrm{lbs}}{\mathrm{day}}}{\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}*8.34}$
+\vspace{0.2cm}
+$\mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=\dfrac{ 38\dfrac{\mathrm{lbs}}{\mathrm{day}}}{1.5\dfrac{{\mathrm{MG}}}{\mathrm{day}}*8.34}=\boxed{3\dfrac{\mathrm{mg}}{\mathrm{l}}}$
+\\
+\vspace{0.2cm}
+
+
+\item A water treatment plant produces 150,000 gallons of water every day. It uses an average of 2 pounds of permanganate for iron and manganese removal. What is the dose of the permanganate? \\
+ Solution:\\
+ \vspace{0.2cm}
+ \begin{figure}[h!]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{38 lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{? mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{1.5 MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 \hspace{0.2cm} \implies \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=\dfrac{ \dfrac{\mathrm{lbs}}{\mathrm{day}}}{\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}*8.34}$
+\vspace{0.2cm}
+$\mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=
+\dfrac{ 2\dfrac{\mathrm{lbs}}{\mathrm{day}}}
+{\Bigg(150,000 \dfrac{\cancel{\mathrm{Gallons}}}
+{\mathrm{day}}*
+\dfrac{\mathrm{MG}}
+{1,000,000 \cancel{\enspace \mathrm{Gallons}}}*8.34\Bigg)}
+=\boxed{3\dfrac{\mathrm{mg}}{\mathrm{l}}}$
+\\
+\vspace{0.2cm}
+
+
+
+\item A water treatment plant uses 8 pounds of chlorine daily and the dose is 17 mg/l. How many gallons are they producing?\\
+ Solution:\\
+ \begin{figure}[h!]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{8 lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{17 mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{? MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 \hspace{0.2cm}$\\
+\vspace{0.2cm}
+$\implies \mathrm{Flow}\dfrac{{\mathrm{MG}}}{day}=\dfrac{ \dfrac{\mathrm{lbs}}{\mathrm{day}}}{\mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34}=\dfrac{8 \dfrac{\mathrm{lbs}}{\mathrm{day}}}{17\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34}=0.056425\dfrac{{\mathrm{MG}}}{day}$\\
+\vspace{0.2cm}
+$0.056425\dfrac{{\mathrm{MG}}}{day}*\dfrac{1,000,000 \enspace \mathrm{Gallons}}{\mathrm{MG}}=\boxed{56,425 \enspace \mathrm{Gallons}}$
+\vspace{0.2cm}
+  \item Determine the chlorinator setting in pounds per day if a water plant produces $300 \mathrm{gpm}$ and the desired chlorine dose is $2.0 \mathrm{mg} / \mathrm{L}$.
+
+  \item The finished water chlorine demand is $1.2 \mathrm{mg} / \mathrm{L}$ and the target residual is $2.0 \mathrm{mg} / \mathrm{L}$. If the plant flow is $5.6 \mathrm{mgd}$, how many pounds per day of $65 \%$ hypochlorite solution will be required?
+
+  \item Fluoride is added to finished water at a dose of $4 \mathrm{mg} / \mathrm{L}$. Find the feed rate setting for a fluoride saturator in gal/min if the water plant produces $5 \mathrm{mgd}$.
+
+  \item If chlorine costs $\$ 0.21$ per pound, what is the daily cost to chlorinate a $5 \mathrm{mgd}$ flow rate at a dosage of $2.6 \mathrm{mg} / \mathrm{L}$ ?
+
+  \item One gallon of sodium hypochlorite laundry bleach, with $5.25 \%$ available chlorine, contains how many pounds of active chlorine?
+
+  \item How much sodium hypochlorite, in gallons, is required to obtain a residual of $100 \mathrm{mg} / \mathrm{L}$ in a well? The casing diameter is 18 -inches and the length is 80 feet. Sodium hypochlorite contains 5.25\% available chlorine. Assume a demand of $15 \mathrm{mg} / \mathrm{L}$.
+
+  \item A water company uses an average of $600 \mathrm{gpm}$ of water. The water contains $0.30 \mathrm{mg} / \mathrm{L}$ of manganese and $0.06 \mathrm{mg} / \mathrm{L}$ of iron. How many pounds of iron and manganese are pumped into the distribution system each year?
+
+  \item How many pounds of copper sulfate will be needed to dose a reservoir with $0.6 \mathrm{mg} / \mathrm{L}$ of copper? The reservoir holds 30 million gallons. The copper sulfate is $25 \%$ copper by weight.
+
+  \item Liquid alum delivered to a water treatment plant contains $642.3$ milligrams of aluminum per milliliter of liquid solution. Jar tests indicate that the best alum dose is $9 \mathrm{mg} / \mathrm{L}$. Determine the setting on the liquid alum feeder in $\mathrm{ml} / \mathrm{min}$ when the plant flow is $3.2 \mathrm{mgd}$.
+
+  \item The raw water supply contains $1.8 \mathrm{mg} / \mathrm{L}$ of fluoride. The flow rate is $400 \mathrm{gpm}$. The target fluoride dose for the finished water is $3 \mathrm{mg} / \mathrm{L}$. Find the desired feed rate in gpm for a fluoride saturator.
+
+  \item The raw water alkalinity is $50 \mathrm{mg} / \mathrm{L}$ as calcium carbonate. The water is treated by adding 15 $\mathrm{mg} / \mathrm{L}$ of alum. What is the alkalinity of the finished water?
+
+\vspace{0.2cm}
+\item Ferric chloride is being added as a coagulant to the raw water entering a plant. Sampling shows that the concentration of ferric in the raw water is 25 ppm. A quick check of the chemical metering pump shows that it is operating at a flow rate of 4.3 gpm. If the flow through the water plant is 800 gpm, what is the concentration of raw chemical in the dosing tank?\\
+\vspace{0.2cm}
+Solution:\\
+\vspace{0.3cm}
+\begin{tikzpicture}
+
+\draw [-] (-3.2,4.2) -- (-0.4,4.2);
+\draw [->] (-0.2,4) -- (-0.2,1.9);
+\draw [->] (-3.2,1.9) -- (4,1.9);
+\draw [shift={(-0.4,4)}] plot[domain=0:1.57,variable=\t]({1*0.2*cos(\t r)+0*0.2*sin(\t r)},{0*0.2*cos(\t r)+1*0.2*sin(\t r)});
+\draw (-3.1,4.1) node[anchor=north west] {V$_{\tiny{FeCl_3}}$=$4.3 gpm$};
+\draw (-3.1,3.6) node[anchor=north west] {C$_{\tiny{FeCl_3}}$ = ?};
+\draw (-4.2,4.5) node[anchor=north west] {FeCl$_3$};
+\draw (-4.2,2.2) node[anchor=north west] {Water};
+\draw (-2.1,1.8) node[anchor=north west] {$800 gpm$};
+\draw (0.7,1.8) node[anchor=north west] {C$_2$=25ppm FeCl$_3$};
+\draw (0.7,1.3) node[anchor=north west] {V$_2$=4.3+800=804.3 gpm};
+\end{tikzpicture}\\
+\vspace{0.2cm}
+C$_1$ * V$_1$ = C$_2$ * V$_2$ \\
+\vspace{0.2cm}
+C$_{\tiny{FeCl_3}}$ * V$_{\tiny{FeCl_3}}$  =  C$_2$ * (V$_{\tiny{FeCl_3}}$+V$_{\tiny{Water}}$)\\
+\vspace{0.2cm}
+C$_{\tiny{FeCl_3}}$ * 4.3 =  25 * (804.3)\\
+\vspace{0.2cm}
+C$_{\tiny{FeCl_3}}=\dfrac{25 * (804.3)}{4.3}=\boxed{4,676 \enspace \mathrm{ppm} \enspace \mathrm{or} \enspace 0.47\%}$\\
+\vspace{0.3cm}
+\item A water plant is fed by two different wells. The first well produces water at a rate of 600 gpm and contains arsenic at 0.5 mg/L. The second well produces water at a rate of 350 gpm and contains arsenic at 12.5 mg/L. What is the arsenic concentration of the blended water?\\
+\vspace{0.2cm}
+Solution:\\
+\vspace{0.2cm}
+C$_1$ * V$_1$ + C$_2$ * V$_2$ + =  C$_3$ * V$_3$=C$_3$*(V$_1$ + V$_2$)\\
+\vspace{0.2cm}
+C$_{Well \enspace 1}$ * V$_{Well \enspace 1}$ + C$_{Well \enspace 2}$ * V$_{Well \enspace 2}$ =  C$_{Blend}$ * V$_{Blend}$=C$_{Blend}$*(V$_{Well \enspace1}$ + V$_{Well \enspace 2}$)\\
+\vspace{0.3cm}
+$\implies C_{Blend}=\dfrac{C_{Well \enspace 1} * V_{Well \enspace 1} + C_{Well \enspace 2} * V_{Well \enspace 2}}{V_{Well \enspace 1} + V_{Well \enspace 2}}=\dfrac{0.5*600+12.5*350}{600+350}=\boxed{4.9 \enspace \textrm{mg/l}}$
+\newpage
+
+
+\end{enumerate}
+
+
+\end{document}

@@ -1,0 +1,4526 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  8 OCT 2023 23:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./BassettWWTreatment Assessment.tex"
+(BassettWWTreatment Assessment.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip48
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (WaterTreatment Structure.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-08-29 L3 programming layer (loader) 
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count195
+\l__lipsum_a_int=\count196
+\l__lipsum_b_int=\count197
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box52
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen145
+\pgf@y=\dimen146
+\pgf@xa=\dimen147
+\pgf@ya=\dimen148
+\pgf@xb=\dimen149
+\pgf@yb=\dimen150
+\pgf@xc=\dimen151
+\pgf@yc=\dimen152
+\pgf@xd=\dimen153
+\pgf@yd=\dimen154
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count198
+\c@pgf@countb=\count199
+\c@pgf@countc=\count266
+\c@pgf@countd=\count267
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count268
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count269
+\pgfsyssoftpath@bigbuffer@items=\count270
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen155
+\pgfmath@count=\count271
+\pgfmath@box=\box53
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count272
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen156
+\pgf@picmaxx=\dimen157
+\pgf@picminy=\dimen158
+\pgf@picmaxy=\dimen159
+\pgf@pathminx=\dimen160
+\pgf@pathmaxx=\dimen161
+\pgf@pathminy=\dimen162
+\pgf@pathmaxy=\dimen163
+\pgf@xx=\dimen164
+\pgf@xy=\dimen165
+\pgf@yx=\dimen166
+\pgf@yy=\dimen167
+\pgf@zx=\dimen168
+\pgf@zy=\dimen169
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen170
+\pgf@path@lasty=\dimen171
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen172
+\pgf@shorten@start@additional=\dimen173
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count273
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen174
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen175
+\pgf@pt@y=\dimen176
+\pgf@pt@temp=\dimen177
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen178
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen179
+\pgf@sys@shading@range@num=\count274
+\pgf@shadingcount=\count275
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box57
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box58
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen180
+\pgf@nodesepend=\dimen181
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen182
+\pgffor@skip=\dimen183
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count276
+\pgfplotmarksize=\dimen184
+)
+\tikz@lastx=\dimen185
+\tikz@lasty=\dimen186
+\tikz@lastxsaved=\dimen187
+\tikz@lastysaved=\dimen188
+\tikz@lastmovetox=\dimen189
+\tikz@lastmovetoy=\dimen190
+\tikzleveldistance=\dimen191
+\tikzsiblingdistance=\dimen192
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count277
+\tikznumberofchildren=\count278
+\tikznumberofcurrentchild=\count279
+\tikz@fig@count=\count280
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count281
+\pgfmatrixcurrentcolumn=\count282
+\pgf@matrix@numberofcolumns=\count283
+)
+\tikz@expandcount=\count284
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/09/12 v3.94 The Babel package
+\babel@savecnt=\count285
+\U@D=\dimen193
+\l@unhyphenated=\language79
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count286
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen194
+\enit@toks=\toks30
+\enit@inbox=\box63
+\enit@count@id=\count287
+\enitdp@description=\count288
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen195
+\lightrulewidth=\dimen196
+\cmidrulewidth=\dimen197
+\belowrulesep=\dimen198
+\belowbottomsep=\dimen199
+\aboverulesep=\dimen256
+\abovetopsep=\dimen257
+\cmidrulesep=\dimen258
+\cmidrulekern=\dimen259
+\defaultaddspace=\dimen260
+\@cmidla=\count289
+\@cmidlb=\count290
+\@aboverulesep=\dimen261
+\@belowrulesep=\dimen262
+\@thisruleclass=\count291
+\@lastruleclass=\count292
+\@thisrulewidth=\dimen263
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen264
+\Gm@wd@mp=\dimen265
+\Gm@odd@mp=\dimen266
+\Gm@even@mp=\dimen267
+\Gm@layoutwidth=\dimen268
+\Gm@layoutheight=\dimen269
+\Gm@layouthoffset=\dimen270
+\Gm@layoutvoffset=\dimen271
+\Gm@dimlist=\toks31
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box64
+\UL@hyphenbox=\box65
+\UL@skip=\skip52
+\UL@hook=\toks32
+\UL@height=\dimen272
+\UL@pe=\count296
+\UL@pixel=\dimen273
+\ULC@box=\box66
+Package: ulem 2019/11/18
+\ULdepth=\dimen274
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen275
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen276
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box67
+\strutbox@=\box68
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen277
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count302
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count303
+\dotsspace@=\muskip16
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks34
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks35
+\eqnshift@=\dimen278
+\alignsep@=\dimen279
+\tagshift@=\dimen280
+\tagwidth@=\dimen281
+\totwidth@=\dimen282
+\lineht@=\dimen283
+\@envbody=\toks36
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tabulary\tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen284
+\ar@mcellbox=\box69
+\extrarowheight=\dimen285
+\NC@list=\toks38
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box70
+)
+\TY@count=\count309
+\TY@linewidth=\dimen286
+\tymin=\dimen287
+\tymax=\dimen288
+\TY@tablewidth=\dimen289
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen290
+\TX@old@table=\dimen291
+\TX@old@col=\dimen292
+\TX@target=\dimen293
+\TX@delta=\dimen294
+\TX@cols=\count310
+\TX@ftn=\toks39
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pagecolor\pagecolor.sty
+Package: pagecolor 2023-04-18 v1.2c Provides thepagecolor (HMM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks40
+\AP@partial=\box71
+\AP@footins=\box72
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks41
+\SOUL@lasttoken=\toks42
+\SOUL@syllable=\toks43
+\SOUL@cmds=\toks44
+\SOUL@buffer=\toks45
+\SOUL@token=\toks46
+\SOUL@syllgoal=\dimen295
+\SOUL@syllwidth=\dimen296
+\SOUL@charkern=\dimen297
+\SOUL@hyphkern=\dimen298
+\SOUL@dimen=\dimen299
+\SOUL@dimeni=\dimen300
+\SOUL@minus=\count311
+\SOUL@comma=\count312
+\SOUL@apo=\count313
+\SOUL@grave=\count314
+\SOUL@spaceskip=\skip58
+\SOUL@ttwidth=\dimen301
+\SOUL@uldp=\dimen302
+\SOUL@ulht=\dimen303
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks47
+\inpenc@posthook=\toks48
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2023-09-01 v3.3.6 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count315
+\l__siunitx_number_exponent_fixed_int=\count316
+\l__siunitx_number_min_decimal_int=\count317
+\l__siunitx_number_min_integer_int=\count318
+\l__siunitx_number_round_precision_int=\count319
+\l__siunitx_number_lower_threshold_int=\count320
+\l__siunitx_number_upper_threshold_int=\count321
+\l__siunitx_number_group_first_int=\count322
+\l__siunitx_number_group_size_int=\count323
+\l__siunitx_number_group_minimum_int=\count324
+\l__siunitx_angle_tmp_dim=\dimen304
+\l__siunitx_angle_marker_box=\box73
+\l__siunitx_angle_unit_box=\box74
+\l__siunitx_compound_count_int=\count325
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count326
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_table_tmp_box=\box75
+\l__siunitx_table_tmp_dim=\dimen305
+\l__siunitx_table_column_width_dim=\dimen306
+\l__siunitx_table_integer_box=\box76
+\l__siunitx_table_decimal_box=\box77
+\l__siunitx_table_uncert_box=\box78
+\l__siunitx_table_before_box=\box79
+\l__siunitx_table_after_box=\box80
+\l__siunitx_table_before_dim=\dimen307
+\l__siunitx_table_carry_dim=\dimen308
+\l__siunitx_unit_tmp_int=\count327
+\l__siunitx_unit_position_int=\count328
+\l__siunitx_unit_total_int=\count329
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count330
+\float@exts=\toks49
+\float@box=\box81
+\@float@everytoks=\toks50
+\@floatcapt=\box82
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip59
+\fb@frw=\dimen309
+\fb@frh=\dimen310
+\FrameRule=\dimen311
+\FrameSep=\dimen312
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2023/07/24 v2.0c lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2023/07/24 v2.0c Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty
+Package: lastpagemodern 2023-07-24 v2.0c Refers to last page's name (HMM; JPG)
+) 
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks51
+\footnotemargin=\dimen313
+\@outputbox@depth=\dimen314
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
+.
+)
+\CenteringLeftskip=\skip69
+\RaggedLeftLeftskip=\skip70
+\RaggedRightLeftskip=\skip71
+\CenteringRightskip=\skip72
+\RaggedLeftRightskip=\skip73
+\RaggedRightRightskip=\skip74
+\CenteringParfillskip=\skip75
+\RaggedLeftParfillskip=\skip76
+\RaggedRightParfillskip=\skip77
+\JustifyingParfillskip=\skip78
+\CenteringParindent=\skip79
+\RaggedLeftParindent=\skip80
+\RaggedRightParindent=\skip81
+\JustifyingParindent=\skip82
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/07/31 v3.6n Customizing captions (AR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen315
+\captionmargin=\dimen316
+\caption@leftmargin=\dimen317
+\caption@rightmargin=\dimen318
+\caption@width=\dimen319
+\caption@indent=\dimen320
+\caption@parindent=\dimen321
+\caption@hangindent=\dimen322
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count331
+\c@continuedfloat=\count332
+Package caption Info: float package is loaded.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count333
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count334
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count335
+\rotFPtop=\skip83
+\rotFPbot=\skip84
+\rot@float@box=\box83
+\rot@mess@toks=\toks52
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count336
+\calc@Bcount=\count337
+\calc@Adimen=\dimen323
+\calc@Bdimen=\dimen324
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count338
+\calc@Cskip=\skip87
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen325
+\ESO@tempdimb=\dimen326
+)
+\AM@pagewidth=\dimen327
+\AM@pageheight=\dimen328
+\AM@fboxrule=\dimen329
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count339
+\AM@pagebox=\box84
+\AM@global@opts=\toks53
+\AM@pagecnt=\count340
+\AM@toc@title=\toks54
+\AM@lof@heading=\toks55
+\c@AM@survey=\count341
+\AM@templatesizebox=\box85
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2023/06/19 version 6.0.4 text color boxes
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks56
+\verbatim@line=\toks57
+\verbatim@in@stream=\read4
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box86
+\tcb@upperbox=\box87
+\tcb@lowerbox=\box88
+\tcb@phantombox=\box89
+\c@tcbbreakpart=\count342
+\c@tcblayer=\count343
+\c@tcolorbox@number=\count344
+\tcb@temp=\box90
+\tcb@temp=\box91
+\tcb@temp=\box92
+\tcb@temp=\box93
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.0.4'
+\c@tcbrastercolumn=\count345
+\c@tcbrasterrow=\count346
+\c@tcbrasternum=\count347
+\c@tcbraster=\count348
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.0.4'
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-commo
+n.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box94
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.4'
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.4'
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box95
+\tcb@totalupperbox=\box96
+\tcb@totallowerbox=\box97
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.0.4'
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.0.4'
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.0.4'
+\tcbfitdim=\dimen330
+\tcb@lowerfitdim=\dimen331
+\tcb@upperfitdim=\dimen332
+\tcb@cur@hbadness=\count349
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.0.4'
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.0.4'
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count350
+\lst@gtempboxa=\box98
+\lst@token=\toks58
+\lst@length=\count351
+\lst@currlwidth=\dimen333
+\lst@column=\count352
+\lst@pos=\count353
+\lst@lostspace=\dimen334
+\lst@width=\dimen335
+\lst@newlines=\count354
+\lst@lineno=\count355
+\lst@maxwidth=\dimen336
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count356
+\lst@skipnumbers=\count357
+\lst@framebox=\box99
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.0.4'
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.0.4'
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/04/15 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count358
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+))))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.0.4'
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.0.4'
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.0.4'
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.0.4'
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks59
+\minrowclearance=\skip88
+\rownum=\count359
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemfig\chemfig.sty
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/chemfig\chemfig.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/simplekv\simplekv.tex
+Package: simplekv 2022/10/01 v0.2a Simple keyval package (CT)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen337
+\pgfarrowlength=\dimen338
+\pgfarrowwidth=\dimen339
+\pgfarrowlinewidth=\dimen340
+)
+\CF_cnt_atomgroup=\count360
+\CF_cnt_group=\count361
+\CF_cnt_atom=\count362
+\CF_cnt_cycle=\count363
+\CF_cnt_cyclebonds=\count364
+\CF_cnt_compound=\count365
+\CF_dim=\dimen341
+\CF_arrowsize=\dimen342
+\CF_zero=\dimen343
+\CF_box=\box100
+\CF_boxstuff=\box101
+\CF_testbox=\box102
+\CF_chargebox=\box103
+\CF_substtoks=\toks60
+)
+Package: chemfig 2023/06/30 v1.6e Draw molecule with an easy syntax (CT)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen344
+\WF@size=\dimen345
+\c@WF@wrappedlines=\count366
+\WF@box=\box104
+\WF@everypar=\toks61
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip89
+\multirow@cntb=\count367
+\multirow@dima=\skip90
+\bigstrutjot=\dimen346
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2023-08-29 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count368
+\g__chemgreek_tmpa_int=\count369
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count370
+\__mhchem_arrow_extPgfLength_skip=\skip91
+\mhchem@minispace@tmp=\skip92
+\mhchem@minibackspace@tmp=\skip93
+\mhchem@bondwidth=\skip94
+\mhchem@bondheight=\skip95
+\mhchem@smallbondwidth@tmpA=\skip96
+\mhchem@smallbondwidth@tmpB=\skip97
+\mhchem@smallbondwidth=\skip98
+\mhchem@bondtmp@minussidebearingleft=\skip99
+\mhchem@bondtmp@minussidebearingright=\skip100
+\l__mhchem_option_version_int=\count371
+\mhchem@option@minusmathsidebearingleft=\dimen347
+\mhchem@option@minusmathsidebearingright=\dimen348
+\mhchem@option@minustextsidebearingleft=\dimen349
+\mhchem@option@minustextsidebearingright=\dimen350
+
+
+Package mhchem Warning: You did not specify a 'version' option for the mhchem
+(mhchem)                package. Please write \usepackage[version=4]{mhchem}
+(mhchem)                in your preamble (or any lower number for
+(mhchem)                compatibility mode), because you might get slightly
+(mhchem)                different output with the same input in future versions
+.
+
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks62
+\XKV@tempa@toks=\toks63
+)
+\XKV@depth=\count372
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box105
+)
+\tc@llx=\dimen351
+\tc@lly=\dimen352
+\tc@urx=\dimen353
+\tc@ury=\dimen354
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen355
+\adjbox@Height=\dimen356
+\adjbox@Depth=\dimen357
+\adjbox@Totalheight=\dimen358
+\adjbox@pwidth=\dimen359
+\adjbox@pheight=\dimen360
+\adjbox@pdepth=\dimen361
+\adjbox@ptotalheight=\dimen362
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count373
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box106
+\sift@deathcycles=\count374
+\@vwid@loff=\dimen363
+\@vwid@roff=\dimen364
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen365
+\c@nlinenum=\count375
+\TeXr@lab=\toks64
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count376
+)
+\@linkdim=\dimen366
+\Hy@linkcounter=\count377
+\Hy@pagecounter=\count378
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count379
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count380
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen367
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count381
+\Field@Width=\dimen368
+\Fld@charsize=\dimen369
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count382
+\c@Item=\count383
+\c@Hfootnote=\count384
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count385
+\c@bookmark@seq@number=\count386
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip101
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/animate\animate.sty
+Package: animate 2023/06/18 PDF & SVG animations from files and inline graphics
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/media9\pdfbase.sty
+Package: pdfbase 2022/08/04 v0.55 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count387
+\g_pbs_oc_int=\count388
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count389
+Package zref Info: New property: abspage on input line 67.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ocgx2\ocgbase.sty
+Package: ocgbase 2022/08/04 v0.22 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count390
+)
+\@anim@box=\box107
+\@anim@measbox=\box108
+\@anim@tmpdima=\dimen370
+\@anim@tmpdimb=\dimen371
+\@anim@num=\count391
+\@anim@curframe=\count392
+\@anim@curframe@zb=\count393
+\@anim@resizeflags=\count394
+\@anim@skipfram=\count395
+\@anim@mulframecnt=\count396
+\@anim@@tmlnfile=\read5
+\@anim@tmpcnt=\count397
+\c@@anim@ltxcnt=\count398
+\@anim@curlayer=\count399
+\@anim@lineno=\count400
+\@anim@curfield=\count401
+\@anim@@resizeflags=\count402
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box109
+\pgfnodeparttwobox=\box110
+\pgfnodepartthreebox=\box111
+\pgfnodepartfourbox=\box112
+\pgfnodeparttwentybox=\box113
+\pgfnodepartnineteenbox=\box114
+\pgfnodeparteighteenbox=\box115
+\pgfnodepartseventeenbox=\box116
+\pgfnodepartsixteenbox=\box117
+\pgfnodepartfifteenbox=\box118
+\pgfnodepartfourteenbox=\box119
+\pgfnodepartthirteenbox=\box120
+\pgfnodeparttwelvebox=\box121
+\pgfnodepartelevenbox=\box122
+\pgfnodeparttenbox=\box123
+\pgfnodepartninebox=\box124
+\pgfnodeparteightbox=\box125
+\pgfnodepartsevenbox=\box126
+\pgfnodepartsixbox=\box127
+\pgfnodepartfivebox=\box128
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen372
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen373
+\pgfdecoratedremainingdistance=\dimen374
+\pgfdecoratedinputsegmentcompleteddistance=\dimen375
+\pgfdecoratedinputsegmentremainingdistance=\dimen376
+\pgf@decorate@distancetomove=\dimen377
+\pgf@decorate@repeatstate=\count403
+\pgfdecorationsegmentamplitude=\dimen378
+\pgfdecorationsegmentlength=\dimen379
+)
+\tikz@lib@dec@box=\box129
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.markings.code.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.shapes.code.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.shapes.code.tex)))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\avant.sty
+Package: avant 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks65
+\MT@tempbox=\box130
+\MT@count=\count404
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks66
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen380
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count405
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip102
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count406
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count407
+\c@listtotal=\count408
+\c@listcount=\count409
+\c@liststart=\count410
+\c@liststop=\count411
+\c@citecount=\count412
+\c@citetotal=\count413
+\c@multicitecount=\count414
+\c@multicitetotal=\count415
+\c@instcount=\count416
+\c@maxnames=\count417
+\c@minnames=\count418
+\c@maxitems=\count419
+\c@minitems=\count420
+\c@citecounter=\count421
+\c@maxcitecounter=\count422
+\c@savedcitecounter=\count423
+\c@uniquelist=\count424
+\c@uniquename=\count425
+\c@refsection=\count426
+\c@refsegment=\count427
+\c@maxextratitle=\count428
+\c@maxextratitleyear=\count429
+\c@maxextraname=\count430
+\c@maxextradate=\count431
+\c@maxextraalpha=\count432
+\c@abbrvpenalty=\count433
+\c@highnamepenalty=\count434
+\c@lownamepenalty=\count435
+\c@maxparens=\count436
+\c@parenlevel=\count437
+\blx@tempcnta=\count438
+\blx@tempcntb=\count439
+\blx@tempcntc=\count440
+\c@blx@maxsection=\count441
+\blx@maxsegment@0=\count442
+\blx@notetype=\count443
+\blx@parenlevel@text=\count444
+\blx@parenlevel@foot=\count445
+\blx@sectionciteorder@0=\count446
+\blx@sectionciteorderinternal@0=\count447
+\blx@entrysetcounter=\count448
+\blx@biblioinstance=\count449
+\labelnumberwidth=\skip103
+\labelalphawidth=\skip104
+\biblabelsep=\skip105
+\bibitemsep=\skip106
+\bibnamesep=\skip107
+\bibinitsep=\skip108
+\bibparsep=\skip109
+\bibhang=\skip110
+\blx@bcfin=\read6
+\blx@bcfout=\write4
+\blx@langwohyphens=\language80
+\c@mincomprange=\count450
+\c@maxcomprange=\count451
+\c@mincompwidth=\count452
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count453
+\c@savedafterword=\count454
+\c@annotator=\count455
+\c@savedannotator=\count456
+\c@author=\count457
+\c@savedauthor=\count458
+\c@bookauthor=\count459
+\c@savedbookauthor=\count460
+\c@commentator=\count461
+\c@savedcommentator=\count462
+\c@editor=\count463
+\c@savededitor=\count464
+\c@editora=\count465
+\c@savededitora=\count466
+\c@editorb=\count467
+\c@savededitorb=\count468
+\c@editorc=\count469
+\c@savededitorc=\count470
+\c@foreword=\count471
+\c@savedforeword=\count472
+\c@holder=\count473
+\c@savedholder=\count474
+\c@introduction=\count475
+\c@savedintroduction=\count476
+\c@namea=\count477
+\c@savednamea=\count478
+\c@nameb=\count479
+\c@savednameb=\count480
+\c@namec=\count481
+\c@savednamec=\count482
+\c@translator=\count483
+\c@savedtranslator=\count484
+\c@shortauthor=\count485
+\c@savedshortauthor=\count486
+\c@shorteditor=\count487
+\c@savedshorteditor=\count488
+\c@labelname=\count489
+\c@savedlabelname=\count490
+\c@institution=\count491
+\c@savedinstitution=\count492
+\c@lista=\count493
+\c@savedlista=\count494
+\c@listb=\count495
+\c@savedlistb=\count496
+\c@listc=\count497
+\c@savedlistc=\count498
+\c@listd=\count499
+\c@savedlistd=\count500
+\c@liste=\count501
+\c@savedliste=\count502
+\c@listf=\count503
+\c@savedlistf=\count504
+\c@location=\count505
+\c@savedlocation=\count506
+\c@organization=\count507
+\c@savedorganization=\count508
+\c@origlocation=\count509
+\c@savedoriglocation=\count510
+\c@origpublisher=\count511
+\c@savedorigpublisher=\count512
+\c@publisher=\count513
+\c@savedpublisher=\count514
+\c@language=\count515
+\c@savedlanguage=\count516
+\c@origlanguage=\count517
+\c@savedoriglanguage=\count518
+\c@pageref=\count519
+\c@savedpageref=\count520
+\shorthandwidth=\skip111
+\shortjournalwidth=\skip112
+\shortserieswidth=\skip113
+\shorttitlewidth=\skip114
+\shortauthorwidth=\skip115
+\shorteditorwidth=\skip116
+\locallabelnumberwidth=\skip117
+\locallabelalphawidth=\skip118
+\localshorthandwidth=\skip119
+\localshortjournalwidth=\skip120
+\localshortserieswidth=\skip121
+\localshorttitlewidth=\skip122
+\localshortauthorwidth=\skip123
+\localshorteditorwidth=\skip124
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count521
+\c@textcitetotal=\count522
+\c@textcitemaxnames=\count523
+\c@biburlbigbreakpenalty=\count524
+\c@biburlbreakpenalty=\count525
+\c@biburlnumpenalty=\count526
+\c@biburlucpenalty=\count527
+\c@biburllcpenalty=\count528
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count529
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count530
+\c@bbx:relatedtotal=\count531
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
+x
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2023-08-29 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+\openout5 = `"BassettWWTreatment Assessment.idx"'.
+
+
+Writing index file "BassettWWTreatment Assessment".idx
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen381
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks67
+\thm@bodyfont=\toks68
+\thm@headfont=\toks69
+\thm@notefont=\toks70
+\thm@headpunct=\toks71
+\thm@preskip=\skip125
+\thm@postskip=\skip126
+\thm@headsep=\skip127
+\dth@everypar=\toks72
+)
+\c@notation=\count532
+\c@dummy=\count533
+\c@problem=\count534
+\c@exerciseT=\count535
+\c@exampleT=\count536
+\c@vocabulary=\count537
+\c@definitionT=\count538
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip128
+\c@mdf@globalstyle@cnt=\count539
+\mdf@skipabove@length=\skip129
+\mdf@skipbelow@length=\skip130
+\mdf@leftmargin@length=\skip131
+\mdf@rightmargin@length=\skip132
+\mdf@innerleftmargin@length=\skip133
+\mdf@innerrightmargin@length=\skip134
+\mdf@innertopmargin@length=\skip135
+\mdf@innerbottommargin@length=\skip136
+\mdf@splittopskip@length=\skip137
+\mdf@splitbottomskip@length=\skip138
+\mdf@outermargin@length=\skip139
+\mdf@innermargin@length=\skip140
+\mdf@linewidth@length=\skip141
+\mdf@innerlinewidth@length=\skip142
+\mdf@middlelinewidth@length=\skip143
+\mdf@outerlinewidth@length=\skip144
+\mdf@roundcorner@length=\skip145
+\mdf@footenotedistance@length=\skip146
+\mdf@userdefinedwidth@length=\skip147
+\mdf@needspace@length=\skip148
+\mdf@frametitleaboveskip@length=\skip149
+\mdf@frametitlebelowskip@length=\skip150
+\mdf@frametitlerulewidth@length=\skip151
+\mdf@frametitleleftmargin@length=\skip152
+\mdf@frametitlerightmargin@length=\skip153
+\mdf@shadowsize@length=\skip154
+\mdf@extratopheight@length=\skip155
+\mdf@subtitleabovelinewidth@length=\skip156
+\mdf@subtitlebelowlinewidth@length=\skip157
+\mdf@subtitleaboveskip@length=\skip158
+\mdf@subtitlebelowskip@length=\skip159
+\mdf@subtitleinneraboveskip@length=\skip160
+\mdf@subtitleinnerbelowskip@length=\skip161
+\mdf@subsubtitleabovelinewidth@length=\skip162
+\mdf@subsubtitlebelowlinewidth@length=\skip163
+\mdf@subsubtitleaboveskip@length=\skip164
+\mdf@subsubtitlebelowskip@length=\skip165
+\mdf@subsubtitleinneraboveskip@length=\skip166
+\mdf@subsubtitleinnerbelowskip@length=\skip167
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box131
+\mdf@footnotebox=\box132
+\mdf@splitbox@one=\box133
+\mdf@splitbox@two=\box134
+\mdf@splitbox@save=\box135
+\mdfsplitboxwidth=\skip168
+\mdfsplitboxtotalwidth=\skip169
+\mdfsplitboxheight=\skip170
+\mdfsplitboxdepth=\skip171
+\mdfsplitboxtotalheight=\skip172
+\mdfframetitleboxwidth=\skip173
+\mdfframetitleboxtotalwidth=\skip174
+\mdfframetitleboxheight=\skip175
+\mdfframetitleboxdepth=\skip176
+\mdfframetitleboxtotalheight=\skip177
+\mdffootnoteboxwidth=\skip178
+\mdffootnoteboxtotalwidth=\skip179
+\mdffootnoteboxheight=\skip180
+\mdffootnoteboxdepth=\skip181
+\mdffootnoteboxtotalheight=\skip182
+\mdftotallinewidth=\skip183
+\mdfboundingboxwidth=\skip184
+\mdfboundingboxtotalwidth=\skip185
+\mdfboundingboxheight=\skip186
+\mdfboundingboxdepth=\skip187
+\mdfboundingboxtotalheight=\skip188
+\mdf@freevspace@length=\skip189
+\mdf@horizontalwidthofbox@length=\skip190
+\mdf@verticalmarginwhole@length=\skip191
+\mdf@horizontalspaceofbox=\skip192
+\mdfsubtitleheight=\skip193
+\mdfsubsubtitleheight=\skip194
+\c@mdfcountframes=\count540
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count541
+\c@mdf@env@i=\count542
+\c@mdf@env@ii=\count543
+\c@mdf@zref@counter=\count544
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+\esp=\skip195
+\ecart=\skip196
+
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 657.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 657.
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 657.
+
+Package hyperref Info: Option `colorlinks' set `false' on input line 657.
+Package hyperref Info: Option `breaklinks' set `true' on input line 657.
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 657.
+
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 657.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count545
+)))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count546
+\@quotereset=\count547
+(BassettWWTreatment Assessment.aux)
+\openout1 = `"BassettWWTreatment Assessment.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count548
+\scratchdimen=\dimen382
+\scratchbox=\box136
+\nofMPsegments=\count549
+\nofMParguments=\count550
+\everyMPshowfont=\toks73
+\MPscratchCnt=\count551
+\MPscratchDim=\dimen383
+\MPnumerator=\count552
+\makeMPintoPDFobject=\count553
+\everyMPtoPDFconversion=\toks74
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-10.91173pt
+* \headheight=14.0pt
+* \headsep=10.0pt
+* \topskip=11.0pt
+* \footskip=39.83368pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 66.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 66.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \celsius on input line 66.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 66.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 66.
+Package gensymb Info: Using \upOmega for \ohm on input line 66.
+
+Package gensymb Warning: Not defining \micro.
+
+\c@lstlisting=\count554
+
+Package chemgreek Info: Activating mapping `default' on line 66.
+
+Package hyperref Info: Link coloring OFF on input line 66.
+LaTeX Info: Redefining \microtypecontext on input line 66.
+Package microtype Info: Applying patch `item' on input line 66.
+Package microtype Info: Applying patch `toc' on input line 66.
+Package microtype Info: Applying patch `eqnum' on input line 66.
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 66.
+
+Package microtype Info: Applying patch `verbatim' on input line 66.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 66.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `"BassettWWTreatment Assessment.bcf"'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file '"BassettWWTreatment Assessment".bbl' not found
+.
+
+No file "BassettWWTreatment Assessment".bbl.
+Package biblatex Info: Reference section=0 on input line 66.
+Package biblatex Info: Reference segment=0 on input line 66.
+<./images/BassettWastewaterCover.png, id=42, 614.295pt x 794.97pt>
+File: ./images/BassettWastewaterCover.png Graphic file (type png)
+<use ./images/BassettWastewaterCover.png>
+Package pdftex.def Info: ./images/BassettWastewaterCover.png  used on input lin
+e 79.
+(pdftex.def)             Requested size: 597.50787pt x 773.2913pt.
+[1
+
+ <./images/BassettWastewaterCover.png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+00.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[2{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/in
+dov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+<./images/WastewaterTreatmentPlantAerialBandW.jpg, id=56, 301.125pt x 168.63pt>
+
+File: ./images/WastewaterTreatmentPlantAerialBandW.jpg Graphic file (type jpg)
+<use ./images/WastewaterTreatmentPlantAerialBandW.jpg>
+Package pdftex.def Info: ./images/WastewaterTreatmentPlantAerialBandW.jpg  used
+ on input line 120.
+(pdftex.def)             Requested size: 597.50787pt x 334.67062pt.
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 12
+0.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pag' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 120.
+
+(BassettWWTreatment Assessment.toc
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 2.
+ [3
+
+ <./images/WastewaterTreatmentPlantAerialBandW.jpg>])
+\tf@toc=\write6
+\openout6 = `"BassettWWTreatment Assessment.toc"'.
+
+ [4] (BassettWWLaboratory Assessment.tex
+Chapter 1.
+<./images/QuizCover.png, id=123, 2529.45pt x 1244.65pt>
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 10.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 10.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 10.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 10.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+0.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+0.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+
+ <./images/QuizCover.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 351.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.14006> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.60007> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
+
+[13]
+Overfull \hbox (109.2609pt too wide) detected at line 393
+[]
+ []
+
+
+Overfull \hbox (14.84717pt too wide) in paragraph at lines 396--397
+\T1/ptm/m/n/10.95 (-20) nBOD = tBOD - cBOD $ \OT1/ztmcm/m/n/10.95 =[]\OMS/ztmcm
+/m/n/10.95 ) $ \T1/ptm/m/n/10.95 (-20) nBOD = 61.9-41.1=20.8 $ \OT1/ztmcm/m/n/1
+0.95 =[]\OMS/ztmcm/m/n/10.95 ) $ \T1/ptm/m/n/10.95 (-20) nBOD(%)=20.8/61.9*100=
+$[]$  
+ []
+
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16] [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Overfull \hbox (0.12865pt too wide) in paragraph at lines 674--674
+[]\T1/ptm/m/n/10.95 (+1) The volatile portion of suspended solids contained in 
+normal domestic wastewater could be 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (0.1102pt too wide) in paragraph at lines 698--698
+\T1/ptm/m/n/10.95 (+16) b. Phenylarsineoxide (PAD) is typically added to destro
+y nitrifying bacteria when running 
+ []
+
+
+Overfull \hbox (0.1184pt too wide) in paragraph at lines 718--718
+[]\T1/ptm/m/n/10.95 (+12) Over a four-year period, the totalizing hour meter on
+ an instrument air compressor had the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Overfull \hbox (0.15817pt too wide) in paragraph at lines 800--800
+[]\T1/ptm/m/n/10.95 (+9) BOD5 is the most common method to quantify the organic
+ content in wastewater. Another 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Overfull \hbox (0.13762pt too wide) in paragraph at lines 952--953
+[]\T1/ptm/m/n/10.95 (+9) Describe total coliform & fecal coliform bacteria. Wha
+t is the difference between the two? 
+ []
+
+
+Overfull \hbox (0.10994pt too wide) in paragraph at lines 963--964
+\T1/ptm/m/n/10.95 (+13) While total coliforms are found widely in different env
+ironments, fecal coliforms are 
+ []
+
+
+Overfull \hbox (0.1201pt too wide) in paragraph at lines 963--964
+\T1/ptm/m/n/10.95 (+20) typically found in the intestines of warm blooded anima
+ls and are indicators of fecal 
+ []
+
+[27]
+Overfull \hbox (0.18275pt too wide) in paragraph at lines 981--981
+\T1/ptm/m/n/10.95 (+20) Using ORP probe reduces amount of chlorine used for dis
+infection. Chlorine by-products 
+ []
+
+
+Overfull \hbox (0.11673pt too wide) in paragraph at lines 983--984
+\T1/ptm/m/n/10.95 (+5) rectly the ox-i-da-tion po-ten-tial and com-pares (his m
+ea-sured po-ten-tial to a set point (typ-i-cally 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Overfull \hbox (0.13121pt too wide) in paragraph at lines 1017--1020
+\T1/ptm/m/n/10.95 (+2) 1. Find the velocity of flow (ft/sec): Q at peak x 1.547
+ cu. ft./sec divided by cross-sectional 
+ []
+
+) (BassettWWCollections Assessment.tex [29] [30
+
+]
+Chapter 2.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34])
+(BassettWWPreliminary Assessment.tex [35] [36
+
+]
+Chapter 3.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Overfull \hbox (0.10188pt too wide) in paragraph at lines 79--79
+[]\T1/ptm/m/n/10.95 (+19) A Venturi meter measures the amount of electricity us
+ed and should be read when there is 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Overfull \hbox (0.16138pt too wide) in paragraph at lines 274--274
+[]\T1/ptm/m/n/10.95 (+14) The size and na-ture of solids in the wastew-a-ter is
+ of no sig-nif-i-cant con-cern to the wastew-a- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47])
+(BassettWWPrimary Assessment.tex [48]
+Chapter 4.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+[58]
+Overfull \hbox (0.1501pt too wide) in paragraph at lines 527--528
+[]\T1/ptm/m/n/10.95 (+9) The organic material in the sludge feed to the digeste
+r has a higher proportion of 
+ []
+
+[59]) (BassettWWTricklingFilters Assessment.tex [60]
+Chapter 5.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Overfull \hbox (0.16893pt too wide) in paragraph at lines 32--32
+\T1/ptm/m/n/10.95 (+20) greater surface area per volume upon which the zoologea
+l film may grow while providing 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61
+
+]
+Overfull \hbox (0.12903pt too wide) in paragraph at lines 62--62
+[]\T1/ptm/m/n/10.95 (+20) The spaces between the filter media in a trickling fi
+lter need to remain open to permit free 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67])
+(BassettWWStabilizationPonds Assessment.tex [68]
+Chapter 6.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+Overfull \hbox (0.13506pt too wide) in paragraph at lines 509--510
+[]\T1/ptm/m/n/10.95 (+17) The color of the al-gae at the sur-face of a fac-ul-t
+a-tive pond can be an in-di-ca-tion of its op-er-a- 
+ []
+
+
+Overfull \hbox (0.14362pt too wide) in paragraph at lines 521--522
+[]\T1/ptm/m/n/10.95 (+18) Usually facultative ponds are mixed with mechanical a
+erators at night and on cloudy days 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+Overfull \hbox (0.13057pt too wide) in paragraph at lines 959--959
+\T1/ptm/m/n/10.95 (+15) a. When starting a facultative pond, 1 foot of relative
+ly clean water should be added to the 
+ []
+
+
+Overfull \hbox (0.13057pt too wide) in paragraph at lines 1001--1001
+\T1/ptm/m/n/10.95 (+15) a. When starting a facultative pond, 1 foot of relative
+ly clean water should be added to the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Overfull \hbox (0.13057pt too wide) in paragraph at lines 1178--1178
+\T1/ptm/m/n/10.95 (+15) a. When starting a facultative pond, 1 foot of relative
+ly clean water should be added to the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]
+Overfull \hbox (0.11555pt too wide) in paragraph at lines 1306--1307
+[]\T1/ptm/m/n/10.95 (+14) A properly designed and operated wastewater stabiliza
+tion pond will remove what percent 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+Overfull \hbox (0.13057pt too wide) in paragraph at lines 1417--1417
+[]\T1/ptm/m/n/10.95 (+15) a. When starting a facultative pond, 1 foot of relati
+vely clean water should be added to the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90])
+(BassettWWActivatedSludge Assessment.tex [91] [92
+
+]
+Chapter 7.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Overfull \hbox (0.15863pt too wide) in paragraph at lines 27--27
+[]\T1/ptm/m/n/10.95 (+11) Portion of the activated sludge floc settled in the c
+larifier that is returned to the front of the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Overfull \hbox (0.15312pt too wide) in paragraph at lines 107--107
+[]\T1/ptm/m/n/10.95 (+15) In the activated sludge process, the wastewater oxyge
+n demand may be separated into two 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+Overfull \hbox (3.72787pt too wide) in paragraph at lines 155--155
+[]\T1/ptm/m/n/10.95 (-20) Straggler floc is as-so-ci-ated with [[] sludge while
+ pin-floc is as-so-ci-ated with [] 
+ []
+
+
+Overfull \hbox (0.15863pt too wide) in paragraph at lines 158--158
+[]\T1/ptm/m/n/10.95 (+11) Portion of the activated sludge floc settled in the c
+larifier that is returned to the front of the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+Overfull \hbox (0.18233pt too wide) in paragraph at lines 180--180
+[]\T1/ptm/m/n/10.95 (+15) The BOD loading rate divided by the quantity of micro
+organisms present in the biological 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [97]
+Overfull \hbox (0.12921pt too wide) in paragraph at lines 245--245
+[]\T1/ptm/m/n/10.95 (+10) The amount of air re-quired in the op-er-a-tion of an
+ ac-ti-vated sludge aer-a-tion tank is in-de-pen- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Overfull \hbox (0.13943pt too wide) in paragraph at lines 405--405
+[]\T1/ptm/m/n/10.95 (+11) If there is an insufficient supply of air or oxygen b
+eing introduced into the aeration tank of 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Overfull \hbox (0.16635pt too wide) in paragraph at lines 481--481
+\T1/ptm/m/n/10.95 (+16) tank and know if they are consuming the oxygen provided
+ for removing organic 
+ []
+
+
+Overfull \hbox (0.14392pt too wide) in paragraph at lines 489--491
+[]\T1/ptm/m/it/10.95 (+13) List two possible causes for a sudden 40% decrease i
+n OUR during the last 12 hours 
+ []
+
+[105]) (BassettWWNutrientRemoval Assessment.tex [106]
+Chapter 8.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+Overfull \hbox (0.14798pt too wide) in paragraph at lines 109--109
+[]\T1/ptm/m/n/10.95 (+11) Many NPDES permits limit the amount of ammonia nitrog
+en that can be discharged into a 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+[110] [111] [112]
+Overfull \hbox (0.12811pt too wide) in paragraph at lines 252--252
+\T1/ptm/m/n/10.95 (+19) tion with sul-fur diox-ide had been used to meet your e
+f-flu-ent to-tal cofi-fom, limit. Re-cently, 
+ []
+
+
+Overfull \hbox (0.10867pt too wide) in paragraph at lines 252--252
+\T1/ptm/m/n/10.95 (+12) of 2 mg/L dur-ing the win-ter months (Novem-ber 1- Marc
+h 1) and 1 mg/L dur-ing the rest of 
+ []
+
+
+Overfull \hbox (0.11562pt too wide) in paragraph at lines 277--278
+[]\T1/ptm/m/n/10.95 (+19) Toxicity of am-mo-nia is af-fected by tem-per-a-ture,
+ fish breed-ing times and sus-cep- 
+ []
+
+[113] [114] [115] [116]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [117]
+Overfull \hbox (0.10037pt too wide) in paragraph at lines 379--380
+\T1/ptm/m/n/10.95 (+18) The amount of chlorine used up as part of the reaction 
+of chlorine with the inorganic 
+ []
+
+) (BassettWWBiosolidsRegulations Assessment.tex [118]
+Chapter 9.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+[119
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [120])
+(BassettWWThickening Assessment.tex [121] [122
+
+]
+Chapter 10.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+Overfull \hbox (0.12027pt too wide) in paragraph at lines 128--128
+\T1/ptm/m/n/10.95 (+7) b. The speed of the so-called "flights" has very little 
+effect on the concentration of the float 
+ []
+
+
+Overfull \hbox (0.12186pt too wide) in paragraph at lines 132--132
+[]\T1/ptm/m/n/10.95 (+3) Which one of the following process units is usually cl
+assified as a sludge thickening device 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [125]
+Overfull \hbox (0.1715pt too wide) in paragraph at lines 186--186
+[]\T1/ptm/m/n/10.95 (+16) On a routine check of a DAFT unit the operator finds 
+suspended solids of 450 mg/L in the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126])
+(BassettWWSolidsStabilizationDigestion Assessment.tex [127] [128
+
+]
+Chapter 11.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129]
+Overfull \hbox (0.14825pt too wide) in paragraph at lines 72--72
+[]\T1/ptm/m/n/10.95 (+7) Foaming in digesters is often due to rapid acid digest
+ion is caused by adding too much raw 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
+Overfull \hbox (0.16269pt too wide) in paragraph at lines 132--132
+[]\T1/ptm/m/n/10.95 (+20) Aerobic digesters are operated under the principle of
+ extended aeration from the activated 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+Overfull \hbox (0.14825pt too wide) in paragraph at lines 157--157
+[]\T1/ptm/m/n/10.95 (+7) Foaming in digesters is often due to rapid acid digest
+ion is caused by adding too much raw 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+Overfull \hbox (0.16269pt too wide) in paragraph at lines 217--217
+[]\T1/ptm/m/n/10.95 (+20) Aerobic digesters are operated under the principle of
+ extended aeration from the activated 
+ []
+
+
+Overfull \hbox (0.10922pt too wide) in paragraph at lines 237--237
+[]\T1/ptm/m/n/10.95 (+11) "High rate" and Low rate" when used in referring to a
+n anaerobic digester may refer to the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135]
+Overfull \hbox (0.14223pt too wide) in paragraph at lines 379--379
+\T1/ptm/m/n/10.95 (+19) e. The higher the volatile solid content of the primary
+ sludge being fed to the digester, the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
+Overfull \hbox (0.12677pt too wide) in paragraph at lines 397--397
+[]\T1/ptm/m/n/10.95 (+15) When adding anhydrous ammonia to a sour primary anaer
+obic digester, the[] is an 
+ []
+
+
+Overfull \hbox (0.14223pt too wide) in paragraph at lines 423--424
+[]\T1/ptm/m/n/10.95 (+19) e. The higher the volatile solid content of the prima
+ry sludge being fed to the digester, the 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137])
+(BassettWWDewatering Assessment.tex [138]
+Chapter 12.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139
+
+])
+(BassettWWDisinfection Assessment.tex [140]
+Chapter 13.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [144]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [152]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [153]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [155]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160])
+(BassettWWOdorControl Assessment.tex [161] [162
+
+]
+Chapter 14.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+[164] [165]) (BassettWWOverallWastewaterChemicals Assessment.tex [166]
+Chapter 15.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167
+
+]
+Overfull \hbox (0.13443pt too wide) in paragraph at lines 59--60
+\T1/ptm/m/n/10.95 (+4) Is typ-i-cally ap-plied at 1 - 10 mg/l when used to pre-
+cip-i-tate phos-pho-rus in pri-mary sed-i-men- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168]
+Overfull \hbox (0.13443pt too wide) in paragraph at lines 96--97
+\T1/ptm/m/n/10.95 (+4) Is typ-i-cally ap-plied at 1 - 10 mg/l when used to pre-
+cip-i-tate phos-pho-rus in pri-mary sed-i-men- 
+ []
+
+) (BassettWWPumping Assessment.tex [169] [170
+
+]
+Chapter 16.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+[171]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [172]
+<./images/PumpProblemPumpHp.png, id=2186, 1349.04pt x 536.0025pt>
+File: ./images/PumpProblemPumpHp.png Graphic file (type png)
+<use ./images/PumpProblemPumpHp.png>
+Package pdftex.def Info: ./images/PumpProblemPumpHp.png  used on input line 53.
+
+(pdftex.def)             Requested size: 107.9254pt x 42.88107pt.
+<./images/PumpProblem.png, id=2187, 2265.21281pt x 536.75531pt>
+File: ./images/PumpProblem.png Graphic file (type png)
+<use ./images/PumpProblem.png>
+Package pdftex.def Info: ./images/PumpProblem.png  used on input line 64.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [173 <./images/PumpProblemPumpHp.png> <./images/PumpProblem.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [174]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [177]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [178]
+Overfull \hbox (0.15466pt too wide) in paragraph at lines 309--310
+[]\T1/ptm/m/n/10.95 (+7) A centrifuge is fed sludge with a concentration of 3.4
+% solids. If the sludge feed rate is set 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179]
+Overfull \hbox (0.1966pt too wide) in paragraph at lines 339--345
+\T1/ptm/m/n/10.95 (+15) given you the pump char-ac-ter-is-tics curve which show
+s To-tal Dy-namic Head vs. flow rates. 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [180]
+Overfull \hbox (0.17162pt too wide) in paragraph at lines 367--367
+[]\T1/ptm/m/n/10.95 (+10) What term describes the condition that exists when th
+e source of the water supply is below 
+ []
+
+) (BassettWWSafety Assessment.tex [181] [182
+
+]
+Chapter 17.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185]
+Overfull \hbox (0.14474pt too wide) in paragraph at lines 165--165
+[]\T1/ptm/m/n/10.95 (+6) A mixture of 85%-95% atmospheric air in combination of
+ 5%-15% methane creates which 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [186]
+[187] [188]) (BassettWWMath Assessment.tex [189] [190
+
+]
+Chapter 18.
+File: ./images/QuizCover.png Graphic file (type png)
+<use ./images/QuizCover.png>
+Package pdftex.def Info: ./images/QuizCover.png  used on input line 3.
+(pdftex.def)             Requested size: 597.50787pt x 294.01213pt.
+[191]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [192]
+Overfull \hbox (0.11171pt too wide) in paragraph at lines 138--139
+[]\T1/ptm/m/n/10.95 (+3) The average chemical use at a plant is 77 lb/day. If t
+he chemical inventory is 2800 lbs, how 
+ []
+
+[193] [194] [195]
+Overfull \hbox (0.15202pt too wide) in paragraph at lines 273--274
+[]\T1/ptm/m/n/10.95 (+15) A chemical feed pump with a 6-inch bore and a 6-inch 
+stroke pumps 60 cycles per minute. 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [196]
+Overfull \hbox (0.10925pt too wide) in paragraph at lines 325--326
+[]\T1/ptm/m/n/10.95 (+7) Flow in an 8-inch pipe is 500 gpm. What is the average
+ velocity in ft/sec? (Assume pipe is 
+ []
+
+<./images/ChannelFlow3.png, id=2511, 356.83313pt x 182.93344pt>
+File: ./images/ChannelFlow3.png Graphic file (type png)
+<use ./images/ChannelFlow3.png>
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 356.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+<./images/PipeFlow.png, id=2512, 364.36125pt x 100.87688pt>
+File: ./images/PipeFlow.png Graphic file (type png)
+<use ./images/PipeFlow.png>
+Package pdftex.def Info: ./images/PipeFlow.png  used on input line 361.
+(pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [197 <./images/ChannelFlow3.png> <./images/PipeFlow.png>]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [198]
+[199]
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [200]
+[201]
+Overfull \hbox (28.45255pt too wide) in paragraph at lines 738--739
+[][]  
+ []
+
+
+Overfull \hbox (28.45255pt too wide) in paragraph at lines 769--770
+[][]  
+ []
+
+
+Overfull \hbox (28.45255pt too wide) in paragraph at lines 803--804
+[][]  
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[202]
+Overfull \hbox (28.45255pt too wide) in paragraph at lines 842--843
+[][]  
+ []
+
+
+Overfull \hbox (28.45255pt too wide) in paragraph at lines 876--877
+[][]  
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[203] [204]
+File: ./images/ChannelFlow3.png Graphic file (type png)
+<use ./images/ChannelFlow3.png>
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 956.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [205]
+Overfull \hbox (53.46689pt too wide) detected at line 987
+[] \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C [] \OT1/ztm
+cm/m/n/10.95 = []
+ []
+
+
+Overfull \hbox (58.94188pt too wide) detected at line 991
+[] \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C [] \OT1/ztm
+cm/m/n/10.95 = []
+ []
+
+[206]
+Overfull \hbox (53.46689pt too wide) detected at line 1016
+[] \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C [] \OT1/ztm
+cm/m/n/10.95 = []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [207]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [208]
+Overfull \hbox (0.14333pt too wide) in paragraph at lines 1121--1121
+[]\T1/ptm/m/n/10.95 (+10) What is the detention time in a 40 ft diameter primar
+y clarifier operating with a 12 ft water 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [209]
+Overfull \hbox (0.12459pt too wide) in paragraph at lines 1138--1138
+[]\T1/ptm/m/n/10.95 (+3) At a 5 MGD wastewater flow, a primary clarifier has a 
+detention time of 1 hour. How many 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [210]
+Overfull \hbox (0.16405pt too wide) in paragraph at lines 1200--1200
+[]\T1/ptm/m/n/10.95 (+13) A 3.1 MGD flow with a 190 mg/l TSS concentration is t
+reated in a primary clarifier which 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211]
+Overfull \hbox (0.16443pt too wide) in paragraph at lines 1274--1274
+[]\T1/ptm/m/n/10.95 (+5) A 80-ft diameter trickling filter with a media depth o
+f 7 ft receives a flow of 2,180,000 gpd. 
+ []
+
+[212]
+Overfull \hbox (0.11472pt too wide) in paragraph at lines 1312--1312
+[]\T1/ptm/m/n/10.95 (+1) Calculate the or-ganic load in lbs of BOD/-day/1000 cu
+. ft. for a trick-ling fil-ter 50 ft in di-am- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [213]
+Overfull \hbox (0.11209pt too wide) in paragraph at lines 1360--1360
+\T1/ptm/m/n/10.95 (+15) ter and 8 feet deep, a BOD de-sign load-ing of 50 lb-s/
+-day/1000 cu ft, a flow of 250,000 gpd, 
+ []
+
+
+Overfull \hbox (0.11472pt too wide) in paragraph at lines 1377--1377
+[]\T1/ptm/m/n/10.95 (+1) Calculate the or-ganic load in lbs of BOD/-day/1000 cu
+. ft. for a trick-ling fil-ter 50 ft in di-am- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [214]
+Overfull \hbox (4.25993pt too wide) in paragraph at lines 1396--1396
+\T1/ptm/m/n/10.95 (-20) in the pond in-flu-ent is 240mg/l, what is the or-ganic
+ load-ing to this pond in lbs-BOD/day/acre? 
+ []
+
+[215]
+Overfull \hbox (0.18323pt too wide) in paragraph at lines 1459--1460
+[]\T1/ptm/m/n/10.95 (+18) Assume a community of 1,100 people has a lagoon. The 
+flow averages 80,000 gallons per 
+ []
+
+
+LaTeX Warning: Command \d invalid in math mode on input line 1491.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [216]
+Overfull \hbox (1.20485pt too wide) in paragraph at lines 1492--1492
+[]$\OML/ztmcm/m/it/10.95 Pondhydraulicloadingrate[][][] \OT1/ztmcm/m/n/10.95 = 
+[] = [] = 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [217]
+Overfull \hbox (0.16289pt too wide) in paragraph at lines 1548--1550
+[]\T1/ptm/m/n/10.95 (+4) A pond has a volume of 1,800,000 ft3. If the flow to t
+he pond is 425 gpm, what is the pond 
+ []
+
+
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+ [218]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [219]
+Overfull \hbox (0.16437pt too wide) in paragraph at lines 1626--1626
+[]\T1/ptm/m/n/10.95 (+19) A 5 acre stabilization pond is operated at a depth of
+ five (5) ft. What is the pond detention 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [220]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [221]
+Overfull \hbox (0.17958pt too wide) in paragraph at lines 1710--1710
+\T1/ptm/m/n/10.95 (+4) the 3 MGD primary effluent flow has a BOD of 165 mg/l, h
+ow many lbs of MLVSS should 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [222]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [223]
+Overfull \hbox (0.14078pt too wide) in paragraph at lines 1794--1794
+[]\T1/ptm/m/n/10.95 (+12) Calculate the waste sludge pumping rate if you want t
+o waste 2,000 pounds per day with a 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [225]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [226]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [227]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [228]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [229]
+Overfull \hbox (24.23134pt too wide) in paragraph at lines 1986--1988
+\T1/ptm/m/n/10.95 (-20) If the MLSS con-cen-tra-tion = x: $ \OT1/ztmcm/m/n/10.9
+5 =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 F \OT1/ztmcm/m/n/10.95 : \OM
+L/ztmcm/m/it/10.95 M \OT1/ztmcm/m/n/10.95 = 0\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/
+m/n/10.95 28 = []  =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 x \OT1/ztmc
+m/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (24.12225pt too wide) in paragraph at lines 1996--2005
+[]  
+ []
+
+
+Overfull \hbox (0.16957pt too wide) in paragraph at lines 2006--2007
+[]\T1/ptm/m/n/10.95 (+1) Your plant currently is running at an MCRT of 5 days. 
+You want to adjust things so that the 
+ []
+
+
+Overfull \hbox (0.1135pt too wide) in paragraph at lines 2010--2011
+\T1/ptm/m/n/10.95 (+7) tended aer-a-tion sys-tem with an aer-a-tion tank that h
+as a vol-ume of 66800 cu. ft. The MLSS 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [230]
+Overfull \hbox (0.14226pt too wide) in paragraph at lines 2014--2015
+\T1/ptm/m/n/10.95 (+19) of bulking. How many pounds of chlorine are added to th
+e RAS portion of the RAS/WAS 
+ []
+
+<./images/Problem.png, id=2942, 265.99374pt x 55.20625pt>
+File: ./images/Problem.png Graphic file (type png)
+<use ./images/Problem.png>
+Package pdftex.def Info: ./images/Problem.png  used on input line 2023.
+(pdftex.def)             Requested size: 212.79527pt x 44.16504pt.
+
+Overfull \hbox (24.12225pt too wide) in paragraph at lines 2034--2043
+[]  
+ []
+
+[231 <./images/Problem.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [232]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [233]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [234]
+Overfull \hbox (24.23134pt too wide) in paragraph at lines 2158--2160
+\T1/ptm/m/n/10.95 (-20) If the MLSS con-cen-tra-tion = x: $ \OT1/ztmcm/m/n/10.9
+5 =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 F \OT1/ztmcm/m/n/10.95 : \OM
+L/ztmcm/m/it/10.95 M \OT1/ztmcm/m/n/10.95 = 0\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/
+m/n/10.95 28 = []  =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 x \OT1/ztmc
+m/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (24.12225pt too wide) in paragraph at lines 2162--2171
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [236]
+Overfull \hbox (24.12225pt too wide) in paragraph at lines 2257--2266
+[]  
+ []
+
+
+Overfull \hbox (0.16542pt too wide) in paragraph at lines 2275--2276
+\T1/ptm/m/n/10.95 (+4) averages 21.2 mg/l. The WAS concentration is 8100 mg/l a
+nd is wasted at the rate of 0.055 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [237]
+Overfull \hbox (0.14355pt too wide) in paragraph at lines 2306--2307
+\T1/ptm/m/n/10.95 (+20) 6500 Ibs of MLSS and the final clarifier contains 2500 
+Ibs of MLSS. Twelve hundred and 
+ []
+
+
+Overfull \hbox (0.16751pt too wide) in paragraph at lines 2312--2313
+\T1/ptm/m/n/10.95 (+20) The fi-nal clar-i-fier has an op-er-at-ing vol-ume of 0
+.25 MG. Ef-flu-ent sus-pended solids con-cen- 
+ []
+
+
+Overfull \hbox (0.15256pt too wide) in paragraph at lines 2312--2313
+\T1/ptm/m/n/10.95 (+10) tra-tion av-er-ages 21.2 mg/l. The WAS con-cen-tra-tion
+ is 8100 j mg/l and is wasted at the rate 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [238]
+Overfull \hbox (0.16751pt too wide) in paragraph at lines 2318--2319
+\T1/ptm/m/n/10.95 (+20) The fi-nal clar-i-fier has an op-er-at-ing vol-ume of 0
+.25 MG. Ef-flu-ent sus-pended solids con-cen- 
+ []
+
+
+Overfull \hbox (0.10696pt too wide) in paragraph at lines 2320--2321
+\T1/ptm/m/n/10.95 (+20) tank has a MLSS conc. of 2800 mg/l and a MLVSS conc. of
+ 2150mg/l. Calculate the F to 
+ []
+
+
+Overfull \hbox (0.11806pt too wide) in paragraph at lines 2338--2343
+[]\T1/ptm/m/n/10.95 (+15) Calculate the F to M ratio given the following. Plant
+ flow- 0.8 MGD Aerator vol- 200,000 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [239]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [240]
+Overfull \hbox (24.23134pt too wide) in paragraph at lines 2429--2431
+\T1/ptm/m/n/10.95 (-20) If the MLSS con-cen-tra-tion = x: $ \OT1/ztmcm/m/n/10.9
+5 =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 F \OT1/ztmcm/m/n/10.95 : \OM
+L/ztmcm/m/it/10.95 M \OT1/ztmcm/m/n/10.95 = 0\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/
+m/n/10.95 28 = []  =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 x \OT1/ztmc
+m/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [241]
+Overfull \hbox (82.26685pt too wide) in paragraph at lines 2450--2451
+$ \OT1/ztmcm/m/n/10.95 =[]\OMS/ztmcm/m/n/10.95 )  \OT1/ztmcm/m/n/10.95 8\OML/zt
+mcm/m/it/10.95 days \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (78.27095pt too wide) in paragraph at lines 2452--2453
+[]$\OT1/ztmcm/m/n/10.95 (15 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 12 \O
+MS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 8\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/
+m/n/10.95 34(\OML/ztmcm/m/it/10.95 lbs=day\OT1/ztmcm/m/n/10.95 )\OML/ztmcm/m/it
+/10.95 SS[] \OT1/ztmcm/m/n/10.95 + \OML/ztmcm/m/it/10.95 xMGDWAS \OMS/ztmcm/m/n
+/10.95 ^^C \OT1/ztmcm/m/n/10.95 5100 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10
+.95 8\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 34)(\OML/ztmcm/m/it/10.95 lbs=
+day\OT1/ztmcm/m/n/10.95 )\OML/ztmcm/m/it/10.95 SS[] \OT1/ztmcm/m/n/10.95 = []$ 
+ 
+ []
+
+
+Overfull \hbox (24.12225pt too wide) in paragraph at lines 2468--2477
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [242]
+[243]
+Overfull \hbox (8.59142pt too wide) in paragraph at lines 2573--2574
+$[] \OMS/ztmcm/m/n/10.95 ^^C [][] ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [244]
+Overfull \hbox (16.53448pt too wide) in paragraph at lines 2618--2619
+$\OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] \OT1/ztmcm/m/n/10
+.95 = []$  
+ []
+
+
+Overfull \hbox (41.47604pt too wide) in paragraph at lines 2629--2629
+$\OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] \OT1/ztmcm/m/n/10
+.95 = []$  
+ []
+
+<./images/DigesterWOCDimensions_1.png, id=3083, 176.66pt x 71.26625pt>
+File: ./images/DigesterWOCDimensions_1.png Graphic file (type png)
+<use ./images/DigesterWOCDimensions_1.png>
+Package pdftex.def Info: ./images/DigesterWOCDimensions_1.png  used on input li
+ne 2660.
+(pdftex.def)             Requested size: 176.65956pt x 71.26605pt.
+
+Overfull \hbox (0.41838pt too wide) in paragraph at lines 2704--2730
+$[] \OT1/ztmcm/m/n/10.95 = [] = 1\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 2
+08[]$  
+ []
+
+
+Overfull \hbox (66.98244pt too wide) in paragraph at lines 2734--2767
+$[] \OT1/ztmcm/m/n/10.95 = 1208[] \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10
+.95 = 16\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 912[]$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245 <./images/DigesterWOCDimensions_1.png>]
+Overfull \hbox (0.11928pt too wide) in paragraph at lines 2767--2768
+[]\T1/ptm/m/n/10.95 (+13) The sludge feed to a digester is 80,000 gal/day. The 
+sludge contains 4.5% total solids with 
+ []
+
+
+Overfull \hbox (0.12433pt too wide) in paragraph at lines 2772--2773
+[]\T1/ptm/m/n/10.95 (+13) Find lbs VS destroyed per 1000 gal of digester capaci
+ty per day if the digester radius 
+ []
+
+
+Overfull \hbox (34.38121pt too wide) in paragraph at lines 2776--2782
+\T1/ptm/m/n/10.95 (-20) Digester Vol-ume: $[] \OT1/ztmcm/m/n/10.95 = 1\OML/ztmc
+m/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 776\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/1
+0.95 220\OML/ztmcm/m/it/10.95 gallons \OT1/ztmcm/m/n/10.95 = 1\OML/ztmcm/m/it/1
+0.95 ; \OT1/ztmcm/m/n/10.95 776\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 2(10
+00\OML/ztmcm/m/it/10.95 gallons\OT1/ztmcm/m/n/10.95 )$  
+ []
+
+
+Overfull \hbox (16.8694pt too wide) in paragraph at lines 2784--2799
+$[] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (33.79848pt too wide) in paragraph at lines 2815--2846
+$[] \OT1/ztmcm/m/n/10.95 = [] = []$  
+ []
+
+
+Overfull \hbox (82.1821pt too wide) in paragraph at lines 2855--2887
+$[] \OT1/ztmcm/m/n/10.95 = 11\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 259[]
+ \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 157\OML/ztmcm/m/it/10.95 ; 
+\OT1/ztmcm/m/n/10.95 626[]$  
+ []
+
+
+Overfull \hbox (77.41127pt too wide) in paragraph at lines 2891--2923
+$[] \OT1/ztmcm/m/n/10.95 = 157\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 626[
+] \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [246]
+Overfull \hbox (71.23212pt too wide) in paragraph at lines 2963--2996
+$[] \OT1/ztmcm/m/n/10.95 = 1\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 168[] 
+\OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 17\OML/ztmcm/m/it/10.95 ; \O
+T1/ztmcm/m/n/10.95 520[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2963--2996
+ 
+ []
+
+
+Overfull \hbox (0.11375pt too wide) in paragraph at lines 2998--2998
+\T1/ptm/m/n/10.95 (+6) 25 ft, find lbs. VS destroyed per 1000 gal of digester c
+apacity per day. What is the digester 
+ []
+
+
+Overfull \hbox (3.11237pt too wide) in paragraph at lines 3013--3038
+$[] \OT1/ztmcm/m/n/10.95 = [] = 
+ []
+
+
+Overfull \hbox (79.74014pt too wide) in paragraph at lines 3079--3111
+$[] \OT1/ztmcm/m/n/10.95 = 1\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 030[] 
+\OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 13\OML/ztmcm/m/it/10.95 ; \O
+T1/ztmcm/m/n/10.95 905[]$  
+ []
+
+
+Overfull \hbox (54.18631pt too wide) in paragraph at lines 3117--3150
+$[] \OT1/ztmcm/m/n/10.95 = 13\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 905[]
+ \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 9\OML/ztmcm/m/it/10.95 ; \O
+T1/ztmcm/m/n/10.95 038\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 250[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3117--3150
+ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [247]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [248]
+Overfull \hbox (63.86206pt too wide) in paragraph at lines 3205--3207
+$\OT1/ztmcm/m/n/10.95 88\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 000[] \OMS
+/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 8\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/
+n/10.95 34 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OML/ztmcm/m/it/10.95
+ :\OT1/ztmcm/m/n/10.95 026[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OM
+L/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 9[] = []$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [249]
+Overfull \hbox (4.5343pt too wide) in paragraph at lines 3283--3284
+[]|$[]$|  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [250]
+Overfull \hbox (17.11768pt too wide) in paragraph at lines 3324--3346
+[]$\OML/ztmcm/m/it/10.95 lbsTSfeedfromcentrifuge \OT1/ztmcm/m/n/10.95 = 37\OML/
+ztmcm/m/it/10.95 yd[]sludge \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 27[] 
+\OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 18\OML/ztmcm/m/it/10.95 ; \O
+T1/ztmcm/m/n/10.95 961[]$  
+ []
+
+
+Overfull \hbox (38.7923pt too wide) in paragraph at lines 3347--3364
+[]$\OML/ztmcm/m/it/10.95 solidscapturerate \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm
+/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 100 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [251]
+Overfull \hbox (2.90352pt too wide) in paragraph at lines 3398--3399
+$\OML/ztmcm/m/it/10.95 Netsavings\OT1/ztmcm/m/n/10.95 ($\OML/ztmcm/m/it/10.95 =
+yr\OT1/ztmcm/m/n/10.95 ) = (400 \OMS/ztmcm/m/n/10.95 ^^@ \OT1/ztmcm/m/n/10.95 3
+80)[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 365 \OMS/ztmcm/m/n/10.95 ^^
+C [] ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (0.16666pt too wide) in paragraph at lines 3401--3402
+\T1/ptm/b/n/10.95 (+13) haul-ing and dis-posal, their net sav-ings will be: (26
+-20)/26*1,000,000 = $230,769. Con- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [252]
+Overfull \hbox (63.86206pt too wide) in paragraph at lines 3451--3453
+$\OT1/ztmcm/m/n/10.95 88\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 000[] \OMS
+/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 8\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/
+n/10.95 34 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OML/ztmcm/m/it/10.95
+ :\OT1/ztmcm/m/n/10.95 026[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OM
+L/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 9[] = []$ 
+ []
+
+
+Overfull \hbox (17.11768pt too wide) in paragraph at lines 3500--3523
+[]$\OML/ztmcm/m/it/10.95 lbsTSfeedfromcentrifuge \OT1/ztmcm/m/n/10.95 = 37\OML/
+ztmcm/m/it/10.95 yd[]sludge \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 27[] 
+\OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 18\OML/ztmcm/m/it/10.95 ; \O
+T1/ztmcm/m/n/10.95 961[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3500--3523
+ 
+ []
+
+
+Overfull \hbox (38.7923pt too wide) in paragraph at lines 3525--3543
+[]$\OML/ztmcm/m/it/10.95 solidscapturerate \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm
+/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 100 = []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3525--3543
+ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [253]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [254]
+Overfull \hbox (11.03474pt too wide) in paragraph at lines 3571--3571
+$\OML/ztmcm/m/it/10.95 Total\OT1/ztmcm/m/n/10.95 (\OML/ztmcm/m/it/10.95 dry\OT1
+/ztmcm/m/n/10.95 )\OML/ztmcm/m/it/10.95 solidsproducedperday \OT1/ztmcm/m/n/10.
+95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (2.90352pt too wide) in paragraph at lines 3578--3579
+$\OML/ztmcm/m/it/10.95 Netsavings\OT1/ztmcm/m/n/10.95 ($\OML/ztmcm/m/it/10.95 =
+yr\OT1/ztmcm/m/n/10.95 ) = (400 \OMS/ztmcm/m/n/10.95 ^^@ \OT1/ztmcm/m/n/10.95 3
+80)[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 365 \OMS/ztmcm/m/n/10.95 ^^
+C [] ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (0.15929pt too wide) in paragraph at lines 3583--3583
+\T1/ptm/m/n/10.95 (+7) hours per day. At the end of the day it produces 24 $\OM
+L/ztmcm/m/it/10.95 yd[]$ \T1/ptm/m/n/10.95 (+7) of 16% TS biosolids @ 65 lbs/$\
+OML/ztmcm/m/it/10.95 ft[]$ 
+ []
+
+
+Overfull \hbox (34.13708pt too wide) in paragraph at lines 3585--3586
+\T1/ptm/m/n/10.95 (-20) lbs solids feed to belt press: $[] \OMS/ztmcm/m/n/10.95
+ ^^C [] ^^C [] ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (23.65686pt too wide) in paragraph at lines 3602--3604
+\T1/ptm/m/n/10.95 (-20) Solids load-ing to grav-ity thickener=$[] \OT1/ztmcm/m/
+n/10.95 = 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [255]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [256]
+Overfull \hbox (0.17332pt too wide) in paragraph at lines 3604--3605
+\T1/ptm/m/n/10.95 (+19) uid level of 28 ft is fed with a blend of pri-mary and 
+sec-ondary sludge. The 85,000 gal/-day 
+ []
+
+
+Overfull \hbox (85.70778pt too wide) in paragraph at lines 3617--3619
+$ \OT1/ztmcm/m/n/10.95 =[]\OMS/ztmcm/m/n/10.95 )  []$ 
+ []
+
+
+Overfull \hbox (85.70778pt too wide) in paragraph at lines 3629--3629
+$ \OT1/ztmcm/m/n/10.95 =[]\OMS/ztmcm/m/n/10.95 )  []$  
+ []
+
+
+Overfull \hbox (63.12912pt too wide) in paragraph at lines 3645--3646
+$\OT1/ztmcm/m/n/10.95 36\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 870\OML/zt
+mcm/m/it/10.95 lbsVS[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OML/ztmc
+m/m/it/10.95 :\OT1/ztmcm/m/n/10.95 558\OML/ztmcm/m/it/10.95 lbsVSdestroyed \OMS
+/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [257]
+Overfull \hbox (69.06331pt too wide) in paragraph at lines 3654--3655
+$\OT1/ztmcm/m/n/10.95 121\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 000[] \OM
+S/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 8\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m
+/n/10.95 34 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OML/ztmcm/m/it/10.9
+5 :\OT1/ztmcm/m/n/10.95 026[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\O
+ML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 9[] = []$  
+ []
+
+
+Overfull \hbox (0.16006pt too wide) in paragraph at lines 3676--3677
+[]\T1/ptm/m/n/10.95 (+5) Knowing the di-gester VS re-duc-tion and the TS feed, 
+cal-cu-late the solids (TS) con-cen- 
+ []
+
+
+Overfull \hbox (0.11467pt too wide) in paragraph at lines 3677--3678
+[]\T1/ptm/m/n/10.95 (+15) Assuming the belt press solids capture is 90%; if it 
+produces a 20% cake which is 68 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [258]
+Overfull \hbox (28.90541pt too wide) in paragraph at lines 3703--3706
+\OT1/ztmcm/m/n/10.95 15\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 312\OML/ztm
+cm/m/it/10.95 lbsVS$ \T1/ptm/m/n/10.95 (-20) lbs VS from sec-ondary sludge: $\O
+T1/ztmcm/m/n/10.95 (5 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OML/ztmcm
+/m/it/10.95 :\OT1/ztmcm/m/n/10.95 83 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10
+.95 10\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 000)[]\OML/ztmcm/m/it/10.95 
+VS \OMS/ztmcm/m/n/10.95 ^^C []\OML/ztmcm/m/it/10.95 MGD \OMS/ztmcm/m/n/10.95 ^^
+C 
+ []
+
+
+Overfull \hbox (7.48459pt too wide) in paragraph at lines 3709--3710
+[]$\OML/ztmcm/m/it/10.95 VSloading \OT1/ztmcm/m/n/10.95 = [] = [] = []$  
+ []
+
+
+Overfull \hbox (38.18288pt too wide) in paragraph at lines 3712--3714
+$\OML/ztmcm/m/it/10.95 Digestergasproduction \OT1/ztmcm/m/n/10.95 = \OML/ztmcm/
+m/it/10.95 lbsVSreduced \OMS/ztmcm/m/n/10.95 ^^C \OML/ztmcm/m/it/10.95 gasprodu
+ctionrate\OT1/ztmcm/m/n/10.95 (\OML/ztmcm/m/it/10.95 ft[]=lblbsVSreduced$ 
+ []
+
+
+Overfull \hbox (4.85817pt too wide) in paragraph at lines 3712--3714
+\OT1/ztmcm/m/n/10.95 =[]\OMS/ztmcm/m/n/10.95 )  \OT1/ztmcm/m/n/10.95 25\OML/ztm
+cm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 003 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/
+n/10.95 0\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 6\OML/ztmcm/m/it/10.95 lbs
+VSreduced \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [259]
+Overfull \hbox (0.16006pt too wide) in paragraph at lines 3722--3722
+[]\T1/ptm/m/n/10.95 (+5) Knowing the di-gester VS re-duc-tion and the TS feed, 
+cal-cu-late the solids (TS) con-cen- 
+ []
+
+
+Overfull \hbox (0.11467pt too wide) in paragraph at lines 3732--3732
+[]\T1/ptm/m/n/10.95 (+15) Assuming the belt press solids capture is 90%; if it 
+produces a 20% cake which is 68 
+ []
+
+
+Overfull \hbox (4.35455pt too wide) in paragraph at lines 3739--3739
+[]$\OT1/ztmcm/m/n/10.95 (34\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 194\OML
+/ztmcm/m/it/10.95 lbsTSfeed \OMS/ztmcm/m/n/10.95 ^^@ \OT1/ztmcm/m/n/10.95 25\OM
+L/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 003 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztm
+cm/m/n/10.95 0\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 6\OML/ztmcm/m/it/10.9
+5 lbsVSreduced\OT1/ztmcm/m/n/10.95 )\OML/ztmcm/m/it/10.95 solidsfeedbeltpress$ 
+ 
+ []
+
+
+Overfull \hbox (8.58113pt too wide) in paragraph at lines 3754--3754
+\T1/ptm/m/n/10.95 (-20) Sludge weight for 4% solids = 25 lbs be-cause, 4% $ \OT
+1/ztmcm/m/n/10.95 =[]\OMS/ztmcm/m/n/10.95 )  []\OML/ztmcm/m/it/10.95 or[]$  
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+ [260]
+Overfull \hbox (0.1246pt too wide) in paragraph at lines 3768--3770
+[]\T1/ptm/m/n/10.95 (+2) A belt filter press is used 10 hrs per day to dewater 
+80 GPM digester sludge feed with 2.5% 
+ []
+
+
+Overfull \hbox (0.14621pt too wide) in paragraph at lines 3768--3770
+\T1/ptm/m/n/10.95 (+20) into trucks for offsite disposal. Five truckloads of bi
+osolids are produced every three days 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [261]
+Overfull \hbox (3.70718pt too wide) in paragraph at lines 3866--3867
+$ \OT1/ztmcm/m/n/10.95 =[]\OMS/ztmcm/m/n/10.95 )  \OML/ztmcm/m/it/10.95 C[] \OT
+1/ztmcm/m/n/10.95 = [] = [] = [] = 
+ []
+
+
+Overfull \hbox (0.1298pt too wide) in paragraph at lines 3884--3886
+\T1/ptm/m/n/10.95 (-7) the pri-mary ef-flu-ent. Cal-cu-late the av-er-age solid
+s load-ing on the thick-ener in pounds/ft$[]$/day 
+ []
+
+
+Overfull \hbox (0.1246pt too wide) in paragraph at lines 3888--3889
+[]\T1/ptm/m/n/10.95 (+2) A belt filter press is used 10 hrs per day to dewater 
+80 GPM digester sludge feed with 2.5% 
+ []
+
+
+Overfull \hbox (0.1246pt too wide) in paragraph at lines 3891--3893
+[]\T1/ptm/m/n/10.95 (+2) A belt filter press is used 10 hrs per day to dewater 
+80 GPM digester sludge feed with 2.5% 
+ []
+
+
+Overfull \hbox (0.14621pt too wide) in paragraph at lines 3891--3893
+\T1/ptm/m/n/10.95 (+20) into trucks for offsite disposal. Five truckloads of bi
+osolids are produced every three days 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [262]
+Underfull \vbox (badness 3590) has occurred while \output is active []
+
+ [263]
+Overfull \hbox (16.53448pt too wide) in paragraph at lines 3962--3963
+$\OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] \OT1/ztmcm/m/n/10
+.95 = []$  
+ []
+
+File: ./images/DigesterWOCDimensions_1.png Graphic file (type png)
+<use ./images/DigesterWOCDimensions_1.png>
+Package pdftex.def Info: ./images/DigesterWOCDimensions_1.png  used on input li
+ne 3987.
+(pdftex.def)             Requested size: 176.65956pt x 71.26605pt.
+
+Overfull \hbox (0.41838pt too wide) in paragraph at lines 4052--4078
+$[] \OT1/ztmcm/m/n/10.95 = [] = 1\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 2
+08[]$  
+ []
+
+
+Overfull \hbox (66.98244pt too wide) in paragraph at lines 4082--4115
+$[] \OT1/ztmcm/m/n/10.95 = 1208[] \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10
+.95 = 16\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 912[]$  
+ []
+
+
+Overfull \hbox (0.11928pt too wide) in paragraph at lines 4115--4116
+[]\T1/ptm/m/n/10.95 (+13) The sludge feed to a digester is 80,000 gal/day. The 
+sludge contains 4.5% total solids with 
+ []
+
+
+Overfull \hbox (0.12433pt too wide) in paragraph at lines 4120--4121
+[]\T1/ptm/m/n/10.95 (+13) Find lbs VS destroyed per 1000 gal of digester capaci
+ty per day if the digester radius 
+ []
+
+[264]
+Overfull \hbox (34.38121pt too wide) in paragraph at lines 4124--4130
+[]\T1/ptm/m/n/10.95 (-20) Digester Vol-ume: $[] \OT1/ztmcm/m/n/10.95 = 1\OML/zt
+mcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 776\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n
+/10.95 220\OML/ztmcm/m/it/10.95 gallons \OT1/ztmcm/m/n/10.95 = 1\OML/ztmcm/m/it
+/10.95 ; \OT1/ztmcm/m/n/10.95 776\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 2(
+1000\OML/ztmcm/m/it/10.95 gallons\OT1/ztmcm/m/n/10.95 )$  
+ []
+
+
+Overfull \hbox (16.8694pt too wide) in paragraph at lines 4132--4147
+$[] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Overfull \hbox (33.79848pt too wide) in paragraph at lines 4163--4194
+$[] \OT1/ztmcm/m/n/10.95 = [] = []$  
+ []
+
+
+Overfull \hbox (82.1821pt too wide) in paragraph at lines 4203--4235
+$[] \OT1/ztmcm/m/n/10.95 = 11\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 259[]
+ \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 157\OML/ztmcm/m/it/10.95 ; 
+\OT1/ztmcm/m/n/10.95 626[]$  
+ []
+
+
+Overfull \hbox (77.41127pt too wide) in paragraph at lines 4239--4271
+$[] \OT1/ztmcm/m/n/10.95 = 157\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 626[
+] \OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [265]
+Overfull \hbox (71.23212pt too wide) in paragraph at lines 4323--4356
+$[] \OT1/ztmcm/m/n/10.95 = 1\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 168[] 
+\OMS/ztmcm/m/n/10.95 ^^C [] \OT1/ztmcm/m/n/10.95 = 17\OML/ztmcm/m/it/10.95 ; \O
+T1/ztmcm/m/n/10.95 520[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4323--4356
+ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [266]
+Overfull \hbox (63.86206pt too wide) in paragraph at lines 4411--4413
+$\OT1/ztmcm/m/n/10.95 88\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 000[] \OMS
+/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 8\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/
+n/10.95 34 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OML/ztmcm/m/it/10.95
+ :\OT1/ztmcm/m/n/10.95 026[] \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 0\OM
+L/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 9[] = []$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [267]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [268]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [269]
+[270]
+Overfull \hbox (0.14151pt too wide) in paragraph at lines 4573--4573
+[]\T1/ptm/m/n/10.95 (+17) The chlorine demand is 4.8 mg/l and a chlorine residu
+al is 0.75 mg/l is desired. For a flow 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [271]
+Overfull \hbox (0.1666pt too wide) in paragraph at lines 4596--4596
+\T1/ptm/m/n/10.95 (+12) a wastewater effluent and leave a residual of 1.0 mg/l.
+ How many pounds of chlorine must 
+ []
+
+
+Overfull \hbox (0.15117pt too wide) in paragraph at lines 4609--4609
+\T1/ptm/m/n/10.95 (+20) disinfection, a residual of 1.0 mg/l is required. How m
+any pounds of chlorine must be fed 
+ []
+
+
+Overfull \hbox (0.1666pt too wide) in paragraph at lines 4621--4621
+\T1/ptm/m/n/10.95 (+12) a wastewater effluent and leave a residual of 1.0 mg/l.
+ How many pounds of chlorine must 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [272]
+Overfull \hbox (0.15117pt too wide) in paragraph at lines 4634--4634
+\T1/ptm/m/n/10.95 (+20) disinfection, a residual of 1.0 mg/l is required. How m
+any pounds of chlorine must be fed 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [273]
+Overfull \hbox (0.11649pt too wide) in paragraph at lines 4675--4676
+[]\T1/ptm/m/n/10.95 (+18) The operator at a 1.5 MGD conventional activated slud
+ge plant is considering using either 
+ []
+
+
+Overfull \hbox (0.13663pt too wide) in paragraph at lines 4675--4676
+\T1/ptm/m/n/10.95 (+20) dosed at 15 mg/l in order to achieve a residual of 3.0 
+mg/l. Using the data provided below 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [274]
+Overfull \hbox (6.44232pt too wide) in paragraph at lines 4701--4703
+$[] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C \OT1/ztmcm/m/n/10.95 97\OML/ztmcm/m/it/10.9
+5 ; \OT1/ztmcm/m/n/10.95 765\OML/ztmcm/m/it/10.95 galwater \OMS/ztmcm/m/n/10.95
+ ^^C [] \OT1/ztmcm/m/n/10.95 = []$ 
+ []
+
+
+Overfull \hbox (0.14151pt too wide) in paragraph at lines 4703--4703
+[]\T1/ptm/m/n/10.95 (+17) The chlorine demand is 4.8 mg/l and a chlorine residu
+al is 0.75 mg/l is desired. For a flow 
+ []
+
+
+Overfull \hbox (0.16261pt too wide) in paragraph at lines 4714--4714
+\T1/ptm/m/n/10.95 (+14) is 19.5 mg/l, approximately how many pounds of chlorine
+ per day will be required to treat 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [275]
+Overfull \hbox (0.14151pt too wide) in paragraph at lines 4745--4745
+[]\T1/ptm/m/n/10.95 (+17) The chlorine demand is 4.8 mg/l and a chlorine residu
+al is 0.75 mg/l is desired. For a flow 
+ []
+
+
+Overfull \hbox (0.16261pt too wide) in paragraph at lines 4756--4756
+\T1/ptm/m/n/10.95 (+14) is 19.5 mg/l, approximately how many pounds of chlorine
+ per day will be required to treat 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [276]
+Overfull \hbox (0.1666pt too wide) in paragraph at lines 4789--4790
+\T1/ptm/m/n/10.95 (+12) a wastewater effluent and leave a residual of 1.0 mg/l.
+ How many pounds of chlorine must 
+ []
+
+
+Overfull \hbox (0.15324pt too wide) in paragraph at lines 4791--4792
+[]\T1/ptm/m/n/10.95 (+19) 25 lb-s/-day of chlo-rine is be-ing ap-plied to a was
+tew-a-ter ef-flu-ent ow of 250,000 gpd. Cal-cu- 
+ []
+
+
+Overfull \hbox (0.15117pt too wide) in paragraph at lines 4794--4795
+\T1/ptm/m/n/10.95 (+20) disinfection, a residual of 1.0 mg/l is required. How m
+any pounds of chlorine must be fed 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [277]
+Overfull \hbox (0.14151pt too wide) in paragraph at lines 4821--4821
+[]\T1/ptm/m/n/10.95 (+17) The chlorine demand is 4.8 mg/l and a chlorine residu
+al is 0.75 mg/l is desired. For a flow 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [278]
+Overfull \hbox (0.16261pt too wide) in paragraph at lines 4832--4832
+\T1/ptm/m/n/10.95 (+14) is 19.5 mg/l, approximately how many pounds of chlorine
+ per day will be required to treat 
+ []
+
+
+Overfull \hbox (0.16261pt too wide) in paragraph at lines 4858--4858
+\T1/ptm/m/n/10.95 (+14) is 19.5 mg/l, approximately how many pounds of chlorine
+ per day will be required to treat 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [279]
+Overfull \hbox (0.14151pt too wide) in paragraph at lines 4884--4884
+[]\T1/ptm/m/n/10.95 (+17) The chlorine demand is 4.8 mg/l and a chlorine residu
+al is 0.75 mg/l is desired. For a flow 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [280]
+Overfull \hbox (0.16261pt too wide) in paragraph at lines 4895--4895
+\T1/ptm/m/n/10.95 (+14) is 19.5 mg/l, approximately how many pounds of chlorine
+ per day will be required to treat 
+ []
+
+
+Underfull \vbox (badness 3780) has occurred while \output is active []
+
+ [281]
+Overfull \hbox (9.40898pt too wide) in paragraph at lines 4943--4943
+$\OT1/ztmcm/m/n/10.95 75 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 1440[] \
+OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [282]
+Overfull \hbox (52.68439pt too wide) in paragraph at lines 4983--4983
+$[] \OT1/ztmcm/m/n/10.95 = [] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C []$  
+ []
+
+
+Overfull \hbox (1.48235pt too wide) in paragraph at lines 5002--5004
+$[]\OT1/ztmcm/m/n/10.95 (\OML/ztmcm/m/it/10.95 ppmor[]\OT1/ztmcm/m/n/10.95 ) = 
+[] = []$ 
+ []
+
+
+Overfull \hbox (0.11958pt too wide) in paragraph at lines 5004--5004
+[]\T1/ptm/m/n/10.95 (+20) Liquid alum (49% alum, sp. gravity 1.32, $1.85/gal)) 
+is being used to remove phosphorus 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [283]
+Overfull \hbox (0.19867pt too wide) in paragraph at lines 5021--5021
+\T1/ptm/m/n/10.95 (+20) (b) How many gallons per day of polymer solution will b
+e required for an average flow of 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [284]
+Overfull \hbox (42.21149pt too wide) in paragraph at lines 5054--5060
+$[] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C [] ^^C 
+ []
+
+
+Overfull \hbox (17.16235pt too wide) in paragraph at lines 5066--5070
+$[] \OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C [] \OT1/ztmcm/m/n/10.95 = []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [285]
+Overfull \hbox (14.88397pt too wide) in paragraph at lines 5100--5100
+$\OT1/ztmcm/m/n/10.95 100 \OMS/ztmcm/m/n/10.95 ^^C \OT1/ztmcm/m/n/10.95 1440[] 
+\OMS/ztmcm/m/n/10.95 ^^C [] ^^C [] ^^C []$  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [286]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [287]
+[288]
+File: ./images/PumpProblem.png Graphic file (type png)
+<use ./images/PumpProblem.png>
+Package pdftex.def Info: ./images/PumpProblem.png  used on input line 5209.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+<./images/PumpingProblemPump.png, id=3572, 347.115pt x 114.099pt>
+File: ./images/PumpingProblemPump.png Graphic file (type png)
+<use ./images/PumpingProblemPump.png>
+Package pdftex.def Info: ./images/PumpingProblemPump.png  used on input line 52
+11.
+(pdftex.def)             Requested size: 111.07906pt x 36.51242pt.
+File: ./images/PumpProblem.png Graphic file (type png)
+<use ./images/PumpProblem.png>
+Package pdftex.def Info: ./images/PumpProblem.png  used on input line 5218.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+File: ./images/PumpingProblemPump.png Graphic file (type png)
+<use ./images/PumpingProblemPump.png>
+Package pdftex.def Info: ./images/PumpingProblemPump.png  used on input line 52
+20.
+(pdftex.def)             Requested size: 138.84354pt x 45.63878pt.
+File: ./images/PumpProblem.png Graphic file (type png)
+<use ./images/PumpProblem.png>
+Package pdftex.def Info: ./images/PumpProblem.png  used on input line 5231.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+File: ./images/PumpingProblemPump.png Graphic file (type png)
+<use ./images/PumpingProblemPump.png>
+Package pdftex.def Info: ./images/PumpingProblemPump.png  used on input line 52
+33.
+(pdftex.def)             Requested size: 111.07906pt x 36.51242pt.
+File: ./images/PumpProblem.png Graphic file (type png)
+<use ./images/PumpProblem.png>
+Package pdftex.def Info: ./images/PumpProblem.png  used on input line 5241.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+<./images/PumpingProblempump.png, id=3573, 347.115pt x 114.099pt>
+File: ./images/PumpingProblempump.png Graphic file (type png)
+<use ./images/PumpingProblempump.png>
+Package pdftex.def Info: ./images/PumpingProblempump.png  used on input line 52
+43.
+(pdftex.def)             Requested size: 111.07906pt x 36.51242pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [289 <./images/PumpingProblemPump.png> <./images/PumpingProblempump.png>]
+File: ./images/PumpProblem.png Graphic file (type png)
+<use ./images/PumpProblem.png>
+Package pdftex.def Info: ./images/PumpProblem.png  used on input line 5263.
+(pdftex.def)             Requested size: 181.22072pt x 42.9413pt.
+File: ./images/PumpingProblemPump.png Graphic file (type png)
+<use ./images/PumpingProblemPump.png>
+Package pdftex.def Info: ./images/PumpingProblemPump.png  used on input line 52
+65.
+(pdftex.def)             Requested size: 111.07906pt x 36.51242pt.
+) [290]
+
+enddocument/afterlastpage: lastpage setting LastPage.
+(BassettWWTreatment Assessment.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+Package logreq Info: Writing requests to '"BassettWWTreatment Assessment".run.x
+ml'.
+\openout1 = `"BassettWWTreatment Assessment.run.xml"'.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 71 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 58254 strings out of 475248
+ 1212843 string characters out of 5757813
+ 2154048 words of memory out of 5000000
+ 76208 multiletter control sequences out of 15000+600000
+ 637915 words of font info for 296 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 91i,16n,99p,1178b,3953s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/indov/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/indov/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/ind
+ov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/
+indov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Use
+rs/indov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/User
+s/indov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users
+/indov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users
+/indov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users
+/indov/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "BassettWWTreatment Assessment.pdf" (290 pages, 2446808 bytes
+).
+PDF statistics:
+ 4172 PDF objects out of 4296 (max. 8388607)
+ 2278 named destinations out of 2487 (max. 500000)
+ 83300 words of extra memory for PDF output out of 89155 (max. 10000000)
+

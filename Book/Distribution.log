@@ -1,0 +1,1167 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  18 NOV 2022 18:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Distribution.tex
+(Distribution.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26>
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen143
+\tc@lly=\dimen144
+\tc@urx=\dimen145
+\tc@ury=\dimen146
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen147
+\adjbox@Height=\dimen148
+\adjbox@Depth=\dimen149
+\adjbox@Totalheight=\dimen150
+\adjbox@pwidth=\dimen151
+\adjbox@pheight=\dimen152
+\adjbox@pdepth=\dimen153
+\adjbox@ptotalheight=\dimen154
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count194
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count195
+\@vwid@loff=\dimen155
+\@vwid@roff=\dimen156
+)) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen157
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks22
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks23
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-10-26 L3 programming layer (loader) 
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box55
+))
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count275
+\calc@Bcount=\count276
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count277
+\calc@Cskip=\skip54
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count278
+\g__chemgreek_tmpa_int=\count279
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count280
+\__mhchem_arrow_extPgfLength_skip=\skip55
+\mhchem@minispace@tmp=\skip56
+\mhchem@minibackspace@tmp=\skip57
+\mhchem@bondwidth=\skip58
+\mhchem@bondheight=\skip59
+\mhchem@smallbondwidth@tmpA=\skip60
+\mhchem@smallbondwidth@tmpB=\skip61
+\mhchem@smallbondwidth=\skip62
+\mhchem@bondtmp@minussidebearingleft=\skip63
+\mhchem@bondtmp@minussidebearingright=\skip64
+\l__mhchem_option_version_int=\count281
+\mhchem@option@minusmathsidebearingleft=\dimen168
+\mhchem@option@minusmathsidebearingright=\dimen169
+\mhchem@option@minustextsidebearingleft=\dimen170
+\mhchem@option@minustextsidebearingright=\dimen171
+
+
+Package mhchem Warning: You did not specify a 'version' option for the mhchem
+(mhchem)                package. Please write \usepackage[version=4]{mhchem}
+(mhchem)                in your preamble (or any lower number for
+(mhchem)                compatibility mode), because you might get slightly
+(mhchem)                different output with the same input in future versions
+.
+
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count282
+)
+\@linkdim=\dimen172
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count285
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count286
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen173
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count287
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count288
+\c@Item=\count289
+\c@Hfootnote=\count290
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip65
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+ (Distribution.aux)
+\openout1 = `Distribution.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen176
+\scratchbox=\box56
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen177
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package chemgreek Info: Activating mapping `default' on line 22.
+
+ (C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+Package hyperref Info: Link coloring ON on input line 22.
+ (Distribution.out) (Distribution.out)
+\@outlinefile=\write3
+\openout3 = `Distribution.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 2
+4.
+
+(C:\Users\indov\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+<./images//2022_10_30_098bb5f44c5986ff92a9g-01.jpg, id=799, 1555.8125pt x 998.7
+3125pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-01.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-01.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-01.jpg  use
+d on input line 24.
+(pdftex.def)             Requested size: 1555.80872pt x 998.7288pt.
+
+Overfull \hbox (14.98615pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+[1
+
+{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//20
+22_10_30_098bb5f44c5986ff92a9g-01.jpg>] [2]
+Overfull \hbox (5.29968pt too wide) in paragraph at lines 124--124
+[]\T1/cmr/bx/n/14.4 Distribution Op-er-a-tor Cer-ti-fi-ca-tion Reg-u-la-tions 
+ []
+
+[3] [4] [5]
+<./images//DistributionSystemLayout.jpg, id=832, 1577.895pt x 763.85374pt>
+File: ./images//DistributionSystemLayout.jpg Graphic file (type jpg)
+<use ./images//DistributionSystemLayout.jpg>
+Package pdftex.def Info: ./images//DistributionSystemLayout.jpg  used on input 
+line 237.
+(pdftex.def)             Requested size: 1577.89116pt x 763.85187pt.
+
+Overfull \hbox (14.99515pt too wide) in paragraph at lines 237--238
+[][] 
+ []
+
+[6] [7 <./images//DistributionSystemLayout.jpg>]
+<./images//PushonJoint.jpg, id=842, 481.8pt x 219.82124pt>
+File: ./images//PushonJoint.jpg Graphic file (type jpg)
+<use ./images//PushonJoint.jpg>
+Package pdftex.def Info: ./images//PushonJoint.jpg  used on input line 281.
+(pdftex.def)             Requested size: 481.79881pt x 219.8207pt.
+<./images//FlangedJoint.jpg, id=843, 532.99126pt x 280.04625pt>
+File: ./images//FlangedJoint.jpg Graphic file (type jpg)
+<use ./images//FlangedJoint.jpg>
+Package pdftex.def Info: ./images//FlangedJoint.jpg  used on input line 285.
+(pdftex.def)             Requested size: 532.98996pt x 280.04555pt.
+
+Overfull \hbox (15.00885pt too wide) in paragraph at lines 285--286
+[][] 
+ []
+
+[8 <./images//PushonJoint.jpg>]
+<./images//MechanicalJoint.jpg, id=849, 526.96875pt x 274.02374pt>
+File: ./images//MechanicalJoint.jpg Graphic file (type jpg)
+<use ./images//MechanicalJoint.jpg>
+Package pdftex.def Info: ./images//MechanicalJoint.jpg  used on input line 289.
+
+(pdftex.def)             Requested size: 526.96745pt x 274.02307pt.
+
+Overfull \hbox (15.0183pt too wide) in paragraph at lines 289--290
+[][] 
+ []
+
+<./images//MechanicalCouplingJoint.jpg, id=850, 526.96875pt x 278.03876pt>
+File: ./images//MechanicalCouplingJoint.jpg Graphic file (type jpg)
+<use ./images//MechanicalCouplingJoint.jpg>
+Package pdftex.def Info: ./images//MechanicalCouplingJoint.jpg  used on input l
+ine 293.
+(pdftex.def)             Requested size: 526.96745pt x 278.03807pt.
+
+Overfull \hbox (15.0183pt too wide) in paragraph at lines 293--294
+[][] 
+ []
+
+[9 <./images//FlangedJoint.jpg> <./images//MechanicalJoint.jpg>] [10 <./images/
+/MechanicalCouplingJoint.jpg>] [11] [12]
+<./images//TypicalCustomerServiceConnection.jpg, id=872, 1625.07124pt x 508.901
+25pt>
+File: ./images//TypicalCustomerServiceConnection.jpg Graphic file (type jpg)
+<use ./images//TypicalCustomerServiceConnection.jpg>
+Package pdftex.def Info: ./images//TypicalCustomerServiceConnection.jpg  used o
+n input line 430.
+(pdftex.def)             Requested size: 1625.06729pt x 508.90001pt.
+<./images//TypicalCurbStop.jpg, id=873, 745.78625pt x 486.81876pt>
+File: ./images//TypicalCurbStop.jpg Graphic file (type jpg)
+<use ./images//TypicalCurbStop.jpg>
+Package pdftex.def Info: ./images//TypicalCurbStop.jpg  used on input line 440.
+
+(pdftex.def)             Requested size: 745.78444pt x 486.81757pt.
+
+Overfull \hbox (15.0004pt too wide) in paragraph at lines 440--441
+[][] 
+ []
+
+[13 <./images//TypicalCustomerServiceConnection.jpg>]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-18.jpg, id=879, 968.61874pt x 892.3
+3376pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-18.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-18.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-18.jpg  use
+d on input line 462.
+(pdftex.def)             Requested size: 968.61638pt x 892.33159pt.
+
+Overfull \hbox (15.0075pt too wide) in paragraph at lines 462--463
+[][] 
+ []
+
+[14 <./images//TypicalCurbStop.jpg>] [15 <./images//2022_10_30_098bb5f44c5986ff
+92a9g-18.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 481.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 481.
+
+<./images//GateValve.jpg, id=888, 521.95pt x 577.15625pt>
+File: ./images//GateValve.jpg Graphic file (type jpg)
+<use ./images//GateValve.jpg>
+Package pdftex.def Info: ./images//GateValve.jpg  used on input line 503.
+(pdftex.def)             Requested size: 521.94872pt x 577.15483pt.
+[16] [17 <./images//GateValve.jpg>]
+<./images//PressureReducingValve.jpg, id=899, 418.56375pt x 383.4325pt>
+File: ./images//PressureReducingValve.jpg Graphic file (type jpg)
+<use ./images//PressureReducingValve.jpg>
+Package pdftex.def Info: ./images//PressureReducingValve.jpg  used on input lin
+e 515.
+(pdftex.def)             Requested size: 418.56271pt x 383.43156pt.
+<./images//AirReleaseValve.jpg, id=900, 437.635pt x 572.1375pt>
+File: ./images//AirReleaseValve.jpg Graphic file (type jpg)
+<use ./images//AirReleaseValve.jpg>
+Package pdftex.def Info: ./images//AirReleaseValve.jpg  used on input line 527.
+
+(pdftex.def)             Requested size: 437.63393pt x 572.1361pt.
+ [18 <./images//PressureReducingValve.jpg>]
+[19 <./images//AirReleaseValve.jpg>] [20]
+<./images//DisplacementMeter.png, id=914, 167.87718pt x 183.68625pt>
+File: ./images//DisplacementMeter.png Graphic file (type png)
+<use ./images//DisplacementMeter.png>
+Package pdftex.def Info: ./images//DisplacementMeter.png  used on input line 60
+6.
+(pdftex.def)             Requested size: 167.87677pt x 183.68578pt.
+<./images//VelocityMeter.jpg, id=916, 593.21625pt x 340.27126pt>
+File: ./images//VelocityMeter.jpg Graphic file (type jpg)
+<use ./images//VelocityMeter.jpg>
+Package pdftex.def Info: ./images//VelocityMeter.jpg  used on input line 619.
+(pdftex.def)             Requested size: 593.2148pt x 340.27042pt.
+ [21 <./images//DisplacementMeter.png>]
+<./images//CompoundMeter.jpg, id=922, 615.29875pt x 343.2825pt>
+File: ./images//CompoundMeter.jpg Graphic file (type jpg)
+<use ./images//CompoundMeter.jpg>
+Package pdftex.def Info: ./images//CompoundMeter.jpg  used on input line 632.
+(pdftex.def)             Requested size: 615.29724pt x 343.28165pt.
+ [22 <./images//VelocityMeter.jpg> <./images//CompoundMeter.jpg>]
+<./images//ElectronicMeter.jpg, id=927, 391.4625pt x 489.83pt>
+File: ./images//ElectronicMeter.jpg Graphic file (type jpg)
+<use ./images//ElectronicMeter.jpg>
+Package pdftex.def Info: ./images//ElectronicMeter.jpg  used on input line 643.
+
+(pdftex.def)             Requested size: 391.46153pt x 489.8288pt.
+ [23 <./images//ElectronicMeter.jpg>]
+<./images//ProportionalMeter.jpg, id=932, 571.13374pt x 429.605pt>
+File: ./images//ProportionalMeter.jpg Graphic file (type jpg)
+<use ./images//ProportionalMeter.jpg>
+Package pdftex.def Info: ./images//ProportionalMeter.jpg  used on input line 65
+4.
+(pdftex.def)             Requested size: 571.13235pt x 429.60394pt.
+ [24 <./images//ProportionalMeter.jpg>]
+<./images//DryBarrellFireHydrant.jpg, id=937, 557.08125pt x 693.59125pt>
+File: ./images//DryBarrellFireHydrant.jpg Graphic file (type jpg)
+<use ./images//DryBarrellFireHydrant.jpg>
+Package pdftex.def Info: ./images//DryBarrellFireHydrant.jpg  used on input lin
+e 675.
+(pdftex.def)             Requested size: 557.0799pt x 693.58955pt.
+
+Overfull \hbox (15.00429pt too wide) in paragraph at lines 675--676
+[][] 
+ []
+
+[25 <./images//DryBarrellFireHydrant.jpg>] [26] [27]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-28.jpg, id=951, 656.4525pt x 835.12
+pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-28.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-28.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-28.jpg  use
+d on input line 791.
+(pdftex.def)             Requested size: 656.4509pt x 835.11795pt.
+
+Overfull \hbox (15.00333pt too wide) in paragraph at lines 791--792
+[][] 
+ []
+
+[28]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-29.jpg, id=956, 677.53125pt x 413.5
+45pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-29.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-29.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-29.jpg  use
+d on input line 797.
+(pdftex.def)             Requested size: 677.52959pt x 413.54398pt.
+
+Overfull \hbox (15.00911pt too wide) in paragraph at lines 797--798
+[][] 
+ []
+
+[29 <./images//2022_10_30_098bb5f44c5986ff92a9g-28.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 812.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 812.
+
+<./images//2022_10_30_098bb5f44c5986ff92a9g-30.jpg, id=961, 1358.07375pt x 480.
+79625pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-30.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-30.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-30.jpg  use
+d on input line 817.
+(pdftex.def)             Requested size: 1358.07043pt x 480.79506pt.
+
+Overfull \hbox (14.98834pt too wide) in paragraph at lines 817--818
+[][] 
+ []
+
+[30 <./images//2022_10_30_098bb5f44c5986ff92a9g-29.jpg>]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-31.jpg, id=966, 1525.7pt x 588.1975
+pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-31.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-31.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-31.jpg  use
+d on input line 824.
+(pdftex.def)             Requested size: 1525.69629pt x 588.19606pt.
+
+Overfull \hbox (14.99043pt too wide) in paragraph at lines 824--825
+[][] 
+ []
+
+<./images//2022_10_30_098bb5f44c5986ff92a9g-31(1).jpg, id=967, 1094.0875pt x 21
+1.79124pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-31(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-31(1).jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-31(1).jpg  
+used on input line 833.
+(pdftex.def)             Requested size: 1094.08482pt x 211.79073pt.
+
+Overfull \hbox (15.00665pt too wide) in paragraph at lines 833--834
+[][] 
+ []
+
+[31 <./images//2022_10_30_098bb5f44c5986ff92a9g-30.jpg> <./images//2022_10_30_0
+98bb5f44c5986ff92a9g-31.jpg> <./images//2022_10_30_098bb5f44c5986ff92a9g-31(1).
+jpg>]
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 841.
+
+<./images//2022_10_30_098bb5f44c5986ff92a9g-32.jpg, id=973, 405.515pt x 394.473
+75pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-32.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-32.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-32.jpg  use
+d on input line 843.
+(pdftex.def)             Requested size: 405.51399pt x 394.47278pt.
+
+Overfull \hbox (15.01112pt too wide) in paragraph at lines 843--844
+[][] 
+ []
+
+<./images//2022_10_30_098bb5f44c5986ff92a9g-32(1).jpg, id=974, 898.35625pt x 59
+8.235pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-32(1).jpg Graphic file (type j
+pg)
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-32(1).jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-32(1).jpg  
+used on input line 847.
+(pdftex.def)             Requested size: 898.35405pt x 598.23354pt.
+
+Overfull \hbox (14.99777pt too wide) in paragraph at lines 847--848
+[][] 
+ []
+
+[32 <./images//2022_10_30_098bb5f44c5986ff92a9g-32.jpg>]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-32(2).jpg, id=980, 508.90125pt x 37
+2.39125pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-32(2).jpg Graphic file (type j
+pg)
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-32(2).jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-32(2).jpg  
+used on input line 851.
+(pdftex.def)             Requested size: 508.90001pt x 372.39034pt.
+
+Overfull \hbox (15.0155pt too wide) in paragraph at lines 851--852
+[][] 
+ []
+
+[33 <./images//2022_10_30_098bb5f44c5986ff92a9g-32(1).jpg> <./images//2022_10_3
+0_098bb5f44c5986ff92a9g-32(2).jpg>]
+Overfull \hbox (3.47412pt too wide) in paragraph at lines 877--878
+[]\T1/cmr/m/n/10 Commercial cus-tomers in-clude typ-i-cal com-mer-cial busi-nes
+ses, in-clud-ing stores
+ []
+
+[34]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-34.jpg, id=989, 1354.05875pt x 653.
+44125pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-34.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-34.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-34.jpg  use
+d on input line 886.
+(pdftex.def)             Requested size: 1354.05545pt x 653.43965pt.
+
+Overfull \hbox (15.00148pt too wide) in paragraph at lines 886--887
+[][] 
+ []
+
+[35 <./images//2022_10_30_098bb5f44c5986ff92a9g-34.jpg>] [36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 989--990
+
+ []
+
+<./images//2022_10_30_098bb5f44c5986ff92a9g-37.jpg, id=1003, 1553.805pt x 391.4
+625pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-37.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-37.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-37.jpg  use
+d on input line 991.
+(pdftex.def)             Requested size: 1553.80121pt x 391.46153pt.
+
+Overfull \hbox (24.9915pt too wide) in paragraph at lines 991--992
+[][] 
+ []
+
+
+Overfull \hbox (141.84618pt too wide) in paragraph at lines 1002--1023
+[] 
+ []
+
+[38 <./images//2022_10_30_098bb5f44c5986ff92a9g-37.jpg>] [39]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-40.jpg, id=1012, 723.70375pt x 324.
+21124pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-40.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-40.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-40.jpg  use
+d on input line 1067.
+(pdftex.def)             Requested size: 723.70198pt x 324.21045pt.
+
+Overfull \hbox (14.99965pt too wide) in paragraph at lines 1067--1068
+[][] 
+ []
+
+[40 <./images//2022_10_30_098bb5f44c5986ff92a9g-40.jpg>] [41] [42]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@underline' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1195.
+
+[43] [44]
+Overfull \hbox (65.75235pt too wide) in paragraph at lines 1281--1282
+[]\T1/cmr/m/n/10 9 "Cold Wa-ter Recordall $[][]$ Turbo 2000 Me-ter" - [][]www.b
+adgermeter.com/pdf/recturbo/tech/[][]
+ []
+
+
+Overfull \hbox (67.66855pt too wide) in paragraph at lines 1283--1284
+[]\T1/cmr/m/n/10 10 "Cold Wa-ter Recordall $[][]$ Combo Me-ter" - [][]www.badge
+rmeter.com/pdf/recomp/tech/rcm-
+ []
+
+
+Overfull \hbox (71.65546pt too wide) in paragraph at lines 1285--1286
+[]\T1/cmr/m/n/10 11 "Mag-netoflow $[][]$ Mag Me-ter model Mag-netoflow $[][]$ F
+langed" - [][]www.badgermeter.com/pdf/[][]
+ []
+
+
+Overfull \hbox (28.44025pt too wide) in paragraph at lines 1289--1290
+[]\T1/cmr/m/n/10 13"The Case for In-spect-ing Fire Hy-drants" - [][]www.mueller
+company.com/files/11735
+ []
+
+[45]
+Overfull \hbox (11.736pt too wide) in paragraph at lines 1298--1299
+[]\T1/cmr/m/n/10 "Guidance Man-ual for Mon-i-tor-ing Dis-tri-bu-tion Sys-tem Wa
+-ter Qual-ity," AWWA
+ []
+
+
+Overfull \hbox (273.83026pt too wide) in paragraph at lines 1298--1299
+\T1/cmr/m/n/10 Uni-ver-sity of Cal-i-for-nia at Sacra-mento) p. 2.0, $\OT1/cmr/
+m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2
+\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 31\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 35\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/
+10 :\OT1/cmr/m/n/10 41\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 42\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m
+/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\
+OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 4\OML/cmm/
+m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 
+; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 61\OML/cmm/m/it/10 ; \OT1/
+cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 62\OML/cmm/m/it/10 ; \OT1/cmr/m/n
+/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 63\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\O
+ML/cmm/m/it/10 :\OT1/cmr/m/n/10 64\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/
+m/it/10 :\OT1/cmr/m/n/10 670\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/1
+0 :\OT1/cmr/m/n/10 671\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 672\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/
+m/n/10 7\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8
+\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 83\OML/cm
+m/m/it/10 ; \OT1/cmr/m/n/10 5\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1$\T1/cmr/m/n/10
+ ,
+ []
+
+
+Overfull \hbox (2.11334pt too wide) in paragraph at lines 1300--1301
+[]\T1/cmr/m/n/10 "Key Cri-te-ria for Valve Op-er-a-tion and Main-te-nance," Ame
+r-i-can Wa-ter Works
+ []
+
+[46] [47]
+<./images//ElevatedTank.jpg, id=1085, 434.62375pt x 617.30624pt>
+File: ./images//ElevatedTank.jpg Graphic file (type jpg)
+<use ./images//ElevatedTank.jpg>
+Package pdftex.def Info: ./images//ElevatedTank.jpg  used on input line 1362.
+(pdftex.def)             Requested size: 434.62268pt x 617.30473pt.
+
+Overfull \hbox (15.0202pt too wide) in paragraph at lines 1362--1363
+[][] 
+ []
+
+[48] [49 <./images//ElevatedTank.jpg>]
+<./images//GroundLevelTank.jpg, id=1095, 1404.24625pt x 897.3525pt>
+File: ./images//GroundLevelTank.jpg Graphic file (type jpg)
+<use ./images//GroundLevelTank.jpg>
+Package pdftex.def Info: ./images//GroundLevelTank.jpg  used on input line 1369
+.
+(pdftex.def)             Requested size: 1404.24283pt x 897.3503pt.
+
+Overfull \hbox (14.99684pt too wide) in paragraph at lines 1369--1370
+[][] 
+ []
+
+<./images//StandPipe1.jpg, id=1096, 612.2875pt x 803.0pt>
+File: ./images//StandPipe1.jpg Graphic file (type jpg)
+<use ./images//StandPipe1.jpg>
+Package pdftex.def Info: ./images//StandPipe1.jpg  used on input line 1375.
+(pdftex.def)             Requested size: 612.28601pt x 802.99805pt.
+
+Overfull \hbox (14.99947pt too wide) in paragraph at lines 1375--1376
+[][] 
+ []
+
+[50 <./images//GroundLevelTank.jpg>] [51 <./images//StandPipe1.jpg>]
+<./images//HydropnuematicTank.jpg, id=1105, 247.92625pt x 596.2275pt>
+File: ./images//HydropnuematicTank.jpg Graphic file (type jpg)
+<use ./images//HydropnuematicTank.jpg>
+Package pdftex.def Info: ./images//HydropnuematicTank.jpg  used on input line 1
+382.
+(pdftex.def)             Requested size: 247.92564pt x 596.22604pt.
+ [52]
+Overfull \vbox (46.22604pt too high) has occurred while \output is active []
+
+
+[53 <./images//HydropnuematicTank.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1398.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1398.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1401.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1401.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1406.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1406.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1409.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1409.
+
+[54]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-54.jpg, id=1119, 704.6325pt x 876.2
+7374pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-54.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-54.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-54.jpg  use
+d on input line 1429.
+(pdftex.def)             Requested size: 704.6308pt x 876.27159pt.
+
+Overfull \hbox (14.99341pt too wide) in paragraph at lines 1429--1430
+[][] 
+ []
+
+[55] [56 <./images//2022_10_30_098bb5f44c5986ff92a9g-54.jpg>] [57] [58]
+[59]
+Overfull \hbox (16.64005pt too wide) in paragraph at lines 1550--1551
+[][]\T1/cmr/m/n/10 http://www.watertanks.com/images/pdf/watertankscom-gouldshyd
+ropro.pdf[][]
+ []
+
+
+Overfull \hbox (0.99664pt too wide) in paragraph at lines 1553--1554
+\T1/cmr/m/n/10 "Community Wa-ter Sys-tems," Pub-lic Wa-ter Sup-ply Man-ual, (PA
+ DEP) p.7.0.18. 
+ []
+
+
+Overfull \hbox (11.736pt too wide) in paragraph at lines 1557--1558
+[]\T1/cmr/m/n/10 "Guidance Man-ual for Mon-i-tor-ing Dis-tri-bu-tion Sys-tem Wa
+-ter Qual-ity," AWWA
+ []
+
+[60] [61]
+Overfull \hbox (25.9659pt too wide) detected at line 1620
+[]
+ []
+
+[62]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-64.jpg, id=1166, 946.53625pt x 497.
+86pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-64.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-64.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-64.jpg  use
+d on input line 1688.
+(pdftex.def)             Requested size: 946.53395pt x 497.85878pt.
+
+Overfull \hbox (14.99902pt too wide) in paragraph at lines 1688--1689
+[][] 
+ []
+
+[63] [64 <./images//2022_10_30_098bb5f44c5986ff92a9g-64.jpg>] [65] [66]
+[67] [68] [69]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-70.jpg, id=1196, 791.95876pt x 400.
+49625pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-70.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-70.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-70.jpg  use
+d on input line 1932.
+(pdftex.def)             Requested size: 791.95683pt x 400.49527pt.
+
+Overfull \hbox (12.45483pt too wide) in paragraph at lines 1942--1942
+[]\T1/cmr/bx/n/14.4 Regulatory Mon-i-tor-ing and Sam-pling Re-quire-
+ []
+
+[70 <./images//2022_10_30_098bb5f44c5986ff92a9g-70.jpg>] [71] [72] [73]
+[74]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-76.jpg, id=1218, 560.0925pt x 571.1
+3374pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-76.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-76.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-76.jpg  use
+d on input line 2104.
+(pdftex.def)             Requested size: 560.09113pt x 571.13235pt.
+ [75] [76 <./images//2022_10_30_098bb5f44c5986ff92a9g-76.jpg>]
+<./images//2022_10_30_098bb5f44c5986ff92a9g-77.jpg, id=1231, 1697.34125pt x 205
+9.695pt>
+File: ./images//2022_10_30_098bb5f44c5986ff92a9g-77.jpg Graphic file (type jpg)
+
+<use ./images//2022_10_30_098bb5f44c5986ff92a9g-77.jpg>
+Package pdftex.def Info: ./images//2022_10_30_098bb5f44c5986ff92a9g-77.jpg  use
+d on input line 2145.
+(pdftex.def)             Requested size: 1697.33713pt x 2059.69pt.
+
+Overfull \hbox (15.00468pt too wide) in paragraph at lines 2145--2146
+[][] 
+ []
+
+[77 <./images//2022_10_30_098bb5f44c5986ff92a9g-77.jpg>] [78]
+<./images//LoopedDistributionSystem.jpg, id=1244, 1006.76125pt x 817.0525pt>
+File: ./images//LoopedDistributionSystem.jpg Graphic file (type jpg)
+<use ./images//LoopedDistributionSystem.jpg>
+Package pdftex.def Info: ./images//LoopedDistributionSystem.jpg  used on input 
+line 2207.
+(pdftex.def)             Requested size: 1006.75879pt x 817.05052pt.
+
+Overfull \hbox (14.99799pt too wide) in paragraph at lines 2207--2208
+[][] 
+ []
+
+[79] [80 <./images//LoopedDistributionSystem.jpg>] [81]
+Overfull \hbox (5.93185pt too wide) in paragraph at lines 2258--2259
+[]\T1/cmr/m/n/10 "Guidance Man-ual for Mon-i-tor-ing Dis-tri-bu-tion Sys-tem Wa
+-ter Qual-ity," Amer-
+ []
+
+
+Overfull \hbox (11.736pt too wide) in paragraph at lines 2260--2261
+[]\T1/cmr/m/n/10 "Guidance Man-ual for Mon-i-tor-ing Dis-tri-bu-tion Sys-tem Wa
+-ter Qual-ity," AWWA
+ []
+
+[82] (Distribution.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `Distribution.out' has not changed.
+(rerunfilecheck)             Checksum: BDB949CCA0CEEAADA8EDBA834A395910;31692.
+ ) 
+Here is how much of TeX's memory you used:
+ 13210 strings out of 475380
+ 226593 string characters out of 2776771
+ 551295 words of memory out of 3000000
+ 34050 multiletter control sequences out of 15000+600000
+ 488597 words of font info for 86 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,10n,77p,882b,531s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1440.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1728.pk><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/indov/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/indov/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/indov/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/User
+s/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r7.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/symbols/msam10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on Distribution.pdf (82 pages, 2271618 bytes).
+PDF statistics:
+ 1562 PDF objects out of 1728 (max. 8388607)
+ 337 named destinations out of 1000 (max. 500000)
+ 1788 words of extra memory for PDF output out of 10000 (max. 10000000)
+

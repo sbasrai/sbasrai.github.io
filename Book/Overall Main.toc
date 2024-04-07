@@ -1,0 +1,347 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Why Treat Wastewater?}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Definition of Wastewater}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Why Treat Wastewater}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Benefits of Treating Wastewater}{11}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Regulations}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Regulations Related to Wastewater Treatment}{13}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Treated Wastewater - NPDES Permit}{13}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Influent Wastewater - National Pretreatment Program}{13}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Sewage Sludge/Biosolids Regulations}{14}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Air Quality Regulations}{14}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Regulations Related to Operations and Maintenance}{15}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Operator Certification}{15}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Worker Safety}{19}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Elements of Wastewater Treatment}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Generation}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Collections}{21}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Treatment}{22}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Liquid Phase Treatment}{22}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Treatment of Wastewater Solids}{22}{subsection.3.3.2}%
+\contentsline {subsubsection}{Sludge Thickening}{22}{section*.2}%
+\contentsline {subsubsection}{Sludge Stabilization}{22}{section*.3}%
+\contentsline {subsubsection}{Sludge Dewatering}{23}{section*.4}%
+\contentsline {section}{\numberline {3.4}Disposal or Reuse}{23}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Wastewater Constituents}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Organics}{25}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Biochemical Oxygen Demand (BOD)}{25}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Chemical Oxygen Demand (COD)}{26}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Total Organic Carbon (TOC)}{26}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Solids}{26}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Summary of Wastewater Solids}{28}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Wastewater Solids Content}{28}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Nutrients}{29}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Nitrogen}{29}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Phosphorous}{29}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Oil and Grease}{30}{subsection.4.3.3}%
+\contentsline {chapter}{\numberline {5}Wastewater Properties and Parameters}{31}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}pH}{31}{subsection.5.0.1}%
+\contentsline {subsection}{\numberline {5.0.2}Oxidation Reduction Potential (ORP)}{31}{subsection.5.0.2}%
+\contentsline {subsection}{\numberline {5.0.3}Alkalinity}{32}{subsection.5.0.3}%
+\contentsline {subsection}{\numberline {5.0.4}Dissolved Oxygen}{33}{subsection.5.0.4}%
+\contentsline {subsection}{\numberline {5.0.5}Microbiological testing and monitoring}{33}{subsection.5.0.5}%
+\contentsline {subsection}{\numberline {5.0.6}Specific Gravity}{35}{subsection.5.0.6}%
+\contentsline {chapter}{\numberline {6}Wastewater Sampling}{37}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Sampling Methods}{37}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Grab Samples}{37}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Composite Samples}{37}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Sampling Precautions and Protocols}{38}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Bacteriological Sampling}{38}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Data Reporting}{38}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Laboratory Analysis}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}BOD Analysis}{41}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Wastewater solids}{42}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Total (TSS) and Volatile (VSS)}{42}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Wastewater and Sludge Total \& Volatile Solids}{43}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Sample BOD and solids analysis math problems}{46}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}Bacteriological Ennumeration}{48}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Bacteriological Testing Methods}{49}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}The Multiple-Tube Fermentation (MTF) technique}{49}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}The Membrane Filtration (MF) method}{52}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Quanti-trays tests}{53}{subsection.7.3.4}%
+\contentsline {chapter}{\numberline {8}Wastewater Math Fundamentals}{55}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Units}{55}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Unit Conversions}{55}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}Fractions}{56}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Ratio}{58}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Proportion}{58}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Decimals \& Powers of Ten}{59}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Rounding and Significant Digits}{60}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Averages}{62}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Working with Percent}{63}{section.8.8}%
+\contentsline {subsection}{\numberline {8.8.1}Percentage Concentrations}{63}{subsection.8.8.1}%
+\contentsline {section}{\numberline {8.9}Area \& Volume}{65}{section.8.9}%
+\contentsline {subsection}{\numberline {8.9.1}Example Problems}{65}{subsection.8.9.1}%
+\contentsline {section}{\numberline {8.10}Concentration}{65}{section.8.10}%
+\contentsline {section}{\numberline {8.11}Process Removal Efficiency}{66}{section.8.11}%
+\contentsline {subsection}{\numberline {8.11.1}Example Problems}{67}{subsection.8.11.1}%
+\contentsline {section}{\numberline {8.12}Pumping}{68}{section.8.12}%
+\contentsline {subsection}{\numberline {8.12.1}Calculating volume pumped given the pump flow rate}{68}{subsection.8.12.1}%
+\contentsline {subsection}{\numberline {8.12.2}Calculating time to pump a certain volume}{68}{subsection.8.12.2}%
+\contentsline {section}{\numberline {8.13}Example Problems}{68}{section.8.13}%
+\contentsline {chapter}{\numberline {9}Collections}{71}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Wastewater Collection Piping}{71}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Sanitary Sewer Systems}{71}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Storm-water systems}{71}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Combined sewer systems}{71}{subsection.9.2.2}%
+\contentsline {section}{\numberline {9.3}Collections Systems Basics}{72}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Collections Related Operational Issues}{72}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Infiltration}{72}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}Inflow}{72}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}Odors}{73}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}Fats, Oils and Grease (FOG)}{73}{subsection.9.4.4}%
+\contentsline {chapter}{\numberline {10}Preliminary Treatment}{75}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Process Elements of Preliminary Treatment}{75}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Screening}{75}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Grinding and Shredding}{76}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}Flow Measurement}{77}{subsection.10.1.3}%
+\contentsline {subsubsection}{Devices for Flow Measurement in Channels}{77}{section*.19}%
+\contentsline {subsubsection}{Devices for Flow Measurement in Pipes}{78}{section*.22}%
+\contentsline {subsection}{\numberline {10.1.4}Grit Removal}{79}{subsection.10.1.4}%
+\contentsline {subsubsection}{Grit Removal Systems}{79}{section*.24}%
+\contentsline {subsubsection}{Grit Removal}{79}{section*.27}%
+\contentsline {subsection}{\numberline {10.1.5}Flow Control}{80}{subsection.10.1.5}%
+\contentsline {subsection}{\numberline {10.1.6}Pre-aeration}{80}{subsection.10.1.6}%
+\contentsline {subsection}{\numberline {10.1.7}Flow Equalization}{81}{subsection.10.1.7}%
+\contentsline {section}{\numberline {10.2}Preliminary Treatment Math Problems}{81}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Channel Velocity and Flow Rate}{81}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}Grit Removal Rates}{83}{subsection.10.2.2}%
+\contentsline {chapter}{\numberline {11}Primary Treatment}{85}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Clarifier Zones}{87}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Inlet Zone}{87}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Settling Zone}{87}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}Sludge Zone}{87}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Skimming Zone}{87}{subsection.11.1.4}%
+\contentsline {subsection}{\numberline {11.1.5}Outlet Zone}{89}{subsection.11.1.5}%
+\contentsline {section}{\numberline {11.2}Sludge Pumping}{91}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Design Parameters}{91}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Advance primary treatment (APT)}{91}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Background}{91}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}Process/mechanism}{91}{subsection.11.4.2}%
+\contentsline {section}{\numberline {11.5}Math Problems}{92}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}Hydraulic or Surface Loading Rate}{92}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}Detention Time}{92}{subsection.11.5.2}%
+\contentsline {subsection}{\numberline {11.5.3}Weir Overflow Rate}{93}{subsection.11.5.3}%
+\contentsline {subsection}{\numberline {11.5.4}Removal Efficiency}{93}{subsection.11.5.4}%
+\contentsline {subsection}{\numberline {11.5.5}Solids Removal}{93}{subsection.11.5.5}%
+\contentsline {chapter}{\numberline {12}Introduction to Secondary Treatment}{95}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Fixed film system}{95}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Suspended Growth System}{95}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Pond System}{96}{section.12.3}%
+\contentsline {chapter}{\numberline {13}Trickling Filters}{97}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Theoretical Background}{97}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Trickling Filter Recirculation}{98}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Operation of Multiple Trickling Filters}{98}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Parameters for monitoring and operating trickling filters}{99}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Classifying Trickling Filters}{99}{section.13.5}%
+\contentsline {subsection}{\numberline {13.5.1}Low-rate filter}{99}{subsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.5.2}High-rate filter}{99}{subsection.13.5.2}%
+\contentsline {subsection}{\numberline {13.5.3}Roughing filter}{99}{subsection.13.5.3}%
+\contentsline {section}{\numberline {13.6}Trickling Filter Operational Issues}{100}{section.13.6}%
+\contentsline {subsection}{\numberline {13.6.1}Ponding}{100}{subsection.13.6.1}%
+\contentsline {subsection}{\numberline {13.6.2}Odors}{100}{subsection.13.6.2}%
+\contentsline {subsection}{\numberline {13.6.3}Trickling Filter Flies - Psychoda}{100}{subsection.13.6.3}%
+\contentsline {subsection}{\numberline {13.6.4}Cold weather problems}{100}{subsection.13.6.4}%
+\contentsline {section}{\numberline {13.7}Math Problems}{100}{section.13.7}%
+\contentsline {subsection}{\numberline {13.7.1}Hydraulic or surface loading}{100}{subsection.13.7.1}%
+\contentsline {subsection}{\numberline {13.7.2}BOD and TSS Removal}{100}{subsection.13.7.2}%
+\contentsline {subsection}{\numberline {13.7.3}Organic Loading}{101}{subsection.13.7.3}%
+\contentsline {subsection}{\numberline {13.7.4}Recirculation Ratio}{101}{subsection.13.7.4}%
+\contentsline {chapter}{\numberline {14}Stabilzation Ponds}{103}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Advantages of ponds}{103}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Disadvantages of ponds}{103}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Types of Ponds}{103}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}Anaerobic Ponds}{103}{subsection.14.3.1}%
+\contentsline {subsubsection}{Anaerobic Ponds}{103}{section*.31}%
+\contentsline {subsection}{\numberline {14.3.2}Facultative Ponds}{104}{subsection.14.3.2}%
+\contentsline {subsection}{\numberline {14.3.3}Aerobic Stabilization Ponds}{104}{subsection.14.3.3}%
+\contentsline {section}{\numberline {14.4}Ponds Operations and Maintenance}{104}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Math Problems}{106}{section.14.5}%
+\contentsline {subsection}{\numberline {14.5.1}Pond Area}{106}{subsection.14.5.1}%
+\contentsline {subsection}{\numberline {14.5.2}Solids Loading Rate}{106}{subsection.14.5.2}%
+\contentsline {subsection}{\numberline {14.5.3}Organic Loading Rate}{106}{subsection.14.5.3}%
+\contentsline {subsection}{\numberline {14.5.4}Detention time}{106}{subsection.14.5.4}%
+\contentsline {subsection}{\numberline {14.5.5}Hydraulic Loading Rate}{107}{subsection.14.5.5}%
+\contentsline {chapter}{\numberline {15}Activated Sludge}{109}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Process overview}{109}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Process parameters}{110}{section.15.2}%
+\contentsline {subsection}{\numberline {15.2.1}Dissolved oxygen (DO)}{110}{subsection.15.2.1}%
+\contentsline {subsection}{\numberline {15.2.2}pH}{110}{subsection.15.2.2}%
+\contentsline {subsection}{\numberline {15.2.3}Temperature}{110}{subsection.15.2.3}%
+\contentsline {subsection}{\numberline {15.2.4}Oxygen uptake rate (OUR) and specific oxygen uptake rate (SOUR)}{110}{subsection.15.2.4}%
+\contentsline {subsection}{\numberline {15.2.5}Food to Mass ratio (F:M)}{110}{subsection.15.2.5}%
+\contentsline {subsection}{\numberline {15.2.6}Sludge age}{110}{subsection.15.2.6}%
+\contentsline {subsection}{\numberline {15.2.7}Sludge settleability}{111}{subsection.15.2.7}%
+\contentsline {section}{\numberline {15.3}Microbiology}{111}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Activated sludge process control}{113}{section.15.4}%
+\contentsline {subsection}{\numberline {15.4.1}Controlling waste activated sludge (WAS) pumping rate}{114}{subsection.15.4.1}%
+\contentsline {subsubsection}{Constant Mean Cell Residence Time (MCRT)}{114}{section*.33}%
+\contentsline {subsubsection}{Constant food:mass (F/M)}{114}{section*.34}%
+\contentsline {subsubsection}{Constant Mixed Liquor Suspended Solids (MLSS)}{114}{section*.35}%
+\contentsline {subsection}{\numberline {15.4.2}Controlling the return activated sludge (RAS) rate}{114}{subsection.15.4.2}%
+\contentsline {subsubsection}{Constant RAS flow rate control - RAS pumping independent of influent flow}{114}{section*.36}%
+\contentsline {subsubsection}{Constant percentage RAS flow rate control}{114}{section*.37}%
+\contentsline {subsubsection}{Establishing RAS flow rate based on a solids balance approach}{114}{section*.38}%
+\contentsline {section}{\numberline {15.5}Process trouble shooting}{115}{section.15.5}%
+\contentsline {section}{\numberline {15.6}Process modifications}{118}{section.15.6}%
+\contentsline {subsection}{\numberline {15.6.1}Conventional activated sludge process}{118}{subsection.15.6.1}%
+\contentsline {subsubsection}{Process description}{118}{section*.40}%
+\contentsline {subsubsection}{Process advantages and applications}{118}{section*.42}%
+\contentsline {subsection}{\numberline {15.6.2}Conventional step feed process}{118}{subsection.15.6.2}%
+\contentsline {subsubsection}{Process description}{118}{section*.43}%
+\contentsline {subsubsection}{Process advantages and applications}{118}{section*.45}%
+\contentsline {subsection}{\numberline {15.6.3}Contact stabilization}{119}{subsection.15.6.3}%
+\contentsline {subsubsection}{Process description}{119}{section*.47}%
+\contentsline {subsubsection}{Process advantages and applications}{120}{section*.49}%
+\contentsline {subsection}{\numberline {15.6.4}Pure oxygen system}{120}{subsection.15.6.4}%
+\contentsline {subsubsection}{Process description}{120}{section*.50}%
+\contentsline {subsubsection}{Process advantages and applications}{120}{section*.52}%
+\contentsline {subsection}{\numberline {15.6.5}Sequencing batch reactors}{120}{subsection.15.6.5}%
+\contentsline {subsubsection}{Process description}{120}{section*.53}%
+\contentsline {subsubsection}{Process advantages and applications}{121}{section*.55}%
+\contentsline {subsection}{\numberline {15.6.6}Extended aeration}{121}{subsection.15.6.6}%
+\contentsline {subsubsection}{Process description}{121}{section*.57}%
+\contentsline {subsubsection}{Process advantages and applications}{121}{section*.58}%
+\contentsline {subsection}{\numberline {15.6.7}Krauss process}{123}{subsection.15.6.7}%
+\contentsline {subsubsection}{Process description}{123}{section*.60}%
+\contentsline {subsubsection}{Process advantages and applications}{123}{section*.62}%
+\contentsline {section}{\numberline {15.7}Sample Math Problems}{124}{section.15.7}%
+\contentsline {chapter}{\numberline {16}Nutrient Removal}{127}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Importance of removing nutrients}{127}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Nitrogen Removal}{127}{section.16.2}%
+\contentsline {subsection}{\numberline {16.2.1}Nitrogen Removal Methods}{128}{subsection.16.2.1}%
+\contentsline {subsubsection}{Nitrification and denitrification}{128}{section*.66}%
+\contentsline {subsubsection}{Breakpoint chlorination}{132}{section*.70}%
+\contentsline {section}{\numberline {16.3}Phosphorous removal}{134}{section.16.3}%
+\contentsline {subsection}{\numberline {16.3.1}Phosphorous removal methods}{134}{subsection.16.3.1}%
+\contentsline {subsubsection}{Chemical precipitation method}{134}{section*.71}%
+\contentsline {subsubsection}{Enhanced biological phosphorus removal (EBPR)}{134}{section*.73}%
+\contentsline {chapter}{\numberline {17}Solids Treatment Overview}{137}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Why do we need to treat wastewater solids?}{137}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Sludge thickening}{137}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Sludge Stabilization}{138}{section.17.3}%
+\contentsline {section}{\numberline {17.4}Sludge Dewatering}{138}{section.17.4}%
+\contentsline {chapter}{\numberline {18}Biosolids Regulations}{139}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Biosolids Definition}{139}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Biosolids Use/Disposal Methods}{139}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Biosolids Regulations}{139}{section.18.3}%
+\contentsline {section}{\numberline {18.4}Title 40 CFR Part 503 Requirements}{140}{section.18.4}%
+\contentsline {subsection}{\numberline {18.4.1}Pollutant concentration limits}{140}{subsection.18.4.1}%
+\contentsline {subsection}{\numberline {18.4.2}Pathogen reduction}{140}{subsection.18.4.2}%
+\contentsline {subsubsection}{Class A Biosolids}{140}{section*.75}%
+\contentsline {subsubsection}{Class B Biosolids}{141}{section*.76}%
+\contentsline {subsection}{\numberline {18.4.3}Vector attraction reduction}{141}{subsection.18.4.3}%
+\contentsline {chapter}{\numberline {19}Sludge Thickening}{143}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Advantages of sludge thickening}{143}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Sludge thickening methods}{143}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Gravity thickener}{143}{section.19.3}%
+\contentsline {subsection}{\numberline {19.3.1}Principles of gravity thickener operations}{144}{subsection.19.3.1}%
+\contentsline {subsection}{\numberline {19.3.2}Elements of a gravity thickener}{145}{subsection.19.3.2}%
+\contentsline {subsection}{\numberline {19.3.3}Gravity thickener operational parameters}{145}{subsection.19.3.3}%
+\contentsline {section}{\numberline {19.4}Dissolved air floatation thickener (DAFT)}{145}{section.19.4}%
+\contentsline {subsection}{\numberline {19.4.1}Principles of DAFT operations}{146}{subsection.19.4.1}%
+\contentsline {subsection}{\numberline {19.4.2}Elements of a DAFT}{146}{subsection.19.4.2}%
+\contentsline {subsection}{\numberline {19.4.3}DAFT operational parameters}{146}{subsection.19.4.3}%
+\contentsline {section}{\numberline {19.5}Solids thickening math problems}{147}{section.19.5}%
+\contentsline {chapter}{\numberline {20}Solids Stabilization - Digestion}{149}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Digester design}{149}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Types of anaerobic digestion systems}{152}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Digestion parameters and control}{153}{section.20.3}%
+\contentsline {subsection}{\numberline {20.3.1}Digestion temperature}{153}{subsection.20.3.1}%
+\contentsline {subsection}{\numberline {20.3.2}Digestion mixing}{153}{subsection.20.3.2}%
+\contentsline {subsection}{\numberline {20.3.3}Digestion feed}{154}{subsection.20.3.3}%
+\contentsline {subsection}{\numberline {20.3.4}Volatile solids breakdown}{154}{subsection.20.3.4}%
+\contentsline {subsection}{\numberline {20.3.5}Digester pH and alkalinity}{155}{subsection.20.3.5}%
+\contentsline {subsection}{\numberline {20.3.6}Digester pH control}{156}{subsection.20.3.6}%
+\contentsline {subsection}{\numberline {20.3.7}Digester gas production}{156}{subsection.20.3.7}%
+\contentsline {subsection}{\numberline {20.3.8}Digester failure}{156}{subsection.20.3.8}%
+\contentsline {subsection}{\numberline {20.3.9}Digester toxicity issues}{157}{subsection.20.3.9}%
+\contentsline {subsection}{\numberline {20.3.10}Nutrients and trace constituents requirement}{157}{subsection.20.3.10}%
+\contentsline {section}{\numberline {20.4}Digester safety}{157}{section.20.4}%
+\contentsline {section}{\numberline {20.5}Digester math problems}{158}{section.20.5}%
+\contentsline {subsection}{\numberline {20.5.1}Sludge pumping}{158}{subsection.20.5.1}%
+\contentsline {subsection}{\numberline {20.5.2}VS or organic loading}{158}{subsection.20.5.2}%
+\contentsline {subsection}{\numberline {20.5.3}Total volatile solids (VS) reduction}{159}{subsection.20.5.3}%
+\contentsline {chapter}{\numberline {21}Solids Dewatering}{161}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Belt Filter Press}{161}{section.21.1}%
+\contentsline {subsection}{\numberline {21.1.1}Principles of belt filter press operations}{162}{subsection.21.1.1}%
+\contentsline {subsection}{\numberline {21.1.2}Elements of the belt filter press}{163}{subsection.21.1.2}%
+\contentsline {subsection}{\numberline {21.1.3}Belt press operational parameters}{163}{subsection.21.1.3}%
+\contentsline {section}{\numberline {21.2}Centrifuge}{164}{section.21.2}%
+\contentsline {subsection}{\numberline {21.2.1}Principles of centrifuge operations}{164}{subsection.21.2.1}%
+\contentsline {subsection}{\numberline {21.2.2}Elements of the Centrifuge}{165}{subsection.21.2.2}%
+\contentsline {subsection}{\numberline {21.2.3}Centrifuge operational parameters}{165}{subsection.21.2.3}%
+\contentsline {section}{\numberline {21.3}Dewatering math problems}{165}{section.21.3}%
+\contentsline {subsection}{\numberline {21.3.1}Calculation of solids recovery}{165}{subsection.21.3.1}%
+\contentsline {subsection}{\numberline {21.3.2}Calculation of dewatered cake volume}{165}{subsection.21.3.2}%
+\contentsline {subsection}{\numberline {21.3.3}Hauling cost impact due to solids content change}{166}{subsection.21.3.3}%
+\contentsline {chapter}{\numberline {22}Disinfection}{167}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Chlorine disinfection}{167}{section.22.1}%
+\contentsline {subsection}{\numberline {22.1.1}Forms of chlorine}{167}{subsection.22.1.1}%
+\contentsline {subsection}{\numberline {22.1.2}Chlorine properties}{168}{subsection.22.1.2}%
+\contentsline {subsection}{\numberline {22.1.3}Chlorine storage and safety}{168}{subsection.22.1.3}%
+\contentsline {subsection}{\numberline {22.1.4}Chlorine reactions related to disinfection}{169}{subsection.22.1.4}%
+\contentsline {subsection}{\numberline {22.1.5}Chlorine disinfection process}{169}{subsection.22.1.5}%
+\contentsline {subsection}{\numberline {22.1.6}Factors affecting chlorine disinfection}{169}{subsection.22.1.6}%
+\contentsline {subsection}{\numberline {22.1.7}Dechlorination}{170}{subsection.22.1.7}%
+\contentsline {section}{\numberline {22.2}Ultraviolet (UV) disinfection}{170}{section.22.2}%
+\contentsline {subsection}{\numberline {22.2.1}Advantages of UV disinfection}{170}{subsection.22.2.1}%
+\contentsline {subsection}{\numberline {22.2.2}Disadvantages of UV disinfection}{170}{subsection.22.2.2}%
+\contentsline {section}{\numberline {22.3}Peracetic acid (PAA)}{171}{section.22.3}%
+\contentsline {subsection}{\numberline {22.3.1}Advantages of peracetic acid}{171}{subsection.22.3.1}%
+\contentsline {subsection}{\numberline {22.3.2}Disadvantages of Peracetic acid}{171}{subsection.22.3.2}%
+\contentsline {section}{\numberline {22.4}Ozone}{171}{section.22.4}%
+\contentsline {subsection}{\numberline {22.4.1}Advantages of ozonation}{171}{subsection.22.4.1}%
+\contentsline {subsection}{\numberline {22.4.2}Disadvantages of ozonation}{171}{subsection.22.4.2}%
+\contentsline {chapter}{\numberline {23}Odor Control}{173}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Background}{173}{section.23.1}%
+\contentsline {section}{\numberline {23.2}Drivers for Odor Control}{173}{section.23.2}%
+\contentsline {section}{\numberline {23.3}Odor Causing Compounds}{174}{section.23.3}%
+\contentsline {section}{\numberline {23.4}Theory of Odor Control}{174}{section.23.4}%
+\contentsline {subsection}{\numberline {23.4.1}Hydrogen Sulfide}{174}{subsection.23.4.1}%
+\contentsline {subsection}{\numberline {23.4.2}Ammonia}{176}{subsection.23.4.2}%
+\contentsline {section}{\numberline {23.5}Odor Control Technologies}{176}{section.23.5}%
+\contentsline {section}{\numberline {23.6}Liquid Phase Odor Control Methods}{176}{section.23.6}%
+\contentsline {section}{\numberline {23.7}Vapor Phase Odor Control Methods}{179}{section.23.7}%
+\contentsline {subsection}{\numberline {23.7.1}Common Vapor Phase Odor Control Methods}{179}{subsection.23.7.1}%
+\contentsline {subsubsection}{Applications of Packed Tower Scrubber}{180}{section*.86}%
+\contentsline {chapter}{\numberline {24}Wastewater Chemicals}{185}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Wastewater treatment chemicals - by use/category}{185}{section.24.1}%
+\contentsline {section}{\numberline {24.2}Wastewater treatment chemicals - by use/category}{186}{section.24.2}%
+\contentsline {subsection}{\numberline {24.2.1}Polymers in wastewater treatment}{186}{subsection.24.2.1}%
+\contentsline {section}{\numberline {24.3}Chemical dosing math problems}{187}{section.24.3}%
+\contentsline {subsection}{\numberline {24.3.1}lbs chemicals needed given flow and dosing rate}{187}{subsection.24.3.1}%
+\contentsline {subsection}{\numberline {24.3.2}Chemical batching and dilution}{187}{subsection.24.3.2}%
+\contentsline {chapter}{\numberline {25}Pumping Efficiencies and Costs}{189}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Important conversions and formulas}{189}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Practice Problems}{192}{section.25.2}%
+\contentsline {chapter}{\numberline {26}Safety}{195}{chapter.26}%
+\contentsline {section}{\numberline {26.1}Hazard Control Approaches}{195}{section.26.1}%
+\contentsline {section}{\numberline {26.2}Wastewater Treatment Hazards}{195}{section.26.2}%
+\contentsline {subsection}{\numberline {26.2.1}Hazardous Chemicals}{195}{subsection.26.2.1}%
+\contentsline {subsubsection}{Effects of Chemical Hazards}{196}{section*.90}%
+\contentsline {subsubsection}{Protection from chemicals}{196}{section*.91}%
+\contentsline {subsection}{\numberline {26.2.2}Hazardous Gasses}{220}{subsection.26.2.2}%
+\contentsline {subsection}{\numberline {26.2.3}Falls}{220}{subsection.26.2.3}%
+\contentsline {subsection}{\numberline {26.2.4}Noise}{220}{subsection.26.2.4}%
+\contentsline {subsection}{\numberline {26.2.5}Electrical Hazards}{221}{subsection.26.2.5}%
+\contentsline {subsection}{\numberline {26.2.6}Trenching \& Excavation Hazards}{221}{subsection.26.2.6}%
+\contentsline {subsection}{\numberline {26.2.7}Rotating and Moving Equipment}{221}{subsection.26.2.7}%
+\contentsline {subsection}{\numberline {26.2.8}Heat Stress}{221}{subsection.26.2.8}%
+\contentsline {subsection}{\numberline {26.2.9}Biohazards}{221}{subsection.26.2.9}%
+\contentsline {subsection}{\numberline {26.2.10}Material Handling Ergonomics}{222}{subsection.26.2.10}%
+\contentsline {section}{\numberline {26.3}Safety Practices}{222}{section.26.3}%
+\contentsline {subsection}{\numberline {26.3.1}Lockout - Tagout (LOTO)}{222}{subsection.26.3.1}%
+\contentsline {subsection}{\numberline {26.3.2}Personal Protective Equipment (PPE)}{223}{subsection.26.3.2}%
+\contentsline {subsection}{\numberline {26.3.3}Confined Space Entry}{223}{subsection.26.3.3}%
+\contentsline {chapter}{\numberline {27}Wastewater Treatment - Future}{225}{chapter.27}%
+\contentsline {section}{\numberline {27.1}Water Resource Recovery Facility - WRRF}{225}{section.27.1}%
+\contentsline {subsection}{\numberline {27.1.1}Water}{225}{subsection.27.1.1}%
+\contentsline {subsection}{\numberline {27.1.2}Energy}{226}{subsection.27.1.2}%
+\contentsline {subsection}{\numberline {27.1.3}Nutrients}{226}{subsection.27.1.3}%
+\contentsline {section}{\numberline {27.2}Challenges to WRRF}{226}{section.27.2}%
+\contentsline {subsection}{\numberline {27.2.1}Constituents of Emerging Concern}{226}{subsection.27.2.1}%
+\contentsline {subsection}{\numberline {27.2.2}Decentralized and Distributed Systems}{227}{subsection.27.2.2}%
+\contentsline {subsection}{\numberline {27.2.3}Climate Change}{227}{subsection.27.2.3}%
+\contentsline {chapter}{\numberline {28}Abbreviations and Glossary}{229}{chapter.28}%
+\contentsfinish 

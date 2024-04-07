@@ -1,0 +1,668 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[normalem]{ulem}
+\usepackage{cancel}
+\usepackage{tikz} 
+\usepackage{pdflscape}
+\usepackage{soul}
+\usepackage{colortbl}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{color,soul}
+\usepackage{pdflscape}
+\usepackage{hyperref}
+%\usepackage[table]{xcolor}
+\usepackage{rotating}
+\usepackage{amsmath}
+\usepackage{fixltx2e}
+\usepackage{framed}
+\usepackage{mdframed}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage{siunitx}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage{gensymb}
+ \usepackage{newunicodechar}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+%\usepackage[table,xcdraw]{xcolor}
+\usetikzlibrary{arrows}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+%\everymath{\displaystyle}
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+
+
+\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{SCC}\\ \textbf \textbf Collections}}
+\rhead{\ifthenelse{\value{page}=1}{Shabbir Basrai}{Shabbir Basrai}}
+\lhead{\ifthenelse{\value{page}=1}{WATR 048 - Spring 2019}{\textbf Collections}}
+\rfoot{\ifthenelse{\value{page}=1}{}{WATR 048 - Spring 2019}}
+
+\cfoot{}
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+AA - Activated alumina
+\vspace{0.3cm}\\
+ABR - Anaerobic baffled reactor - improved septic tank with baffles
+\vspace{0.3cm}\\
+ABR:  Anaerobic baffled reactor:  improved septic tank with baffles
+\vspace{0.3cm}\\
+AC:  Alternating current
+\vspace{0.3cm}\\
+ACP - Anaerobic contact process
+\vspace{0.3cm}\\
+ACP:  Anaerobic contact process
+\vspace{0.3cm}\\
+AD - Anaerobic digestion
+\vspace{0.3cm}\\
+AD:  Anaerobic digestion
+\vspace{0.3cm}\\
+ADI:  Acceptable daily intake
+\vspace{0.3cm}\\
+ADWF:  Average Dry Weather Flow
+\vspace{0.3cm}\\
+AF - Anaerobic filters
+\vspace{0.3cm}\\
+Ag:  Silver
+\vspace{0.3cm}\\
+AOC:  Assimilable Organic Carbon
+\vspace{0.3cm}\\
+AOS:  Adult onsite exposure
+\vspace{0.3cm}\\
+AQMD:  Air Quality Management District
+\vspace{0.3cm}\\
+As - Arsenic
+\vspace{0.3cm}\\
+AS:  Activated Sludge
+\vspace{0.3cm}\\
+As:  Arsenic
+\vspace{0.3cm}\\
+ATS - Aerobic treatment system
+\vspace{0.3cm}\\
+ATS:  Aerobic treatment system
+\vspace{0.3cm}\\
+AWT, AWWT:  Advanced Wastewater Treatment
+\vspace{0.3cm}\\
+AWWA:  American Water Works Association
+\vspace{0.3cm}\\
+AWWARF:  American Water Works Association Research Foundation (www.awwarf.com)
+\vspace{0.3cm}\\
+AWWF:  Average Wet Weather Flow
+\vspace{0.3cm}\\
+BAC:  Biological Activated Carbon (water treatment)
+\vspace{0.3cm}\\
+BACT:  Best Available Control Technology (Air Quality)
+\vspace{0.3cm}\\
+BAF:  Biological Aerated Filter (wastewater treatment)
+\vspace{0.3cm}\\
+BATNEEC:  Best Available Techniques Not Entailing Excessive Costs
+\vspace{0.3cm}\\
+BHP:  Brake Horse Power
+\vspace{0.3cm}\\
+BMP:  Best Management Practices
+\vspace{0.3cm}\\
+BOD :  Biochemical Oxygen Demand
+\vspace{0.3cm}\\
+BOD or BOD5 - Biological oxygen demand (measured for five days)
+\vspace{0.3cm}\\
+BOD:  Biochemical Oxygen on Demand:  
+\vspace{0.3cm}\\
+BOD:  Biological oxygen demand
+\vspace{0.3cm}\\
+BOD5:  Biochemical Oxygen Demand (over a 5 day period)
+\vspace{0.3cm}\\
+CAA:  Clean air act (EPA)
+\vspace{0.3cm}\\
+CBOD:  Carbonaceous Biochemical Oxygen Demand Chlorine
+\vspace{0.3cm}\\
+Cd:  Cadmium
+\vspace{0.3cm}\\
+CFC:  Chlorofluorocarbons
+\vspace{0.3cm}\\
+CFM:  Cubic Feet Per Minute
+\vspace{0.3cm}\\
+CFR:  Code of Federal Regulations
+\vspace{0.3cm}\\
+CFS:  Cubic Feet Per Second
+\vspace{0.3cm}\\
+CFU - Colony-forming unit
+\vspace{0.3cm}\\
+cfu:  Colony Forming Unit (Microbiology)
+\vspace{0.3cm}\\
+CHP:  Combined Heat and Power
+\vspace{0.3cm}\\
+CIP:  Capital Improvement Program
+\vspace{0.3cm}\\
+CJD:  Creutzfeld-Jakob's Disease
+\vspace{0.3cm}\\
+CN:  Cyanide
+\vspace{0.3cm}\\
+COD - Chemical oxygen demand
+\vspace{0.3cm}\\
+COD - Controlled open defecation
+\vspace{0.3cm}\\
+COD:  Chemical Oxygen Demand 
+\vspace{0.3cm}\\
+Cr: Chromium
+\vspace{0.3cm}\\
+CSI Conveyance System Improvement
+\vspace{0.3cm}\\
+CSO - Combined sewer overflow 
+\vspace{0.3cm}\\
+CSO LTCP:  CSO Long-Term Control Plan
+\vspace{0.3cm}\\
+CSO:  Combined sewer overflow
+\vspace{0.3cm}\\
+Cu: Copper
+\vspace{0.3cm}\\
+CVOC:  Chlorinated volatile organic compound
+\vspace{0.3cm}\\
+CW - Constructed wetland
+\vspace{0.3cm}\\
+DAF:  Dissolved Air Flotation
+\vspace{0.3cm}\\
+DBP:  Disinfection By-Product
+\vspace{0.3cm}\\
+DEWATS - Decentralized wastewater treatment system
+\vspace{0.3cm}\\
+DEWATS:  Decentralized wastewater treatment system
+\vspace{0.3cm}\\
+DFM:  Decennial flow monitoring
+\vspace{0.3cm}\\
+DMR:  Discharge Monitoring Report
+\vspace{0.3cm}\\
+DNA:  Deoxyribonucleic acid
+\vspace{0.3cm}\\
+DO: Dissolved Oxygen
+\vspace{0.3cm}\\
+DOC:  Dissolved organic carbon
+\vspace{0.3cm}\\
+EBCT:  Empty Bed Contact Time
+\vspace{0.3cm}\\
+EC - Electrical conductivity
+\vspace{0.3cm}\\
+EDI: Electro Deionization
+\vspace{0.3cm}\\
+Eh:  Redox potential
+\vspace{0.3cm}\\
+EIA:  Environmental impact assessment
+\vspace{0.3cm}\\
+EIS:  Environmental Impact Statement
+\vspace{0.3cm}\\
+EPA:  United States Environmental Protection Agency
+\vspace{0.3cm}\\
+EQO:  Environmental Quality Objective
+\vspace{0.3cm}\\
+EQS:  Environmental Quality Standard
+\vspace{0.3cm}\\
+ESA:  Endangered Species Act
+\vspace{0.3cm}\\
+ESA:  Environmentally Sensitive Area
+\vspace{0.3cm}\\
+F/M Ratio:  Food to Microorganism Ratio
+\vspace{0.3cm}\\
+FAC:  Florida Administrative Code
+\vspace{0.3cm}\\
+FAO:  Food and Agriculture Organization of the United Nations
+\vspace{0.3cm}\\
+FAQ:  Frequently asked questions
+\vspace{0.3cm}\\
+FC:  Fecal coliforms
+\vspace{0.3cm}\\
+FeCl2: Ferrous chloride
+\vspace{0.3cm}\\
+FeCl3:  Ferric chloride
+\vspace{0.3cm}\\
+FECR:  Fecal egg count reduction; closest article is on anthelmintic
+\vspace{0.3cm}\\
+FOG: Fats, Oils, \& Grease
+\vspace{0.3cm}\\
+FS:  Fecal (or fecal) sludge; closest article is septage
+\vspace{0.3cm}\\
+FSM:  Fecal (or fecal) sludge management
+\vspace{0.3cm}\\
+FSSM:  Fecal sludge and septage management
+\vspace{0.3cm}\\
+FSTP:  Fecal sludge treatment plant
+\vspace{0.3cm}\\
+FTI:  Fecally transmitted infections; closest article is fecal-oral transmission
+\vspace{0.3cm}\\
+GAC:  Granular Activated Carbon
+\vspace{0.3cm}\\
+GAP:  Good agricultural practices
+\vspace{0.3cm}\\
+GC:  Gas chromatography
+\vspace{0.3cm}\\
+GCMS:  Gas chromatograph + mass spectrometer
+\vspace{0.3cm}\\
+GFD:  Gals per foot of membrane per day 
+\vspace{0.3cm}\\
+GHG:  Greenhouse gases
+\vspace{0.3cm}\\
+GIS:  Geographical Information System
+\vspace{0.3cm}\\
+GLV:  Guideline Value (water quality standards)
+\vspace{0.3cm}\\
+GMO:  Genetically Modified Organism
+\vspace{0.3cm}\\
+gpcd:  Gallons per capita per day
+\vspace{0.3cm}\\
+GPD:  Gallons Per Day
+\vspace{0.3cm}\\
+gped:  Gallons per employee per day
+\vspace{0.3cm}\\
+GPM:  Gallons Per Minute
+\vspace{0.3cm}\\
+GPS - Global positioning system
+\vspace{0.3cm}\\
+GSA:  Gould Sludge Age
+\vspace{0.3cm}\\
+GSF - Global sanitation fund, closest page is Water Supply and Sanitation Collaborative Council
+\vspace{0.3cm}\\
+GSI:  Green Stormwater Infrastructure
+\vspace{0.3cm}\\
+HACCP:  Hazard Analysis and Critical Control Point
+\vspace{0.3cm}\\
+HACCP:  Hazard analysis and critical control points
+\vspace{0.3cm}\\
+HC:  hydrocarbons
+\vspace{0.3cm}\\
+HDPE:  High density polyethylene
+\vspace{0.3cm}\\
+HEDF:  Human excreta derived fertilizer (see reuse of excreta)
+\vspace{0.3cm}\\
+HIA:  Health impact assessment
+\vspace{0.3cm}\\
+HMI:  Human Machine Interface  
+\vspace{0.3cm}\\
+HP:  Horse Power
+\vspace{0.3cm}\\
+HRWS - Human right to water and sanitation
+\vspace{0.3cm}\\
+HWF - Handwashing facility
+\vspace{0.3cm}\\
+I/I:  Infiltration/Inflow
+\vspace{0.3cm}\\
+IPC :  Inclined Plate Clarifier
+\vspace{0.3cm}\\
+IPC:  Integrated Pollution Control
+\vspace{0.3cm}\\
+IPPC:  Integrated Pollution Prevention and Control
+\vspace{0.3cm}\\
+IPS:  Influent pump station
+\vspace{0.3cm}\\
+IWA:  International Water Association
+\vspace{0.3cm}\\
+IWSA:  International Water Supply Association
+\vspace{0.3cm}\\
+IWW:  Industrial Wastewater
+\vspace{0.3cm}\\
+JTU:  Jackson Turbidity Unit
+\vspace{0.3cm}\\
+kL (or Kl):  Kilo liters (or 1000 liters, same as 1 cubic meter)
+\vspace{0.3cm}\\
+KM:  Knowledge management
+\vspace{0.3cm}\\
+L:  Liter
+\vspace{0.3cm}\\
+LDPE:  Low density polyethylene
+\vspace{0.3cm}\\
+LMH:  Liters of permeate per square meter of membrane per hour
+\vspace{0.3cm}\\
+lpcd:  Liters per capita per day (liters per person per day), e.g. for daily wastewater flowrate
+\vspace{0.3cm}\\
+M\&E:  Monitoring and evaluation
+\vspace{0.3cm}\\
+MAC:  Maximum Admissible Concentration
+\vspace{0.3cm}\\
+MB:  Mixed Bed
+\vspace{0.3cm}\\
+MBBR:  Moving Bed Biofilm Reactor
+\vspace{0.3cm}\\
+MBR:  Membrane Bioreactor
+\vspace{0.3cm}\\
+MCC:  Motor Control Center
+\vspace{0.3cm}\\
+MCL:  Maximum Contaminant Level
+\vspace{0.3cm}\\
+MCRT:  Mean Cell Residence Time
+\vspace{0.3cm}\\
+MFC:  Microbial fuel cell
+\vspace{0.3cm}\\
+MFI:  Microfinance institution
+\vspace{0.3cm}\\
+mg - Milligram
+\vspace{0.3cm}\\
+MG/L:  Milligrams Per Liter
+\vspace{0.3cm}\\
+mg:  Milligram
+\vspace{0.3cm}\\
+MG:  Million Gallons
+\vspace{0.3cm}\\
+MGD:  Million Gallons Per Day
+\vspace{0.3cm}\\
+MHM:  Menstrual hygiene management; closest article is Menstrual hygiene day
+\vspace{0.3cm}\\
+ML:  Megaliter or 1 million liter or 1000 cubic meters
+\vspace{0.3cm}\\
+mld:  Megalitres per day
+\vspace{0.3cm}\\
+MLD:  Million liters per day
+\vspace{0.3cm}\\
+MLSS:  Mixed Liquor Suspended Solids
+\vspace{0.3cm}\\
+MLVSS:  Mixed Liquor Volatile Suspended Solids
+\vspace{0.3cm}\\
+MOA:  Memorandum of Agreement
+\vspace{0.3cm}\\
+MOR:  Monthly Operating Report
+\vspace{0.3cm}\\
+MoU:  Memorandum of understanding
+\vspace{0.3cm}\\
+MSW:  Municipal solid waste
+\vspace{0.3cm}\\
+MTBE:  Methyl-tert-butyl ether
+\vspace{0.3cm}\\
+NACWA:  National Association of Clean Water Agencies
+\vspace{0.3cm}\\
+NAPL:  Non Aqueous phase liquid
+\vspace{0.3cm}\\
+ND:  Not detected
+\vspace{0.3cm}\\
+NF:  Nanofiltration
+\vspace{0.3cm}\\
+NGO:  Non-governmental organization
+\vspace{0.3cm}\\
+NH3-N:  Ammonia Nitrogen
+\vspace{0.3cm}\\
+NIMBY:  Not In My Back Yard
+\vspace{0.3cm}\\
+NO2-N:  Nitrite Nitrogen 
+\vspace{0.3cm}\\
+NO3-N:  Nitrate Nitrogen
+\vspace{0.3cm}\\
+NOx:  Nitrogen Oxide
+\vspace{0.3cm}\\
+NPDES:  National Pollutant Discharge Elimination System
+\vspace{0.3cm}\\
+NPSH:  Net Positive Suction Head
+\vspace{0.3cm}\\
+NRW:  Non-revenue water
+\vspace{0.3cm}\\
+NSS:  Non-sewered sanitation (similar term to fecal sludge management)
+\vspace{0.3cm}\\
+NTU:  Nephelometer Turbidity Units
+\vspace{0.3cm}\\
+O \& G:  Oil and Grease
+\vspace{0.3cm}\\
+O\&M:  Operation and maintenance
+\vspace{0.3cm}\\
+OD:  Open defecation
+\vspace{0.3cm}\\
+ODF:  Open defecation free, i.e. a community without open defecation taking place
+\vspace{0.3cm}\\
+oF:  Fahrenheit
+\vspace{0.3cm}\\
+OPEX:  Operating Expenditure on a recurring annual basis
+\vspace{0.3cm}\\
+OPEX:  Operational expenditure (or operating expense)
+\vspace{0.3cm}\\
+ORP - Oxidation reduction potential
+\vspace{0.3cm}\\
+OSEC:  On-Site Electrolytic Chlorination
+\vspace{0.3cm}\\
+OUR:  Oxygen Uptake Rate
+\vspace{0.3cm}\\
+P\&ID: Process and Instrumentation Diagram
+\vspace{0.3cm}\\
+PAC:  Powdered Activated Carbon
+\vspace{0.3cm}\\
+PAH:  Polycyclic Aromatic Hydrocarbons
+\vspace{0.3cm}\\
+PC :  Personal computer
+\vspace{0.3cm}\\
+PCV:  Prescribed Concentration or Value
+\vspace{0.3cm}\\
+pe:  Population Equivalent
+\vspace{0.3cm}\\
+PFD:  Process flow diagram
+\vspace{0.3cm}\\
+pH:  Hydrogen potential
+\vspace{0.3cm}\\
+pH: Potential Hydrogen
+\vspace{0.3cm}\\
+PLC :  Programmable Logic Controller
+\vspace{0.3cm}\\
+POTW:  Publicly Owned Treatment Works
+\vspace{0.3cm}\\
+ppb: Parts Per Billion
+\vspace{0.3cm}\\
+PPE :  Personal Protective Equipment  
+\vspace{0.3cm}\\
+ppm - Parts per million
+\vspace{0.3cm}\\
+PPP - Public private partnership
+\vspace{0.3cm}\\
+ppt:  Parts per trillion
+\vspace{0.3cm}\\
+PRV:  Pressure Reducing Valve (water distribution)
+\vspace{0.3cm}\\
+PSI:  Pounds Per Square Inch
+\vspace{0.3cm}\\
+PTE:  Potentially Toxic Element
+\vspace{0.3cm}\\
+PVC:  Polyvinyl chloride
+\vspace{0.3cm}\\
+QA/QC:  Quality assurance / quality control
+\vspace{0.3cm}\\
+R\&D:  Research and development
+\vspace{0.3cm}\\
+RAS:  Return Activated Sludge
+\vspace{0.3cm}\\
+RBC: Rotating Biological Contactor
+\vspace{0.3cm}\\
+RBF:  Results-based financing, see also Output based aid or Payment by Results
+\vspace{0.3cm}\\
+RBTS:  Reed Bed Treatment System (wastewater treatment)
+\vspace{0.3cm}\\
+RCT:  Randomized controlled trial
+\vspace{0.3cm}\\
+RNA:  Ribonucleic acid
+\vspace{0.3cm}\\
+RO:  Reverse Osmosis
+\vspace{0.3cm}\\
+RRR:  Resource Recovery and Reuse
+\vspace{0.3cm}\\
+RTC:  Real Time Control
+\vspace{0.3cm}\\
+RTI:  Reproductive tract infection
+\vspace{0.3cm}\\
+RTTC:  Reinvent the Toilet Challenge, an R\&D funding scheme by the Bill and Melinda Gates Foundation
+\vspace{0.3cm}\\
+SA:  Sludge Age
+\vspace{0.3cm}\\
+SAR:  Sodium adsorption ratio
+\vspace{0.3cm}\\
+SBA (or SBM):  Swachh Bharat Abhiyan, Clean India Mission or Swachh Bharat Mission
+\vspace{0.3cm}\\
+SBR:  Sequencing Batch Reactor
+\vspace{0.3cm}\\
+SBR: Sequencing Batch Reactors
+\vspace{0.3cm}\\
+SCADA:  Supervisory Control and Data Acquisition
+\vspace{0.3cm}\\
+SDG:  Sustainable Development Goal
+\vspace{0.3cm}\\
+SDG6:  Sustainable Development Goal Number 6: "Clean Water and Sanitation"
+\vspace{0.3cm}\\
+SDI:  Sludge Density Index
+\vspace{0.3cm}\\
+SDWA:  Safe Drinking Water Act (US legislation)
+\vspace{0.3cm}\\
+SHG:  Self-help group
+\vspace{0.3cm}\\
+SI:  International system of Units
+\vspace{0.3cm}\\
+SLA:  Service-level agreement
+\vspace{0.3cm}\\
+SLB:  Service-level benchmarking
+\vspace{0.3cm}\\
+SME:  Small and Medium Sized Enterprises
+\vspace{0.3cm}\\
+SMS:  Short message service
+\vspace{0.3cm}\\
+SOP:  Standard operating procedure
+\vspace{0.3cm}\\
+SOUR:  Specific Oxygen Uptake Rate
+\vspace{0.3cm}\\
+Sox:  Sulfur Oxides
+\vspace{0.3cm}\\
+SRT - Solids retention time, see also Activated sludge
+\vspace{0.3cm}\\
+SRT:  Solids Retention Time
+\vspace{0.3cm}\\
+SS:  Suspended Solids (wastewater treatment)
+\vspace{0.3cm}\\
+SSSI:  Site of Special Scientific Interest
+\vspace{0.3cm}\\
+STP:  Sewage treatment plant
+\vspace{0.3cm}\\
+STW:  Sewage Treatment Works
+\vspace{0.3cm}\\
+SVI:  Sludge Volume Index
+\vspace{0.3cm}\\
+T90 - Time at which 90 percent reduction in pathogens is achieved
+\vspace{0.3cm}\\
+TAD:  Thermophilic Aerobic Digestion (wastewater sludge treatment)
+\vspace{0.3cm}\\
+TDS:  Total dissolved solids
+\vspace{0.3cm}\\
+THM:  Trihalomethane
+\vspace{0.3cm}\\
+ThOD - Theoretical oxygen demand
+\vspace{0.3cm}\\
+ThOD:  Theoretical oxygen demand
+\vspace{0.3cm}\\
+TKN: Total Kjeldahl Nitrogen
+\vspace{0.3cm}\\
+TMDL:  Total Maximum Daily Load
+\vspace{0.3cm}\\
+TOC:  Total Organic Carbon
+\vspace{0.3cm}\\
+TOC: Total Organic Carbon
+\vspace{0.3cm}\\
+TOMP: Toxic Organic Management Plan
+\vspace{0.3cm}\\
+TP:  Total Phosphorous 
+\vspace{0.3cm}\\
+TSS:  Total suspended solids 
+\vspace{0.3cm}\\
+TSS: Total Suspended Solids
+\vspace{0.3cm}\\
+TTHMs:  Total Trihalomethanes
+\vspace{0.3cm}\\
+TTO: Total Toxic Organics
+\vspace{0.3cm}\\
+TWL:  Top Water level
+\vspace{0.3cm}\\
+UASB:  Upflow anaerobic sludge blanket reactor
+\vspace{0.3cm}\\
+UCD:  User-centered design
+\vspace{0.3cm}\\
+UDDT:  Urine-diverting dry toilet
+\vspace{0.3cm}\\
+UDFT:  Urine Diverting Flush Toilet
+\vspace{0.3cm}\\
+UDT:  Urine diversion toilet
+\vspace{0.3cm}\\
+UF: Ultrafiltration
+\vspace{0.3cm}\\
+umho/cm:  Micromho per centimeter
+\vspace{0.3cm}\\
+uS/cm:  Microsiemens per centimeter
+\vspace{0.3cm}\\
+USEPA:  United States Environmental Protection Agency
+\vspace{0.3cm}\\
+UV:  Ultraviolet Radiation
+\vspace{0.3cm}\\
+UV: Ultraviolet
+\vspace{0.3cm}\\
+UVGI:  Ultraviolet germicidal irradiation
+\vspace{0.3cm}\\
+VFA:  Volatile Fatty Acid
+\vspace{0.3cm}\\
+VFD:  Variable Frequency Drive
+\vspace{0.3cm}\\
+VIP:  Ventilated improved pit latrine
+\vspace{0.3cm}\\
+VOC:  Volatile Organic Carbon
+\vspace{0.3cm}\\
+WAS:  Waste Activated Sludge
+\vspace{0.3cm}\\
+WASH or WaSH:  Water, sanitation and hygiene
+\vspace{0.3cm}\\
+WASH2:  Water, sanitation, hygiene and health
+\vspace{0.3cm}\\
+WC - Water closet
+\vspace{0.3cm}\\
+WC:  Water column
+\vspace{0.3cm}\\
+WEF - Water-Energy-Food nexus
+\vspace{0.3cm}\\
+WERF:  Water Environment Research Foundation
+\vspace{0.3cm}\\
+WHO - World Health Organization
+\vspace{0.3cm}\\
+WPM - Water point mapping
+\vspace{0.3cm}\\
+WRF:  Water Reclamation Facility
+\vspace{0.3cm}\\
+WRRF:  Water Recycle and Reclamation Facility
+\vspace{0.3cm}\\
+WSH - Water, sanitation, hygiene
+\vspace{0.3cm}\\
+WSSCC - Water Supply and Sanitation Collaborative Council
+\vspace{0.3cm}\\
+WSUP:  Water and sanitation for the urban poor
+\vspace{0.3cm}\\
+WTD - World Toilet Day
+\vspace{0.3cm}\\
+WTP:  Water Treatment Plant
+\vspace{0.3cm}\\
+WWD:  World Water Day
+\vspace{0.3cm}\\
+WWTF:  Wastewater Treatment Facility
+\vspace{0.3cm}\\
+WWTP:  Wastewater Treatment Plant
+\vspace{0.3cm}\\
+WYSIWYG - What You See is What You Get
+\vspace{0.3cm}\\
+Zn:  Zinc
+
+
+
+
+\end{document}

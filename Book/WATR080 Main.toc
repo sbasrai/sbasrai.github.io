@@ -1,0 +1,42 @@
+\babel@toc {english}{}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Module 8}}{7}{part.1}%
+\contentsline {chapter}{\numberline {1}Water Math}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Fractions}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Ratio}{10}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Proportion}{10}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Decimals \& Powers of Ten}{12}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Rounding and Significant Digits}{12}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Averages}{14}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Working with Percent}{14}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Percentage Concentrations}{15}{subsection.1.7.1}%
+\contentsline {section}{\numberline {1.8}Area \& Volume}{16}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Flow and Velocity}{17}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Concentration}{18}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Density}{19}{section.1.11}%
+\contentsline {section}{\numberline {1.12}Specific Gravity}{19}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Detention Time}{20}{section.1.13}%
+\contentsline {section}{\numberline {1.14}Unit Conversions}{20}{section.1.14}%
+\contentsline {subsection}{\numberline {1.14.1}Temperature Conversion}{21}{subsection.1.14.1}%
+\contentsline {section}{\numberline {1.15}Contaminant Removal Efficiency}{21}{section.1.15}%
+\contentsline {section}{\numberline {1.16}Pounds Formula}{23}{section.1.16}%
+\contentsline {subsection}{\numberline {1.16.1}Example Problems}{23}{subsection.1.16.1}%
+\contentsline {section}{\numberline {1.17}Process Removal Efficiency Calculations}{24}{section.1.17}%
+\contentsline {section}{\numberline {1.18}Pounds Formula}{25}{section.1.18}%
+\contentsline {section}{\numberline {1.19}Chemicals Related Math Problems}{27}{section.1.19}%
+\contentsline {subsection}{\numberline {1.19.1}Chemical Dosing}{27}{subsection.1.19.1}%
+\contentsline {subsection}{\numberline {1.19.2}Blending and Dilution Calculations}{27}{subsection.1.19.2}%
+\contentsline {section}{\numberline {1.20}Pumping Calculations}{29}{section.1.20}%
+\contentsline {subsection}{\numberline {1.20.1}Glossary of Pump Calculations Terms}{30}{subsection.1.20.1}%
+\contentsline {subsection}{\numberline {1.20.2}Pumping Rate Calculations}{32}{subsection.1.20.2}%
+\contentsline {subsection}{\numberline {1.20.3}Pumping Head Calculations}{33}{subsection.1.20.3}%
+\contentsline {subsection}{\numberline {1.20.4}Power Requirements for Pumping}{34}{subsection.1.20.4}%
+\contentsline {subsection}{\numberline {1.20.5}Example Problems}{34}{subsection.1.20.5}%
+\contentsline {section}{\numberline {1.21}Sedimentation}{35}{section.1.21}%
+\contentsline {section}{\numberline {1.22}Filtration}{36}{section.1.22}%
+\contentsline {section}{\numberline {1.23}Math Problems}{60}{section.1.23}%
+\contentsline {subsection}{\numberline {1.23.1}Hydraulic or Surface Loading Rate}{60}{subsection.1.23.1}%
+\contentsline {subsection}{\numberline {1.23.2}Detention Time}{61}{subsection.1.23.2}%
+\contentsline {subsection}{\numberline {1.23.3}Weir Overflow Rate}{61}{subsection.1.23.3}%
+\contentsline {subsection}{\numberline {1.23.4}Removal Efficiency}{62}{subsection.1.23.4}%
+\contentsline {subsection}{\numberline {1.23.5}Solids Removal}{62}{subsection.1.23.5}%
+\contentsfinish 

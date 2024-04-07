@@ -1,0 +1,1139 @@
+\documentclass{article}
+%\usepackage[english]{babel}%
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage[normalem]{ulem}
+\usepackage{cancel}
+\usepackage{tikz} 
+\usepackage{pdflscape}
+\usepackage{colortbl}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{color,soul}
+\usepackage{pdflscape}
+\usepackage{hyperref}
+%\usepackage[table]{xcolor}
+\usepackage{rotating}
+\usepackage{amsmath}
+\usepackage{fixltx2e}
+\usepackage{framed}
+\usepackage{mdframed}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage{siunitx}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage{gensymb}
+ \usepackage{newunicodechar}
+\usepackage[document]{ragged2e}
+\usepackage[margin=1in,top=1.2in,headheight=57pt,headsep=0.1in]
+{geometry}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\everymath{\displaystyle}
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{subcaption}
+\everymath{\displaystyle}
+%\usepackage[table,xcdraw]{xcolor}
+\usetikzlibrary{calc}
+\usetikzlibrary{arrows}
+\linespread{2}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+%\usepackage[margin=1 in, top=1in, includefoot]{geometry}
+%\everymath{\displaystyle}
+\linespread{1.3}%controls the spacing between lines. Bigger fractions means crowded lines%
+%\pagestyle{fancy}
+\pagestyle{fancy}
+\setlength{\headheight}{56.2pt}
+
+
+\chead{\ifthenelse{\value{page}=1}{\includegraphics[scale=0.3]{SCC}\\ \textbf \textbf WATR048 - Theory Set Set 1 of 2}}
+\rhead{\ifthenelse{\value{page}=1}{Shabbir Basrai}{Shabbir Basrai}}
+\lhead{\ifthenelse{\value{page}=1}{WATR 048 - Fall 2021}{\textbf WATR048 - Theory Set 1 of 2}}
+\rfoot{\ifthenelse{\value{page}=1}{}{WATR 048 - Fall 2021}}
+
+\cfoot{}
+\lfoot{Page \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\begin{document}
+%_______________________________________________________________________________________________________________________________________%
+\section{Background}
+\subsection{Definition of Wastewater}
+
+Wastewater is human polluted water from home and industries. This includes water from:
+\begin{itemize}
+\item Flushing toilets and urinals  - blackwater.
+\item Bathing, showering, and washing clothes and dishes  - greywater.
+\item Commercial and industrial activities.
+\item ...and often included as wastewater is the storm water which contain pollutants washed off inhabited areas - roads, parking lots, and rooftops.
+\end{itemize}
+
+\subsection{Why Treat Wastewater}\index{Why Treat Wastewater}
+Although nature has an inherent capability to degrade pollutants, given the quantity of wastewater generated from human activities, centralized wastewater treatment plants are required to treat the wastewater and safely return the treated wastewater back to the environment.  Sewers collect the wastewater from homes, businesses, and industries and deliver it to wastewater treatment facilities before it is released back to the environment through its discharge to a water body like a lake, river or ocean, or land, or reused. 
+
+Wastewater treatment is designed to remove:
+\begin{itemize}
+\item organic matter
+\item inorganic  pollutants including plant nutrients - nitrogen and phosphorous\\
+\item pathogenic (disease causing) organisms\\
+\end{itemize}
+
+\subsection{Benefits of Treating Wastewater}\index{Benefits of Treating Wastewater}
+Wastewater treatment protects:
+\begin{itemize}
+\item The environment
+\item Human health
+\end{itemize}
+
+Specifically wastewater treatment allows for the following:
+
+\begin{enumerate}
+\item \textbf{Mitigates deterioration of the receiving waters' ecosystem }\\
+In the receiving waters, inadequately treated wastewater discharge depletes dissolved oxygen levels due to:
+
+\begin{itemize}
+
+\item Nitrogen and phosphorus are essential for plant growth and are common ingredients in fertilizers. However, nutrient-rich wastewater entering a water body such as a lake or river will promote plant and algae growth which will seriously impact its normal aquatic life including fish through a process similar to the following:
+
+\begin{itemize}
+\item Nutrient promote algae bloom
+\item Algae bloom prevent sunlight to the native plant spieces below the water's surface causing native plants to die
+\item The organic material from the dead plants and algae promote growth of aerobic bacteria which will consume the dissolved oxygen in the water resulting in oxygen depletion.
+\item The natural aquatic life including fish, frogs, and turtles will not be able to survive under oxygen depleted conditions and will die or leave that zone.
+\end{itemize}
+\item Other organic material in present in wastewater, will similarly promote growth of aerobic bacteria intensifying the eutrophication of the receiving waters.
+\end{itemize}
+\item \textbf{Removal of other harmful pollutants}\\
+Organic and inorganic pollutants including metals, such as mercury, lead, cadmium, chromium and arsenic can have acute and chronic toxic effects on aquatic species and wildlife including migratory birds, are removed during the wastewater treatment process.
+\item \textbf{Removal of pathogens}\\
+Wastewater treatment removes parasites and disease-causing pathogens including bacteria and viruses which allow for:
+\begin{itemize}
+\item People to continue enjoying recreational activities in the receiving bodies of waters such as lakes and rivers
+\item Preventing the contamination of fish and other consumable products obtained from the waters
+\item Allow the water body to remain as the source of potable water
+\end{itemize}
+Thus, treating wastewater prevents \hl{eutrophication} which is the process by which a body of water becomes enriched in dissolved nutrients (such as phosphates) that stimulate the growth of aquatic plant life usually resulting in the depletion of dissolved oxygen resulting in a progressive destruction of its normal aquatic lifeforms.
+\item \textbf{Reclaim water for recycle or reuse}\\
+Besides protecting human health and the environment, wastewater treatment paves way for establishing the reuse or recycle of treated wastewater.  This benefit is particularly important for densely populated areas with limited access to fresh water supplies.  
+\end{enumerate}
+
+\newpage
+\section{Wastewater Constituents}
+	\subsection{Organics}
+		\begin{itemize}
+			\item The main reason for treating domestic wastewater is to remove the organic matter.  
+			\item Organics are substances containing carbon, hydrogen and oxygen, and some of which may be combined with nitrogen, sulfur or phosphorous.
+			\item About 50 percent of the solids present in wastewater are organic.  This fraction is generally of animal or vegetable life, dead animal matter, plant tissue or organisms, and also include synthetic organic compounds.
+			\item The principal organic compounds present in domestic wastewater are proteins, carbohydrates and fats together with the products of their decomposition.
+			\item Organics are subject to decay or decomposition through the activity of bacteria and other living organisms.  \hl{Since the organic fraction can be driven off at high temperatures, they are also called \textbf{volatile solids}}.\
+			\item \emph{Organics in wastewater is typically quantified in terms of oxygen required to oxidize the carbon based material present} in wastewater using the following methods:\\
+		\end{itemize}
+\subsubsection{Biochemical Oxygen Demand (BOD)}\index{Biochemical Oxygen Demand (BOD)}
+
+			  %     \begin{enumerate}[i.]
+			  %     	\definecolor{shadecolor}{RGB}{220,220,220}
+					% %%%%%%%%%%%
+					% % LEVEL 4 %
+					% %%%%%%%%%%%
+			  %     	\begin{snugshade*}
+			  %     		\item \noindent\textsc{Biochemical Oxygen Demand (BOD)}%@@@@@@@@@@@@@@@@@@%
+			  %     	\end{snugshade*}					
+			      	\begin{itemize}
+			      		\item Oxygen is required for the consumption of organic matter by aerobic bacteria
+			      		\item BOD test measures the depletion of oxygen in a wastewater sample over a five day period
+			      		\item BOD measures the organic content in terms of oxygen required for the microorganisms to consume the organic material present
+
+			      		\item BOD is typically measured as BOD$_5$ which is the oxygen demand of the wastewater measured after 5 days of the initiation of the test.
+			      		\item The test involves incubating a known dilution of wastewater in a 300 ml bottle for 5 days at 20\si{\degree}C.  The dissolved oxygen (DO) content at the start and end of the incubation period is used for calculating the BOD.
+			      		\item For the test to be considered valid, the following criteria need to be met: 1) DO consumption during the test must be at least 2 mg/l, 2) DO remaining at the end of the test must be at least 1 mg/l, and 3) DO consumed in blank should be 0.2 mg/l or less
+			      		      			
+			      		\item BOD is a parameter to measure the strength of wastewater and the measurement of the wastewater treatment plant or treatment process influent and effluent BOD is standard practice to measure its performance.  Typical domestic wastewater BOD is about 200-250 mg/l.
+			      		\item The oxygen consumed by the microorganisms during the BOD test is primarily for: 1) Oxidizing the carbonaceous material (cBOD – carbonaceous BOD), and 2) Oxidizing nitrogenous constituents such as ammonia (nBOD – nitrogenous BOD).
+			      		\item Thus, BOD (Total) = cBOD + nBOD.  The cBOD and nBOD is measured by adding certain chemical inhibitors which will inhibit the bacteria responsible for consuming the nitrogenous matter, thus measuring only the cBOD as part of the BOD test.
+			      		\item Since not all of the organics is metabolized in the 5 days of the regular BOD test, certain wastewater discharge permits require reporting of the ultimate BOD value (BOD$_U$)\\
+			      	\end{itemize}
+
+			    \subsubsection{Chemical Oxygen Demand (COD)}\index{Chemical Oxygen Demand (COD)}
+			      	% \begin{snugshade*}
+			      	% 	\item \noindent\textsc{Chemical Oxygen Demand (COD)}%@@@@@@@@@@@@@@@@@@%
+			      	% \end{snugshade*}		  
+			      	\begin{itemize}
+			      		\item The COD test involves using chemical oxidizers to measure the oxygen demand of the wastewater.
+			      		\item As the chemical oxidizers will oxidize other constituents present, including inorganic matter, the COD value of wastewater will be higher than the BOD.  
+			      		\item The COD test can be conducted rather quickly than the 5 day BOD test, it is an effective method to quantify the wastewater strength and process efficiencies and allow operators to make timely process adjustments.
+			      	\end{itemize}
+
+
+		
+			\hl{BOD measures the amount of oxygen required by the microorganisms present to consume the organic material while COD measures the chemical oxidation required to oxidize all chemicals including organics present in wastewater.  BOD value of typical domestic sewage is about 200 - 250 mg/l while the COD value ranges from 300 - 450 mg/l.  Typical BOD:COD ratio ranges from 0.5-0.8.}\\
+
+
+\subsection{Solids}\index{Solids}
+% 		\pagebreak
+% 				\begin{snugshade*}
+% 			\item \noindent\textsc{Solids}
+% 		\end{snugshade*}	
+		Like BOD, wastewater solids is another critical parameter for establishing the wastewater strength and determining treatment process efficiencies. 
+		\begin{itemize}
+			\item The \texthl{solids can be classified as suspended or dissolved} based upon its ability to pass through a standardized filter paper.
+			\item When the wastewater is filtered:
+			      \begin{itemize}
+			      	\item the residual solids remaining on the filter paper after drying in an oven at 103\si{\degree}C is the \hl{suspended solids} portion, and 
+			      	\item the solids remaining after drying the filtrate are the \hl{dissolved solids}.
+			      \end{itemize}
+			\item Suspended solids include larger floating particles and consist of sand, grit, clay, fecal matter, paper, pieces of wood, particles of food and garbage, and similar materials.
+			\item Suspended solids can be categorized based upon its settling characteristics as:
+			      \begin{itemize}
+			      	\item \hl{Settleable}
+			      	\item \hl{Non-settleable}
+			      	      \begin{itemize}
+			      	      	\item \hl{Colloidial}-small, charged (typically negative) particles which do not settle easily.  Some of the colloidial particles are small enough to pass through the filter paper used for filtering the suspended solids
+			      	      	\item \hl{Floatable}-example oil and grease and small plastics
+			      	      \end{itemize}
+			      \end{itemize}
+			\item Dissolved solids in wastewater include organics.  However, the major elements of dissolved solids are inorganic ions such as Ca$^{+2}$, Mg$^{+2}$, Cl$^-$, SO$_4$ $^{-2}$ , HCO$_3$ $^-$, Fe$^{+2}$, PO$_4$ $^{-3}$, NO$_3$ $^-$.  These ions are part of the dissolved salts such as sodium chloride (NaCl), calcium bicarbonate (Ca(HCO$_3$)$_2$), magnesium phosphate (Mg$_3$PO$_4$) and others which are normally present in water and wastewater. 
+			      \begin{itemize}
+			      	\item Conductivity or electrical conductance (EC) measurement is typically conducted as the wastewater enters the plant as \hl{conductivity provides an indirect and simple measure of the amount of dissolved solids present.}  
+			      	\item Conductivity or electrical conductance (EC) is a measure the amount of electrical current that can be conducted by a solution.  
+			      	\item The conductance of electricity in a solution is due to the presence of dissolved inorganic ions 
+			      	\item The higher the concentration of these ions, the higher is the conductivity. 
+			      	\item \underline{Conductivity is measured in the units of mhos/cm or Siemens/cm.}  (Note:  mhos is the reverse of ohm which is a measure of resistance).
+			      	\item Typical wastewater conductivities range from 50 to 1500 S/cm
+			      \end{itemize}
+			\item Both suspended and dissolved solids can be either \hl{volatile (organic)} or \hl{fixed (inorganic)}.
+			\item \hl{Total Solids is thus a sum of TSS and dissolved solids or volatile and fixed solids.}
+			      \begin{itemize}
+			      	\item The volatile solids are typically of plant or animal origin .
+			      	\item The fixed solids include sand, gravel and silt as well as the dissolved salts.
+			      \end{itemize}
+			      \begin{minipage}{0.5\textwidth}
+			      	\item The volatile or fixed fractions are quantified by incinerating the solids in a muffler furnace at 550\si{\degree} which removes only the volatile solids leaving only the fixed solids behind.
+			      	\item In terms of the size of the solids, the distribution is approximately thirty percent suspended and about seventy percent dissolved solids - which includes the colloidal particles which have passed through the filter paper.\\ 
+			      	\item As primary treatment process involve settling of solids, establishing the settleable portion of the suspended solids is important.\\  
+			      	\item \hl{The settleable solids are quantified using an Imhoff cone and are reported in ml/L}.  Imhoff cone is a 1 liter, clear cone shaped container, with volume graduations (ml) at the bottom.
+			      						
+			      \end{minipage}	
+			      \begin{minipage}{0.5\textwidth}
+			      	\begin{center}
+			      		\includegraphics[scale=0.7]{ImhoffCone}\\
+			      		Imhoff Cone\\
+			      		\textit{Note the ml markings at the bottom of the cone}
+			      		
+			      		
+			      	\end{center}
+		      \end{minipage}
+%			      \end{minipage}
+			      	\item One factor which affects settleability is the conveyance time of the sewage to the treatment plant. 			
+			      	\item The settleable component of the suspended solids will decrease as the sewage becomes more septic due to longer conveyance times.
+			\item Influent and effluent total suspended solids are measured to establish the overall treatment and individual process efficiencies.  
+			\item Volatile solids measurements before and after biological processes such as secondary treatment and digestion provide information on the process efficiency.\\
+		\end{itemize}
+
+% 			\end{enumerate}
+	\subsubsection{Summary of Wastewater Solids}\index{Summary of Wastewater Solids}		
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Summary of Wastewater Solids}
+% 			\end{snugshade*}
+			\begin{itemize}
+				\item Solids in wastewater can be categorized as dissolved or suspended
+				      \begin{itemize}
+				      	\item Suspended solids can be further categorized as settleable or unsettleable
+				      \end{itemize}
+				\item Solids can also be categorized as organic (aka: volatile) or inorganic (aka: fixed)
+				\item Colloidial particles are small sized particles some of which pass through the filter and accounted as part of dissolved solids
+				\item TSS - Total Suspended Solids are the solids that are captured on the filter paper upon filtration of the wastewater sample.  
+				\item Wastewater samples typically analyzed for TSS include:  plant, primary and secondary processes - influent and effluent.  TSS is reported in mg/l
+				\item TS - Total Solids are solids content of sludge.  TS of sludge is established by drying a preweighed quantity of sludge in an oven and is typically reported as \% solids - which is how many parts (by weight) of solids per 100 parts (by weight) of sludge.
+				\item Volatile solids are solids that are removed when the solids are incinerated at 550C.  The solids that remain after incineration are fixed or non-volatile or inorganic solids.
+			\end{itemize}
+	\subsubsection{Wastewater Solids Content}\index{Wastewater Solids Content}			
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Typical influent wastewater contains:}
+% 			\end{snugshade*}
+			\begin{itemize}
+				\item Less than 0.1\% total solids.  Total solids concentration in typical wastewater is about 750mg/l
+				\item The total solids are 50\% organic (volatile) and 50\% inorganic (fixed)
+				\item Of the total solids, dissolved solids constitute about 70\% of the solids and the remaining 30\% solids are suspended solids
+				\item 40\% of the dissolved solids are volatile the remaining 60\% are fixed
+				\item 70\% of the suspended solids are volatile and the remaining 30\% are fixed
+			\end{itemize}
+			% \clearpage\thispagestyle{empty}
+			\begin{figure}[!htbp]
+			\vspace{2cm}
+				\begin{center}
+					\includegraphics[scale=0.8]{WastewaterSolids}\\
+					\caption{Typical Wastewater Solids Concentrations}
+				\end{center}
+				\end{figure}
+% % 			\end{enumerate}
+				
+\subsection{Nutrients}\index{Nutrients}	
+% 			\begin{snugshade*}
+% 				\item \noindent\textsc{Nutrients}
+% 			\end{snugshade*}	
+			\begin{itemize}
+				\item Plant nutrients - nitrogen and phosphorous, present in wastewater effluent discharge, promote growth of plant and algal matter in the receiving waters causing destruction of the normal aquatic life mainly due to oxygen depletion - eutrophication.
+				      
+				\item Because of the potential impacts of the presence of these nutrients in wastewater effluent on the receiving waters,  limits on the levels of these nutrients is typically stipulated in the treatment plant's wastewater discharge permit.
+				      
+				\item Typically, conventional secondary treatment processes are designed primarily remove the organics from the wastewater.  Secondary treatment process designed to additionally remove nutrients is deemed as tertiary or advanced treatment is termed as Biological Nutrient Removal (BNR).
+			\end{itemize}
+	\subsubsection{Nitrogen}\index{Nitrogen}				
+% 			\begin{enumerate}%@@@@@@@@@@@@@@@@@@%
+% 				\definecolor{shadecolor}{RGB}{220,220,220}
+% 				\begin{snugshade*}
+% 					\item \noindent\textsc{Nitrogen}%@@@@@@@@@@@@@@@@@@%
+% 				\end{snugshade*}
+
+	\textbf{Forms of nitrogen:}\\	
+% 				\begin{itemize}
+% 					\item Forms of nitrogen:\\
+					      \begin{itemize}
+					      	\item About 60\% of nitrogen in wastewater is present as ammonia nitrogen (about 60\%).  The ammonium nitrogen is present either in the form of ammonia (NH$_3$ ) or as ammonium (NH$_4^+$ ) ion.   These two forms can rapidly change from one to the other depending on pH and temperature.  Under low pH (acidic) or neutral conditions – pH less than or equal to 7, ammonia exists mostly as ammonium.  Ammonia becomes the dominant form as the pH increases to 8 and beyond.
+					      	\item The other dominant form of nitrogen, about 40\% of the total nitrogen is as organic nitrogen
+					      	\item Nitrogen measured as Total Kjeldahl Nitrogen (TKN) which is the sum of the organic nitrogen and the ammonia nitrogen concentrations.  Total inorganic nitrogen is the total concentration of ammonia nitrogen, NO3-, and NO2-.   Table provides the concentrations and forms of nitrogen in wastewater.
+					      \end{itemize}
+					      \setlength{\arrayrulewidth}{0.7mm}
+					      \setlength{\tabcolsep}{8 pt}
+					      \renewcommand{\arraystretch}{0.8}
+					      \begin{center}
+					      \begin{figure}[!htbp]
+					      	\noindent \begin{tabular}[!htbp]{ |p{6cm}|p{2.0cm}|p{2.5cm}|p{2.cm}|}
+					      	\hline
+					      	\multicolumn{4}{|c|}{\textbf{Forms of Nitrogen in Wastewater}} \\
+					      	\hline
+					      	%\thead{A Head} & \thead{A Second \\ Head} & \thead{A Third \\ Head} \\
+					      	%\hline%
+					      	
+					      	\hspace{1.8 cm}Forms of Nitrogen & \hspace{0.25 cm} Formula & \hspace{.4 cm} Found in & \hspace{.4 cm} Typical \newline \hspace{.2 cm}Concentration\\
+					      	\hline
+					      	\small Ammonia/Ammonium & \small NH$_3$/NH$_4^{\enspace +}$ &  \small Influent wastewater & 30-50 mg/l\\
+					      	
+					      	Total Kjeldahl Nitrogen \newline  \small (Ammonia/Ammonium + Organic Nitrogen) &  \small TKN &  \small Wastewater \newline  \small effluent  & 30-60 mg/l \\
+					      	
+					      	\small Total Inorganic Nitrogen \newline  \small (Ammonia/Ammonium + Nitrite + Nitrate) & \small TIN &  \small  Wastewater \newline  \small effluent  & 1-40 mg/l \\
+					      	
+					      	\small Nitrate  & $NO_3^{\enspace -}$ &  \small Nitrified effluent &  \small 1-35 mg/l \\
+					      	
+					      	\small Nitrate  &  $NO_2^{\enspace -}$ &  \small Partially nitrified effluent &  \small 0.1-2 mg/l \\
+					      	
+					      	\hline
+					      	\end{tabular}
+					      	\caption{Forms of Nitrogen}
+					      	\end{figure}
+					      \end{center}
+					      
+		\subsubsection{Phosphorous}\index{Phosphorous}			
+		\textbf{Forms of phosphorous:}\\
+					      \begin{itemize}
+					      	\item The principal forms are organically bound phosphorus, polyphosphates, and orthophosphates.
+					      	\item Organically bound phosphorus originates from body and food waste and, upon biological decomposition of these solids, is converted to orthophosphates. 
+					      	\item Polyphosphates originate from synthetic detergents and are hydrolyzed to orthophosphates. Thus, the principal form of phosphorus in wastewater is assumed to be orthophosphates, although the other forms may exist. Orthophosphates consist of the negative ions PO$_4$$^{3-}$, HPO$_4$$^{2-}$, and H$_2$PO$_4$ $^-$.  These may form chemical combinations with cations (positively charged ions).
+					      \end{itemize}
+
+\subsubsection{Oil and Grease}\index{Oil and Grease}	
+			Fats, oil and grease in wastewater originate from homes, food establishments and industries.
+			\begin{itemize}
+				\item Oil and grease content of wastewater is established in the laboratory by extracting it with a solvent - \textit{n}-hexane.  The concentration of oil and grease is reported in mg/l and typical oil and grease content of wastewater ranges from 80 - 120 mg/l
+				\item Presence of excessive oils and grease could potentially impact the secondary treatment process
+				\item Oils and grease are removed as floatables in primary treatment and sent with the sludge to the digesters
+			\end{itemize}
+\newpage	
+\section{Wastewater Sampling}		
+		\begin{itemize}
+			\item Field or laboratory measurement of a certain parameter is critical in wastewater treatment operations to obtain information about wastewater characteristics in order to either characterize a wastewater stream, or to monitor a treatment process or for permit compliance.  
+			\item A sample is a small part of the whole representing the whole.  Thus, a sample needs to be such that it truly represents the entire population – which in a wastewater operations could be either a wastewater stream, wastewater solids or a chemical used.
+		\end{itemize}
+		
+\subsection{Sampling Methods}\index{Sampling Methods}
+\subsubsection{Grab Samples}\index{Grab Samples}
+				\begin{itemize}
+					\item A grab sample is a sample collected at a specific spot at a site over a short period of time.  
+					\item Grab sampling allows for instantaneous analysis of parameters such as pH, dissolved oxygen, chlorine residual, temperature and other parameters which change rapidly with time.
+					\item A grab sample represents a snapshot of space and time of a process stream.
+					\end{itemize}
+\subsubsection{Composite Samples}\index{Composite Samples}
+				\begin{itemize}
+					\item A composite sample is a collection of discrete samples are combined over a certain period or space and therefore represent the average performance of a wastewater treatment plant or a process during the collection period.\\  
+					\item Composite sampling can be either based on:
+					      
+					      1. constant time interval (time proportioned sampling)\\
+					      2. constant wastewater volume interval (flow-proportioned sampling), and\\
+					      3. treatment process space - includes samples taken at different depths\\
+					      
+					\item Composite samples are typically collected using automated samplers which can be programmed to collect samples at pre-established time intervals – for time proportional sampling.
+					\item Time and space composite samples are collected by adding equal volumes of samples collected from different times or locations.  
+					\item Flow proportional composite samples comprise of volume of each subsample based on flow.\\  
+				\end{itemize}
+				
+			\begin{center}
+				\includegraphics[scale=0.2]{Autosampler} \hspace{2cm} \includegraphics[scale=0.37]{Grabsampler}\\
+			\end{center}
+			\hspace{2.3cm} Automated Sampler \hspace{2.0cm} \parbox{\textwidth}{Grab Sampling Using a Long Handle Dipper}\\
+
+\subsubsection{Sampling Precautions and Protocols}\index{Sampling Precautions and Protocols}
+			\begin{itemize}
+				\item Samples should represent the major portion of the process or the process stream and should be taken from places where the mixing is thorough, avoiding dead spots and areas of heavier or lighter loadings. 
+				\item The collected sample is invariably exposed to conditions very different from the original source and is subject to change due to chemical and microbiological activity.  
+				\item Thus, in order to ensure integrity of sample, sample preservation techniques specific to the analysis to be performed is needed.  
+				      \begin{itemize}
+				      	\item The preservation technique should not only allow for stabilizing the parameter to be analyzed, it should also not interfere with the analyses.  
+				      	\item The common preservation techniques involve use of proper containers, temperature control, addition of chemical preservatives, and observance of the recommended maximum sample holding time.
+				      \end{itemize}
+			\end{itemize}
+			
+\subsubsection{Bacteriological Sampling}\index{Bacteriological Sampling}
+\begin{itemize}
+\item Always collected as a grab
+\item A clean, sterile borosilicate glass or plastic bottle containing sodium thiosulfate is used. Sodium thiosulfate is added to remove residual chlorine which will kill coliforms during transit. If the sample is not preserved or maintained under proper conditions until the test is conducted in the laboratory, the test would provide erroneous results
+\item Samples must be refrigerated if they cannot be analyzed within 1 hour of collection
+\item Samples must be handled with care to prevent contamination and adverse conditions such as prolonged exposure to direct sunlight
+\item Maximum holding time for state or federal permit reporting purposes is 6 hours
+\end{itemize} 
+
+\subsection{Data Reporting}\index{Data Reporting}	
+		\begin{itemize}
+			\item Arithmetic mean is typically calculated for reporting data where multiple samples have been collected and analyzed for the same process stream at different times and for reporting average value over a certain time period – daily, monthly etc.\\ \item Arithmetic mean mathematically is calculated by adding all the result values and dividing by the total number of data points.\\
+		\end{itemize}
+		Mathematically the arithmetic mean is represented as:\\
+		$$\bar{x}=\frac{\sum_{i=1}^{n} x^i}{n} = \frac{x_1+x_2+x_3...x_n}{n}$$
+		For example:\\
+		Arithmetic mean of the following set of data points:  200, 304, 250, 400 is calculated as:\\
+		\vspace{10pt}
+		Arithmetic Mean = $\frac{200 + 302 + 250 + 400}{4}= 288$\\
+		\vspace{10pt}
+		For data sets for analysis such as fecal coliform could include values which vary by several orders of magnitudes, using the arithmetic mean to report the average value is not appropriate as the lower or higher values would bias the calculated mean.\\
+		\vspace{10pt}
+		For example, consider a data set with values:  260, 300, 500, 5,000, 320 and 200.\\
+		\vspace{10pt}
+		The arithmetic mean = $\frac{260+300+500+5,000+320+200}{6} = 3,444$\\
+		Here the 5000 value completely skews the arithmetic mean.
+		
+		Therefore, for such tests, the geometric mean calculation is used for reporting the average value.\\
+		
+		
+		Mathematically a geometric mean is represented as:\\
+		$$\Bigg(\prod_{i=a}^n\Bigg)^{\frac{1}{n}}=\sqrt[n]{a_1*a_2*a_3...a_n}$$
+		 
+		Calculation method:\\
+		1.	Find the product of all the data points (analogous to first calculating the sum of all the data points when calculating the arithmetic mean)\\
+		260*300*500*5,000*320*200 = 12,480,000,000,000,000\\
+		2.	Raise the product to the inverse of the number of data points\\
+		(*Using the power function of a scientific calculator)\\
+		Here n (\# data points) = 6 $\implies$ geometric mean = $(12,480,000,000,000,000)^{\frac{1}{6}}   = 482$
+
+\newpage
+\section{Collection}\index{Collection}	
+The collection system resembles a tree that branches out from the treatment plant to collect the wastewater from individual sources.
+
+\subsection{Wastewater Collection Piping}\index{Wastewater Collection Piping}	
+	\begin{itemize}
+		\item A \hl{lateral} is the piping that connects the public sewer to the building. 
+		\item Laterals flow into larger lines called \hl{mains}.
+		\item Mains carry the flow into the largest lines in the system, called \hl{trunk lines}. 
+		\item A trunk line is the pipe that brings water into the treatment plant.
+	\end{itemize}
+\subsection{Sanitary Sewer Systems}\index{Sanitary Sewer Systems}
+
+Sanitary sewer systems collect and convey wastewater from residential, commercial and industrial sources to a centralized wastewater treatment facility for treatment. 
+
+\subsubsection{Storm-water systems}\index{Storm-water systems}
+
+Storm-water systems are designed solely for the conveyance of storm-waters waters directly to streams, rivers, lakes, or the ocean.
+ 
+\subsubsection{Combined sewer systems}\index{Combined sewer systems}
+\begin{itemize}
+\item Combined sewer systems collect and convey sanitary sewage and urban runoff in a common piping system.
+\item Combined sewers could potentially cause serious water pollution problems during combined sewer overflow (CSO) events when wet weather flows exceed the sewage treatment plant capacity.
+	\end{itemize}
+\begin{center}
+\includegraphics[scale=0.45]{SeperatedSystem1} \hspace{1 cm} \includegraphics[scale=0.45]{CombinedSystem1}
+\end{center}
+			\hspace{2.6cm} Separated System \hspace{3.2cm} \parbox{\textwidth}{Combined System}\\
+
+\subsection{Collections Systems Basics}\index{Collections Systems Basics}
+	\begin{itemize}
+\item The primary type of a collection system is a \hl{gravity system}. A gravity system is so named because the wastewater flows down gradient in the sewer, driven by forces of gravity. 
+\item The collection system includes the gravity sewers, force mains, manholes, pumping equipment, and other facilities that collect and convey the water to a wastewater treatment plant. 
+\item Sewers are generally laid at a minimum slope to ensure open channel flow through the pipe at a \hl{minimum velocity of 2.0 feet per second}. The minimum velocity is required to ensure that solids do not settle out in the sewer.  
+\item When the sewer lines reach a certain depth, the flow must be lifted back through a lift or pump station.  
+\item \hl{Lift stations} are built whenever wastewater must be pumped to a higher altitude, whether it's to lift water up so that it can gravity flow or to pump it over a rise or hill.  
+\item The discharge from the pump station may be to another gravity sewer at that location or through a pressurized force main. 
+\item Key elements of lift stations include a wastewater receiving well (wet-well), pumps and piping with associated valves.
+\item The size of the wet well affects the operating of the station. If a wet well is too small, excessive starting and stopping of the pump motors will occur, resulting in premature failure. If the wet well is too large, solids will tend to settle on the bottom, blocking the pump suction line and leading to the generation of hydrogen sulfide and methane.
+\item The dry well is the portion of the dry well/wet well pumping station that houses the necessary equipment required to pump the wastewater. The dry well is so named because it is isolated from the incoming wastewater.
+\item Centrifugal pumps are the most common type of pump found in wastewater pumping stations. 
+\item In the USA, wastewater generated in a typical home is about 70 gal/day/person
+\end{itemize}
+
+\newpage
+\section{Preliminary Treatment}\index{Preliminary Treatment}
+
+			\begin{itemize}
+				\item The objective of preliminary treatment is to remove coarse solids and other large materials often found in raw wastewater
+				\item Removal of these materials is necessary to enhance the operation and maintenance of subsequent treatment units\\
+				\item Preliminary treatment operations typically include a combination of the following processes:
+					\begin{itemize}
+						\item Screening
+						\item Grinding or shredding
+						\item Flow measurement
+						\item Grit removal
+						\item Pre-aeration
+						\item Flow equalization
+					\end{itemize}
+			\end{itemize}
+
+				
+		\subsection{Process Elements of Preliminary Treatment}\index{Process Elements of Preliminary Treatment}	
+			
+		\subsubsection{Screening}\index{Screening}
+					\begin{itemize}
+						\item Screening is typically the first unit in a preliminary treatment
+						\item Screening allows for the capture of coarse solids as pieces of cloths garbage so as to protect pumps and other units from clogging. 
+						\item Screens may consist of vertical or inclined bars (bar racks or bar screens), wire mesh or perforated plates having either circular or rectangular openings. 
+						\item Screens remove the large, entrained, suspended or floating solids such as pieces of wood, cloth, paper, plastics, garbage, etc.
+						\item Debris collected on the screen can be cleaned manually or automatically using chain driven rakes 
+						\item The retained material at screens - screenings, is collected and hauled to landfill for disposal
+						\item The quantity of screenings removed varies by location and is a function of the clear opening of the screen.
+						\item Barmuinitors combine the function of a screen and a grinder.  The ground material is returned to the wastewater flow for removal during primary treatment.
+					\end{itemize}
+
+\begin{figure}
+\begin{center}
+    \includegraphics[width=0.7\linewidth]{Barscreen}\\
+
+Barscreen - No rakes
+\end{center}
+  \end{figure}
+  
+
+		\subsubsection{Grinding and Shredding}\index{Grinding and Shredding}
+
+					\begin{itemize}
+\begin{minipage}{\textwidth}	\item Comminutor(Grinder) consist of fixed, rotating or oscillating teeth or blades, acting together to reduce the solids to a size which will pass through fixed or rotating screens grind rags into small chunks
+\item The comminutors are installed in wastewater channel and they grind the larger solids without actually removing them from the wastewater.  These devices may be installed before the screens or as a combination of screen and cutters (barmunitors).
+					\end{minipage}	
+					\end{itemize}
+					\begin{minipage}{\textwidth}
+					\begin{center}
+      \includegraphics[width=0.3\linewidth, height=70mm]{Comminutor}\\
+      Comminutor\\
+\end{center}
+    \end{minipage}
+  
+		\subsubsection{Flow Measurement}\index{Flow Measurement}
+					\begin{itemize}
+						\item Wastewater flow to a treatment plant is not constant but varies in a diurnal (daily) pattern reflecting domestic water use activity.
+						\item Continuous flow measurement is necessary in order to monitor diurnal variations in flow which may affect treatment plant efficiency.\\
+						\item Devices used for flow measurement as part of the preliminary treatment can be placed in a channel or in a pipe.
+					\end{itemize}
+
+
+		\subsection{Grit Removal}\index{Grit Removal}
+						\begin{itemize}
+							\item Grit includes sand, gravel, cinder, eggshells, bone chips, seeds, coffee grounds, and large organic particles, such as food waste.
+							\item Purpose of Grit removal:
+								\begin{itemize} 
+									\item to protect mechanical equipment from abrasion and abnormal wear 
+									\item to reduce clogging caused by deposition of grit particles in pipes and channels, and 
+				\item to prevent loading the treatment plant with inert matter that might interfere with the operation of treatment units such as anaerobic digester and aeration tanks.
+			\end{itemize}
+		\item Removal of organic material along with the grit is undesirable for two reasons:
+			\begin{enumerate}
+				\item It causes odor issues, and 
+				\item Organic matter is a potential source of energy (digester gas)
+			\end{enumerate}
+		\item Grit Disposal: Grit removed is typically landfilled.
+		\item Grit Volume:  The volume of grit collected measured in ft$^3$/MG.
+		\item The rate of grit collection can range from 0.5 ft$^3$/MG to 30 ft$^3$/MG.
+		\item Wastewater plants having a combined collection system must deal with much larger volumes of grit.
+\end{itemize}
+
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.46\linewidth}
+    \includegraphics[width=0.8\linewidth]{HorizontalGritChamber}
+    \caption{Horizontal grit chamber}
+  \end{subfigure}
+  \hspace{0.2cm}
+  \begin{subfigure}[b]{0.5\linewidth}
+    \includegraphics[width=0.8\linewidth]{AeratedGritChamber}
+    \caption{Aerated grit chamber}
+  \end{subfigure}
+\end{figure} 					
+
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.47\linewidth}
+    \includegraphics[width=0.8\linewidth]{VortexGritChamber1}
+    \caption{Vortex grit chamber design}
+  \end{subfigure}
+  \hspace{0.2cm}
+  \begin{subfigure}[b]{0.43\linewidth}
+    \includegraphics[width=0.8\linewidth]{VortexGritChamber}
+    \caption{Vortex grit chamber installed}
+  \end{subfigure}
+\end{figure} 
+
+\subsection{Pre-aeration}\index{Pre-aeration}	
+	\begin{itemize}
+		\item Pre-aeration of the wastewater as part of the preliminary treatment may be provided as a separate process or increased detention time in an aerated grit chamber.
+		\item Pre-aeration provides the follwoing benefits:
+			\begin{itemize}
+				\item freshens up wastewater by dissolving oxygen thereby reducing the wastewater septicity
+				\item reduction of septicity allows for better settling - solids and BOD removal, in the following primary treatment process
+				\item promotes grease separation which facilitates its removal during primary treatment
+			\end{itemize}
+	\end{itemize}
+\subsection{Flow Equalization}\index{Flow Equalization}	
+
+	\begin{itemize}
+		\item Flow equalization involves storing a portion of peak flows for release during low-flow periods
+		\item It prevents surges and allows for the operation of processes at design flows thus allowing for optimal physical, biological and chemical processes to take place.
+		\item It results in saving capital costs as the processes may be built with a treatment capacity which is less than the peak flows
+	\end{itemize}
+\newpage
+\section{Primary Treatment}\index{Primary Treatment}	
+
+\begin{itemize}
+\item Synonyms:  primary treatment basin, primary clarifier, sedimentation basin, primaries, clarifier
+
+	
+		\item Primary treatment is after preliminary treatment and 				before secondary treatment
+		\item Its two main objectives are: 
+			\begin{itemize}
+				\item Remove settleable solids
+				\item Remove floatable solids
+			\end{itemize}
+		\item This is a physical process which relies on the physical 			properties - how heavy or light the suspended solids particles 		are to effect its separation
+		\item Provides quiescent conditions for the influent 					wastewater for the heavier solids to settle and the lighter 			solids to float
+		\item Removes settleable solids and floatables
+		\item Settled solids are removed as sludge from the bottom of 			the clarifier
+		\item Floatable solids including oil and grease are also 				removed, as scum from the surface\\
+		\item The shape of the primary clarifier is either rectangular 		or circular
+	
+		\item Effective solids removal in the primary clarifiers will 			reduce the loading on the expensive secondary treatment 				process.
+		\item The amount of solids removed during primary treatment 			may be enhanced by chemical addition - ferric or ferrous 				chloride as a coagulant and anionic polymer as the flocculant.  		This is called Chemically Enhanced Primary Treatment (CEPT).
+		\begin{center}
+				\includegraphics[scale=0.9]{RectangularClarifier}\\
+				Cross section of a Rectangular Clarifier\\
+				\includegraphics[scale=0.1]{Blank}\\
+				\includegraphics[scale=0.5]{CircularClarifier3}\\
+				Cross section of a circular clarifier\\
+			\end{center}
+				\includegraphics[scale=0.03]{Blank}\\
+\item \textbf{Typical Removal Rates:}\\
+\begin{itemize}
+\item \hspace{10mm} BOD removal – 25\% to 40\% and about 60\% with CEPT
+\item \hspace{10mm} Suspended solids (SS) removal – 40\% to 60\% and about 75\% with CEPT
+\item \hspace{10mm} Settleable Solids removal - $>$90\%
+\end{itemize}
+\end{itemize}
+
+\newpage
+
+\section{Secondary Treatment}\index{Secondary Treatment}
+\begin{itemize}
+\item While preliminary and primary treatment processes are designed primarily to remove solids from wastewater, secondary treatment is for the removal of organics.
+\item Secondary treatment involves:
+\begin{itemize}
+\item biological conversion of the dissolved and suspended organics in wastewater into biomass, and
+\item physical settling (separation) process where the solids including the biomass formed during secondary treatment is separated and removed from the treated wastewater.
+\end{itemize}
+
+\item With the removal of gross solids in the preliminary treatment followed by removable of settleable solids in the primary clarifiers and the removal of dissolved and suspended organics in the secondary treatment processes, the wastewater is considered treated.
+\item Secondary treated wastewater is typically disposed or treated further for reuse or disposal (depending upon the end use/application and the NPDES permit stipulations).
+\item The solids (biomass) removed from the secondary treatment is typically mixed with the solids from primary treatment and stabilized using a solids treatment process like sludge digestion prior to its disposal.
+\end{itemize}
+\vspace{1cm}
+
+\textbf{Secondary treatment process incorporates one of the following three approaches:}
+
+
+\subsection{Fixed film system}\index{Fixed Film System}	
+		
+Trickling filter is a fixed film secondary treatment process wherein the organic content of the wastewater is removed using biological growth attached to an inert media such as lava rock or plastic\\
+\begin{center}
+\includegraphics[scale=0.5]{TricklingFilter}
+\end{center}		
+\begin{itemize}
+\item In a trickling filter, the wastewater is sprayed evenly on the surface of the media with a rotary type distributor with orifices
+\item The wastewater percolates through the media bed, where it comes in contact with biological slime growth – zoogleal film (zooglea)
+\item The aerobic biomass - bacteria, protozoa and other microoorganisms in the zooglea capture and consume the suspended and dissolved organics from the wastewater.
+\item The microorganisms metabolize the organics and in the process produce more microbial mass resulting in increasing the thickness of the zoogleal layer.
+\item The thickness of the zoogleal layer can only increase to a point until the wastewater flow – hydraulic load, shears the slime layer – “sloughs off” and is carried out as part of the effluent flow as sloughing.
+\item The treated wastewater cascades from the bottom of the media into the underdrain system – lower portion of the TF comprised of columns which support the media base.  The underdrain has a sloping floor to direct the cascading water into a center channel .
+\item The clarifier allows for the separation (settling) of the  of the solids (sloughed off material).  The settled solids is removed - typically pumped to a digester and the clarified effluent flows out of the clarifier.
+\item The source of oxygen to support the aerobic growth is from the oxygen dissolved in the wastewater as it is sprayed over the media and from the air currents due to the downward flow of the wastewater and the temperature difference between ambient and the interior of the trickling filter.  Forced ventilation system may be designed as part of the trickling filter
+
+\item Word trickling “filter” is a misnomer - no filtration is involved
+\item Advantage includes process simplicity and lower costs
+\item Disadvantage include BOD removal efficiency of only about 80-85%
+\item The media may be rock, slag, coal, bricks, redwood blocks, molded plastic, or any other sound durable material.
+\item The media depth ranges from about three to eight feet for rock media trickling filters and 15 to 30 feet for synthetic media.
+\item The media needs to be uniformly sized and have adequate empty spaces (voids) to ensure maintaining aerobic condition necessary for the survival of biomass.  
+
+\item Pre-fabricated (synthetic) media - similar to the one shown below, has an advantage over the "dumped" type media such as lava rock of providing a greater surface area per volume upon which the zoologeal film may grow while providing ample void space for the free circulation of air.
+
+\item Sometimes, due to inadequate hydraulic loading, portions of the zoogleal layer may become too thick and oxygen cannot penetrate its full depth, causing odor issues.
+
+
+
+
+
+\end{itemize}
+
+
+
+\subsection{Suspended Growth System}\index{Suspended Growth System}
+\begin{itemize}
+\item In this type of secondary treatment, the microbes are suspended in the
+wastewater flow being treated. 
+\item Air or oxygen is supplied to maintain an aerobic environment and to keep the microorganisms in suspension. 
+\item Example of this secondary treatment approach include the activated sludge treatment process 
+\end{itemize}
+
+\subsubsection{Elements of Activated Sludge Process}\index{Elements of Activated Sludge Process}
+
+\begin{center}
+\includegraphics[height=4.5cm]{ASProcess}
+\end{center}
+\begin{itemize}
+
+\item Utilizes an aeration basin/reactor and a secondary clarifier
+
+\item In the presence of oxygen, aerobic bacteria in the aeration basin consume the organic matter (BOD) in wastewater for their growth and reproduction, converting BOD into bacterial cell mass along with metabolic byproducts including carbon dioxide and water
+
+\item The aerobic bacteria is the predominant microbial life form in the aeration basin.  Other higher microbial life forms — mainly protozoa, are present along with some metazoans.
+
+\item The microorganisms along with their metabolic byproducts and residual dead cell mass form a cluster called floc.
+
+\item The wastewater exiting the aeration basin enters a clarifier where the floc settles.  The clear, treated secondary effluent flows out.
+
+\item A portion of the settled activated sludge floc, is returned from the clarifier to the front of the aeration basin to seed the activated sludge treatment of the incoming primary effluent. The recycled floc is called \textbf{Return Activated Sludge (RAS)}.
+
+\item The remaining settled floc from the clarifier is ”wasted” \textemdash transferred for solids treatment (typically using digestion) prior to its ultimate disposal. The wasted floc is called \textbf{Waste Activated Sludge (WAS)}.
+
+\item The color of healthy activated sludge is tan to brown with an earthy/musty odor.
+
+\item For activated sludge treatment to be effective, it is critical to establish a healthy microbial population which \hl{converts the BOD} into \hl{easily separable biomass.}
+\item If the biomass does not settle well in the clarifier, it will be carried out in the treated secondary effluent producing a poor quality effluent with higher solids and organic content.  \\
+\end{itemize}
+
+
+\subsection{Pond System}\index{Pond System}
+Similar to the suspended growth, stabilization ponds are large man made bodies of water which treat wastewater using mainly natural processes including sunlight, algae and microorganisms.
+\begin{itemize}
+\item Stabilization ponds and lagoons are bodies of water which treat wastewater using mainly natural processes including sunlight, algae and microorganisms for treating wastewater\\
+\item While ponds are shallow and man-made, lagoons are bodies of water confined within natural boundaries.\\
+\end{itemize}
+
+ , which break down the effluent. It is in the anaerobic pond that the influent begins breaking down in the absence of oxygen "anaerobically". The anaerobic pond acts like an uncovered septic tank. Anaerobic bacteria break down the 
+
+\subsubsection{Anaerobic Ponds}\index{Anaerobic Ponds}	
+
+\begin{itemize}	
+\item Typically for treating raw sewage
+\item These are deep - 10-14 feet treatment ponds which rely primarily on anaerobic bacteria to break down the organic waste.
+\item Designed for BOD removal
+\item High strength wastewater may be treated.
+\item Organic matter is broken down releasing releasing methane, carbon dioxide and odorous gases including hydrogen sulfide. 
+\item Most of the decomposition is accomplished by acid forming bacteria. 
+\item The pH in these lagoons is usually below 6.5. 
+\item They are total retention and do not have an effluent discharge. 
+\item The anaerobic pond must be de-sludged approximately once every 2 to 5 years
+\item Organic loading of 200-1000 lbs. $BOD_5$ per acre per day
+\end{itemize}
+
+\subsubsection{Facultative Ponds}\index{Facultative Ponds}	
+
+\begin{itemize}
+\item The depth of facultative ponds is about 4-7 feet which is in-between the depths of anaerobic ponds (10-14 feet) and aerobic ponds 3 feet)
+\item The uper layer of facultative pond is aerobic, and bottom layer is mostly anaerobic.
+\item Facultative bacteria are responsible for most of the treatment that occurs in these ponds.  Facultative bacteria are bacteria which can live under both aerobic and anaerobic conditions.
+\item The algae that grow in the pond are critical to the successful stabilization of the organic load. 
+\item The algae will take in carbon dioxide ($CO_2$) and, through photosynthesis, use it to create sugars and release dissolved oxygen ($O_2$) that is used by the aerobic bacteria. Facultative lagoon levels should always maintain at least 4 feet of water in the pond.
+\item Typically for secondary treatment - BOD removal
+\item 15-50 lbs $BOD_5$ per acre per day.
+\item Unused CO$_2$ will react with water to form carbonic acid - which would reduce the pH unless consumed
+\item Sludge removal need is rare.  Sludge can be removed by using a raft-mounted sludge pump or by draining and dewatering the pond and removing the sludge with a front-end loader.
+\end{itemize} 
+
+				\begin{sidewaysfigure}
+\begin{center}
+\includegraphics[scale=0.8]{StabilizationPond}\\
+Facultative pond schematic
+\end{center}
+				\end{sidewaysfigure}
+				
+\subsubsection{Aerobic Stabilization Ponds}\index{Aerobic Stabilization Ponds}
+	
+Aerobic stabilization ponds are also known as: \hl{maturation}, \hl{polishing} or \hl{finishing} Pond
+\begin{itemize}
+\item Contain disssolved oxygen throughout entire depth of the pond.
+\item Treatment is accomplished through the stabilization of organic wastes by aerobic bacteria and algae.
+\item Typically for tertiary treatment
+\item Designed for pathogen removal
+\item Shallow - only about 3 feet deep. 
+\item They are most often the final cells in a multi-staged pond system
+\item They are also used as polishing ponds for tertiary treatment of trickling filter plant effluent.
+\item Usually the effluent is directed into a second pond where the sludge can settle 
+\item Their shallow depth allows sunlight to penetrate to the bottom of the pond to encourage algae growth and aerobic conditions throughout the pond 
+\item The low solids loading found in these tertiary treatment applications means that these ponds normally have no sludge zone
+\item These ponds may be mechanically aerated 
+\item Aerobic polishing ponds are designed for 15-20 pounds BOD/acre/day
+\item Aerobic ponds are typically designed for pathogen removal
+\item Aerobic lagoon levels should always maintain at least 18 inches of water in the pond
+\end{itemize}
+
+\section{Importance of Digestion}\index{Importance of Digestion}
+
+		\begin{itemize}
+		\item Solids (sludge) generated from the wastewater treatment processes contain organic compounds and also constituents that are beneficial plant nutrients. 
+		\item However, the organic solids present in the sludge include pathogens and are also not stable (will putrefy)
+		\item Thus, prior to the beneficial reuse of wastewater sludge or its disposal, sludge must be treated – stabilized to prevent odors and protect public health
+		\item Additionally, if sludge is stabilized using anaerobic digestion, it  allows for the conversion of organic solids to yield valuable energy source - digester gas
+		\end{itemize}
+Sludge stabilization process results in the following:
+		\begin{enumerate}
+		\item Reduction in amount of solids - reducing biosolids hauling costs
+		\item Pathogen reduction
+		\item Odor reduction
+		\item Reduction in vector attraction
+		\item Product with beneficial reuse
+		\end{enumerate}
+
+Most common processes involved in sludge stabilization include:
+
+		\begin{enumerate}
+		\item Digestion - Aerobic or anaerobic
+		\item Lime or alkaline stabilization
+		\item Composting
+		\item Long term storage in lagoons
+		\item Thermal processes
+		\item Incineration
+		\end{enumerate}
+		\begin{itemize}
+		\item \hl{Sludge digestion is a microbiological process and is the most common sludge stabilization method}.
+		\item There are two major sludge digestion processes:
+			\begin{itemize}
+			\item aerobic digestion which utilizes aerobic microorganisms, and produces carbon dioxide as a byproduct
+			\item anaerobic digestion which utilizes anaerobic microorganisms and it produces digester gas as a byproduct.
+			\item Digester gas is typically composed of 60-65\% methane gas with the remainder being mostly carbon dioxide ($CO_2$) and is useful because of its potential use as fuel - energy recovery from wastewater.
+			\end{itemize}
+		\end{itemize}
+\newpage
+\section{Anaerobic Digestion Process Basics}\index{Anaerobic Digestion Process Basics}
+
+		\begin{itemize}
+		\item Solids removed from the primary and secondary treatment processes is fed to the digesters.  
+		\item The sludge feed to the digesters range between 3 – 6\% total solids which typically contain 70\% organic solids
+		\item The anaerobic digester is typically a large cylindrical concrete tank and is operated as a continuous process at a fixed volume\\ $\implies$ as sludge is fed into the digester it displaces an equal amount of sludge which leaves the digester.
+\begin{center}
+\includegraphics[scale=0.50]{DigesterFixedCover}\\
+\textbf{Anaerobic Digester}\\
+\end{center}
+		\item The sludge typically occupies 70 - 90\% of the total digester volume and the methane carbon dioxide gas mixture occupies the headspace from where it is withdrawn also on a continuous basis.
+		\item In the anaerobic digestion process microorganisms convert volatile matter into mainly methane (CH$_4$) and carbon dioxide (CO$_2$)
+		\item The sludge content of the digesters is kept mixed and maintained in a constant temperature range using external heating.
+		\item The activity and type of bacteria present in the digester is dictated by the operating temperature of the digester.
+		\item Anaerobic digestion can be in the following three temperature ranges, each of which has its own unique microbiology.\\
+			\begin{enumerate}[1. ]
+			\item Psychrophilic digester:  Digester is maintained between 50  - 65 F.  Sludge detention time - 50 to 180 days
+			\item Mesophilic digesters: – Digester is most commonly operated  between 95 – 98 F and the typical number of days required for digestion is between 15 to 30 days.\\
+			\item Thermophilic digesters:  These digesters’ optimal operating temperatures range is between 113   135 F and it typically requires 5 to 12 days.\\
+			\end{enumerate}     
+		\item These organic solids are measured as volatile solids (VS).  
+		\item The volatile solids content of the sludge entering and leaving the digester are measured to quantify the solids removal in the digester
+		 \item Breakdown of volatile matter in the sludge ultimately into methane (CH$_4$) and carbon dioxide (CO$_2$) occurs in multiple steps involving different groups of microorganisms as follows:\\
+			\begin{enumerate}[Step 1.]
+			\item Hydrolysis:  Here the microorganisms breakdown complex organic matter in the sludge - carbohydrates, proteins, lignin, and lipids into simpler compounds including sugars, soluble fatty acids and amines.\\
+			\item Acid Formation:  The simpler compounds formed in Step 1 are converted to organic acids by acid forming bacteria\\
+			\item Methane Formation: The organic acids formed in Step 2 are converted into methane and carbon dioxide by methane forming bacteria.\\
+			\end{enumerate}
+		\item Gas production ranges between 10 to 16 cubic feet per pound of volatile matter destroyed and the gas production remains stable over time.
+		\item Low gas production indicates problems - toxicity, temperature, volatile acid to alkalinity ratio, mixing, or feed rates.
+		\end{itemize}
+
+\newpage
+\section{Chlorination}
+
+
+\begin{itemize}
+\item Treated wastewater effluent is disinfected prior to its discharge into a water body inorder to destroy pathogens primarily to prevent spread of waterborne disease and minimize public health problems
+\item Chlorine is a very effective disinfectant and is the most widely used disinfectant for wastewater 
+\item Chlorine disinfection is a practical and economical means for disinfecting large quantities of wastewaters which have been treated to various degrees. 
+\item However, due to its toxicity, associated risk factors and its rising cost, use of ultraviolet light and ozone for wastewater disinfection is on the rise
+\end{itemize}
+
+
+\subsection{Forms of Chlorine}\index{Forms of Chlorine}
+
+\begin{itemize}
+	\item Due to safety issues related to the use of chlorine gas, 			\textbf{hypochlorites} are often used in lieu of chlorine
+	\item Types of hypochlorites
+	\begin{itemize}
+	\item Sodium hypochlorite (NaOCl) comes in a liquid form which contains up to 12.5\% chlorine
+	\item Calcium hypochlorite (Ca(OCl)$_2$), also known as HTH, is a solid which is mixed with water to form a hypochlorite solution. Calcium hypochlorite is 65-70\% concentrated.
+	\end{itemize}
+	\item Hypochlorites decompose in strength over time while in storage. Temperature, light, and physical energy can all break down hypochlorites before they are able to react with pathogens in water. 
+
+\end{itemize} 
+
+\subsection{Chlorine Properties}\index{Chlorine Properties}
+
+\begin{itemize}
+\item Chlorine is a yellowish-green gas at room temperature and atmosphric pressure
+\item Chlorine gas can be pressurized and cooled to its liquid form for making it easy to ship and store. 
+\item When liquid chlorine is released, it quickly turns into a gas that stays close to the ground (being heavier than air) and spreads rapidly.
+	\item 	While it is not explosive or flammable, as a liquid or gas it can react violently with many substances 
+	\item Chlorine is only slightly soluble in water (0.3 to 0.7\% by weight.) 
+	\item Chlorine gas has a greenish-yellow color 
+	\item It has a characteristic disagreeable and pungent odor, similar to chlorine-based laundry bleaches, and is detectable by smell at concentrations as low as 0.2 to 0.4 ppm
+	\item It is about two and a half times as heavy as air
+	\item One volume of liquid chlorine yields about 460 volumes of chlorine gas. 
+	\item Liquid chlorine is amber in color and is about one and a half times as heavy as water 
+	\item Chlorine is an irritant to the eyes, skin, mucous membranes, and the respiratory system 
+\end{itemize}
+
+
+\subsection{Chlorine Storage and Safety}\index{Chlorine Storage and Safety}
+
+
+\subsubsection{Chlorine Delivery}\index{Chlorine Delivery}
+
+\begin{itemize}
+\item Typically for smaller plants chlorine gas is shipped in  pressurized steel cylinders - 150 lb or 2000 lb (ton cylinder) size
+\item Larger plants may get their chlorine supply in rail tank cars
+\item The daily chlorine usage is typically established based upon the weighing of the chlorine containers.
+\end{itemize}
+
+
+\subsubsection{Chlorine Leak Response}\index{Chlorine Leak Response}
+\begin{itemize}
+	\item Typically for smaller plants chlorine gas is shipped in  pressurized steel cylinders - 150 lb or 2000 lb (ton cylinder) size.  Larger plants may get their chlorine supply in rail tank cars.  
+	\item The daily chlorine usage is typically established based upon the weighing of the chlorine containers.
+	\item The withdrawal rates from a chlorine cylinder is based on the temperature of the liquid in the cylinder, and thus the pressure of the gas. 
+	\item As chlorine gas is withdrawn from the cylinder, it absorbs the heat from the surroundings.
+	\item For low withdrawal rates, heat will be able to be transferred from the surrounding air to the container in time so that there is no drop in temperature or pressure, 
+	\item If the chlorine withdrawal is larger, the air will not be able to transfer the heat quickly enough and the temperature (and pressure) of the chlorine will drop, thus resulting in a lower feed rate. 
+	\item If high enough and prolonged enough, this can even result in ice formation around the outside of the container, further decreasing the withdrawal rate. 
+	\item The most effective way to increase withdrawal rate from a single container is to circulate the surrounding air with a fan. Again, never apply heat to the containers.
+	\item If chlorine gas escapes from a container or system, being heavier than air, it will seek the lowest level in the building or area
+	\item Only trained staff with access to proper personal protection equipment (PPE) including self-contained breathing apparatus, should handle the chlorine cylinders and address chlorine leak issues 
+	\item When a leak is suspected, it is recommended that ammonia vapors be used to find the source. When ammonia vapor using a rag or brush, is directed at a leak, a white cloud will form. To produce ammonia vapor, a plastic squeeze bottle containing about 5 \% ammonia, aqua ammonia (ammonium hydroxide solution) should be used. A weaker solution such as household ammonia may not be concentrated enough to detect minor leaks
+	\item All safety equipment should be located outside of the chlorine room and be easily accessed by all personnel
+	\item Small leaks around valve stems can usually be corrected by tightening the packing nut or closing the valve. A leak can also be reduced by removing the chlorine as rapidly as possible
+	\item If it cannot be added to the process there are several chemicals which can be used to absorb the chlorine gas. For example, chlorine can be absorbed by using 1$frac{1}{4}$ pounds of caustic soda or hydrated line, or 3 pounds of soda ash per pound of chlorine. 
+	\item If the leaking container can be moved, it should be transported to an outdoors area where minimal harm will occur. Keep the leaking part the most elevated so that gaseous chlorine will leak rather than liquid chlorine.
+	\item If the leak is large, all persons in the adjacent area must be warned and evacuated. Only authorized persons equipped with the proper breathing apparatus, and protective measures to the eyes and body should investigate. 
+	\item As water is not an efficient absorbent for chlorine and the fact that chlorine reacts with water to form very corrosive hydrochloric acid, never apply water to a leak or consider submerging a chlorine cylinder (for example, in a pond or tank), since it will probably float.
+	\item Remember to keep windward of the leak.
+	\item As chlorine cylinders pressure increases with temperature, as a safety measure the chlorine cylinders are fitted with fusible plug which melts between 158$^o$ and 165$^o$ F.
+	\item Keep chlorine cylinder or container emergency repair kits available. Be familiar with their use and location.
+	\item Leaks at fusible plugs and cylinder valves requires special handling and emergency equipment. The chlorine supplier must be notified immediately
+	\item Pin hole leaks in cylinder walls or ton tanks can usually be stopped by mechanical pressure applications (clamps, turnbuckles, etc.). This only temporary and may require your ingenuity.
+	\item Leaking containers cannot be shipped.
+	\item In general, daily inspection of all chlorine cylinders will avoid major problems
+\end{itemize}
+
+\subsubsection{Chlorine Reactions Related to Disinfection}\index{Chlorine Reactions Related to Disinfection}
+\textbf{Chlorine reacts with water to form hypochlorous and hydrochloric acids}\\
+Cl$_2$ \hspace{0.8cm}	+ \hspace{0.3 cm}	 H$_2$O		\hspace{0.8cm} $\iff$ 
+\hspace{0.8cm} HOCl	\hspace{0.8cm}	 +	\hspace{0.8cm}	 HCl \\
+chlorine \hspace{0.8cm}	water \hspace{1.8cm}		 hypochlorous acid	\hspace{0.1cm}	 hydrochloric acid\\ 
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item Hypochlorous acid dissociates in water to form the hydrogen and hypochlorite ions\\
+ HOCl \hspace{1.8 cm} $\iff$ \hspace{1.8 cm} H$^+$ \hspace{1.8cm} + 	\hspace{0.8cm}OCl$^-$\\ 
+hypochlorous acid  \hspace{1.9 cm}      hydrogen ion   \hspace{1.5cm}           hypochlorite ion
+
+		\begin{itemize}
+			\item Hypochlorous acid is the most effective form of chlorine available to kill microorganisms
+			\item Hypochlorite ions is much less efficient disinfectant
+		\end{itemize}
+
+		\item The concentration of hypochlorous acid and hypochlorite ions in chlorinated water will depend on the water's pH
+		\begin{itemize}
+			\item A higher pH facilitates the formation of more hypochlorite ions and results in less hypochlorous acid in the water
+		\end{itemize}
+		\item A significant percentage of the chlorine is still in the form of hypochlorous acid even between pH 8 and pH 9
+		\end{itemize}
+
+
+
+\subsection{Chlorine Disinfection}\index{Chlorine Disinfection}
+
+\begin{itemize}
+\item When chlorine is added to a wastewater flow, it will first react or combine with certain organic and inorganic substances present, prior to acting on pathogens.  The amount of chlorine used up as part of these reactions is referred to as the \textbf{chlorine demand}\\
+
+\item The \textbf{free chlorine} remaining after the chlorine demand is satisfied, is the strongest form of chlorine available for disinfection.  
+
+\item Chlorine combined with ammonia (as chloramines) and organic compounds (as chloroorganic compounds), known as \textbf{combined chlorine} also exhibit disinfecting properties - albeit weaker than the free chlorine.
+
+\item \text{Total residual chlorine} is the sum of free chlorine and combined chlorine and it is the residual chlorine concentration which represents the amount of chlorine available for disinfection 
+
+\item \textbf{Chlorine Demand = Applied Chlorine Dose - Chlorine Residual}\\ Chlorine residual should be the basis of measuring the effectiveness of chlorine disinfection
+
+\item Chlorine residuals are measured in the field using a colorimeteric method.  In the laboratory, chlorine residuals are measured typically using: 1) Amperometric Titration, or 2) Iodometric Titration
+
+\item Chlorine dosage is typically established from either bench scale laboratory testing, or actual measurement of field results. 
+
+\item Since field conditions, particularly the mixing element, are not as well controlled as laboratory tests, the actual dosage is expected to be generally higher than from that established in the laboratory. 
+
+\item Even though residual chlorine concentration can be used for establishing the effectiveness of disinfection, the ultimate effectiveness of disinfection can be monitored by conducting bacteriological testing.
+
+\end{itemize}
+
+\subsection{Factors Affecting Chlorine Disinfection Efficiency}\index{Factors Affecting Chlorine Disinfection Efficiency}
+
+The disinfection efficiency of chlorine depends on the following factors:\\
+\begin{itemize}
+	\item pH:  Disinfection is more efficient at a low pH when large quantities of hypochlorous acid are present than at a high pH when hypochlorite ions is the dominant species in the water
+	\item Concentration:  Contact Time Ratio (CT):  For effective chlorine disinfection both sufficient chlorine dosages – concentration (C) as well as contact time (T) are necessary.  There may be a substantial residual but if CT factor is not adequate, disinfection may not be effective. Generally both of these factors must be worked out experimentally for a given system
+	\item Temperature:  Colder temperatures are less favorable for disinfection. 
+Proper contacting or mixing or agitation:  This is necessary to make sure that the chlorine applied contacts or reaches the microbial cells
+	\item Organic and inorganic material present:  The chlorine used by these organic and inorganic reducing substances including metal ions, organic matter and ammonia, is defined as the chlorine demand.  So that the amount of chlorine that has to be added to wastewater for different purposes will also vary.
+\item Even though residual chlorine concentration can be used for establishing the effectiveness of disinfection, the ultimate effectiveness of disinfection can be monitored by conducting bacteriological testing.
+\end{itemize}
+		
+\subsection{Dechlorination}\index{Dechlorination}
+\begin{itemize}
+\item Dechlorination is the process of removing residual chlorine from disinfected wastewater prior to discharge into the environment
+\item Dehlorination is necessary to mitigate the toxic effect of chlorine on the receiving waters.  
+\item Sulfur dioxide is most commonly used for dechlorination.
+\item Other chemicals used for sodium bisulfite, sodium sulfite and sodium thiosulfate.
+\end{itemize}
+
+\newpage
+
+\section{Wastewater Treatment Hazards}\index{Wastewater Treatment Hazards}
+There are many hazards encountered in wastewater treatment operations.  The hazards and their respective mitigation measures are as follows:\\
+\subsection{Hazardous Chemicals}\index{Hazardous Chemicals}
+\begin{itemize}
+\item Hazardous chemicals are used throughout wastewater treatment plants and in collection systems. 
+\item To understand the dangers of these chemicals and to take adequate steps OSHA requires that the chemical manufacturer, distributor, or importer provide Safety Data Sheets (SDSs) (formerly MSDSs or Material Safety Data Sheets) for each hazardous chemical to downstream users to communicate information on hazards related to that particular chemical or product.
+\item Employers must ensure that the SDSs are available and readily accessible to employees for all hazardous chemicals in their workplace.
+\item The SDS includes information such as the properties of each chemical; the physical, health, and environmental health hazards; protective measures; and safety precautions for handling, storing, and transporting the chemical.\\
+\end{itemize}
+\subsection{Hazardous Gasses}\index{Hazardous Gasses}
+\begin{itemize}
+\item A summary of the properties and effects of hazardous gases found in wastewater operations is provided in the table below.
+\item To safeguard against the potential impacts of these gases, employees are required to follow practices including donning appropriate Personal Protective Equipment (PPE) and utilizing respiratory protection\\
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.6]{SafetyHazardousGases4}\\ 
+\end{center}
+
+\subsection{Falls}\index{Falls}
+\begin{itemize}
+\item Falls are one of the leading causes of injuries and deaths on the job.  Fall protection is a combination of methods and devices used to protect workers from falling off, onto, or through working levels. 
+\item Fall protection methods and devices are typically divided into two categories: those that prevent falls and those that arrest falls. 
+\item Examples of fall protection methods and devices include rails, guards, guardrails, barriers, fall-arrest systems, safety nets, hole covers, and various work practices and procedures.
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.8]{SafetyFallProtection1}\hspace{1cm} \includegraphics[scale=0.8]{SafetyFallProtection2}\\
+\end{center}
+\section{Noise}\index{Noise}
+\begin{itemize}
+\item Noise as a hazard is sound that is especially loud or impacting. 
+\item A wastewater treatment plant has equipment that produces high noise levels both continuously and intermittently. 
+\item As such, it is important to be aware of this hazard and to take preventive steps to reduce exposure to damaging noise levels by wearing effective hearing protection and to minimize the duration of the exposure to the noise.
+\end{itemize}
+
+\subsection{Electrical Hazards}\index{Electrical Hazards}
+\begin{itemize}
+\item Ordinary 120-V electricity can be fatal; most wastewater facility electrical systems operate at 120 to 4000 V or more.  
+\item All voltages should be considered dangerous and potentially life threatening.  
+\item Safe working rules and practices that should be followed when working on electrical systems
+\item Before working on an electrical system, perform a job hazard analysis to determine any potential hazards and methods of abating those hazards
+\end{itemize}
+
+
+\subsection{Rotating and Moving Equipment}\index{Rotating and Moving Equipment}
+
+\begin{itemize}
+\item All rotating and moving equipment should be guarded. 
+\item The best method for preventing machinery-related injuries is through use of equipment guards enforced through engineering and administrative controls.   
+\item The best way to prevent this type of injury is to install point-of-operation guards that prevent contact with ingoing nip points, pinch points, rotating parts, flying chips, and sparks.
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.6]{SafetyMachineGuarding}\\
+\end{center}
+
+\subsection{Heat Stress}\index{Heat Stress}
+\begin{itemize}
+\item Heat stress falls into two categories: heat illness and heat stroke. 
+\item Both are serious conditions and should not be taken lightly. 
+\item Heat stress can result from: 
+\begin{itemize}
+\item High temperature and humidity, dehydration from low fluid consumption
+\item Direct sun exposure (with no shade) or extreme heat, 
+\item Limited air movement (no breeze or wind), 
+\item Physical exertion, Use of bulky protective clothing and equipment, 
+\item Poor physical condition or ongoing health problems, 
+\item Some medications
+\item Pregnancy
+\end{itemize}
+\end{itemize} 
+
+
+\subsection{Safety Practices}\index{Safety Practices}
+\subsubsection{Lockout - Tagout (LOTO)}\index{Lockout - Tagout (LOTO)}
+
+When conducting routine inspections, repairs and maintenance activities, requires meeting the mandates of \hl{Occupational Safety  Hazard Administration(OSHAs) Lock-Out/Tag-Out (LOTO) program}\\
+which is designed to prevent injury or fatalities.  It involves preventing an equipment from accidentally starting up and release of all stored energy.  Hazardous energy sources include: 
+\begin{itemize}
+\item Electrical 
+\item Mechanical
+\item Hydraulic
+\item Pneumatic 
+\item Chemical 
+\item Thermal  
+\item Other energy
+\end{itemize}
+
+The LOTO involves established and documented procedures specific to an equipment or machinery.  It typically comprises of:\\
+\begin{itemize}
+\item Notifying affected employees
+\item Stopping and isolating the equipment
+\item Releasing stored energy
+\item Verification of the isolation and de-energization
+\item Placing lock-out devices which use a positive means such as a lock, either key or combination type, to hold an energy isolating device in the safe position and prevent the energizing of a machine or equipment
+\item Appropriately tagging the devices to indicate its non-operation and that it may not be operated until the tagout device is removed
+\end{itemize}
+
+\subsubsection{Personal Protective Equipment (PPE)}\index{Personal Protective Equipment (PPE)}
+Employees depend on personal protective equipment to protect themselves from hazards and perform daily duties. PPE includes but is not limited to safety glasses, face shields, hard hats, gloves, foot protection, and durable and disposable chemical-protective clothing. Respirators and fall protection might also be required. However, respirators and fall protection fall under separate OSHA standards. \\
+
+\subsubsection{Confined Space Entry}\index{Confined Space Entry}
+OSHA defines a confined space as an area that:
+\begin{itemize} 
+\item is large enough and so configured that an employee's body can enter and perform assigned work
+\item has limited or restricted means for entry or exit; and
+\item is not designed for continuous employee occupancy.
+\end{itemize}
+A permit-required confined space is defined as a confined space that:
+\begin{itemize} 
+\item contains or has a potential to contain a hazardous atmosphere
+\item contains a material that potentially could engulf an entrant
+\item has an internal configuration that could trap or asphyxiate an entrant through inwardly converging walls or a floor that slopes downward and tapers to a smaller cross-section
+\item contains any serious safety or health hazard
+\end{itemize}
+
+Potentially dangerous atmospheric conditions which can exist in confined spaces include: 
+\begin{itemize}
+\item Oxygen level: Some gasses are heavier than air and so will fill up a confined space, which forces oxygen out.  The oxygen concentration must not fall below 19.5\% at any time.  In plants where pure oxygen is used there is a potential hazard due to high the oxygen concentration.  Oxygen concentration greater than 23\% increases the risk of ignition and fire
+\item Explosive conditions:  Many gasses are explosive when present in certain ratios with oxygen. These ratios are defined by the upper explosive limit(UEL) and the lower explosive limit (LEL).  The minimum concentration of a particular combustible gas or vapor necessary to support its combustion in air is defined as the Lower Explosive Limit (LEL) for that gas. Below this level, the mixture is too “lean” to burn. The maximum concentration of a gas
+or vapor that will burn in air is defined as the Upper Explosive Limit (UEL). Above this level, the mixture is too “rich” to burn.  The range between the LEL and UEL is known as the flammable range for that gas or vapor.  
+\item Toxic conditions:  This condition could potentially exist due to the presence of gasses such as carbon dioxide, chlorine and hydrogen sulfide.  
+\end{itemize}
+
+
+\end{document}

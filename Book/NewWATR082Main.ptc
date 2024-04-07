@@ -1,0 +1,448 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Module 1}}{13}{part.1}%
+\ttl@starttoc {default@1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Why Treat Wastewater?}{15}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Definition of Wastewater}{15}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Why Treat Wastewater}{15}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Benefits of Treating Wastewater}{15}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Regulations}{17}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Regulations Related to Wastewater Treatment}{17}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Treated Wastewater - NPDES Permit}{17}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Influent Wastewater - National Pretreatment Program}{17}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Sewage Sludge/Biosolids Regulations}{18}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Air Quality Regulations}{19}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Regulations Related to Operations and Maintenance}{19}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Operator Certification}{19}{subsection.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Worker Safety}{24}{subsection.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Elements of Wastewater Treatment}{25}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Generation}{25}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Collections}{25}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Treatment}{26}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Liquid Phase Treatment}{26}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Treatment of Wastewater Solids}{26}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Sludge Thickening}{27}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Sludge Stabilization}{27}{section*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Sludge Dewatering}{27}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Disposal or Reuse}{28}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Wastewater Math Review}{29}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Units}{29}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Unit Conversions}{30}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Area \& Volume}{31}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Example Problems}{31}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Concentration}{32}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Example Problem}{32}{subsection.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Pounds Formula}{33}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Example Problems}{33}{subsection.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Process Removal Efficiency Calculations}{34}{section.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Preliminary Treatment Calculations}{37}{section.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.1}Channel Velocity and Flow Rate}{37}{subsection.4.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.2}Grit Removal Rates}{38}{subsection.4.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Primary Treatment Calculations}{38}{section.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.1}Hydraulic or Surface Loading Rate}{38}{subsection.4.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.2}Detention Time}{39}{subsection.4.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.3}Weir Overflow Rate}{39}{subsection.4.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.4}Removal Efficiency}{40}{subsection.4.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.5}Solids Removal}{40}{subsection.4.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.8}Pumping}{41}{section.4.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.8.1}Calculating volume pumped given the pump flow rate}{41}{subsection.4.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.8.2}Calculating time to pump a certain volume}{41}{subsection.4.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.9}Example Problems}{42}{section.4.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {II}{Module 2}}{43}{part.2}%
+\ttl@stoptoc {default@1}
+\ttl@starttoc {default@2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Laboratory Analysis}{45}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}BOD Analysis}{45}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Wastewater solids}{46}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Total (TSS) and Volatile (VSS)}{46}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Wastewater and Sludge Total \& Volatile Solids}{47}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Sample BOD and solids analysis math problems}{50}{subsection.5.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Bacteriological Ennumeration}{52}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Bacteriological Testing Methods}{52}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}The Multiple-Tube Fermentation (MTF) technique}{53}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3}The Membrane Filtration (MF) method}{56}{subsection.5.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Quanti-trays tests}{57}{subsection.5.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {III}{Module 3}}{59}{part.3}%
+\ttl@stoptoc {default@2}
+\ttl@starttoc {default@3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Activated Sludge}{61}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Process overview}{61}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Process parameters}{62}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Dissolved oxygen (DO)}{62}{subsection.6.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}pH}{62}{subsection.6.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Temperature}{62}{subsection.6.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}Oxygen uptake rate (OUR) and specific oxygen uptake rate (SOUR)}{62}{subsection.6.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.5}Food to Mass ratio (F:M)}{63}{subsection.6.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.6}Sludge age}{63}{subsection.6.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.7}Sludge settleability}{63}{subsection.6.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Microbiology}{64}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Activated sludge process control}{66}{section.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Controlling waste activated sludge (WAS) pumping rate}{66}{subsection.6.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Constant Mean Cell Residence Time (MCRT)}{66}{section*.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Constant food:mass (F/M)}{67}{section*.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Constant Mixed Liquor Suspended Solids (MLSS)}{67}{section*.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Controlling the return activated sludge (RAS) rate}{67}{subsection.6.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Constant RAS flow rate control - RAS pumping independent of influent flow}{67}{section*.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Constant percentage RAS flow rate control}{67}{section*.19}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Establishing RAS flow rate based on a solids balance approach}{68}{section*.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Process trouble shooting}{68}{section.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Process modifications}{71}{section.6.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.1}Conventional activated sludge process}{71}{subsection.6.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{71}{section*.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{71}{section*.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.2}Conventional step feed process}{71}{subsection.6.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{71}{section*.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{71}{section*.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.3}Contact stabilization}{72}{subsection.6.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{72}{section*.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{72}{section*.31}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.4}Pure oxygen system}{73}{subsection.6.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{73}{section*.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{73}{section*.34}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.5}Sequencing batch reactors}{74}{subsection.6.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{74}{section*.35}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{75}{section*.37}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.6}Extended aeration}{75}{subsection.6.6.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{75}{section*.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{75}{section*.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.7}Krauss process}{76}{subsection.6.6.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process description}{76}{section*.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Process advantages and applications}{76}{section*.44}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.7}Sample Math Problems}{77}{section.6.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {IV}{Module 4}}{79}{part.4}%
+\ttl@stoptoc {default@3}
+\ttl@starttoc {default@4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Nutrient Removal}{81}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Importance of removing nutrients}{81}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Nitrogen Removal}{81}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.1}Nitrogen Removal Methods}{82}{subsection.7.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nitrification and denitrification}{82}{section*.48}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Breakpoint chlorination}{87}{section*.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Phosphorous removal}{90}{section.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.1}Phosphorous removal methods}{90}{subsection.7.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Chemical precipitation method}{90}{section*.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Enhanced biological phosphorus removal (EBPR)}{90}{section*.55}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {V}{Module 5}}{93}{part.5}%
+\ttl@stoptoc {default@4}
+\ttl@starttoc {default@5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Solids Treatment Overview}{95}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Why do we need to treat wastewater solids?}{95}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Sludge thickening}{95}{section.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}Sludge Stabilization}{96}{section.8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.4}Sludge Dewatering}{96}{section.8.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Biosolids Regulations}{97}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Biosolids Definition}{97}{section.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Biosolids Use/Disposal Methods}{97}{section.9.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}Biosolids Regulations}{97}{section.9.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.4}Title 40 CFR Part 503 Requirements}{98}{section.9.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.4.1}Pollutant concentration limits}{98}{subsection.9.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.4.2}Pathogen reduction}{98}{subsection.9.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Class A Biosolids}{99}{section*.57}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Class B Biosolids}{99}{section*.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.4.3}Vector attraction reduction}{99}{subsection.9.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {VI}{Module 6}}{101}{part.6}%
+\ttl@stoptoc {default@5}
+\ttl@starttoc {default@6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Sludge Thickening}{103}{chapter.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.1}Advantages of sludge thickening}{103}{section.10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.2}Sludge thickening methods}{103}{section.10.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.3}Gravity thickener}{103}{section.10.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.1}Principles of gravity thickener operations}{104}{subsection.10.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.2}Elements of a gravity thickener}{105}{subsection.10.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.3}Gravity thickener operational parameters}{105}{subsection.10.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.4}Dissolved air floatation thickener (DAFT)}{105}{section.10.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.1}Principles of DAFT operations}{106}{subsection.10.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.2}Elements of a DAFT}{107}{subsection.10.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.3}DAFT operational parameters}{107}{subsection.10.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.5}Solids thickening math problems}{107}{section.10.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {VII}{Module 7}}{109}{part.7}%
+\ttl@stoptoc {default@6}
+\ttl@starttoc {default@7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Solids Stabilization - Digestion}{111}{chapter.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.1}Digester design}{112}{section.11.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.2}Types of anaerobic digestion systems}{114}{section.11.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.3}Digestion parameters and control}{115}{section.11.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.1}Digestion temperature}{115}{subsection.11.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.2}Digestion mixing}{116}{subsection.11.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.3}Digestion feed}{116}{subsection.11.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.4}Volatile solids breakdown}{116}{subsection.11.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.5}Digester pH and alkalinity}{117}{subsection.11.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.6}Digester pH control}{118}{subsection.11.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.7}Digester gas production}{119}{subsection.11.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.8}Digester failure}{119}{subsection.11.3.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.9}Digester toxicity issues}{119}{subsection.11.3.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.10}Nutrients and trace constituents requirement}{120}{subsection.11.3.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.4}Digester safety}{120}{section.11.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.5}Digester math problems}{121}{section.11.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.1}Sludge pumping}{121}{subsection.11.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.2}VS or organic loading}{121}{subsection.11.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.3}Total volatile solids (VS) reduction}{122}{subsection.11.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {VIII}{Module 8}}{125}{part.8}%
+\ttl@stoptoc {default@7}
+\ttl@starttoc {default@8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Solids Dewatering}{127}{chapter.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}Belt Filter Press}{127}{section.12.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.1}Principles of belt filter press operations}{128}{subsection.12.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.2}Elements of the belt filter press}{129}{subsection.12.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.3}Belt press operational parameters}{130}{subsection.12.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}Centrifuge}{130}{section.12.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.1}Principles of centrifuge operations}{130}{subsection.12.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.2}Elements of the Centrifuge}{131}{subsection.12.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.3}Centrifuge operational parameters}{132}{subsection.12.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.3}Dewatering math problems}{132}{section.12.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.1}Calculation of solids recovery}{132}{subsection.12.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.2}Calculation of dewatered cake volume}{132}{subsection.12.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.3}Hauling cost impact due to solids content change}{132}{subsection.12.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {IX}{Module 9}}{135}{part.9}%
+\ttl@stoptoc {default@8}
+\ttl@starttoc {default@9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}Disinfection}{137}{chapter.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.1}Chlorine disinfection}{137}{section.13.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.1}Forms of chlorine}{137}{subsection.13.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.2}Chlorine properties}{138}{subsection.13.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.3}Chlorine storage and safety}{138}{subsection.13.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.4}Chlorine reactions related to disinfection}{139}{subsection.13.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.5}Chlorine disinfection process}{140}{subsection.13.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.6}Factors affecting chlorine disinfection}{140}{subsection.13.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.7}Dechlorination}{140}{subsection.13.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.2}Ultraviolet (UV) disinfection}{141}{section.13.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2.1}Advantages of UV disinfection}{141}{subsection.13.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2.2}Disadvantages of UV disinfection}{141}{subsection.13.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.3}Peracetic acid (PAA)}{141}{section.13.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3.1}Advantages of peracetic acid}{141}{subsection.13.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3.2}Disadvantages of Peracetic acid}{142}{subsection.13.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.4}Ozone}{142}{section.13.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.4.1}Advantages of ozonation}{142}{subsection.13.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.4.2}Disadvantages of ozonation}{142}{subsection.13.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {14}Odor Control}{143}{chapter.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.1}Background}{143}{section.14.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.2}Drivers for Odor Control}{143}{section.14.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.3}Odor Causing Compounds}{144}{section.14.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.4}Theory of Odor Control}{144}{section.14.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4.1}Hydrogen Sulfide}{146}{subsection.14.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4.2}Ammonia}{146}{subsection.14.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.5}Odor Control Technologies}{146}{section.14.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.6}Liquid Phase Odor Control Methods}{146}{section.14.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.7}Vapor Phase Odor Control Methods}{150}{section.14.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.7.1}Common Vapor Phase Odor Control Methods}{150}{subsection.14.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Applications of Packed Tower Scrubber}{152}{section*.68}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {X}{Module 10}}{157}{part.10}%
+\ttl@stoptoc {default@9}
+\ttl@starttoc {default@10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {15}Pumping Efficiencies and Costs}{159}{chapter.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.1}Important conversions and formulas}{159}{section.15.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.2}Practice Problems}{162}{section.15.2}%
+\contentsfinish 
