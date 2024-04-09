@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  2 OCT 2023 12:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  7 APR 2024 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1079,28 +1079,25 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  23679 strings out of 475248
- 543498 string characters out of 5757813
- 1924785 words of memory out of 5000000
+ 543524 string characters out of 5757813
+ 1930785 words of memory out of 5000000
  44775 multiletter control sequences out of 15000+600000
  566103 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,87p,440b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\m
-atha10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecrm0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ 84i,14n,87p,440b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dp
+i600\matha10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\ecrm1000.pk><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmmi10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on WaterMathProblems_Averages.pdf (1 page, 36572 bytes).
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/indov/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on WaterMathProblems_Averages.pdf (1 page, 53288 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

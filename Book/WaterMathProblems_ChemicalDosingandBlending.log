@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  19 FEB 2024 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  8 APR 2024 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,86 +1070,99 @@ nslations-basic-dictionary')
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `english'. on input line 56.
 
-Overfull \hbox (12.50827pt too wide) in paragraph at lines 84--85
+Overfull \hbox (4.99629pt too wide) in paragraph at lines 94--94
+[]\T1/cmr/m/n/10 A wa-ter treat-ment plant is pro-duc-ing 1.5 mil-lion gal-lons
+ per day of potable wa-ter, and uses 38 pounds 
+ []
+
+
+Overfull \hbox (19.33205pt too wide) in paragraph at lines 121--124
+[]$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
+\OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (19.33205pt too wide) in paragraph at lines 156--165
+[]$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
+\OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
+ []
+
+[1
+
+{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (12.50827pt too wide) in paragraph at lines 190--191
 []\T1/cmr/m/n/10 A pipeline that is 12 inches in di-am-e-ter and $\OT1/cmr/m/n/
 10 1400[]$ \T1/cmr/m/n/10 long is to be treated with a chlo-rine dose of $\OT1/
 cmr/m/n/10 48[]\U/matha/m/n/10 {\OT1/cmr/m/n/10 L$\T1/cmr/m/n/10 . 
  []
 
-[1
-
-{C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-[3] [4]
-Overfull \hbox (1.34587pt too wide) in paragraph at lines 267--267
+[2] [3] [4] [5]
+Overfull \hbox (1.34587pt too wide) in paragraph at lines 373--373
 []\T1/cmr/m/n/10 What is the chlo-rine resid-ual in a treated wa-ter if the dos
 age is $\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1[]$ \T1/cmr/m/n/10 
 and has a de-mand of $\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8[]\U/
 matha/m/n/10 {\OT1/cmr/m/n/10 l$  
  []
 
-[5]
-Overfull \hbox (4.05208pt too wide) in paragraph at lines 298--298
+[6]
+Overfull \hbox (4.05208pt too wide) in paragraph at lines 404--404
 []\T1/cmr/m/n/10 How many gal-lons of a sodium hypochlo-rite so-lu-tion that co
 n-tains 12.1% avail-able chlo-rine are needed 
  []
 
-
-Overfull \hbox (4.99629pt too wide) in paragraph at lines 338--338
+[7]
+Overfull \hbox (4.99629pt too wide) in paragraph at lines 444--444
 []\T1/cmr/m/n/10 A wa-ter treat-ment plant is pro-duc-ing 1.5 mil-lion gal-lons
  per day of potable wa-ter, and uses 38 pounds 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (19.33205pt too wide) in paragraph at lines 365--368
-[]$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
-\OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
- []
-
-[6]
-Overfull \hbox (19.33205pt too wide) in paragraph at lines 400--409
+Overfull \hbox (19.33205pt too wide) in paragraph at lines 471--474
 []$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
 \OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (19.33205pt too wide) in paragraph at lines 506--515
+[]$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
+\OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
+ []
 
-[7]
-Overfull \hbox (1.6694pt too wide) in paragraph at lines 463--464
+[8] [9]
+Overfull \hbox (1.6694pt too wide) in paragraph at lines 605--606
 []\T1/cmr/m/n/10 Liquid alum de-liv-ered to a wa-ter treat-ment plant con-tains
  $\OT1/cmr/m/n/10 642\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3$ \T1/cmr/m/n/10 mil-li
 grams of alu-minum per milliliter 
  []
 
-[8]
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 480.
-
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 481.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 622.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 623.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 633.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 633.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 633.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 493.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 633.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 495.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 635.
 
-[9] 
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 637.
+
+[10] [11] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (WaterMathProblems_ChemicalDosingandBlending.aux)
  ***********
@@ -1159,18 +1172,18 @@ L3 programming layer <2023-08-29>
  ) 
 Here is how much of TeX's memory you used:
  23862 strings out of 475248
- 547848 string characters out of 5757813
- 1941785 words of memory out of 5000000
+ 547874 string characters out of 5757813
+ 1944785 words of memory out of 5000000
  44957 multiletter control sequences out of 15000+600000
  566879 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,87p,501b,1041s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\m
-athx10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecrm0500.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
-ec/dpi600\ecrm0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecbx1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/public/mathabx/dpi600\matha10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts
+ 84i,16n,87p,501b,1067s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
+1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dp
+i600\mathx10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ma
+thabx/dpi600\matha10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecrm0500.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts
 /pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk><C:/Users/indov/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/indov/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/indov/AppD
@@ -1179,10 +1192,10 @@ dov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/U
 sers/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pf
 b><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/lat
 xfont/line10.pfb>
-Output written on WaterMathProblems_ChemicalDosingandBlending.pdf (9 pages, 127
-051 bytes).
+Output written on WaterMathProblems_ChemicalDosingandBlending.pdf (11 pages, 13
+3093 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
+ 212 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

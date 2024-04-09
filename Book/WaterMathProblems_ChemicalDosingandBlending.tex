@@ -57,7 +57,113 @@
 
 \begin{enumerate}
 
+\item A water treatment plant operates at the rate of 75 gallons per minute. They dose soda ash at 14 mg/L. How many pounds of soda ash will they use in a day?
+Solution:\\
+\vspace{0.2cm}
+\begin{figure}[h]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
 
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{14 mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{75 GPM}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34$
+\\
+\vspace{0.2cm}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=75 \dfrac{\cancel{\mathrm{gallons}}}{\cancel{\mathrm{min}}}* 1440\dfrac{\cancel{\mathrm{min}}}{\mathrm{day}}*\dfrac{\mathrm{MG}}{1,000,000 \enspace \cancel{\mathrm{gallons}}}*14\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 = \boxed{12.6\dfrac{lbs}{day}}$
+\vspace{0.2cm}
+
+\item A water treatment plant is producing 1.5 million gallons per day of potable water, and uses 38 pounds of soda ash for pH adjustment. What is the dose of soda ash at that plant?\\
+Solution:\\
+ \begin{figure}[h!]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{38 lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{? mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{1.5 MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 \hspace{0.2cm} \implies \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=\dfrac{ \dfrac{\mathrm{lbs}}{\mathrm{day}}}{\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}*8.34}$
+\vspace{0.2cm}
+$\mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=\dfrac{ 38\dfrac{\mathrm{lbs}}{\mathrm{day}}}{1.5\dfrac{{\mathrm{MG}}}{\mathrm{day}}*8.34}=\boxed{3\dfrac{\mathrm{mg}}{\mathrm{l}}}$
+\\
+\vspace{0.2cm}
+
+
+\item A water treatment plant produces 150,000 gallons of water every day. It uses an average of 2 pounds of permanganate for iron and manganese removal. What is the dose of the permanganate? \\
+ Solution:\\
+ \vspace{0.2cm}
+ \begin{figure}[h!]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{38 lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{? mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{1.5 MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+$\dfrac{\mathrm{lbs}}{\mathrm{day}}=\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}* \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}*8.34 \hspace{0.2cm} \implies \mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=\dfrac{ \dfrac{\mathrm{lbs}}{\mathrm{day}}}{\mathrm{Flow}\dfrac{{\mathrm{MG}}}{\mathrm{day}}*8.34}$
+\vspace{0.2cm}
+$\mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=
+\dfrac{ 2\dfrac{\mathrm{lbs}}{\mathrm{day}}}
+{\Bigg(150,000 \dfrac{\cancel{\mathrm{Gallons}}}
+{\mathrm{day}}*
+\dfrac{\mathrm{MG}}
+{1,000,000 \cancel{\enspace \mathrm{Gallons}}}*8.34\Bigg)}
+=\boxed{3\dfrac{\mathrm{mg}}{\mathrm{l}}}$
+\\
+\vspace{0.2cm}
 
     \item Your water treatment plant uses $39.6 \mathrm{lbs}$. of cationic polymer to treat a flow of 2.71 MGD. What is the polymer dosage?\\
 a) $0.07 \mathrm{ppm}$\\
@@ -411,6 +517,7 @@ $\mathrm{Concentration}\dfrac{\mathrm{mg}}{\mathrm{l}}=
 
 
 
+
 \item A water treatment plant uses 8 pounds of chlorine daily and the dose is 17 mg/l. How many gallons are they producing?\\
  Solution:\\
  \begin{figure}[h!]
@@ -444,6 +551,41 @@ $\implies \mathrm{Flow}\dfrac{{\mathrm{MG}}}{day}=\dfrac{ \dfrac{\mathrm{lbs}}{\
 \vspace{0.2cm}
 $0.056425\dfrac{{\mathrm{MG}}}{day}*\dfrac{1,000,000 \enspace \mathrm{Gallons}}{\mathrm{MG}}=\boxed{56,425 \enspace \mathrm{Gallons}}$
 \vspace{0.2cm}
+
+\item What is the influent plant loading of phosphorus in lbs/day if the plant flow is 4.5 MGD and the influent phosphorous concentration is 1.5 mg/l?\\
+\vspace{0.2cm}
+Solution:\\
+\vspace{0.2cm}
+ \begin{figure}[h!]
+\begin{tikzpicture}
+    \newcommand{\R}{1.5}
+
+\path[help lines,step=.2] (0,0) grid (16,3);
+\path[help lines,line width=.6pt,step=1] (0,0) grid (16,3);
+%\foreach \x in {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+%\node[anchor=north] at (\x,0) {\x};
+%\foreach \y in {0,1,2,3,4,5,6}
+%\node[anchor=east] at (0,\y) {\y};
+%-------------CIRCLE-----------------------------------
+\draw[black,fill=gray!10] (8,3) circle (\R);
+\draw[black, very thick, rotate=0](6.5,3) -- (9.5,3);
+\draw (8,3.6) node[text width=3cm,align=center]
+  {\scriptsize{? lbs/day}};
+\draw (7.1,2.5) node[text width=3cm,align=center]
+  {\tiny{1.5 mg/l}};
+\draw (8.9,2.5) node[text width=3cm,align=center]
+  {\tiny{4.5 MGD}};
+  \draw (8,2)node[text width=3cm,align=center]
+  {\tiny{8.34}};
+\draw[black, very thick, rotate=0](7.2,1.7) -- (8,3);
+\draw[black, very thick, rotate=0](8.8,1.7) -- (8,3);
+\end{tikzpicture}
+\end{figure}
+
+
+\vspace{0.2cm}
+$1.5\dfrac{mg}{l}*4.5MGD*8.34=\boxed{56 \enspace lbs/day}$\\
+
   \item Determine the chlorinator setting in pounds per day if a water plant produces $300 \mathrm{gpm}$ and the desired chlorine dose is $2.0 \mathrm{mg} / \mathrm{L}$.
 
   \item The finished water chlorine demand is $1.2 \mathrm{mg} / \mathrm{L}$ and the target residual is $2.0 \mathrm{mg} / \mathrm{L}$. If the plant flow is $5.6 \mathrm{mgd}$, how many pounds per day of $65 \%$ hypochlorite solution will be required?

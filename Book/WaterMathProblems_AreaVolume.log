@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  14 FEB 2024 10:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  8 APR 2024 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1072,7 +1072,7 @@ or `english'. on input line 56.
  [1
 
 {C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] 
-[5] [6] [7] [8]
+[5] [6] [7] [8] [9]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (WaterMathProblems_AreaVolume.aux)
@@ -1080,15 +1080,11 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  23938 strings out of 475248
- 548773 string characters out of 5757813
- 1938785 words of memory out of 5000000
+ 548799 string characters out of 5757813
+ 1946785 words of memory out of 5000000
  45032 multiletter control sequences out of 15000+600000
  567644 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1110,9 +1106,9 @@ cmr10.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr5.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/latxfont/line10.pfb>
-Output written on WaterMathProblems_AreaVolume.pdf (8 pages, 145486 bytes).
+Output written on WaterMathProblems_AreaVolume.pdf (9 pages, 149417 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
+ 250 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

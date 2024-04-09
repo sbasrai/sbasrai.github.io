@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  17 OCT 2023 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  7 APR 2024 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1072,17 +1072,18 @@ or `english'. on input line 57.
 <ChannelFlow1.png, id=4, 242.9075pt x 124.465pt>
 File: ChannelFlow1.png Graphic file (type png)
 <use ChannelFlow1.png>
-Package pdftex.def Info: ChannelFlow1.png  used on input line 62.
-(pdftex.def)             Requested size: 267.19905pt x 136.91191pt.
-File: ChannelFlow1.png Graphic file (type png)
-<use ChannelFlow1.png>
-Package pdftex.def Info: ChannelFlow1.png  used on input line 73.
+Package pdftex.def Info: ChannelFlow1.png  used on input line 86.
 (pdftex.def)             Requested size: 267.19905pt x 136.91191pt.
  [1
 
 {C:/Users/indov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ChannelFlo
 w1.png>]
-Overfull \hbox (3.99654pt too wide) in paragraph at lines 91--91
+File: ChannelFlow1.png Graphic file (type png)
+<use ChannelFlow1.png>
+Package pdftex.def Info: ChannelFlow1.png  used on input line 97.
+(pdftex.def)             Requested size: 267.19905pt x 136.91191pt.
+
+Overfull \hbox (3.99654pt too wide) in paragraph at lines 115--115
 []\T1/cmr/m/n/10 Calculate the flow, in gpd, that would pass through a grit cha
 m-ber 2 feet wide, at a depth of 6 inches, 
  []
@@ -1090,43 +1091,43 @@ m-ber 2 feet wide, at a depth of 6 inches,
 <./images/ChannelFlow3.png, id=16, 356.83313pt x 182.93344pt>
 File: ./images/ChannelFlow3.png Graphic file (type png)
 <use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 97.
-(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
-File: ./images/ChannelFlow3.png Graphic file (type png)
-<use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 107.
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 121.
 (pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
 [2 <./images/ChannelFlow3.png>]
-<./images/PipeFlow.png, id=22, 364.36125pt x 100.87688pt>
+File: ./images/ChannelFlow3.png Graphic file (type png)
+<use ./images/ChannelFlow3.png>
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 131.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+<./images/PipeFlow.png, id=21, 364.36125pt x 100.87688pt>
 File: ./images/PipeFlow.png Graphic file (type png)
 <use ./images/PipeFlow.png>
-Package pdftex.def Info: ./images/PipeFlow.png  used on input line 120.
+Package pdftex.def Info: ./images/PipeFlow.png  used on input line 144.
 (pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
 File: ./images/ChannelFlow3.png Graphic file (type png)
 <use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 134.
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 158.
 (pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
-File: ./images/PipeFlow.png Graphic file (type png)
-<use ./images/PipeFlow.png>
-Package pdftex.def Info: ./images/PipeFlow.png  used on input line 145.
-(pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
  [3 <./images/PipeFlow.png>]
 File: ./images/PipeFlow.png Graphic file (type png)
 <use ./images/PipeFlow.png>
-Package pdftex.def Info: ./images/PipeFlow.png  used on input line 154.
+Package pdftex.def Info: ./images/PipeFlow.png  used on input line 169.
+(pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
+File: ./images/PipeFlow.png Graphic file (type png)
+<use ./images/PipeFlow.png>
+Package pdftex.def Info: ./images/PipeFlow.png  used on input line 178.
 (pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
 
-Overfull \hbox (3.63551pt too wide) in paragraph at lines 158--158
+Overfull \hbox (3.63551pt too wide) in paragraph at lines 182--182
 \T1/cmr/m/n/10 wide. Wastew-a-ter is flow-ing 1 ft 3 in deep. Find the ve-loc-i
 ty of the flow in this grit cham-ber in ft/sec.  
  []
 
 File: ./images/ChannelFlow3.png Graphic file (type png)
 <use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 160.
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 184.
 (pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
-
-Overfull \hbox (27.96124pt too wide) in paragraph at lines 166--168
+[4]
+Overfull \hbox (27.96124pt too wide) in paragraph at lines 190--192
 []$ \T1/cmr/m/n/10 Note: $\OML/cmm/m/it/10 V\U/matha/m/n/10 9\OT1/cmr/m/n/10 1\
 U/matha/m/n/10 {\OML/cmm/m/it/10 A  \U/matha/m/n/10 ù[]ñ  \OML/cmm/m/it/10 V\U/
 matha/m/n/10 9\OT1/cmr/m/n/10 1\U/matha/m/n/10 {\OML/cmm/m/it/10 D[]:IfDdoubles
@@ -1136,35 +1137,34 @@ matha/m/n/10 9\OT1/cmr/m/n/10 1\U/matha/m/n/10 {\OML/cmm/m/it/10 D[]:IfDdoubles
 
 File: ./images/ChannelFlow3.png Graphic file (type png)
 <use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 171.
-(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
-[4]
-File: ./images/ChannelFlow3.png Graphic file (type png)
-<use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 177.
-(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
- [5] [6]
-File: ./images/ChannelFlow3.png Graphic file (type png)
-<use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 232.
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 195.
 (pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
 File: ./images/ChannelFlow3.png Graphic file (type png)
 <use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 261.
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 201.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+[5] [6]
+File: ./images/ChannelFlow3.png Graphic file (type png)
+<use ./images/ChannelFlow3.png>
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 256.
+(pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
+File: ./images/ChannelFlow3.png Graphic file (type png)
+<use ./images/ChannelFlow3.png>
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 285.
 (pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
  [7]
 File: ./images/PipeFlow.png Graphic file (type png)
 <use ./images/PipeFlow.png>
-Package pdftex.def Info: ./images/PipeFlow.png  used on input line 266.
+Package pdftex.def Info: ./images/PipeFlow.png  used on input line 290.
 (pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
 File: ./images/PipeFlow.png Graphic file (type png)
 <use ./images/PipeFlow.png>
-Package pdftex.def Info: ./images/PipeFlow.png  used on input line 301.
+Package pdftex.def Info: ./images/PipeFlow.png  used on input line 325.
 (pdftex.def)             Requested size: 182.18018pt x 50.43831pt.
  [8]
 File: ./images/ChannelFlow3.png Graphic file (type png)
 <use ./images/ChannelFlow3.png>
-Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 317.
+Package pdftex.def Info: ./images/ChannelFlow3.png  used on input line 341.
 (pdftex.def)             Requested size: 178.41612pt x 91.46649pt.
  [9] [10] [11] [12]
 
@@ -1174,19 +1174,15 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  23718 strings out of 475248
- 544482 string characters out of 5757813
+ 544508 string characters out of 5757813
  1946785 words of memory out of 5000000
  44813 multiletter control sequences out of 15000+600000
  566879 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,87p,556b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,17n,87p,556b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
 1000.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dp
 i600\matha7.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mat
@@ -1200,7 +1196,7 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/
 indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
 /Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont
 /line10.pfb>
-Output written on WaterMathProblems_FlowVelocity.pdf (12 pages, 142244 bytes).
+Output written on WaterMathProblems_FlowVelocity.pdf (12 pages, 143939 bytes).
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

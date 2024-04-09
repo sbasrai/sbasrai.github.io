@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  28 NOV 2023 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.23)  8 APR 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1092,50 +1092,32 @@ Overfull \hbox (4.05208pt too wide) in paragraph at lines 321--321
 n-tains 12.1% avail-able chlo-rine are needed 
  []
 
-[6]
-Overfull \hbox (4.99629pt too wide) in paragraph at lines 361--361
-[]\T1/cmr/m/n/10 A wa-ter treat-ment plant is pro-duc-ing 1.5 mil-lion gal-lons
- per day of potable wa-ter, and uses 38 pounds 
- []
+[6] [7]
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 413.
 
 
-Overfull \hbox (19.33205pt too wide) in paragraph at lines 388--391
-[]$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
-\OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
- []
-
-[7]
-Overfull \hbox (19.33205pt too wide) in paragraph at lines 423--432
-[]$[] \U/matha/m/n/10 ^^P [][] ^^F [][] ^^F \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :
-\OT1/cmr/m/n/10 34   \U/matha/m/n/10 ù[]ñ  [][] ^^P []$ $[][] ^^P 
- []
-
-[8]
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 480.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 414.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 481.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 424.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 424.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 424.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 424.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 491.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 426.
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 493.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 428.
 
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 495.
-
-[9] 
+[8] [9] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (WaterMathProblems_ChlorineDosing.aux)
  ***********
@@ -1148,13 +1130,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23862 strings out of 475248
- 547705 string characters out of 5757813
- 1938785 words of memory out of 5000000
- 44957 multiletter control sequences out of 15000+600000
+ 23870 strings out of 475248
+ 547899 string characters out of 5757813
+ 1935785 words of memory out of 5000000
+ 44965 multiletter control sequences out of 15000+600000
  566879 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,87p,490b,1081s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,14n,87p,490b,1142s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\m
 athx10.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecrm0500.pk> <C:\Users\indov\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
@@ -1169,10 +1151,10 @@ dov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/U
 sers/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pf
 b><C:/Users/indov/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/lat
 xfont/line10.pfb>
-Output written on WaterMathProblems_ChlorineDosing.pdf (9 pages, 126047 bytes).
+Output written on WaterMathProblems_ChlorineDosing.pdf (9 pages, 139134 bytes).
 
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
+ 241 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
