@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>H2O Academy — Water Treatment & Distribution Exam Prep</title>
+  <meta name="description" content="Pass your Water Treatment (T1–T5) and Water Distribution (D1–D5) certification exams with focused classes, practice tests, and expert coaching." />
+  <meta name="keywords" content="water operator exam prep, water treatment certification, water distribution certification, SWRCB, AWWA, operator training" />
+  <meta property="og:title" content="H2O Academy — Water Treatment & Distribution Exam Prep" />
+  <meta property="og:description" content="Focused prep for T1–T5 & D1–D5. Live classes, on‑site training for agencies, and practice exams." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="/static/og-image.jpg" />
+  <meta name="theme-color" content="#0ea5e9" />
+  <link rel="icon" href="/favicon.ico" />
+  <style>
+    :root{
+      --bg:#0b1220;          /* Deep navy */
+      --card:#0f172a;        /* Slate */
+      --muted:#94a3b8;       /* Muted text */
+      --text:#e2e8f0;        /* Body text */
+      --brand:#0ea5e9;       /* Sky */
+      --brand-2:#22d3ee;     /* Cyan */
+      --accent:#14b8a6;      /* Teal */
+      --ring: 0 0 0 3px rgba(34,211,238,.35);
+      --radius: 18px;
+      --shadow: 0 10px 30px rgba(2,8,23,.55), 0 2px 8px rgba(2,8,23,.35);
+      --shadow-soft: 0 8px 24px rgba(2,8,23,.35);
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Helvetica,Arial,sans-serif;background:radial-gradient(1200px 600px at 80% -10%, rgba(34,211,238,.12), transparent 60%), radial-gradient(900px 600px at -20% 10%, rgba(14,165,233,.12), transparent 60%), var(--bg); color:var(--text); line-height:1.6}
+    a{color:var(--brand)}
+    img{max-width:100%;display:block}
+    .container{max-width:1200px;margin-inline:auto;padding:24px}
+    /* Header */
+    header{position:sticky;top:0;backdrop-filter:saturate(1.2) blur(10px);background:linear-gradient(180deg, rgba(11,18,32,.8), rgba(11,18,32,.55)); border-bottom:1px solid rgba(148,163,184,.15); z-index:50}
+    .nav{display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--text)}
+    .logo{width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,var(--brand),var(--brand-2)); box-shadow:0 10px 25px rgba(14,165,233,.35)}
+    .brand h1{font-size:1.05rem;letter-spacing:.2px;margin:0;font-weight:700}
+    .nav a.link{color:var(--muted);text-decoration:none;font-weight:600}
+    .nav a.link:hover{color:var(--text)}
+    .cta{display:inline-flex;align-items:center;gap:10px;background:linear-gradient(135deg,var(--brand),var(--brand-2)); color:#04121a; border:none; padding:12px 18px; border-radius:999px; font-weight:800; letter-spacing:.2px; box-shadow:0 12px 30px rgba(14,165,233,.45); cursor:pointer}
+    .cta:focus{outline:none; box-shadow: var(--ring)}
+
+    /* Hero */
+    .hero{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:center;padding:56px 0}
+    .badge{display:inline-flex;gap:8px;align-items:center;padding:6px 10px;border-radius:999px;background:rgba(14,165,233,.12);color:var(--brand-2);font-weight:700;border:1px solid rgba(34,211,238,.2)}
+    .hero h2{font-size:clamp(2rem,4vw,3rem);line-height:1.15;margin:16px 0}
+    .kicker{color:var(--muted);font-size:1.05rem;margin-bottom:20px}
+    .hero-card{background:linear-gradient(180deg, rgba(15,23,42,.9), rgba(15,23,42,.6));border:1px solid rgba(148,163,184,.18);border-radius:var(--radius);box-shadow:var(--shadow);padding:22px}
+    .hero-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:16px}
+    .pill{background:rgba(148,163,184,.12);border:1px solid rgba(148,163,184,.2);border-radius:999px;padding:8px 12px;font-weight:600;color:#cfe7ff;text-align:center}
+
+    /* Sections */
+    section{padding:60px 0}
+    .section-title{font-size:1.6rem;margin:0 0 12px}
+    .section-kicker{color:var(--muted);margin:0 0 26px}
+    .cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+    .card{background:linear-gradient(180deg, rgba(15,23,42,.85), rgba(15,23,42,.65)); border:1px solid rgba(148,163,184,.18); border-radius:var(--radius); padding:22px; box-shadow:var(--shadow-soft)}
+    .card h3{margin:0 0 8px;font-size:1.2rem}
+    .tag{display:inline-flex;align-items:center;gap:8px;font-size:.95rem; color:#d5f5ff}
+
+    /* Pricing */
+    .pricing{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .price-card{position:relative}
+    .price{font-size:2rem;font-weight:900}
+    .strike{color:var(--muted);text-decoration:line-through;font-weight:600;font-size:1rem}
+    .ribbon{position:absolute;top:14px;right:-8px;background:linear-gradient(135deg,var(--accent),var(--brand));color:#032022;padding:6px 10px;border-radius:999px;font-weight:900;box-shadow:var(--shadow-soft)}
+
+    /* Logos / trust */
+    .trust{display:flex;flex-wrap:wrap;gap:28px;align-items:center;opacity:.9}
+    .trust img{height:36px;opacity:.85;filter:grayscale(100%)}
+
+    /* CTA block */
+    .cta-card{display:grid;grid-template-columns:1.2fr 1fr;gap:18px;align-items:center;background:linear-gradient(135deg, rgba(14,165,233,.16), rgba(34,211,238,.08)); border:1px solid rgba(34,211,238,.2); padding:24px; border-radius:var(--radius)}
+    .cta-form{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .input, textarea{background:rgba(2,6,23,.5);border:1px solid rgba(148,163,184,.25);border-radius:12px;padding:12px;color:var(--text)}
+    .input:focus, textarea:focus{outline:none; box-shadow: var(--ring); border-color: rgba(34,211,238,.5)}
+    textarea{min-height:100px;resize:vertical}
+    .disclaimer{color:var(--muted);font-size:.9rem}
+
+    /* FAQ */
+    details{background:rgba(148,163,184,.1); border:1px solid rgba(148,163,184,.2); padding:14px 16px; border-radius:12px}
+    summary{cursor:pointer;font-weight:800}
+
+    /* Footer */
+    footer{border-top:1px solid rgba(148,163,184,.15); padding:32px 0; color:var(--muted)}
+
+    /* Utilities */
+    .grid-2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    .grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+    .center{text-align:center}
+    .muted{color:var(--muted)}
+    .badge-inline{display:inline-block;margin-left:8px;vertical-align:middle}
+
+    @media (max-width: 980px){
+      .hero, .cta-card{grid-template-columns:1fr}
+      .hero-grid{grid-template-columns:repeat(2,1fr)}
+      .cards{grid-template-columns:1fr 1fr}
+      .pricing{grid-template-columns:1fr}
+      .grid-2{grid-template-columns:1fr}
+      .grid-4{grid-template-columns:1fr 1fr}
+    }
+    @media (max-width: 620px){
+      .hero-grid{grid-template-columns:1fr}
+      .cards{grid-template-columns:1fr}
+      .grid-4{grid-template-columns:1fr}
+    }
+  </style>
+  <script>
+    // Basic form handler (no back end) — replace with your endpoint later
+    function handleLead(e){
+      e.preventDefault();
+      const data = Object.fromEntries(new FormData(e.target).entries());
+      const pretty = `New lead for H2O Academy%0D%0A%0D%0AName: ${data.name || ''}%0DEmail: ${data.email || ''}%0DPhone: ${data.phone || ''}%0DInterest: ${data.interest || ''}%0DMessage: ${encodeURIComponent(data.message || '')}`;
+      window.location.href = `mailto:info@h2oacademy.com?subject=H2O%20Academy%20Lead&body=${pretty}`;
+    }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "H2O Academy",
+    "description": "Water Treatment and Distribution certification exam preparation (T1–T5, D1–D5), on‑site training for utilities, and practice exams.",
+    "url": "https://www.h2oacademy.com",
+    "sameAs": ["https://www.linkedin.com"],
+    "offers": {
+      "@type": "Offer",
+      "category": "Course",
+      "name": "Water Operator Certification Exam Prep",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+  </script>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container nav" aria-label="Primary">
+      <a class="brand" href="#top" aria-label="H2O Academy Home">
+        <span class="logo" aria-hidden="true"></span>
+        <h1>H2O Academy</h1>
+      </a>
+      <nav style="display:flex;gap:16px">
+        <a class="link" href="#courses">Courses</a>
+        <a class="link" href="#for-agencies">For Agencies</a>
+        <a class="link" href="#pricing">Pricing</a>
+        <a class="link" href="#faq">FAQ</a>
+        <a class="link" href="#contact">Contact</a>
+        <button class="cta" onclick="document.getElementById('lead').scrollIntoView({behavior:'smooth'})">Enroll</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <main id="top" class="container">
+    <section class="hero" aria-label="Hero">
+      <div>
+        <span class="badge">Water Operator Exam Prep</span>
+        <h2>Pass your T1–T5 & D1–D5 exams with confidence.</h2>
+        <p class="kicker">Expert‑led classes, targeted practice, and real‑world tips from industry pros. Choose live online, in‑person, or on‑site training for your team.</p>
+        <div class="hero-card">
+          <strong>What you'll get</strong>
+          <div class="hero-grid" role="list">
+            <div class="pill" role="listitem">Structured study plans</div>
+            <div class="pill" role="listitem">High‑yield practice questions</div>
+            <div class="pill" role="listitem">Exam strategies & timing</div>
+            <div class="pill" role="listitem">Math refreshers</div>
+            <div class="pill" role="listitem">Water quality & regulations</div>
+            <div class="pill" role="listitem">1:1 coaching available</div>
+          </div>
+          <div style="display:flex;gap:12px;margin-top:18px">
+            <button class="cta" onclick="document.getElementById('lead').scrollIntoView({behavior:'smooth'})">Get started</button>
+            <a class="link" href="#courses">See courses →</a>
+          </div>
+        </div>
+      </div>
+      <div aria-hidden="true">
+        <img src="https://images.unsplash.com/photo-1565793298595-6a879b1d889a?q=80&w=1400&auto=format&fit=crop" alt="Clean water being tested in a lab" style="border-radius:var(--radius);box-shadow:var(--shadow);border:1px solid rgba(148,163,184,.18)"/>
+      </div>
+    </section>
+
+    <!-- Trust / Logos -->
+    <section aria-label="Trusted by">
+      <div class="card">
+        <p class="muted center" style="margin-top:0">Trusted by operators and agencies across the region</p>
+        <div class="trust" aria-hidden="true">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/AWWA_logo.svg" alt="AWWA"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/US-EPA-Logo.svg" alt="US EPA"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/California_State_Seal.svg" alt="California"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/City_of_Los_Angeles_seal.svg" alt="City of Los Angeles"/>
+        </div>
+      </div>
+    </section>
+
+    <!-- Courses -->
+    <section id="courses" aria-label="Courses">
+      <h2 class="section-title">Courses for every level</h2>
+      <p class="section-kicker">Aligned to typical Water Treatment (T1–T5) and Water Distribution (D1–D5) exam bodies of knowledge.</p>
+      <div class="cards">
+        <article class="card">
+          <h3>Foundations (T1/D1)</h3>
+          <p>Perfect for first‑time testers. Covers safety, math basics, groundwater & surface water, distribution system components, storage, disinfection, and regulations.</p>
+          <ul>
+            <li>8 modules · 12 hours</li>
+            <li>Practice set: 250+ questions</li>
+            <li>Weekly live Q&A</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h3>Intermediate (T2–T3/D2–D3)</h3>
+          <p>Deepens process understanding: coagulation/flocculation, filtration, residuals, hydraulics, pumps, maps, cross‑connection control, and troubleshooting.</p>
+          <ul>
+            <li>10 modules · 18 hours</li>
+            <li>Practice set: 500+ questions</li>
+            <li>Timed mock exam</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h3>Advanced (T4–T5/D4–D5)</h3>
+          <p>High‑stakes prep with scenario questions, compliance strategy, advanced math, SCADA/controls, optimization, and leadership/ethics for supervisors.</p>
+          <ul>
+            <li>12 modules · 24 hours</li>
+            <li>Practice set: 800+ questions</li>
+            <li>1:1 coaching add‑on</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <!-- For Agencies -->
+    <section id="for-agencies" aria-label="For Agencies">
+      <h2 class="section-title">On‑site training for utilities & agencies</h2>
+      <p class="section-kicker">We bring exam prep and refresher modules to your facility—custom schedules, shift‑friendly sessions, and role‑based learning paths.</p>
+      <div class="grid-2">
+        <div class="card">
+          <h3>What’s included</h3>
+          <ul>
+            <li>Pre‑assessment & tailored syllabus</li>
+            <li>Instructor‑led sessions at your site or virtual</li>
+            <li>Attendance tracking & progress reporting</li>
+            <li>Group discounts and purchase orders accepted</li>
+          </ul>
+          <p class="muted">Note: If your state or agency requires specific contact hour approvals, we’ll align materials to those requirements and coordinate documentation.</p>
+        </div>
+        <div class="card">
+          <h3>Popular modules</h3>
+          <div class="grid-4">
+            <span class="pill">Regulations & compliance</span>
+            <span class="pill">Distribution hydraulics</span>
+            <span class="pill">Filtration & optimization</span>
+            <span class="pill">Disinfection & DBPs</span>
+            <span class="pill">Safety & confined space</span>
+            <span class="pill">Math drills</span>
+            <span class="pill">SCADA & alarms</span>
+            <span class="pill">Leadership & ethics</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pricing -->
+    <section id="pricing" aria-label="Pricing">
+      <h2 class="section-title">Simple pricing</h2>
+      <p class="section-kicker">Pick a plan now—upgrade any time.</p>
+      <div class="pricing">
+        <div class="card price-card">
+          <div class="ribbon" aria-hidden="true">Most Popular</div>
+          <h3>Standard</h3>
+          <p class="price">$349</p>
+          <p class="muted">Per student · 4 weeks</p>
+          <ul>
+            <li>Foundations or Intermediate track</li>
+            <li>Live weekly sessions</li>
+            <li>All practice sets & mock exam</li>
+            <li>Email support</li>
+          </ul>
+          <button class="cta" onclick="document.getElementById('lead').scrollIntoView({behavior:'smooth'})">Enroll</button>
+        </div>
+        <div class="card price-card">
+          <h3>Premium</h3>
+          <p><span class="strike">$699</span> <span class="price">$599</span></p>
+          <p class="muted">Per student · 6 weeks</p>
+          <ul>
+            <li>Advanced track or bundle</li>
+            <li>2× mock exams with analytics</li>
+            <li>Office hours + chat support</li>
+            <li>Certificate of completion</li>
+          </ul>
+          <button class="cta" onclick="document.getElementById('lead').scrollIntoView({behavior:'smooth'})">Go Premium</button>
+        </div>
+        <div class="card price-card">
+          <h3>Agency / Team</h3>
+          <p class="price">Custom</p>
+          <p class="muted">POs welcome</p>
+          <ul>
+            <li>On‑site or virtual cohort</li>
+            <li>Shift‑friendly scheduling</li>
+            <li>Progress reporting</li>
+            <li>Volume discounts</li>
+          </ul>
+          <a class="cta" href="#contact">Request a quote</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section aria-label="Testimonials">
+      <div class="cards">
+        <blockquote class="card">
+          <p>“Best prep I’ve taken. The math drills and test‑taking strategy made the difference—I passed D3 on the first try.”</p>
+          <div class="tag">— Utility Operator, Distribution</div>
+        </blockquote>
+        <blockquote class="card">
+          <p>“Clear, practical, and aligned to the exam. Our whole crew felt more confident heading into T2.”</p>
+          <div class="tag">— Training Coordinator</div>
+        </blockquote>
+        <blockquote class="card">
+          <p>“We booked the on‑site program for two shifts. Great pacing and useful handouts.”</p>
+          <div class="tag">— Water Systems Supervisor</div>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- CTA + Form -->
+    <section id="contact" aria-label="Contact">
+      <div class="cta-card">
+        <div>
+          <h2 class="section-title" style="margin-top:0">Let’s get you certified</h2>
+          <p class="section-kicker">Tell us what you need—individual course or team training—and we’ll follow up with dates and next steps.</p>
+          <p class="disclaimer">By submitting, you agree to be contacted about H2O Academy courses. We never sell your data.</p>
+        </div>
+        <form id="lead" class="cta-form" onsubmit="handleLead(event)">
+          <input class="input" type="text" name="name" placeholder="Full name" aria-label="Full name" required />
+          <input class="input" type="email" name="email" placeholder="Email" aria-label="Email" required />
+          <input class="input" type="tel" name="phone" placeholder="Phone (optional)" aria-label="Phone" />
+          <select class="input" name="interest" aria-label="Interest">
+            <option value="Foundations">Foundations (T1/D1)</option>
+            <option value="Intermediate">Intermediate (T2–T3/D2–D3)</option>
+            <option value="Advanced">Advanced (T4–T5/D4–D5)</option>
+            <option value="Agency">Agency / Team Training</option>
+          </select>
+          <textarea name="message" class="input" placeholder="Tell us about your goals, timeline, or team size…" aria-label="Message"></textarea>
+          <button class="cta" type="submit">Request info</button>
+        </form>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" aria-label="FAQ">
+      <h2 class="section-title">Frequently asked questions</h2>
+      <div class="grid-2">
+        <details class="card"><summary>Are your courses aligned to state exam outlines?</summary>
+          <p>Yes. We follow the typical bodies of knowledge for Water Treatment (T1–T5) and Water Distribution (D1–D5). If your state has specific content or format differences, we adapt materials accordingly.</p>
+        </details>
+        <details class="card"><summary>Do you offer contact hours or certificates?</summary>
+          <p>Students receive a certificate of completion. When contact hours are required/available through a host agency or partner, we provide the necessary documentation. Requirements vary by state and provider.</p>
+        </details>
+        <details class="card"><summary>What’s the class format?</summary>
+          <p>Live online or in‑person sessions with guided homework and practice exams. For agencies, we can run shift‑friendly blocks on‑site.</p>
+        </details>
+        <details class="card"><summary>Do you provide private tutoring?</summary>
+          <p>Yes—1:1 coaching is available as an add‑on for targeted support on math, regulations, or scenario‑based questions.</p>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer role="contentinfo">
+    <div class="container">
+      <div class="grid-2">
+        <div>
+          <strong>H2O Academy</strong>
+          <p class="muted">Water Treatment & Distribution Certification Exam Prep</p>
+          <p class="muted">Email: info@h2oacademy.com · Phone: (xxx) xxx‑xxxx</p>
+        </div>
+        <div class="muted">
+          <p>© <span id="year"></span> H2O Academy. All rights reserved.</p>
+          <p><a href="#">Privacy</a> · <a href="#">Terms</a></p>
+        </div>
+      </div>
+    </div>
+    <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
+  </footer>
+</body>
+</html>
