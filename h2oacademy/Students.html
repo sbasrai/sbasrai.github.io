@@ -147,8 +147,9 @@
       <li>About the <a href="#">Course</a></li>
       <li>Dates, format, pricing, CEU &bull; eligibility</li>
     </ul>
-    <div style="display:flex;justify-content:flex-end;">
+    <div style="display:flex;justify-content:flex-end;gap:12px;">
       <a class="btn" href="#" id="showPracticeBtn" style="font-size:1.1rem;">Start Quiz</a>
+      <a class="btn" href="homepage.html" style="font-size:1.1rem;">Return to Homepage</a>
     </div>
   </section>
 
@@ -157,9 +158,23 @@
     <h2>Practice Questions</h2>
     <label for="levelSelect" style="font-weight:bold;">Select Level:</label>
     <select id="levelSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
+      <option value="">--Select Level--</option>
       <option value="1">Level 1</option>
       <option value="2">Level 2</option>
       <option value="3">Level 3</option>
+    </select>
+    <label for="topicSelect" style="font-weight:bold;margin-left:18px;">Select Topic:</label>
+    <select id="topicSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
+      <option value="">--Select Topic--</option>
+      <option value="Water sources">Water sources</option>
+      <option value="Laboratory and Water Quality">Laboratory and Water Quality</option>
+      <option value="Regulations">Regulations</option>
+      <option value="Water Treatment">Water Treatment</option>
+      <option value="Disinfection">Disinfection</option>
+      <option value="Pumping">Pumping</option>
+      <option value="Distribution">Distribution</option>
+      <option value="Safety">Safety</option>
+      <option value="Ethics and Supervision">Ethics and Supervision</option>
     </select>
     <button class="btn" id="randomBtn" style="margin-left:12px;">Show Random Question</button>
     <div class="quiz" id="quiz"></div>
@@ -173,7 +188,6 @@
   <script>
   let questionsData = null;
 
-  // Show Practice Questions section and hide main content
   document.getElementById('showPracticeBtn').onclick = function(e) {
     e.preventDefault();
     document.querySelector('section.section').style.display = 'none';
@@ -190,20 +204,25 @@
     }
   };
 
-  // Back button returns to main content
   document.getElementById('backBtn').onclick = function() {
     document.getElementById('practiceSection').style.display = 'none';
     document.querySelector('section.section').style.display = 'block';
   };
 
-  // Show a random question for the selected level
   function showRandomQuestion() {
     const quizDiv = document.getElementById('quiz');
     quizDiv.innerHTML = '';
-    const selectedLevel = parseInt(document.getElementById('levelSelect').value, 10);
-    const filtered = questionsData.questions.filter(q => q.level === selectedLevel);
+    const selectedLevel = document.getElementById('levelSelect').value;
+    const selectedTopic = document.getElementById('topicSelect').value;
+    if (!selectedLevel || !selectedTopic) {
+      quizDiv.innerHTML = '';
+      return;
+    }
+    const filtered = questionsData.questions.filter(q => 
+      String(q.level) === selectedLevel && q.topic === selectedTopic
+    );
     if (filtered.length === 0) {
-      quizDiv.innerHTML = '<p>No questions available for this level.</p>';
+      quizDiv.innerHTML = '';
       return;
     }
     const q = filtered[Math.floor(Math.random() * filtered.length)];
@@ -219,8 +238,10 @@
     quizDiv.appendChild(div);
   }
 
-  // Change question when level changes or button is clicked
   document.getElementById('levelSelect').onchange = function() {
+    if (questionsData) showRandomQuestion();
+  };
+  document.getElementById('topicSelect').onchange = function() {
     if (questionsData) showRandomQuestion();
   };
   document.getElementById('randomBtn').onclick = function() {
