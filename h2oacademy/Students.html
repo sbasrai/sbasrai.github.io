@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<h3>Resume & Cover Letter Tailoring</h3>
+<p>Step‑by‑step instructions and editable templates.</p>
+<span class="card-link">Learn more →</span>
+</a>
+<a class="card" href="/interview-guide" aria-label="Interview preparation guide">
+<h3>Interview Preparation Guide</h3>
+<p>Questions, strong answers, and checklists.</p>
+<span class="card-link">Read guide →</span>
+</a>
+</div>
+</section>
+
+
+<!-- About Bassett Class + Notes Guide -->
+<section id="course" class="section">
+<div class="twocol">
+<div>
+<h2>Considering the Bassett Water Technology Class?</h2>
+<ul class="note-list">
+<li><a href="/about-course">About the Course</a> — schedule, format, pricing, CEU eligibility.</li>
+<li><a href="/notes-guide">Class Notes‑Taking Guide</a> — capture formulas, procedures, and exam tips.</li>
+</ul>
+</div>
+<div class="cta-band">
+<strong>Questions?</strong> We’re happy to help you choose the right path.
+<div class="cta" style="justify-content:center;margin-top:10px">
+<a class="btn" href="#enroll">Contact / Enroll</a>
+</div>
+</div>
+</div>
+</section>
+
+
+<!-- Practice Questions -->
+<section id="practice" class="section">
+  <h2>Practice Questions</h2>
+  <div class="quiz" id="quiz"></div>
+  <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answers</button>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<script>
+fetch('questions.yaml')
+  .then(response => response.text())
+  .then(yamlText => {
+    const data = jsyaml.load(yamlText);
+    function renderQuiz(){
+      const quizDiv=document.getElementById('quiz');
+      data.questions.forEach(q=>{
+        const div=document.createElement('div');
+        div.className='quiz-item';
+        div.innerHTML=`<h3>${q.text}</h3>`;
+        Object.entries(q.choices).forEach(([key,val])=>{
+          div.innerHTML+=`<label><input type="radio" name="${q.id}" value="${key}"> ${val}</label><br>`;
+        });
+        div.innerHTML+=`<div class="answer">Correct Answer: ${q.choices[q.correct]}<br>${q.solution||''}</div>`;
+        quizDiv.appendChild(div);
+      });
+    }
+    renderQuiz();
+  });
+</script>
+
+</div>
+</body>
+</html>
