@@ -1,46 +1,115 @@
 <!DOCTYPE html>
-<h3>Resume & Cover Letter Tailoring</h3>
-<p>Step‑by‑step instructions and editable templates.</p>
-<span class="card-link">Learn more →</span>
-</a>
-<a class="card" href="/interview-guide" aria-label="Interview preparation guide">
-<h3>Interview Preparation Guide</h3>
-<p>Questions, strong answers, and checklists.</p>
-<span class="card-link">Read guide →</span>
-</a>
-</div>
-</section>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>H2O Academy — For Students</title>
+  <style>
+    :root{--brand:#1b65d4;--nav:#0f2c52;--ink:#0b1b2b;--muted:#4a5d75;--line:#e6eef7;--bg:#f6f9fe;--white:#fff}
+    *{box-sizing:border-box;margin:0;padding:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif;color:var(--ink);background:var(--bg)}
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+    header.top{position:sticky;top:0;z-index:50;background:var(--white);border-bottom:1px solid var(--line)}
+    .nav{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:900}
+    .logo{width:32px;height:32px;border-radius:8px;background:var(--brand)}
+    .brandname{font-size:20px;letter-spacing:.4px;color:var(--brand)}
+    nav a{padding:10px 12px;border-radius:10px}
+    nav a:hover{background:var(--brand);color:#fff}
+    .hero{position:relative;isolation:isolate}
+    .hero-inner{padding:72px 0 60px;color:#fff}
+    .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,24,44,.15) 0%, rgba(10,24,44,.45) 55%, rgba(10,24,44,.65) 100%), url('https://images.unsplash.com/photo-1567067977901-30eb1c3718d6?q=80&w=1954&auto=format&fit=crop') center/cover no-repeat;z-index:-1}
+    h1{font-size:48px;line-height:1.02;margin:8px 0 8px;text-shadow:0 2px 18px rgba(0,0,0,.28)}
+    .sub{font-size:20px;max-width:1060px;color:#e9f2ff;margin:10px 0 26px}
+    .cta{display:flex;gap:16px;flex-wrap:wrap}
+    .btn{display:inline-block;padding:14px 18px;border-radius:14px;border:2px solid #203b63;background:#203b63;color:#fff;font-weight:800;box-shadow:0 6px 24px rgba(0,0,0,.18)}
+    .btn.alt{background:transparent;border-color:#e9f2ff;color:#fff}
+    section.section{padding:44px 0;border-top:1px solid var(--line)}
+    h2{font-size:30px;margin:0 0 12px}
+    .lead{color:var(--muted)}
+    .card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);margin-bottom:18px}
+    .card-link{color:var(--brand);font-weight:bold}
+    .quiz{background:#fff;padding:20px;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1)}
+    .quiz-item{margin-bottom:20px}
+    .quiz-item h3{margin-bottom:8px}
+    .quiz-options label{display:block;margin:4px 0}
+    .show-answer{margin-top:10px;padding:10px 16px;background:var(--brand);color:#fff;border:none;border-radius:6px;cursor:pointer;font-weight:bold}
+    .answer{display:none;margin-top:6px;color:green;font-weight:bold}
+    .twocol{display:flex;gap:32px;flex-wrap:wrap}
+    .cta-band{background:var(--brand);color:#fff;padding:18px;border-radius:12px;margin-top:18px}
+    @media (max-width:800px){.twocol{flex-direction:column;gap:18px}.hero-inner{padding:36px 0 30px}h1{font-size:32px}}
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap nav">
+      <div class="brand" aria-label="H2O Academy brand">
+        <span class="logo" aria-hidden="true"></span>
+        <span class="brandname">H2O ACADEMY</span>
+      </div>
+      <nav aria-label="Main">
+        <a href="homepage.html">Home</a>
+        <a href="PublicAgencies.html">Public Agencies</a>
+        <a href="Students.html">Students</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
 
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <h1>Student Resources &amp; Practice</h1>
+      <p class="sub">Guides, templates, and practice questions for water treatment and distribution operator exam success.</p>
+      <div class="cta">
+        <a class="btn" href="#practice">Practice Questions</a>
+        <a class="btn" href="#course">Bassett Class Info</a>
+      </div>
+    </div>
+  </section>
 
-<!-- About Bassett Class + Notes Guide -->
-<section id="course" class="section">
-<div class="twocol">
-<div>
-<h2>Considering the Bassett Water Technology Class?</h2>
-<ul class="note-list">
-<li><a href="/about-course">About the Course</a> — schedule, format, pricing, CEU eligibility.</li>
-<li><a href="/notes-guide">Class Notes‑Taking Guide</a> — capture formulas, procedures, and exam tips.</li>
-</ul>
-</div>
-<div class="cta-band">
-<strong>Questions?</strong> We’re happy to help you choose the right path.
-<div class="cta" style="justify-content:center;margin-top:10px">
-<a class="btn" href="#enroll">Contact / Enroll</a>
-</div>
-</div>
-</div>
-</section>
+  <section id="resources" class="section">
+    <div class="wrap">
+      <div class="card">
+        <h3>Resume &amp; Cover Letter Tailoring</h3>
+        <p>Step‑by‑step instructions and editable templates.</p>
+        <a class="card-link" href="#">Learn more →</a>
+      </div>
+      <div class="card">
+        <h3>Interview Preparation Guide</h3>
+        <p>Questions, strong answers, and checklists.</p>
+        <a class="card-link" href="/interview-guide">Read guide →</a>
+      </div>
+    </div>
+  </section>
 
+  <section id="course" class="section">
+    <div class="wrap twocol">
+      <div>
+        <h2>Considering the Bassett Water Technology Class?</h2>
+        <ul class="note-list">
+          <li><a href="/about-course">About the Course</a> — schedule, format, pricing, CEU eligibility.</li>
+          <li><a href="/notes-guide">Class Notes‑Taking Guide</a> — capture formulas, procedures, and exam tips.</li>
+        </ul>
+      </div>
+      <div class="cta-band">
+        <strong>Questions?</strong> We’re happy to help you choose the right path.
+        <div class="cta" style="justify-content:center;margin-top:10px">
+          <a class="btn" href="#enroll">Contact / Enroll</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<!-- Practice Questions -->
-<section id="practice" class="section">
-  <h2>Practice Questions</h2>
-  <div class="quiz" id="quiz"></div>
-  <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answers</button>
-</section>
+  <section id="practice" class="section">
+    <div class="wrap">
+      <h2>Practice Questions</h2>
+      <div class="quiz" id="quiz"></div>
+      <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answers</button>
+    </div>
+  </section>
 
-<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
-<script>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+  <script>
 fetch('questions.yaml')
   .then(response => response.text())
   .then(yamlText => {
@@ -60,7 +129,7 @@ fetch('questions.yaml')
     }
     renderQuiz();
   });
-</script>
+  </script>
 
 </div>
 </body>
