@@ -100,14 +100,6 @@
     </div>
   </section>
 
-  <section id="practice" class="section">
-    <div class="wrap">
-      <h2>Practice Questions</h2>
-      <div class="quiz" id="quiz"></div>
-      <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answers</button>
-    </div>
-  </section>
-
   <section class="section" style="background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);max-width:800px;margin:40px auto;padding:36px 28px;">
     <h2 style="font-size:2rem;margin-bottom:18px;">Launch or Advance Your Career in Water</h2>
     <p>At Bassett Adult School, I teach a 16‑session, 3.5‑hour per‑class Water Technology course designed to prepare you for the State Water Resources Control Board (SWRCB) certification.</p>
@@ -156,31 +148,56 @@
       <li>Dates, format, pricing, CEU &bull; eligibility</li>
     </ul>
     <div style="display:flex;justify-content:flex-end;">
-      <a class="btn" href="#practice" style="font-size:1.1rem;">Start Quiz</a>
+      <a class="btn" href="#" id="showPracticeBtn" style="font-size:1.1rem;">Start Quiz</a>
+    </div>
+  </section>
+
+  <!-- Practice Questions Modal/Section (hidden by default) -->
+  <section id="practiceSection" class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);max-width:800px;margin:40px auto;padding:36px 28px;">
+    <h2>Practice Questions</h2>
+    <div class="quiz" id="quiz"></div>
+    <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answers</button>
+    <div style="margin-top:24px;">
+      <button class="btn" id="backBtn" style="font-size:1rem;">Back to Student Resources</button>
     </div>
   </section>
 
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script>
-fetch('questions.yaml')
-  .then(response => response.text())
-  .then(yamlText => {
-    const data = jsyaml.load(yamlText);
-    function renderQuiz(){
-      const quizDiv=document.getElementById('quiz');
-      data.questions.forEach(q=>{
-        const div=document.createElement('div');
-        div.className='quiz-item';
-        div.innerHTML=`<h3>${q.text}</h3>`;
-        Object.entries(q.choices).forEach(([key,val])=>{
-          div.innerHTML+=`<label><input type="radio" name="${q.id}" value="${key}"> ${val}</label><br>`;
-        });
-        div.innerHTML+=`<div class="answer">Correct Answer: ${q.choices[q.correct]}<br>${q.solution||''}</div>`;
-        quizDiv.appendChild(div);
-      });
-    }
-    renderQuiz();
-  });
+    // Show Practice Questions section and hide main content
+    document.getElementById('showPracticeBtn').onclick = function(e) {
+      e.preventDefault();
+      document.querySelector('section.section').style.display = 'none';
+      document.getElementById('practiceSection').style.display = 'block';
+      // Only render quiz if not already rendered
+      if (!document.getElementById('quiz').hasChildNodes()) {
+        fetch('questions.yaml')
+          .then(response => response.text())
+          .then(yamlText => {
+            const data = jsyaml.load(yamlText);
+            function renderQuiz(){
+              const quizDiv=document.getElementById('quiz');
+              data.questions.forEach(q=>{
+                const div=document.createElement('div');
+                div.className='quiz-item';
+                div.innerHTML=`<h3>${q.text}</h3>`;
+                Object.entries(q.choices).forEach(([key,val])=>{
+                  div.innerHTML+=`<label><input type="radio" name="${q.id}" value="${key}"> ${val}</label><br>`;
+                });
+                div.innerHTML+=`<div class="answer">Correct Answer: ${q.choices[q.correct]}<br>${q.solution||''}</div>`;
+                quizDiv.appendChild(div);
+              });
+            }
+            renderQuiz();
+          });
+      }
+    };
+
+    // Back button returns to main content
+    document.getElementById('backBtn').onclick = function() {
+      document.getElementById('practiceSection').style.display = 'none';
+      document.querySelector('section.section').style.display = 'block';
+    };
   </script>
 
 </div>
