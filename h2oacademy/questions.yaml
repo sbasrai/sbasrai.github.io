@@ -9,6 +9,7 @@ questions:
       d: "50 to 70 %"
     correct: b
     level: 1
+    topic: Disinfection
 
   - id: Q2
     text: "Which type of valve is used to isolate a pump on the suction side?"
@@ -20,6 +21,7 @@ questions:
       d: "Ball valve"
     correct: c
     level: 1
+    topic: Pumping
 
   - id: Q3
     text: "Water hammer can be described as"
@@ -31,6 +33,7 @@ questions:
       d: "longitudinal waves."
     correct: b
     level: 2
+    topic: Distribution
 
   - id: Q4
     text: "When fully opened, which valve will have the highest head loss?"
@@ -42,6 +45,7 @@ questions:
       d: "Ball valve"
     correct: c
     level: 2
+    topic: Distribution
 
   - id: Q5
     text: "Which type of pressure sensor uses a wire fastened to a diaphragm?"
@@ -53,6 +57,7 @@ questions:
       d: "Diaphragm element"
     correct: b
     level: 3
+    topic: Laboratory and Water Quality
 
   - id: Q6
     text: "What water horsepower (whp) is required for a pump that delivers 650 gpm to a total head of 195 feet?"
@@ -68,3 +73,4 @@ questions:
       Q = 650 gpm, H = 195 ft
       whp = (650 × 195) / 3960 = 126,750 / 3,960 ≈ 32.0 whp → 32 whp (choice c)
     level: 3
+    topic: Pumping
