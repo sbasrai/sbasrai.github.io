@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>H2O Academy — Preparing Water Professionals for Success</title>
+  <style>
+    :root{
+      --brand:#1b65d4; /* academy blue */
+      --nav:#0f2c52;   /* deep navy */
+      --ink:#0b1b2b;   /* dark text */
+      --muted:#4a5d75; /* secondary text */
+      --line:#e6eef7;  /* border */
+      --bg:#f6f9fe;    /* page bg */
+      --white:#ffffff;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif;color:var(--ink);background:var(--bg)}
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:1280px;margin:0 auto}
+
+    /* Top Bar */
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 20px;background:var(--white);border-bottom:1px solid var(--line)}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:900}
+    .logo{width:34px;height:34px;border-radius:8px;background:var(--brand);display:inline-block}
+    .brandname{font-size:20px;letter-spacing:.4px;color:var(--brand)}
+    .meta{color:var(--nav);font-size:14px;line-height:1.25;text-align:right}
+
+    /* Hero */
+    .hero{position:relative;isolation:isolate}
+    .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,24,44,.15) 0%, rgba(10,24,44,.45) 55%, rgba(10,24,44,.65) 100%), url('https://images.unsplash.com/photo-1567067977901-30eb1c3718d6?q=80&w=1954&auto=format&fit=crop') center/cover no-repeat;z-index:-1}
+    /* NOTE: Replace the image URL above with your own facility photo if desired. */
+    .hero-inner{padding:72px 20px 110px;max-width:1280px;margin:0 auto;color:#fff}
+    .kicker{font-size:18px;opacity:.9;margin:6px 0 14px}
+    h1{font-size:56px;line-height:1.02;margin:8px 0 8px;text-shadow:0 2px 18px rgba(0,0,0,.28)}
+    h1 .break{display:block}
+    .sub{font-size:20px;max-width:1060px;color:#e9f2ff;margin:10px 0 26px}
+
+    /* CTAs */
+    .cta{display:flex;gap:16px;flex-wrap:wrap}
+    .btn{display:inline-block;padding:14px 18px;border-radius:14px;border:2px solid #203b63;background:#203b63;color:#fff;font-weight:800;box-shadow:0 6px 24px rgba(0,0,0,.18)}
+    .btn.alt{background:transparent;border-color:#e9f2ff;color:#fff}
+    .btn:focus{outline:3px solid rgba(255,255,255,.6);outline-offset:2px}
+
+    /* Below-hero line (optional) */
+    .under{background:var(--white);border-top:1px solid var(--line);padding:22px 20px}
+    .under p{max-width:980px;margin:0 auto;color:var(--muted);text-align:center}
+
+    /* Responsive */
+    @media (max-width:900px){h1{font-size:44px}.hero-inner{padding:56px 16px 80px}.meta{font-size:13px}}
+    @media (max-width:560px){h1{font-size:34px}.brandname{font-size:18px}.hero-inner{padding:46px 14px 64px}.cta .btn{flex:1;min-width:220px;text-align:center}}
+  </style>
+</head>
+<body>
+  <header class="topbar wrap" role="banner">
+    <div class="brand" aria-label="H2O Academy brand">
+      <span class="logo" aria-hidden="true"></span>
+      <span class="brandname">H2O ACADEMY</span>
+    </div>
+    <div class="meta" aria-label="Header information">
+      <div><strong>Expert Water Operator Training</strong> — Led by Shabbir Basrai, PE (Chemical)</div>
+      <div>Delivering SWRCB‑Approved Specialized &amp; Continuing Education</div>
+    </div>
+  </header>
+
+  <section class="hero" aria-label="Homepage hero">
+    <div class="hero-inner">
+      <h1>Preparing Water Professionals <span class="break">for Success</span></h1>
+      <p class="sub">Training the next generation of water treatment and distribution operators while advancing the skills of today’s workforce.</p>
+      <div class="cta">
+        <a class="btn" href="./PublicAgencies.html">For Public Agencies</a>
+        <a class="btn alt" href="students.html">For Students</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="under">
+    <p>Advancing next‑generation water treatment and distribution operators while strengthening the skills of today’s workforce.</p>
+  </section>
+</body>
+</html>
