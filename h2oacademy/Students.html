@@ -162,39 +162,20 @@
       <div style="display:flex;justify-content:flex-end;gap:12px;">
         <a class="btn" href="#" id="showPracticeBtn" style="font-size:1.1rem;">Start Quiz</a>
         <a class="btn" href="homepage.html" style="font-size:1.1rem;">Return to Homepage</a>
+        <a class="btn" href="#" id="showJobsBtn" style="font-size:1.1rem;">Water Job Openings</a>
       </div>
     </div>
   </section>
 
-  <!-- Practice Questions Modal/Section (hidden by default) -->
-  <section id="practiceSection" class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
+  <!-- Water Job Openings Modal/Section (hidden by default) -->
+  <section id="jobsSection" class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
     <div class="wrap">
-      <h2>Practice Questions</h2>
-      <label for="levelSelect" style="font-weight:bold;">Select Level:</label>
-      <select id="levelSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
-        <option value="">--Select Level--</option>
-        <option value="1">Level 1</option>
-        <option value="2">Level 2</option>
-        <option value="3">Level 3</option>
-      </select>
-      <label for="topicSelect" style="font-weight:bold;margin-left:18px;">Select Topic:</label>
-      <select id="topicSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
-        <option value="">--Select Topic--</option>
-        <option value="Water sources">Water sources</option>
-        <option value="Laboratory and Water Quality">Laboratory and Water Quality</option>
-        <option value="Regulations">Regulations</option>
-        <option value="Water Treatment">Water Treatment</option>
-        <option value="Disinfection">Disinfection</option>
-        <option value="Pumping">Pumping</option>
-        <option value="Distribution">Distribution</option>
-        <option value="Safety">Safety</option>
-        <option value="Ethics and Supervision">Ethics and Supervision</option>
-      </select>
-      <button class="btn" id="randomBtn" style="margin-left:12px;">Show Random Question</button>
-      <div class="quiz" id="quiz"></div>
-      <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answer</button>
+      <h2>Water Job Openings</h2>
+      <div class="grid-3" id="jobsGrid">
+        <!-- Cards will be injected here -->
+      </div>
       <div style="margin-top:24px;">
-        <button class="btn" id="backBtn" style="font-size:1rem;">Back to Student Resources</button>
+        <button class="btn" id="backJobsBtn" style="font-size:1rem;">Back to Student Resources</button>
       </div>
     </div>
   </section>
@@ -221,6 +202,18 @@
 
   document.getElementById('backBtn').onclick = function() {
     document.getElementById('practiceSection').style.display = 'none';
+    document.querySelector('section.section').style.display = 'block';
+  };
+
+  document.getElementById('showJobsBtn').onclick = function(e) {
+    e.preventDefault();
+    document.querySelector('section.section').style.display = 'none';
+    document.getElementById('jobsSection').style.display = 'block';
+    renderJobs();
+  };
+
+  document.getElementById('backJobsBtn').onclick = function() {
+    document.getElementById('jobsSection').style.display = 'none';
     document.querySelector('section.section').style.display = 'block';
   };
 
@@ -251,6 +244,38 @@
     }
     div.innerHTML += `<div class="answer">Correct Answer: ${q.choices && q.correct ? q.choices[q.correct] : ''}<br>${q.solution || ''}</div>`;
     quizDiv.appendChild(div);
+  }
+
+  function renderJobs() {
+    const jobs = [
+      { url: "https://www.governmentjobs.com/jobs/2949539-0/water-system-operator", name: "Government Jobs" },
+      { url: "https://water.ca.gov/about/careers", name: "California Department of Water Resources" },
+      { url: "https://jobs.cwea.org/jobs", name: "CWEA" },
+      { url: "https://www.waterdistrictjobs.com", name: "Water Districts Jobs" },
+      { url: "https://lacity.gov/jobs/openings", name: "City of Los Angeles" },
+      { url: "https://www.indeed.com/jobs?q=water&l=California&vjk=b526b311e601df8c", name: "Indeed" },
+      { url: "https://www.usajobs.gov/Search/Results?l=&k=Water", name: "USA Jobs" },
+      { url: "https://www.ziprecruiter.com/Jobs/D1-Water/--in-California", name: "Zip Recruiter" },
+      { url: "https://www.governmentjobs.com/careers/ieua", name: "Government Jobs @ IEUA" },
+      { url: "https://www.linkedin.com/jobs/search/?currentJobId=4255237113&geoId=102095887&keywords=water&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true", name: "LinkedIn" },
+      { url: "https://www.ladwp.com/who-we-are/careers", name: "LADWP" },
+      { url: "https://www.calcareers.ca.gov/CalHRPublic/Search/JobSearchResults.aspx#kw=WAter", name: "California Government" },
+      { url: "https://www.calopps.org/", name: "CalOps" }
+    ];
+    const grid = document.getElementById('jobsGrid');
+    grid.innerHTML = '';
+    jobs.forEach(job => {
+      const card = document.createElement('a');
+      card.className = 'card';
+      card.href = job.url;
+      card.target = '_blank';
+      card.rel = 'noopener noreferrer';
+      card.style.display = 'block';
+      card.style.textAlign = 'center';
+      card.style.cursor = 'pointer';
+      card.innerHTML = `<strong>${job.name}</strong>`;
+      grid.appendChild(card);
+    });
   }
 
   document.getElementById('levelSelect').onchange = function() {
