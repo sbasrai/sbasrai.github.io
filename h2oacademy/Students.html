@@ -205,9 +205,9 @@
     document.querySelector('section.section').style.display = 'block';
   };
 
+  // Show jobs section and hide all others
   document.getElementById('showJobsBtn').onclick = function(e) {
     e.preventDefault();
-    // Hide all .section elements except jobsSection
     document.querySelectorAll('section.section').forEach(function(sec){
       sec.style.display = 'none';
     });
@@ -215,9 +215,9 @@
     renderJobs();
   };
 
+  // Hide jobs section and show all others
   document.getElementById('backJobsBtn').onclick = function() {
     document.getElementById('jobsSection').style.display = 'none';
-    // Show all .section elements except jobsSection
     document.querySelectorAll('section.section').forEach(function(sec){
       if(sec.id !== 'jobsSection') sec.style.display = '';
     });
