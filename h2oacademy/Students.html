@@ -171,8 +171,39 @@
     </div>
   </section>
 
-  <!-- Job Listings Modal/Section (hidden by default) -->
-  <section id="jobsSection" class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
+  <section id="practiceSection" class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
+    <div class="wrap">
+      <h2>Practice Questions</h2>
+      <label for="levelSelect" style="font-weight:bold;">Select Level:</label>
+      <select id="levelSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
+        <option value="">--Select Level--</option>
+        <option value="1">Level 1</option>
+        <option value="2">Level 2</option>
+        <option value="3">Level 3</option>
+      </select>
+      <label for="topicSelect" style="font-weight:bold;margin-left:18px;">Select Topic:</label>
+      <select id="topicSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
+        <option value="">--Select Topic--</option>
+        <option value="Water sources">Water sources</option>
+        <option value="Laboratory and Water Quality">Laboratory and Water Quality</option>
+        <option value="Regulations">Regulations</option>
+        <option value="Water Treatment">Water Treatment</option>
+        <option value="Disinfection">Disinfection</option>
+        <option value="Pumping">Pumping</option>
+        <option value="Distribution">Distribution</option>
+        <option value="Safety">Safety</option>
+        <option value="Ethics and Supervision">Ethics and Supervision</option>
+      </select>
+      <button class="btn" id="randomBtn" style="margin-left:12px;">Show Random Question</button>
+      <div class="quiz" id="quiz"></div>
+      <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answer</button>
+      <div style="margin-top:24px;">
+        <button class="btn" id="backBtn" style="font-size:1rem;">Back to Student Resources</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
     <div class="wrap">
       <h2>Job Listings</h2>
       <div class="grid-3" id="jobsGrid">
