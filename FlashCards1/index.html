@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flashcards</title>
+  <style>
+    :root { --bg:#0b1220; --panel:#121a2b; --muted:#9fb0d7; --accent:#4da3ff; --text:#e6edff; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial; background:var(--bg); color:var(--text); }
+    header { display:flex; align-items:center; gap:12px; padding:16px 20px; border-bottom:1px solid rgba(255,255,255,.08); background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,0)); }
+    header h1 { font-size:18px; margin:0; font-weight:600; }
+    header .hint { color:var(--muted); font-size:12px; }
+    .wrap { max-width:980px; margin:0 auto; padding:20px; }
+    .controls { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:16px; }
+    .controls input[type="text"] { flex:1 1 260px; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,.12); background:var(--panel); color:var(--text); }
+    .controls button { padding:10px 14px; border-radius:10px; border:1px solid rgba(255,255,255,.12); background:#17223a; color:var(--text); cursor:pointer; }
+    .controls button:hover { background:#1b2947; }
+    .stats { display:flex; gap:10px; align-items:center; color:var(--muted); font-size:13px; margin-bottom:12px; }
+    .stat { background:#0e1730; padding:6px 10px; border-radius:999px; border:1px solid rgba(255,255,255,.08); }
+    .card { position:relative; height:320px; border-radius:16px; background:linear-gradient(180deg,#12203a,#0f1b31); border:1px solid rgba(255,255,255,.08); box-shadow:0 10px 30px rgba(0,0,0,.35); display:flex; align-items:center; justify-content:center; padding:24px; text-align:center; cursor:pointer; perspective:1000px; }
+    .inner { position:relative; width:100%; height:100%; transition:transform .6s; transform-style:preserve-3d; }
+    .card.flipped .inner { transform:rotateY(180deg); }
+    .face { position:absolute; inset:0; padding:24px; display:flex; align-items:center; justify-content:center; backface-visibility:hidden; }
+    .front { font-size:1.25rem; line-height:1.5; }
+    .back { transform:rotateY(180deg); background:linear-gradient(180deg,#0f1a31,#0d172a); border-radius:16px; font-size:1.15rem; line-height:1.5; }
+    .actions { display:flex; gap:10px; margin-top:14px; }
+    .btn { flex:1; padding:12px; border-radius:12px; border:1px solid rgba(255,255,255,.12); background:#101a31; color:var(--text); cursor:pointer; font-weight:600; }
+    .btn.good:hover { background:#123025; }
+    .btn.again:hover { background:#2f1f14; }
+    .empty { padding:30px; border:1px dashed rgba(255,255,255,.18); border-radius:16px; text-align:center; color:var(--muted); }
+    footer { text-align:center; color:var(--muted); font-size:12px; padding:18px 0 30px; }
+    code.small { background:#0e1730; padding:2px 6px; border-radius:6px; border:1px solid rgba(255,255,255,.08); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Flashcards</h1>
+    <span class="hint">Press <b>Space</b> to flip · <b>←/→</b> prev/next · <b>G</b> good · <b>A</b> again</span>
+  </header>
+
+  <div class="wrap">
+    <div class="controls">
+      <input id="search" type="text" placeholder="Search cards…" />
+      <button id="shuffle">Shuffle</button>
+      <span class="pill">Loaded: <span id="count">0</span></span>
+    </div>
+
+    <div class="stats">
+      <span class="stat">Due: <span id="due">0</span></span>
+      <span class="stat">Known: <span id="known">0</span></span>
+      <span class="stat">Again: <span id="again">0</span></span>
+    </div>
+
+    <div id="stage">
+      <div class="empty">Place a <code class="small">cards.csv</code> file in the same folder. Expected columns: <b>Front, Back</b>.</div>
+    </div>
+
+    <footer>
+      Works with GitHub Pages — no server needed. Just keep <code class="small">index.html</code> and <code class="small">cards.csv</code> together.
+    </footer>
+  </div>
+
+  <script>
+    const SOURCE = 'cards.csv';
+
+    function parseCSV(text, delimiter = ',') {
+      const rows = []; let i=0, field='', row=[], inQuotes=false;
+      const pushField=()=>{row.push(field); field='';};
+      const pushRow=()=>{rows.push(row); row=[];};
+      while(i<text.length){ const c=text[i];
+        if(inQuotes){ if(c=='\"'){ if(text[i+1]=='\"'){field+='\"'; i++;} else inQuotes=false; }
+          else field+=c;
+        } else {
+          if(c=='\"') inQuotes=true;
+          else if(c==delimiter) pushField();
+          else if(c=='\\n'){pushField(); pushRow();}
+          else if(c=='\\r'){}
+          else field+=c;
+        } i++;
+      }
+      pushField(); if(row.length) pushRow();
+      return rows.filter(r=>r.join('').trim().length);
+    }
+
+    async function loadDeck(){
+      try {
+        const res = await fetch(SOURCE+`?t=${Date.now()}`);
+        const text = await res.text();
+        const rows = parseCSV(text, ',');
+        let start=0;
+        if(rows[0][0].toLowerCase().includes('front')) start=1;
+        return rows.slice(start).map(r=>({front:(r[0]||'').trim(), back:(r[1]||'').trim()})).filter(c=>c.front&&c.back);
+      } catch(e){ console.warn(e); return []; }
+    }
+
+    let cards=[], filtered=[], idx=0, flipped=false, knownCount=0, againCount=0;
+
+    function renderCard(){
+      const stage=document.getElementById('stage');
+      stage.innerHTML='';
+      if(!filtered.length){ stage.innerHTML='<div class="empty">No cards loaded.</div>'; return; }
+      const c=filtered[idx];
+      const card=document.createElement('div');
+      card.className='card'+(flipped?' flipped':'');
+      card.innerHTML=`<div class="inner"><div class="face front">${escapeHtml(c.front)}</div><div class="face back">${escapeHtml(c.back)}</div></div>`;
+      card.addEventListener('click',()=>{flipped=!flipped; renderCard();});
+      stage.appendChild(card);
+      renderActions();
+      document.getElementById('due').textContent = String(filtered.length-knownCount);
+    }
+
+    function renderActions(){
+      let actions=document.querySelector('.actions');
+      if(!actions){actions=document.createElement('div');actions.className='actions';document.querySelector('.wrap').appendChild(actions);}
+      actions.innerHTML='';
+      const againBtn=document.createElement('button'); againBtn.className='btn again'; againBtn.textContent='Again'; againBtn.onclick=()=>{againCount++; nextCard();};
+      const goodBtn=document.createElement('button'); goodBtn.className='btn good'; goodBtn.textContent='Good'; goodBtn.onclick=()=>{knownCount++; nextCard();};
+      actions.appendChild(againBtn); actions.appendChild(goodBtn);
+      document.getElementById('known').textContent=String(knownCount);
+      document.getElementById('again').textContent=String(againCount);
+    }
+
+    function nextCard(){flipped=false; idx=(idx+1)%filtered.length; renderCard();}
+    function prevCard(){flipped=false; idx=(idx-1+filtered.length)%filtered.length; renderCard();}
+    function escapeHtml(s){return s.replace(/[&<>\"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[ch]));}
+    function applyFilter(q){const query=q.toLowerCase(); filtered=cards.filter(c=>c.front.toLowerCase().includes(query)||c.back.toLowerCase().includes(query)); idx=0; flipped=false; renderCard();}
+
+    async function boot(){ cards=await loadDeck(); filtered=cards.slice(); shuffle(filtered); renderCard(); document.getElementById('count').textContent=cards.length; }
+    function shuffle(arr){for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]];}}
+
+    document.getElementById('shuffle').addEventListener('click',()=>{shuffle(filtered); idx=0; flipped=false; renderCard();});
+    document.getElementById('search').addEventListener('input',e=>applyFilter(e.target.value));
+    document.addEventListener('keydown',e=>{if(e.key===' '){e.preventDefault();flipped=!flipped;renderCard();} else if(e.key==='ArrowRight'){nextCard();} else if(e.key==='ArrowLeft'){prevCard();} else if(e.key.toLowerCase()==='g'){knownCount++;nextCard();} else if(e.key.toLowerCase()==='a'){againCount++;nextCard();}});
+
+    boot();
+  </script>
+</body>
+</html>
