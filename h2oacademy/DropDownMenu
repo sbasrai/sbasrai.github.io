@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>H2O Academy – Navigation Prototype</title>
+  <style>
+    :root{--brand:#0a6aa6;--accent:#0ea5b1;--bg:#f6fbfe;--ink:#0f172a;--muted:#475569;--card:#fff}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,Segoe UI,Roboto,Inter,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+    a{color:inherit}
+
+    /* Top bar (Home) */
+    header.top{position:sticky;top:0;z-index:20;background:var(--brand);color:#fff;display:flex;align-items:center;gap:18px;padding:12px 16px}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:700}
+    .brand .logo{width:28px;height:28px;border-radius:6px;background:#fff}
+    nav.toplinks{margin-left:auto;display:flex;gap:10px}
+    nav.toplinks a{padding:8px 10px;border-radius:8px;text-decoration:none;color:#e6f7ff}
+    nav.toplinks a:hover{background:rgba(255,255,255,.14)}
+
+    .wrap{max-width:1100px;margin:0 auto;padding:18px}
+    .card{background:var(--card);border:1px solid #e2e8f0;border-radius:14px;padding:18px;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .grid{display:grid;gap:18px}
+
+    h1{margin:.2rem 0 1rem;font-size:1.8rem}
+    h2{margin:0 0 .7rem;font-size:1.25rem}
+    p{color:var(--muted)}
+    .btn{display:inline-block;background:var(--brand);color:#fff;text-decoration:none;border-radius:10px;padding:10px 14px}
+    .btn.secondary{background:var(--accent)}
+
+    /* Page switcher */
+    .page{display:none}
+    .page.active{display:block}
+
+    /* Sidebar layout (Students & Agencies) */
+    .shell{display:grid;grid-template-columns:260px 1fr;gap:20px}
+    aside.sidebar{position:sticky;top:16px;background:var(--card);border:1px solid #e2e8f0;border-radius:14px;padding:14px}
+    .sidebar h3{margin:6px 6px 10px;font-size:1rem;color:var(--brand)}
+    .navlist{list-style:none;margin:0;padding:0}
+    .navlist li{margin:6px 0}
+    .navlist a{display:block;padding:8px 10px;border-radius:8px;text-decoration:none}
+    .navlist a:hover{background:#e9fbff}
+
+    .section{scroll-margin-top:80px}
+
+    /* Responsive */
+    @media (max-width:900px){
+      .shell{grid-template-columns:1fr}
+      aside.sidebar{position:relative}
+      nav.toplinks{gap:6px}
+    }
+  </style>
+</head>
+<body>
+  <!-- Top nav present on all views for consistency -->
+  <header class="top">
+    <div class="brand"><span class="logo"></span> H2O Academy</div>
+    <nav class="toplinks" aria-label="Primary">
+      <a href="#home" data-view="home">Home</a>
+      <a href="#students" data-view="students">Students</a>
+      <a href="#agencies" data-view="agencies">Public Agencies</a>
+      <a href="#contact" data-view="home">Contact</a>
+    </nav>
+  </header>
+
+  <!-- HOME -->
+  <main id="home" class="page active">
+    <div class="wrap grid" style="grid-template-columns:1fr 1fr;align-items:start">
+      <section class="card">
+        <h1>Training for Water Operators & Agencies</h1>
+        <p>Exam prep (T1–T5, D1–D5, AWTO), CEU workshops, and custom on‑site trainings. Explore resources for students or build a tailored agenda for your agency.</p>
+        <div style="display:flex;gap:10px;margin-top:10px">
+          <a class="btn" data-view="students" href="#students">Students</a>
+          <a class="btn secondary" data-view="agencies" href="#agencies">Public Agencies</a>
+        </div>
+      </section>
+      <section class="card">
+        <h2>Popular Topics</h2>
+        <ul class="navlist">
+          <li>Water Math Essentials</li>
+          <li>Treatment Processes & Operations</li>
+          <li>Distribution System Operation</li>
+          <li>SCADA Basics</li>
+          <li>Safety & Regulations</li>
+        </ul>
+      </section>
+      <section class="card" id="contact" style="grid-column:1 / -1">
+        <h2>Contact</h2>
+        <p>Email: info@h2oacademy.org • Phone: (555) 555‑0123</p>
+      </section>
+    </div>
+  </main>
+
+  <!-- STUDENTS -->
+  <main id="students" class="page" aria-labelledby="students-title">
+    <div class="wrap">
+      <h1 id="students-title">Students</h1>
+      <div class="shell">
+        <aside class="sidebar" aria-label="Student navigation">
+          <h3>Resources</h3>
+          <ul class="navlist">
+            <li><a href="#ebook" data-jump="ebook">eBook / Textbook</a></li>
+            <li><a href="#swrcb" data-jump="swrcb">SWRCB Exam Info</a></li>
+            <li><a href="#practice" data-jump="practice">Practice Questions / Exams</a></li>
+            <li><a href="#downloads" data-jump="downloads">Downloads & Formula Sheets</a></li>
+          </ul>
+        </aside>
+        <div class="grid" style="grid-template-columns:1fr">
+          <section id="ebook" class="card section">
+            <h2>eBook / Textbook</h2>
+            <p>Open the living textbook for Water Math, Treatment, Distribution, Safety, SCADA, and Hydrology.</p>
+            <a class="btn" href="#" title="Replace with your eBook URL">Open eBook (placeholder)</a>
+          </section>
+          <section id="swrcb" class="card section">
+            <h2>SWRCB Exam Information</h2>
+            <div style="display:flex;gap:8px;margin-bottom:10px">
+              <button class="btn" style="padding:8px 10px" data-tab="t">Treatment</button>
+              <button class="btn secondary" style="padding:8px 10px" data-tab="d">Distribution</button>
+              <button class="btn secondary" style="padding:8px 10px" data-tab="a">AWTO</button>
+            </div>
+            <div id="tab-t"><p>Eligibility, application windows, required experience, and subject outlines for T1–T5.</p></div>
+            <div id="tab-d" hidden><p>Eligibility, application windows, required experience, and subject outlines for D1–D5.</p></div>
+            <div id="tab-a" hidden><p>AWTO pathways, exam domains, and advanced study resources.</p></div>
+            <a class="btn" href="#" title="Replace with SWRCB link">Visit SWRCB (placeholder)</a>
+          </section>
+          <section id="practice" class="card section">
+            <h2>Practice Questions / Exams</h2>
+            <p>Launch a timed practice exam. Questions render from your LaTeX → JSON/YAML bank.</p>
+            <div style="display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))">
+              <a class="btn" href="#">Water Math</a>
+              <a class="btn" href="#">Treatment</a>
+              <a class="btn" href="#">Distribution</a>
+              <a class="btn" href="#">SCADA</a>
+            </div>
+          </section>
+          <section id="downloads" class="card section">
+            <h2>Downloads & Formula Sheets</h2>
+            <ul>
+              <li>Unit Conversions & Dosage Quick Ref</li>
+              <li>Treatment & Distribution Formula Sheets</li>
+              <li>Sample Monitoring Plan Template</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- AGENCIES -->
+  <main id="agencies" class="page" aria-labelledby="agencies-title">
+    <div class="wrap">
+      <h1 id="agencies-title">Public Agencies</h1>
+      <div class="shell">
+        <aside class="sidebar" aria-label="Agency navigation">
+          <h3>Training Menu</h3>
+          <ul class="navlist">
+            <li><a href="#topics" data-jump="topics">Topics for Trainings</a></li>
+            <li><a href="#samples" data-jump="samples">Sample Sessions (Topics & Hours)</a></li>
+            <li><a href="#suggest" data-jump="suggest">Suggest Topics / Contact</a></li>
+          </ul>
+        </aside>
+        <div class="grid" style="grid-template-columns:1fr">
+          <section id="topics" class="card section">
+            <h2>Topics for Trainings</h2>
+            <ul>
+              <li>Water Quality & Monitoring</li>
+              <li>Treatment Processes & Operations</li>
+              <li>Distribution System Operations</li>
+              <li>Pumping & Energy Optimization</li>
+              <li>SCADA for Operators</li>
+              <li>Safety & Regulations (OSHA/Title 22)</li>
+              <li>Hydrology & Watershed Management</li>
+              <li>Cross‑Connection Control / Backflow</li>
+              <li>Leak Detection & Water Loss Control</li>
+              <li>Asset Management & CMMS</li>
+            </ul>
+          </section>
+          <section id="samples" class="card section">
+            <h2>Sample Training Sessions – Topics & Hours</h2>
+            <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+              <div class="card" style="border:1px dashed #cbd5e1"><h3>3‑Hour</h3><ul><li>Water Quality Overview</li><li>Sampling & Field Meters</li><li>Mini‑quiz & Q&A</li></ul></div>
+              <div class="card" style="border:1px dashed #cbd5e1"><h3>6‑Hour</h3><ul><li>Treatment Process Deep Dive</li><li>Monitoring Plans & Reporting</li><li>Case Studies + Workshop</li></ul></div>
+              <div class="card" style="border:1px dashed #cbd5e1"><h3>9‑Hour</h3><ul><li>Design + Operations + Compliance</li><li>Hands‑on Labs / Demos</li><li>Capstone & Exam</li></ul></div>
+            </div>
+          </section>
+          <section id="suggest" class="card section">
+            <h2>Suggest Topics of Interest</h2>
+            <form action="https://formspree.io/f/your-form-id" method="POST">
+              <label for="agency">Agency/Utility</label>
+              <input id="agency" name="Agency" required />
+              <label for="contact">Contact Person</label>
+              <input id="contact" name="Contact" required />
+              <label for="email">Email</label>
+              <input id="email" name="Email" type="email" required />
+              <label for="duration">Preferred Duration</label>
+              <select id="duration" name="Duration">
+                <option value="3-hour">3‑Hour</option>
+                <option value="6-hour">6‑Hour</option>
+                <option value="9-hour">9‑Hour</option>
+              </select>
+              <label for="topicsInput">Topics of Interest</label>
+              <textarea id="topicsInput" name="Topics" rows="5" placeholder="e.g., UDF, DBP control, pump optimization, SCADA alarms..."></textarea>
+              <button class="btn" type="submit">Submit Request</button>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // Simple SPA routing and sidebar anchor jumps
+    document.addEventListener('DOMContentLoaded', () => {
+      const pages = document.querySelectorAll('.page');
+      const setView = (id) => {
+        pages.forEach(p=>p.classList.remove('active'));
+        (document.getElementById(id)||document.getElementById('home')).classList.add('active');
+        window.scrollTo({top:0,behavior:'smooth'});
+      };
+
+      document.querySelectorAll('[data-view]').forEach(a=>{
+        a.addEventListener('click', (e)=>{
+          e.preventDefault();
+          const v = a.getAttribute('data-view');
+          setView(v);
+          window.location.hash = v;
+        });
+      });
+
+      document.querySelectorAll('[data-jump]').forEach(a=>{
+        a.addEventListener('click', (e)=>{
+          e.preventDefault();
+          const id = a.getAttribute('data-jump');
+          const el = document.getElementById(id);
+          if(el) el.scrollIntoView({behavior:'smooth'});
+        })
+      });
+
+      // Tabs on SWRCB block
+      const tabBtns = document.querySelectorAll('[data-tab]');
+      const tabs = {t:document.getElementById('tab-t'), d:document.getElementById('tab-d'), a:document.getElementById('tab-a')};
+      tabBtns.forEach(btn=>btn.addEventListener('click',()=>{
+        const k = btn.dataset.tab; Object.values(tabs).forEach(el=>el.hidden=true); tabs[k].hidden=false;
+      }));
+
+      // Initial route
+      const initial = (location.hash || '#home').slice(1);
+      setView(initial);
+    });
+  </script>
+</body>
+</html>
