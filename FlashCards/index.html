@@ -1,262 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Flashcards</title>
-  <style>
-    :root {
-      --bg: #0b1220;
-      --panel: #121a2b;
-      --muted: #9fb0d7;
-      --accent: #4da3ff;
-      --good: #42c57a;
-      --warn: #ffb020;
-      --text: #e6edff;
-    }
-    * { box-sizing: border-box; }
-    body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial; background: var(--bg); color: var(--text); }
-    header { display:flex; align-items:center; gap:12px; padding:16px 20px; border-bottom:1px solid rgba(255,255,255,.08); background: linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,0)); }
-    header h1 { font-size: 18px; margin: 0; letter-spacing: .4px; font-weight: 600; }
-    header .hint { color: var(--muted); font-size: 12px; }
-
-    .wrap { max-width: 980px; margin: 0 auto; padding: 20px; }
-    .controls { display:flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 16px; }
-    .controls input[type="text"] { flex: 1 1 260px; padding: 10px 12px; border-radius: 10px; border: 1px solid rgba(255,255,255,.12); background: var(--panel); color: var(--text); }
-    .controls button, .controls select { padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,.12); background: #17223a; color: var(--text); cursor: pointer; }
-    .controls button:hover { background: #1b2947; }
-    .controls .pill { font-size: 12px; padding: 8px 10px; }
-
-    .stats { display:flex; gap: 10px; align-items:center; color: var(--muted); font-size: 13px; margin-bottom: 12px; }
-    .stat { background: #0e1730; padding: 6px 10px; border-radius: 999px; border:1px solid rgba(255,255,255,.08); }
-
-    .card { position: relative; height: 320px; border-radius: 16px; background: linear-gradient(180deg, #12203a, #0f1b31); border: 1px solid rgba(255,255,255,.08); box-shadow: 0 10px 30px rgba(0,0,0,.35); display:flex; align-items:center; justify-content:center; padding: 24px; text-align:center; cursor: pointer; perspective: 1000px; }
-    .inner { position: relative; width: 100%; height: 100%; transition: transform .6s; transform-style: preserve-3d; }
-    .card.flipped .inner { transform: rotateY(180deg); }
-    .face { position:absolute; inset:0; padding: 24px; display:flex; align-items:center; justify-content:center; backface-visibility:hidden; }
-    .front { font-size: 1.25rem; line-height: 1.5; }
-    .back { transform: rotateY(180deg); background: linear-gradient(180deg, #0f1a31, #0d172a); border-radius: 16px; font-size: 1.15rem; line-height: 1.5; }
-
-    .deck { display:grid; grid-template-columns: 1fr; gap: 14px; }
-    .actions { display:flex; gap: 10px; margin-top: 14px; }
-    .btn { flex:1; padding: 12px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); background:#101a31; color:var(--text); cursor:pointer; font-weight:600; }
-    .btn.good { background:#0f2a20; border-color: rgba(66,197,122,.5); }
-    .btn.good:hover { background:#123025; }
-    .btn.again { background:#2a1a10; border-color: rgba(255,176,32,.5); }
-    .btn.again:hover { background:#2f1f14; }
-
-    .empty { padding: 30px; border: 1px dashed rgba(255,255,255,.18); border-radius: 16px; text-align:center; color: var(--muted); }
-    footer { text-align:center; color:var(--muted); font-size:12px; padding: 18px 0 30px; }
-    code.small { background: #0e1730; padding: 2px 6px; border-radius: 6px; border: 1px solid rgba(255,255,255,.08); }
-  </style>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Flashcards</title>
+<style>
+:root { --bg:#0b1220; --panel:#121a2b; --muted:#9fb0d7; --accent:#4da3ff; --text:#e6edff; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial; background:var(--bg); color:var(--text); }
+header { display:flex; align-items:center; gap:12px; padding:16px 20px; border-bottom:1px solid rgba(255,255,255,.08); background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,0)); }
+header h1 { font-size:18px; margin:0; font-weight:600; }
+header .hint { color:var(--muted); font-size:12px; }
+.wrap { max-width:980px; margin:0 auto; padding:20px; }
+.controls { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:16px; }
+.controls input[type="text"] { flex:1 1 260px; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,.12); background:var(--panel); color:var(--text); }
+.controls button, .controls select { padding:10px 14px; border-radius:10px; border:1px solid rgba(255,255,255,.12); background:#17223a; color:var(--text); cursor:pointer; }
+.controls button:hover { background:#1b2947; }
+.stats { display:flex; gap:10px; align-items:center; color:var(--muted); font-size:13px; margin-bottom:12px; }
+.stat { background:#0e1730; padding:6px 10px; border-radius:999px; border:1px solid rgba(255,255,255,.08); }
+.card { position:relative; height:320px; border-radius:16px; background:linear-gradient(180deg,#12203a,#0f1b31); border:1px solid rgba(255,255,255,.08); box-shadow:0 10px 30px rgba(0,0,0,.35); display:flex; align-items:center; justify-content:center; padding:24px; text-align:center; cursor:pointer; perspective:1000px; }
+.inner { position:relative; width:100%; height:100%; transition:transform .6s; transform-style:preserve-3d; }
+.card.flipped .inner { transform:rotateY(180deg); }
+.face { position:absolute; inset:0; padding:24px; display:flex; align-items:center; justify-content:center; backface-visibility:hidden; }
+.front { font-size:1.25rem; line-height:1.5; }
+.back { transform:rotateY(180deg); background:linear-gradient(180deg,#0f1a31,#0d172a); border-radius:16px; font-size:1.15rem; line-height:1.5; }
+.actions { display:flex; gap:10px; margin-top:14px; }
+.btn { flex:1; padding:12px; border-radius:12px; border:1px solid rgba(255,255,255,.12); background:#101a31; color:var(--text); cursor:pointer; font-weight:600; }
+.btn.good:hover { background:#123025; }
+.btn.again:hover { background:#2f1f14; }
+.empty { padding:30px; border:1px dashed rgba(255,255,255,.18); border-radius:16px; text-align:center; color:var(--muted); }
+footer { text-align:center; color:var(--muted); font-size:12px; padding:18px 0 30px; }
+code.small { background:#0e1730; padding:2px 6px; border-radius:6px; border:1px solid rgba(255,255,255,.08); }
+</style>
 </head>
 <body>
-  <header>
-    <h1>Flashcards</h1>
-    <span class="hint">Press <b>Space</b> to flip · <b>←/→</b> prev/next · <b>G</b> good · <b>A</b> again</span>
-  </header>
+<header>
+<h1>Flashcards</h1>
+<span class="hint">Press <b>Space</b> to flip · <b>←/→</b> prev/next · <b>G</b> good · <b>A</b> again</span>
+</header>
 
-  <div class="wrap">
-    <div class="controls">
-      <input id="search" type="text" placeholder="Search cards…" />
-      <button id="shuffle">Shuffle</button>
-      <select id="source">
-        <option value="cards.csv" selected>cards.csv (CSV)</option>
-        <option value="cards.tsv">cards.tsv (TSV)</option>
-      </select>
-      <span class="pill">Loaded: <span id="count">0</span></span>
-    </div>
 
-    <div class="stats">
-      <span class="stat">Due: <span id="due">0</span></span>
-      <span class="stat">Known: <span id="known">0</span></span>
-      <span class="stat">Again: <span id="again">0</span></span>
-    </div>
+<div class="wrap">
+<div class="controls">
+<input id="search" type="text" placeholder="Search cards…" />
+<button id="shuffle">Shuffle</button>
+<select id="source">
+<option value="water-sources.csv" selected>Water Sources</option>
+<option value="water-quality-lab.csv">Water Quality & Laboratory Analysis</option>
+<option value="regulations.csv">Regulations</option>
+<option value="treatment.csv">Treatment</option>
+<option value="disinfection.csv">Disinfection</option>
+<option value="pumping.csv">Pumping</option>
+<option value="distribution.csv">Distribution</option>
+<option value="safety.csv">Safety</option>
+</select>
+<span class="pill">Loaded: <span id="count">0</span></span>
+</div>
 
-    <div id="stage">
-      <div class="empty">Drop a <code class="small">cards.csv</code> or <code class="small">cards.tsv</code> file into this repository (same folder as this page), then refresh. Expected columns: <b>Front, Back</b>.</div>
-    </div>
 
-    <footer>
-      CSV parser supports quoted fields and commas. No server needed — works on GitHub Pages.
-    </footer>
-  </div>
-
-  <script>
-    // ====== Configuration ======
-    const DEFAULT_SOURCE = 'cards.csv'; // put your CSV in the same folder and name it cards.csv
-
-    // ====== Utilities ======
-    function parseCSV(text, delimiter = ',') {
-      // RFC4180-ish CSV parser supporting quoted fields, escaped quotes, newlines inside quotes
-      const rows = [];
-      let i = 0, field = '', row = [], inQuotes = false;
-      const pushField = () => { row.push(field); field = ''; };
-      const pushRow = () => { rows.push(row); row = []; };
-      while (i < text.length) {
-        const c = text[i];
-        if (inQuotes) {
-          if (c === '"') {
-            if (text[i+1] === '"') { field += '"'; i++; }
-            else { inQuotes = false; }
-          } else { field += c; }
-        } else {
-          if (c === '"') inQuotes = true;
-          else if (c === delimiter) pushField();
-          else if (c === '\n') { pushField(); pushRow(); }
-          else if (c === '\r') { /* ignore */ }
-          else { field += c; }
-        }
-        i++;
-      }
-      // last field
-      pushField();
-      // if trailing newline, last row may be empty
-      if (row.length) pushRow();
-      // trim empty rows
-      return rows.filter(r => r.join('').trim().length);
-    }
-
-    async function loadDeck(url) {
-      try {
-        const res = await fetch(url + `?t=${Date.now()}`); // bust cache for updates
-        if (!res.ok) throw new Error('Fetch failed');
-        const text = await res.text();
-        const isTSV = url.toLowerCase().endsWith('.tsv');
-        const rows = parseCSV(text, isTSV ? '\t' : ',');
-        // Expect header Front,Back — but handle decks without header
-        let start = 0;
-        if (rows.length && rows[0].length >= 2) {
-          const h0 = rows[0][0].trim().toLowerCase();
-          const h1 = rows[0][1].trim().toLowerCase();
-          if (h0.includes('front') && h1.includes('back')) start = 1;
-        }
-        const cards = rows.slice(start).map(r => ({ front: (r[0]||'').trim(), back: (r[1]||'').trim() })).filter(c => c.front && c.back);
-        return cards;
-      } catch (e) {
-        console.warn('Deck load failed:', e);
-        return [];
-      }
-    }
-
-    function shuffleInPlace(arr) {
-      for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [arr[i], arr[j]] = [arr[j], arr[i]];
-      }
-      return arr;
-    }
-
-    // ====== State ======
-    let cards = [];
-    let filtered = [];
-    let idx = 0;
-    let flipped = false;
-    let knownCount = 0, againCount = 0;
-
-    // ====== Rendering ======
-    function renderCard() {
-      const stage = document.getElementById('stage');
-      stage.innerHTML = '';
-      if (!filtered.length) {
-        stage.innerHTML = '<div class="empty">No cards match the current filter.</div>';
-        document.getElementById('due').textContent = '0';
-        return;
-      }
-      const c = filtered[idx];
-      const card = document.createElement('div');
-      card.className = 'card' + (flipped ? ' flipped' : '');
-      card.innerHTML = `
-        <div class="inner">
-          <div class="face front">${escapeHtml(c.front)}</div>
-          <div class="face back">${escapeHtml(c.back)}</div>
-        </div>`;
-      card.addEventListener('click', () => { flipped = !flipped; renderCard(); });
-      stage.appendChild(card);
-      document.getElementById('due').textContent = String(filtered.length - knownCount);
-      renderActions();
-    }
-
-    function renderActions() {
-      let actions = document.querySelector('.actions');
-      if (!actions) {
-        actions = document.createElement('div');
-        actions.className = 'actions';
-        document.querySelector('.wrap').appendChild(actions);
-      }
-      actions.innerHTML = '';
-      const againBtn = document.createElement('button');
-      againBtn.className = 'btn again';
-      againBtn.textContent = 'Again';
-      againBtn.onclick = () => { againCount++; nextCard(false); };
-
-      const goodBtn = document.createElement('button');
-      goodBtn.className = 'btn good';
-      goodBtn.textContent = 'Good';
-      goodBtn.onclick = () => { knownCount++; nextCard(true); };
-
-      actions.appendChild(againBtn);
-      actions.appendChild(goodBtn);
-
-      document.getElementById('known').textContent = String(knownCount);
-      document.getElementById('again').textContent = String(againCount);
-    }
-
-    function nextCard(correct) {
-      flipped = false;
-      idx = (idx + 1) % Math.max(filtered.length, 1);
-      renderCard();
-    }
-
-    function prevCard() {
-      flipped = false;
-      idx = (idx - 1 + filtered.length) % Math.max(filtered.length, 1);
-      renderCard();
-    }
-
-    function escapeHtml(s) {
-      return s.replace(/[&<>\"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
-    }
-
-    function applyFilter(q) {
-      const query = q.trim().toLowerCase();
-      if (!query) filtered = cards.slice();
-      else filtered = cards.filter(c => c.front.toLowerCase().includes(query) || c.back.toLowerCase().includes(query));
-      idx = 0; flipped = false; knownCount = 0; againCount = 0;
-      renderCard();
-    }
-
-    // ====== Init ======
-    async function boot() {
-      const select = document.getElementById('source');
-      const chosen = new URLSearchParams(location.search).get('src') || select.value || DEFAULT_SOURCE;
-      select.value = chosen;
-      cards = await loadDeck(chosen);
-      document.getElementById('count').textContent = String(cards.length);
-      filtered = cards.slice();
-      shuffleInPlace(filtered);
-      renderCard();
-    }
-
-    // Events
-    document.getElementById('shuffle').addEventListener('click', () => { shuffleInPlace(filtered); idx = 0; flipped = false; renderCard(); });
-    document.getElementById('search').addEventListener('input', (e) => applyFilter(e.target.value));
-    document.getElementById('source').addEventListener('change', async (e) => {
-      cards = await loadDeck(e.target.value);
-      document.getElementById('count').textContent = String(cards.length);
-      applyFilter(document.getElementById('search').value);
-      shuffleInPlace(filtered); idx = 0; flipped = false; renderCard();
-    });
-
-    document.addEventListener('keydown', (e) => {
-      if (e.key === ' ') { e.preventDefault(); flipped = !flipped; renderCard(); }
-      else if (e.key === 'ArrowRight') { nextCard(); }
-      else if (e.key === 'ArrowLeft') { prevCard(); }
-      else if (e.key.toLowerCase() === 'g') { knownCount++; nextCard(true); }
-      else if (e.key.toLowerCase() === 'a') { againCount++; nextCard(false); }
-    });
-
-    boot();
-  </script>
-</body>
+<div class="stats">
+<span class="stat">Due: <span id="due">0</span></span>
 </html>
