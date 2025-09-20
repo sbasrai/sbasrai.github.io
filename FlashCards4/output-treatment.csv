@@ -325,4 +325,39 @@ Front,Back
 "What is a taste-and-odor episode?","Sudden appearance of earthy/musty compounds (e.g., geosmin, MIB) often linked to algae."
 "What is the purpose of plant redundancies?","To ensure continuous treatment during maintenance or equipment failures."
 "What is a SCADA system in treatment?","Supervisory Control and Data Acquisition used to monitor and control treatment processes remotely."
+“Mudballs are clumps of?”,”Filter media and other material.”
+“Coagulation occurs during the first?”,”1 to 5 seconds.”
+“A filter has a surface area of 920 sq ft. What is the filtration rate in gallons per minute per square foot, if it receives a flow of 4,875 GPM?”,”5.3 GPM/SQ FT.”
+“A filter should be backwashed when it has a high?”,”Head loss, filters should also be backwashed when effluent turbidity is high.”
+“Which of the following chemicals decreases corrosion rates?”,”CaCO3”
+“The relative importance of removal mechanisms within a filter depends largely on the name of the water being treated, degree of pre-treatment, and filter characteristics”,”TRUE”
+“In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media”,”False; above the media”
+“Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period”,”TRUE”
+“Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period”,”FALSE”
+“Usually higher backwash rates are required at low temperatures and with smaller media”,”FALSE”
+“Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes”,”FALSE”
+“Filtration is the first and most important step in the solids removal process”,”FALSE”
+“Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc”,”TRUE”
+“The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants”,”FALSE”
+“Particle counters can tell the difference between a particle of clay and a microorganism”,”FALSE”
+“Conventional filtration”,”filtration that is preceded by coagulation, flocculation and sedimentation.”
+“Why is activated carbon used along with other types of filter media?”,”To remove tastes, odors, and organic substances”
+“Slurry”,”A watery mixture or suspension of insoluble matter”
+“Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?”,”To prevent the filter media from being carried out over the wash troughs during backwash”
+“In the filtration process, how is filter efficiency measured?”,”By overall reduction in turbidity”
+“filter clogging”,”A buildup of head loss across the filter media until it reaches some predetermined design limit”
+“What problem is created by too high backwash rate?”,”There could be excessive loss of filter media and media disturbance”
+“How do filter control systems regulate flow rates throughout the filter?”,”By maintaining an adequate head above the media surface”
+“How does the declining-rate filter control system work?”,”The flow rate varies with head loss and each filter operates at the same, but variable, water surface level”
+“How does the self-backwash filter control system work?”,”The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each”
+“Advantage of the conventional filtration process”,”The system provides a great amount of flexibility and reliability in plant operation”
+“What is an efficient means of handling filter backwash waters?”,”Recycle the water to the beginning of the plant”
+“Problem caused by air-bound filters”,”The air prevents water from passing through the filter and causes shortened filter runs”
+“Surface Water Treatment Rule”,”A set of treatment technique requirements that apply to all water system using surface water”
+“Why is flow control critical for accurate and repeatable particle counter performance?”,”Because all particle count data must be based on sample volume”
+“A crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity”,”breakthrough”
+“Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process”,”Mud ball”
+“a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms”,”diatomaceous earth”
+“A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.”,”Direct filtration”
+
 
