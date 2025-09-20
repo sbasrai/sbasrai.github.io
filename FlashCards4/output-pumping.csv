@@ -14,7 +14,7 @@ Front,Back
 "Series pump operation effect?","Increases head at similar flow."
 "What is wire-to-water efficiency?","Overall efficiency from power input to water output."
 "Role of air release valves on force mains?","Remove trapped air to reduce headloss and surges."
-"What is water hammer?,"Pressure surge from rapid velocity change (e.g. valve closure)."
+"What is water hammer?","Pressure surge from rapid velocity change (e.g. valve closure)."
 "How to mitigate water hammer?","Slow valve closure, surge tanks, air chambers, VFD ramping."
 "What is soft start?","Gradual acceleration to limit inrush current and surges."
 "Pump rotation check purpose?","Ensure correct direction to avoid low flow/overheating."
