@@ -158,5 +158,6 @@ Front,Back
 “ How soon must a small water system notify the state in writing after it becomes aware of lead containing and /or copper containing material in the system”,”Within 60 days”
 “ A public water system that uses surface water or ground water under the direct influence of surface water and provides filtration treatment is required by the primacy agency to report to report an acute violation of the filtered water turbidity standard if any turbidity measurements collected during the month exceeds”,”5.0 ntu”
 “ The federal Safe Drinking Water Act requires a water system to provide a plant schematics showing the origin of all flows that recycled. Which other requirement for this recycle provision must be shown on the schematics”,”The hydraulic conveyance used to transport the recycle flows”
+“Two chemical contaminants with maximum contaminant levels that are regulated in the community and noncommunity systems are nitrates and”,”Turbidity.”
 
 
