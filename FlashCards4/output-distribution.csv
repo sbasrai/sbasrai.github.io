@@ -80,3 +80,13 @@ Front,Back
 "What is main break isolation?","Closing valves to section off a broken main while maintaining service to other areas."
 "What is a storage tank mixing system?","Equipment that circulates water inside tanks to reduce water age and stratification."
 "What is nitrification in distribution?","The biological oxidation of ammonia when chloramines are used, leading to residual loss and water quality issues."
+“What is a reduced pressure zone (RPZ) backflow prevention device?”,”Two independently operating check valves with a pressure relief valve between them”
+“What is a air gap cross-connection prevention method?”,”A vertical empty space that separates a drinking water supply from an unapproved water supply”
+“Why is backflow a concern?”,”Flow from a non-potable source could contaminate the potable water supply in the distribution system”
+"What is a cross-connection?”,”A direct connection between a potable water system and a non-potable water source”
+“Under what conditions could back siphonage occur?”,”If the potable system is at a pressure less than atmospheric (negative pressure), the atmospheric pressure forces the non-potable source toward the partial vaccum”
+“Back-siphonage occurs when:”,”The water system losses pressures and a vaccum is created”
+“If a private well is hooked directly into a public water supply system, what is this called?”,”A cross-connection”
+“When non-potable water is connected directly to a potable water system, the minimum acceptable method of eliminating the cross-connection is:”,”A double gate, double check valve”
+“A connection between a safe and an unsafe water supply is?”,”Cross-connection”
+

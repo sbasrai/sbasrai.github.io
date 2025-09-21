@@ -81,13 +81,11 @@ Front,Back
 "What is the Stage 2 DBPR?","EPA rule requiring monitoring at locations with highest DBP risk using LRAA compliance."
 “Sodium hypochlorite is:”,”A compound that can be purchased in liquid solution and can be used for disinfection.”
 “After all chlorine demands have been met, what is the remaining chlorine called?”,”Residual”
-“Because chlorine residual is related to the ph of the water, it may be said that”
-A higher ph requires a higher chlorine residual”
+“Because chlorine residual is related to the ph of the water, it may be said that”,"A higher ph requires a higher chlorine residual”
 “Chlorine demand increases when \rule{1.5cm}{0.5pt} increases:”,”Organic matter”
 “Which of the following best describes chlorine demand?”,”The difference between the amount of chlorine added and the amount of residual chlorine after a given contact time”
 “Fusible plugs on chlorine cylinders are designed to melt at between:”,”157 F - 162 F”
-“A chlorine leak may be detected with”
-ammonia”
+“A chlorine leak may be detected with”,"ammonia”
 “The IDLH for chlorine is?”,”10 ppm”
 “Chlorine demand is satisfied at the point when”
 The reaction of chlorine with organic and inorganic materials stops”
@@ -117,5 +115,7 @@ Eductor”
 “As water temperatures increases, the disinfection action of chlorine will?”,”Increase”
 “What is the name of the process where chlorine is added to water until the chlorine demand has been satisfied?”,”Breakpoint chlorination”
 “A hypo chlorinator is used to?”,”Feed a liquid chlorine solution into a water supply”
-
-
+“When making or breaking a chlorine gas connection, the lead gasket should be?”,”Thrown away each time and replaced regardless of its condition”
+“What is the process of adding chlorine to water until the chlorine demand has been satisfied called?”,”Breakpoint chlorination”
+“As water temperature increases, the disinfection action of chlorine will?”,”Increase”
+“Killing of all the pathogenic organisms in water treatment is called?”,”Sterilization”
