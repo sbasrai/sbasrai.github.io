@@ -81,4 +81,82 @@ Front,Back
 "What is EPA’s Contaminant Candidate List (CCL)?","A list of unregulated contaminants that may require future regulation."
 "What is the purpose of operator certification reciprocity?","Allows certified operators to transfer credentials between states with equivalent standards."
 “Where are maximum contaminant levels for water quality indicators specified?”,”National primary drinking water regulations”
+“ Which type of violation requires an all clear notification to the public”,”Tier 1”
+“ How many positive coliform positive samples are allowed each month for water systems that collect less than 40 samples per month”,”1”
+“ If a water sample test positive for coliforms, the system must collect a set of repeat samples within”,”24 hours”
+“ A public water system has at least \rule{1.5cm}{0.5pt}service connections or serves \rule{1.5cm}{0.5pt} or more persons\rule{1.5cm}{0.5pt}or more days of each year.”,”15;25;60”
+“ Where are the samples points located for required sampling of coliform bacteria in a community water system”,”At the consumers faucet”
+“ Water being serve to the public for a population greater than 3300 must not have a disinfectant residual entering the distribution system below\rule{1.5cm}{0.5pt}for more than 4hrs”,”0.2mg/L”
+“ Which is the Action Level for copper”,”1.3mg/L”
+“ Where are the sampling point(s) located for required sampling of turbidity in a community water system”,”Point(s) where water enters the distribution system, including all filter effluents if surface treatment plant”
+“ Under the Surface Water Treatment Rule ,disinfection residuals must be collected at the same location in the distribution system as”,”coliform samples”
+“ Which is the MCL for haloacetic acids (HAA5)”,”0.060mg/L”
+“ If a water system collects at least 40 samples per month for the analyses of total coliform, which percent of total coliform positive samples are acceptable for the system to remain in compliance with the MCL for total coliform”,”No more than 5\%”
+“ Water systems are required to achieve at least\rule{1.5cm}{0.5pt}removal and /or inactivation of viruses between a point where the raw water is not subject to re contamination by surface water runoff and a point downstream before or at the first customer”,”4 LOG”
+“ Where are the sampling points located for required sampling of organics(except THM) in community water systems”,”Entry points to the Distribution System”
+“ Where are the sampling points located for required sampling of natural radionuclides in a community water system”,”Each entry point to the Distribution System”
+“ Continuous chlorine residual monitoring is required where the water enters the Distribution \item System under the Surface Water Treatment Rule when the”,”Population served is >3300 people”
+“ A community water system must post CCR on a publicly accessible Web site if it serves more than”,”100,000 people”
+“ Public water systems that cannot meet the required removal of TOC can comply if the source water TOC level is \rule{1.5cm}{0.5pt} ,calculated quarterly as a running annual average”,”<2.0mg/L”
+“ To avoid filtration, one criterion is that the fecal coliform concentration must be equal to or less than\rule{1.5cm}{0.5pt}in representative samples of the source water immediately before the first or only point of disinfectant application in the at least\rule{1.5cm}{0.5pt} of the measurements made for previous 6 months that the system served water to the public on an ongoing basis”,”20/100mL;90\%”
+“ Water systems may be allowed by their state to monitor annually if the state has determined that the system is reliable and consistently below the MCL for organic compounds. “
+\item When must the water system collect these annual samples”,”During the quarter that yielded the highest analytical results”
+“ How is the term lead free defined, when used with respect to solders and flux”,”Containing not more than 0.02\% lead”
+“ What is the MCLG for Giardia lambia”,”Zero”
+“ Which is the maximum residual disinfection level goal for chlorine”,”4mg/L”
+“ If a water system collects at least 40 samples per month for the analyses of total coliforms which percent of total coliform positive samples are acceptable for the system to remain in compliance with the mcl for total coliforms”,”No more than 5\%”
+“ If a water system collects less than 40 samples per month for the analyses of total coliform how many samples can be total coliform positive and the system still remain in compliance with the mcl for total coliform”,”1”
+“ Which is the MCL for bromate”,”0.010mg/L”
+“ Which is the best available technology for removing combined radium-226 and radium-228 from source water”,”Lime softening”
+“ Water systems are required to achieve at least\rule{1.5cm}{0.5pt}removal and /or inactivation of viruses between a point where the raw water is not subject to re-contamination by surface water runoff and a point downstream before or at the first customer”,”At least 3-Log removal”
+“ For systems using conventional treatment or direct filtration the turbidity level of representative sample of a systems filtered water must be less than or equal to \rule{1.5cm}{0.5pt} in at least\rule{1.5cm}{0.5pt}of the samples collected each month according to the Enhanced Surface Water Treatment Rule”,”0.3ntu;95\%”
+“ Which are the turbidity requirements for slow sand filtration”,”1.0ntu in 95%of the measurements collected each month”
+“ Which are the turbidity requirements for diatomaceous earth filtration”,”1.0ntu in 95\%of the measurements collected each month”
+“ Measurements for pH, turbidity, temperature, and residual disinfectant concentrations must be performed by a person approve by the”,”State”,”“
+\item If a water supplier fails to comply with any national primary drinking water regulation, including monitoring  requirements, the water supplier must report to the state the failure to comply within”,”48 hours”
+“ When is it acceptable for a water supplier not to report analytical results to the state”,”When a state laboratory performs the analyses”
+“ How long does the public water system have for completing and submitting to the primacy agency that it has fully complied with a public notification requirement”,”10 days”
+“ When must a water supplier monitor for unregulated contaminants”,”When the water supplier serves more than 10,000 people”
+“ If the water system is required to monitor unregulated contaminants, it must collect the samples in one continuous”,”12-month period”
+“ If a water system does not collect a sample for unregulated contaminant monitoring according to federal instructions for a listed contaminant, the deviation must be reported to the UCMR sampling coordinator or state within”,”7 days”
+“ How often must a public water system using surface water in whole or in part collect and analyze one sample per water plant at the entry to the distribution system for sodium concentration levels”,”Annually”
+“ The prohibition on the use of lead for any plumbing in residential or nonresidential facility connected to a public water system that monitors water for human consumption does not apply to”,”repair cast iron pipes using lead joints”
+“ Which is the sample size for lead and copper analyses”,”1,000ml”
+“ The first draw samples from taps for lead and copper analyses shall have stood motionless in the plumbing of each sampling site for at least”,”6 hours”
+“ Lead and copper samples collected by customers at their taps must be acidified within”,”14 days”
+“ Which is not an acceptable method of sampling for lead and copper analyses lead service lines”,”At the tap after the water has remain motionless for at least 4 hrs”
+“ When a large system serving more than, 100,00 people, reduce the number of sampling sites for lead and copper and”,”When the system meets the lead and copper action level for 2 consecutive six month monitoring periods”
+“ When can a water system that meets the lead and copper action level for two consecutive six months periods reduce the number of samples and reduce the frequency of sampling so that is only required to sample every 3 years”,”When 90th percentile for lead is <0.005 mg/l and for copper <0.65 mg/l”
+“ A small water system has met a certain criteria and has been granted a full waiver and thus a reduce frequency for monitoring lead and copper. How often does it now have to monitor”,”At least once every 9 years”
+“ All water systems that exceed the lead and copper action level shall monitor water quality parameters. Which sample criteria shall be followed if exceptions are not granted”,”2 samples for each water quality parameter, per entry point to the distribution system during each period”
+“ When a water system is required to monitor water quality parameters because it exceed the lead and copper action level ,which parameter must be measured every two weeks at each entry point to the distribution system”,”pH”
+“ When a water system is required to monitor water quality parameters because it exceeded the lead and copper action level and the system uses corrosion inhibitor, which parameter must be measured every two week at each entry point to the distribution system”,”Dosage rate of the chemical corrosion inhibitor”
+“ Water systems are required to monitor for water quality parameters when they exceed the lead and copper action levels. If this systems maintain the range of values for the water quality parameters that reflect optimal corrosion control treatment during each of two consecutive six months monitoring periods ,then although they must still monitor at the entry points to the distribution system, they are allowed to”,”reduce the number of site samples”
+“ If a water system that monitors for water quality parameters because it exceeded the lead and copper action levels maintains the range of values for the water quality parameters reflecting optimal corrosion control treatment during three consecutive years of monitoring the system may”,”reduce the frequency of sampling from 6 month periods to annually”
+“ Ground Water systems that have fail to meet lead and copper action levels shall take a minimum of”,”one sample at every entry point to the distribution system that is representative of each well after treatment”
+“ Surface water systems that have failed to meet the lead and copper action levels shall take a minimum of”,”one sample after any application of treatment or in the distribution at any point which is representative of each source after treatment”
+“ Water systems monitoring for lead and copper and water quality parameters must report all the results within the first \rule{1.5cm}{0.5pt} after each monitoring period”,”10 days”
+“ Any water system subject to the NPDWR subpart 1,Control of Lead and Copper, shall retain on its premises original records of all sampling data and analysis, reports, surveys, letters, evaluations, schedules, state determinations and any other information for no fewer than”,”12 years”
+“ Which test must a water utility perform to determine monitoring frequency and specific radionuclide analyses”,”Gross alpha particle activity scan”
+“ Under the stage 1 disinfectant and disinfectants by products rule jar testing may be conducted as part of the enhanced coagulation requirements to”,”Determine alternative total organic carbon removal requirements for a particular plant”
+“ The USEPA recommends water systems using surface water source to collect samples for hexavalent chromium (chromium-6) on a”,”quarterly basis”
+“ The USEPA recommends water systems using a ground water source(s)to collect samples for hexavalent chromium (chromium-6) on a”,”Semi annual basis”
+“ Which is the National Primary Drinking Water Regulations MCL for total chromium that includes hexavalent chromium(chromium-6)”,”0.1 mg/l”
+“ A water system using conventional filtration treatment does not have to use enhanced coagulation to achieve  the total organic carbon percent removal if the TTHM and the sum of HAA5 running annual average are”,”<0.040 mg/l and <0.030 mg/l for TTHM and HAA5 respectively”
+“ A water system that uses enhanced softening, but cannot achieve the required TOC removals, can still comply by using results from lowering the treated water alkalinity to less than \rule{1.5cm}{0.5pt} as CaCO3 measured monthly and calculated quarterly as running annual averages”,”<60 mg/l”
+“ A water system that detects nitrate at levels above\rule{1.5cm}{0.5pt}\rule{1.5cm}{0.5pt},but below the MCL, must include in the CCR a short informational statement about the impacts of nitrate to children”,”5.0 mg/l”
+“ How long must a water system monitor the CT 99.9\% values daily to determine the total logs of inactivation for each day of operation”,”12 months”
+“ Water systems parameters for calculating CT pH, temperature, residual  concentration, and disinfectant contact time must be determined”,”each day during peak hourly flows”
+“ A water system that calculates the logs of inactivation for Giardia lambia must also calculate the logs of inactivation for viruses if it uses which type of disinfectant”,”Chloramines”
+“ If a water system changes its disinfection sampling point, disinfection type, process or any other modification identified by the estate, it must”,”develop disinfection benchmark”
+“ Filtered water systems can avoid source water monitoring for cryptosporidium and E coli if the system provides a total of at least \rule{1.5cm}{0.5pt}\rule{1.5cm}{0.5pt}of treatment for cryptosporidium”,”5.5 log”
+“ A system must begin a second round of source water monitoring no latter than \rule{1.5cm}{0.5pt}\rule{1.5cm}{0.5pt}following initial bin classification (average source water or cryptosporidium concentration)or determination of the mean cryptosporidium level, as applicable”,”6 years”
+“ Unfiltered water with a mean cryptosporidium level greater than \rule{1.5cm}{0.5pt}must provide at least 3 log cryptosporidium inactivation”,”0.001 oocysts/l”
+“ If water supplier fails to comply with any National Primary Drinking Water Regulation including monitoring requirements the water supplier must report to the state the failure to comply within”,”48 hours”
+“ If benzene, toluene, ethyl benzene or xylene is detected in water from groundwater wells at a level exceeding 0.0005 mg/l how often must the system monitor at each sampling point where the contaminant were detected”,”Quarterly for a minimum of 2 quarters”
+“ How many annual consecutive annual samples with no detection results for an organic contaminant must a water system achieve before it may be apply to the state for a waiver”,”3”
+“ How soon must a small water system notify the state in writing after it becomes aware of lead containing and /or copper containing material in the system”,”Within 60 days”
+“ A public water system that uses surface water or ground water under the direct influence of surface water and provides filtration treatment is required by the primacy agency to report to report an acute violation of the filtered water turbidity standard if any turbidity measurements collected during the month exceeds”,”5.0 ntu”
+“ The federal Safe Drinking Water Act requires a water system to provide a plant schematics showing the origin of all flows that recycled. Which other requirement for this recycle provision must be shown on the schematics”,”The hydraulic conveyance used to transport the recycle flows”
+
 
