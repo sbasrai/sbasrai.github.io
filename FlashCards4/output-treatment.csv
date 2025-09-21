@@ -495,4 +495,74 @@ Front,Back
 “When operating a surface water treatment plant, which of the following laboratory tests is of most significance for establishing chemical dosages for coagulating water?”,”PH and alkalinity.”
 “The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.”,”Adsorption”
 “The process of reversing the flow of water back through the filter media to remove the entrapped solids.”,”Backwashing”
+“Which one of the following is a hazard when using hydrofluosilicic acid?”,”Corrosiveness.”
+“In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media”,”False; above the media”
+“Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period”,”TRUE”
+“Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period”,”FALSE”
+“Usually higher backwash rates are required at low temperatures and with smaller media”,”FALSE”
+“Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes”,”FALSE”
+“Filtration is the first and most important step in the solids removal process”,”FALSE”
+“Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc”,”TRUE”
+“The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants”,”FALSE”
+“Particle counters can tell the difference between a particle of clay and a microorganism”,”FALSE”
+“Conventional filtration”
+filtration that is preceded by coagulation, flocculation and sedimentation.”
+“Why is activated carbon used along with other types of filter media?”,”To remove tastes, odors, and organic substances”
+“What is a slurry”,”A watery mixture or suspension of insoluble matter”
+“Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?”,”To prevent the filter media from being carried out over the wash troughs during backwash”
+“In the filtration process, how is filter efficiency measured?”,”By overall reduction in turbidity”
+“What is filter clogging”,”A buildup of head loss across the filter media until it reaches some predetermined design limit”
+“What problem is created by too high backwash rate?”,”There could be excessive loss of filter media and media disturbance”
+“How do filter control systems regulate flow rates throughout the filter?”,”By maintaining an adequate head above the media surface”
+“How does the declining-rate filter control system work?”,”The flow rate varies with head loss and each filter operates at the same, but variable, water surface level”
+“How does the self-backwash filter control system work?”,”The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each”
+“Advantage of the conventional filtration process”,”The system provides a great amount of flexibility and reliability in plant operation”
+“What is an efficient means of handling filter backwash waters?”,”Recycle the water to the beginning of the plant”
+“Problem caused by air-bound filters”,”The air prevents water from passing through the filter and causes shortened filter runs”
+“Surface Water Treatment Rule”,”A set of treatment technique requirements that apply to all water system using surface water”
+“Why is flow control critical for accurate and repeatable particle counter performance?”,”Because all particle count data must be based on sample volume”
+“Which types of impurities are removed by filtration?”,”1. BOD 2. Biological forms 3. Colloids 4. Floc 5. Suspended particles”
+“Filter removal of TURBIDITY depends on what factors?”,”1. Chemical characteristics of the water being treated, 2. Filter type and operation, 3. Nature of suspension, 4. Types and degree of pre-treatment”
+“What are the specific classifications of filter types used in water treatment today?”,” 1. Diatomaceous earth filtration 2. Gravity filtration 3. Pressure filtration 4. Slow sand filtration”
+“What are different types of gravity filtration systems used to treat water?”,”1. Dual media 2. Mixed media 3. Single media”
+“Which characteristics are used to classify types of filter media?”,”1. Effective size 2. Hardness 3. Specific gravity 4. Uniformity coefficient”
+“What types of filter control system are commonly used in gravity filtration installations?”,”1. Declining rate 2. Rate-of-flow 3. Self-backwash 4. Split-flow
+“Which factors are important filter process control guidelines?”,”1. Filter effluent water quality (turbidity) 2. Filter influent water quality (turbidity) 3. Filter performance “
+Which factors can be used to develop process guidelines to assist operators in evaluating normal process conditions and in recognizing abnormal conditions?”,”1. Design considerations 2. Trial and experience 3. Water quality conditions 4. Water quality standards”
+“Factors operators can use to calculate when the filtration cycle will be completed?”,”1. Effluent turbidity level 2.Elapsed run time 3. Head loss”
+“Which process calculations are operators expected to perform in the routine operation of the filtration process?”,”1. Backwash rate 2. Filtration Rate 3. Percent of water production used to back wash filter 4.Unit Filter Run Volume”
+“Abrupt changes in which water quality indicators are warnings to operators of abnormal process conditions?”,”1. Chlorine demand 2. Color 3. pH and alkalinity 4. TON 5. Turbidity”
+“Which factors are indicators of abnormal filtration conditions?”,”1. Filter turbidity breakthrough 2. Filters that will not come clean during backwash 3. Media boils during backwash 4. Mud balls in filter media 5. Rapid changes in head loss buildup in the filter”
+“Short filter runs may result from which factors?”,”1. Clogging of the filter under drain system 2. Excessively high filtration rates 3. Excessive mud ball formation in the filter media 4. Filter aid overdosing 5. Increased solids loading”
+“Factors that an operator should investigate when troubleshooting a filtration process”,”1. Filtration process changes 2. Process problems 3. Filter effluent quality changes 4. Sedimentation process effluent quality changes 5. Source water quality changes”
+“Under which conditions may clean filters be put into service?”,”1. A dirty filter is removed for back washing 2. To decrease filtration rates 3. To increase plant production as a result of increased demand for water\\”
+“Which tasks should an operator perform when checking a filter as part of starting up or shutting down the filtration process?”,”1. Be sure filter media and wash water troughs are clean of all debris as leaves, twigs, and tools 2. Check and be sure all access covers and walkways gratings are in place 3. Check source of backwash water to ensure it is ready to go 4. Make sure process monitoring equipment such as head loss and turbidity system are operational”
+“Which tasks are typical routine maintenance functions?”,”1. Checking pumps and motors for leaks, unusual noise and vibrations, or overheating 2. Ensuring good ventilation in equipment work areas 3. Inspecting for alignment of shafts and coupling 4. Keeping electric motors free of dirt, moisture and pests 5. Maintaining proper lubrication”
+“
+“Which water treatment technologies are recognized by the SWTR”,”1. Conventional filtration 2. Diatomaceous filtration 3. Direct filtration 4. Slow sand”
+“Particle counters can be used to perform which tasks? “,”1. To evaluate and compare the performance of different arrangements of filter media 2. To evaluate and compare the performance of different types of filter media 3. To measure effectiveness of polymer addition and polymer dose points to improve filter performance 4. To optimize filter startup rate 5. To optimize filter-to-waste period minimization”
+“What is a crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity”,”breakthrough”
+“Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process”,”Mud ball”
+“_____ is a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms”,”diatomaceous earth”
+“A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.”,”Direct filtration”
+“An instrument for measuring and comparing the turbidity of liquids by passing light through them and determining how much light is reflected by the particles in the liquid. The normal measuring range is 0 to 100 and is expressed as Nephelometric Turbidity Units (NTUs).”,”Turbidity meter”
+“______ is the head, pressure or energy lost by water flowing in a pipe or channel as a result of turbulence caused by the velocity of the flowing water and the roughness of the pipe, channel walls or restrictions caused by fittings.”,”Head loss”
+“The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.”,”Adsorption”
+“The process of reversing the flow of water back through the filter media to remove the entrapped solids.”,”Backwashing”
+“Why is diatomaceous earth filtration used in some water treatment applications and not in others”,”Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions”
+“What is a desirable characteristics for filter media”,”A deeper filter bed with a larger media size”
+“What problems can develop from improper backwash rates”,”An insufficient backwash rates may not completely remove trapped solids from the filter media”
+“What is the primary purpose of the filtration process?”,”To remove particulate impurities and floc from water being treated”
+“Which instrument would you use to monitor a filtration process?”,”Turbidity meter”
+“How frequently should the performance of the filtration process be evaluated?”,”Influent, every 2 hours; effluent, continuously”
+“What would you look for in evaluating the filter media condition after a back wash cycle?”,”Cracking, media loss, and mud balls”
+“Which item is an indicator of an upset or failure in the filtration process or pretreatment process?”,”Excessive media loss”
+“How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters”,”Decrease filtration rates”
+“What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media”,”Adjust the backwash flow rates, surface wash flow rate, or duration”
+“What should you not check for after starting any piece of equipment?”,”Check for excessive noise and vibration, over heating, and leakage”
+“Name a type of filtration that can be used to meet the requirements of the SWTR”,”Diatomaceous earth filtration”
+“How can particle counters be used to monitor filter performance?”,”Measure effects of filter flow rate”
+“When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.”,”As long as necessary to permit the clearing of the service line”
+
+
 

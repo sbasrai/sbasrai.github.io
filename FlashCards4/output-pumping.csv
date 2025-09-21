@@ -109,4 +109,35 @@ The volute converts the liquid velocity created by the impeller to pressure”
 “What is velocity head?”,”The head pressure required to impart velocity to a fluid.”
 “What is Net Positive Suction Head (NPSH)?”,”It is the head necessary needed to overcome the friction and flow losses in a pump's suction. The minimum suction head will be supplied by the pump manufacturer. If a pump is operated below the NPSH, cavitation can occur.”
 “What is cavitation?”,”the formation of bubbles within the pumped liquid that collapse and damage the propeller or impeller.”
+“The packing around the shaft of a centrifugal pump should be”,”Tighten just enough to allow an occasional drop of liquid to escape”
+“Static head is defined as the”,”Pressure due to depth or elevation of the water”
+“1 pound per square inch of pressure raise the water how many feet”,”2.31 feet”
+“What is used to detect chlorine leaks”,”10\% solution of ammonia hydroxide”
+“The pressure gauge reading at the base of a tank filled to a depth of one foot, is”,”0.433 feet”
+“Pressure is commonly measured in”,”Pounds per square inch”
+“Mechanical seals are being installed in pumps because”,”Packing requires an undesirable leakage that the seals eliminate.”
+“A major cause of pump and motor shaft coupling wear is a”,”Misalignment between pumps and motor flanges.”
+“Vertical turbine pumps that are used in wells may be oil lubricated or water lubricated. Operators should use extreme care not to start any water lubricated pump before making sure that the”,”Bearings are wet.”
+“Centrifugal pump noises will most likely be due to”,”Cavitation.”
+“What type of pump works on the basis of inertia or mass moving in a circular motion?”,”Centrifugal.”
+“The total dynamic head against which a pump must operate”,”Is the sum of the static head and the head due to friction loss.”
+“A centrifugal type pump should never be run empty except momentarily because”,”The parts lubricated by water would be damaged.”
+“When a centrifugal pump with new packing is started and the packing seems to leak air, the proper procedure is to”,”Stop the motor and repack the stuffing box.”
+“Static had is defined as the”,”Pressure due to depth or elevation of the water.”
+“What are pumps used for?”,”To add energy to liquids to produce flow or increase pressure”
+“What is pressure defined as?”,”force per unit area”
+“What are the functions of pumps”,”Circulate liquids (cooling systems and heating systems)”
+“What is a diaphragm pump?”,”Uses reciprocating action to flex a diaphragm. This action either fills or empties the chambers in the pump. Fluid is directed by use of check valves.”
+“What is pump capacity?”,”The capacity of a pump is the amount of liquid the pump can handle in a given period of time. It is usually expressed in GPM delivered at a specific pressure.”
+“What is head?”,”The vertical distance between the two liquid levels in a pumping system.”
+“What is total pump head?”,”The sum of the suction lift and the discharge head”
+“What is static discharge head?”,”The vertical distance from the centerline of the pump to the liquid level on the discharge”
+“What is friction head?”,”In addition to the head pressures, there is always a friction loss associated with the system.”
+“What is velocity head?”,”The head pressure required to impart velocity to a fluid.”
+“What is Net Positive Suction Head (NPSH)?”,”It is the head necessary needed to overcome the friction and flow losses in a pump's suction. The minimum suction head will be supplied by the pump manufacturer. "What can occur if a pump is operated below the NPSH?","Cavitation.”
+“What is cavitation?”,”the formation of bubbles within the pumped liquid that collapse and damage the propeller or impeller.”
+“Cavitation is a problem with pumps. What can be done to prevent it from occurring?”,”Reduce the suction lift.”
+“Static suction head + friction suction head + friction discharge head makes up the”,”The total dynamic head of a pump.”
+“A leak from a packing gland should be approximately”,”One drop per second”
+
 

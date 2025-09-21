@@ -101,4 +101,5 @@ Front,Back
 “ If the state allows water systems to composite samples that are to be analyzed for organic compounds ,which entity must composite the samples and what is the holding time”,”Laboratory,14 days”
 “ A follow up sample is required if the concentration in the composite sample is greater than or equal to \rule{1.5cm}{0.5pt} for any contaminant listed in the National Primary Drinking Water Regulations”,”0.0005mg/L”
 “ Which analytical test can be performed by any person acceptable to the state”,”Alkalinity”
+“A waterborne disease that can be transferred to humans if proper disinfection is not provided is”,”Typhoid.”
 
