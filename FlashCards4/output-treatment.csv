@@ -325,268 +325,275 @@ Front,Back
 "What is a taste-and-odor episode?","Sudden appearance of earthy/musty compounds (e.g., geosmin, MIB) often linked to algae."
 "What is the purpose of plant redundancies?","To ensure continuous treatment during maintenance or equipment failures."
 "What is a SCADA system in treatment?","Supervisory Control and Data Acquisition used to monitor and control treatment processes remotely."
-“Mudballs are clumps of?”,”Filter media and other material.”
-“Coagulation occurs during the first?”,”1 to 5 seconds.”
-“A filter has a surface area of 920 sq ft. What is the filtration rate in gallons per minute per square foot, if it receives a flow of 4,875 GPM?”,”5.3 GPM/SQ FT.”
-“A filter should be backwashed when it has a high?”,”Head loss, filters should also be backwashed when effluent turbidity is high.”
-“Which of the following chemicals decreases corrosion rates?”,”CaCO3”
-“The relative importance of removal mechanisms within a filter depends largely on the name of the water being treated, degree of pre-treatment, and filter characteristics”,”TRUE”
-“In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media”,”False; above the media”
-“Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period”,”TRUE”
-“Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period”,”FALSE”
-“Usually higher backwash rates are required at low temperatures and with smaller media”,”FALSE”
-“Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes”,”FALSE”
-“Filtration is the first and most important step in the solids removal process”,”FALSE”
-“Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc”,”TRUE”
-“The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants”,”FALSE”
-“Particle counters can tell the difference between a particle of clay and a microorganism”,”FALSE”
-“Conventional filtration”,”filtration that is preceded by coagulation, flocculation and sedimentation.”
-“Why is activated carbon used along with other types of filter media?”,”To remove tastes, odors, and organic substances”
-“Slurry”,”A watery mixture or suspension of insoluble matter”
-“Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?”,”To prevent the filter media from being carried out over the wash troughs during backwash”
-“In the filtration process, how is filter efficiency measured?”,”By overall reduction in turbidity”
-“filter clogging”,”A buildup of head loss across the filter media until it reaches some predetermined design limit”
-“What problem is created by too high backwash rate?”,”There could be excessive loss of filter media and media disturbance”
-“How do filter control systems regulate flow rates throughout the filter?”,”By maintaining an adequate head above the media surface”
-“How does the declining-rate filter control system work?”,”The flow rate varies with head loss and each filter operates at the same, but variable, water surface level”
-“How does the self-backwash filter control system work?”,”The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each”
-“Advantage of the conventional filtration process”,”The system provides a great amount of flexibility and reliability in plant operation”
-“What is an efficient means of handling filter backwash waters?”,”Recycle the water to the beginning of the plant”
-“Problem caused by air-bound filters”,”The air prevents water from passing through the filter and causes shortened filter runs”
-“Surface Water Treatment Rule”,”A set of treatment technique requirements that apply to all water system using surface water”
-“Why is flow control critical for accurate and repeatable particle counter performance?”,”Because all particle count data must be based on sample volume”
-“A crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity”,”breakthrough”
-“Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process”,”Mud ball”
-“a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms”,”diatomaceous earth”
-“A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.”,”Direct filtration”
-“Why is diatomaceous earth filtration used in some water treatment applications and not in others”,”Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions”
-“What is a desirable characteristics for filter media”,”A deeper filter bed with a larger media size”
-“What problems can develop from improper backwash rates”,”An insufficient backwash rates may not completely remove trapped solids from the filter media”
-“What is the primary purpose of the filtration process?”,”To remove particulate impurities and floc from water being treated”
-“Which instrument would you use to monitor a filtration process?”,”Turbidity meter”
-“How frequently should the performance of the filtration process be evaluated?”,”Influent, every 2 hours; effluent, continuously”
-“What would you look for in evaluating the filter media condition after a back wash cycle?”,”Cracking, media loss, and mud balls”
-“Which item is an indicator of an upset or failure in the filtration process or pretreatment process?”,”Excessive media loss”
-“How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters”,”Decrease filtration rates”
-“What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media”,”Adjust the backwash flow rates, surface wash flow rate, or duration”
-“What should you not check for after starting any piece of equipment?”,”Check for excessive noise and vibration, over heating, and leakage”
-“Name a type of filtration that can be used to meet the requirements of the SWTR”,”Diatomaceous earth filtration”
-“How can particle counters be used to monitor filter performance?”,”Measure effects of filter flow rate”
-“When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.”,”As long as necessary to permit the clearing of the service line”
-“Chemical commonly used to raise pH is”,”lime”
-“Polyphosphates may be used in water treatment to retard corrosion and”,”calcium scale.”
-“Coagulation and sedimentation alone cannot remove all of the turbidity and suspended matter in raw water. Final step in the removal of suspended matter in water is”,”Filtration.”
-“Which chemical is considered most effective for removing or destroying the affect of phenols in water?”,”CIO2”
-“Treated water is always use for back washing”,”To avoid contamination of the filter bed.”
-“The nephelometric method of measuring turbidity is based on the”,”Scattering of light.”
-“How can the supervisor be certain scheduled maintenance is completed?”,”Supervisor inspect work.”
-“hydrogen sulfide and water may be effectively controlled by”,”Aeration.”
-“In general, a properly operated sedimentation facility should remove”,”At least 60\% of the settleable matter”
-“Trihalomethansare formed when”,”Chlorine reacts with humic and fulvic acids in water.”
-“The most severe symptoms of fluorosis is teeth that”,”Show signs of pitting.”
-“To ensure that operating parameters are effectively monitored during aeration, surface water should be sampled and tested”,”To the extent required to detect and evaluate all significant changes in water quality.”
-“In plant sampling points following filtration are normally selected to monitor for”,”Bacteria and turbidity removal.”
-“The chemical formula for ferric oxide is”,”Fe2O3”
-“Sedimentation is improved by”,”Uniform, horizontal, low velocity flow across the basin .”
-“When calculating carbonate hardness, the following would be included”,”Magnesium bicarbonate.”
-“An important reason for analyzing for raw water samples for color is”,”Because it may indicate high levels of organic compounds, which may produce Trihalomethanes upon contact with chlorine.”
-“Objectives for preventive maintenance program include”,”Reduce emergency repairs and maintenance.”
-“Treatment plant operators should”,”Having some knowledge of the health effects associated with fluoridation”
-“Baffles are installed downstream of the basin inlet to”,”Reduce velocity.”
-“Two chemical contaminants with maximum contaminant levels that are regulated in the community and noncommunity systems are nitrates and”,”Turbidity.”
-“If static pressure in a water system is too high, the remedy is to”,”Install pressure reducing valves.”
-“The main purpose of flocculation is to”,”Bring together microfloc particles.”
-“Solids contact basins and sludge blanket clarifiers are also called”,”Upflow clarifiers.”
-“Fluoride chemicals, like many chemicals used in water treatment, constitute a variety of potential health hazards, but the hazard most common in handling and feeding dry fluoride compounds is”,”inhalation.”
-“The purpose of adding carbon dioxide to water after a chemical precipitation softening process is to”,”Restore the carbonate balance.”
-“Both alum and ferric sulfate are affected by”,”alkalinity.”
-“Anabaena can cause what undesirable characteristic in water?”,”Taste and odor.”
-“If maintaining pressure in a fluoride feed system is not necessary, backflow can best be prevented by”,”Providing an air gap.”
-“The SPADNS method can be used to determine the concentration of”,”Fluoride.”
-“Flow measurements for plant operations are usually taken”,”Somewhere near the point where the water enters the treatment plant.”
-“A commonly used test to monitor the influent and effluent water of a presedimentation basin is”,”Bacteriological count.”
-“Blackwater complaints are the result of”,”Powdered activated carbon entering the distribution system.”
-“If a fuse continues to blow, you should”,”Inspect the affected equipment to determine the cause.”
-“Solids contact basins are designed with baffles to”,”Separate the mixing and settling processes.”
-“If phosphate is used to sequester or suspend iron, the phosphate should be injected”,”Before chlorination.”
-“What type of treatment should be given when a well produces red water?”,”PH adjustment, aeration and filtration.”
-“Operational control flash mixing is best achieved by”,”Installing in line mechanical mixers.”
-“Dissolved oxygen, pH, and temperature can best be related to the aeration process as”,”Basic control tests.”
-“If short filter runs are occurring because of high head loss, it would be advisable to”,”Reduce filter aid dosage.”
-“The fluoridation monitoring practice that is most highly recommended involves”,”Routinely determining the fluoride concentration in the raw and treated water.”
-“Usually the most desirable point of application to add powdered activated carbon is”,”In a raw water intake line.”
-“If a routine turbidity sample exceeds the maximum contaminant level, the utility should”,”Take a check sample within 1 hour.”
-“Oxidation and aeration are”,”Two processes for removing or modifying constituents.”
-“The effective pH range for hydrogen sulfide removal is”,”6 or less.”
-“Overcoming problems of cold water floc can be corrected by operating the process at the best pH for that water temperature, increasing the coagulant dosage, or”,”Adding a weighted agents.”
-“Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and”,”On-line turbidity meter.”
-“Oxygen supersaturation should be avoided”,”Retard or prevent corrosion.”
-“Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and”,”On-line turbidity meter.”
-“Oxygen supersaturation should be avoided”,”Retard or prevent corrosion.”
-“The heat generated during lime slacking”,”Accelerate the slaking process.”
-“If fluoride is added ahead of filtration”,”Some fluoride loss will occur.”
-“When using diquat or endothal for the control off aquatic plants, it is important to”,”Determine the appropriate waiting time before water can be used.”
-“At least once a year a filter bed should be”,”Probed for gravel displacement.”
-“Head loss- turbidity, and length of filter run are each considered independently in determining”,”When a filter needs back washing.”
-“The most significant difference between the general properties of powdered activated carbon and granular activated carbon is”,”Granular activated carbon is reactivated; powdered activated carbon is not.”
-“Persistent filter binding can be overcome”,”By a change in the dose of the Coagulant or Coagulant aid.”
-“In addition to precipitating calcium carbonate, treatment techniques can form a protective coating in the distribution system with the use of”,”polyphosphates.”
-“If sodium fluoride solution is used with water containing hardness in excess of 75 mg/L as CaCO3, it is recommended that”,”The make-up water be softened.”
-“A softening curve is plotted from”,”Jar test and testing process performance.”
-“At a minimum, analyses on water from granular activated carbon contractor should include the threshold odor test, analyses for the removal of any organic compounds of concern, and the”,”Standard plate count.”
-“Control tests for conventional gravity filters using granular activated carbon as a filter media”,”Include control tests for both the filtration and adsorption process.”
-“A condition that tends to increase the corrosiveness of water is”,”High dissolved oxygen.”
-“The water treatment chemical copperas. is”,”Iron sulfate.”
-“A calm area within a settling basin necessary for suspended material to settle. Is the”,”Settling zone.”
-“The term "clarification" is most closely related to”,”Sedimentation.”
-“The purpose of the jar test is to determine the”,”Correct amount of coagulatant to use for proper coagulation.”
-“Optimum coagulant dosage can be established by”,”Performing jar tests.”
-“Bluestone, is a”,”Common name for copper sulfate.”
-“Fish eyes. are”,”Undissolved clumps in solution”
-“Air binding is a condition that may occur as a result of”,”Negative head.”
-“A program for the control of algae, should be instituted”,”After trend information has been established and adequate monitoring is practiced.”
-“With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is”,”Floc carry over from the sedimentation system.”
-“A fluoride saturator”,”Is suitable for small water systems.”
-“The most desirable place to feed activated carbon in a lime-soda ash softening plant, is”,”To raw water at earliest stage possible.”
-“Activated alumina is used effectively for the removal of”,”Certain inorganic elements.”
-“Harvesting, dewatering, dredging, shading, and lining are all method for controlling rooted aquatic plants”,”Physically.”
-“Copper sulfate dosage calculations for water with a total methyl-Orange alkalinity equal to or greater than 50 MG/L as CaCO3 are usually treated at a dosage of 1 MG/L calculated for the”,”Upper two feet regardless of depth.”
-“Softening water high in color concentration would probably require”,”Conventional alum coagulation before softening.”
-“When normal backwash rates are insufficient to thoroughly clean the filter media, it is recommended that”,”Auxiliary surface-wash equipment be installed.”
-“If activated carbon particles become coated with floc, they will”,”Lose adsorptive capacity.”
-“During the fall when the water temperature drops, a possible coagulation operational problem at the filtration plant is”,”Floc carryover from the sedimentation process.”
-“If direct filtration in practiced, it is important to carefully monitor the process because”,”Of the short time between coagulation and filtration and the high filter-laying rates.”
-“Granular activated carbon is often selected instead of powdered activated carbon where”,”Continuous removal of organics is required.”
-“Microstraining is the treatment technique that is normally designed to remove \rule{1.5cm}{0.5pt} from water”,”Algae and coarse suspended solids.”
-“One potential problem that must be monitored when using granular activated carbon as a filter media is”,”Media loss.”
-“Activated carbon is used to reduce”,”tastes and odors.”
-“When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?”,”Sodium.”
-“A chemical commonly used for coagulation in water treatment. is”,”Alum.”
-“What type of treatment should be given when a well produces red water?”,”PH adjustment, aeration, and filtration.”
-“The chemical that is most commonly added to reservoirs for the control of algae. is”,”Copper sulfate.”
-“Which of the following fluoride compounds contains the greatest percentage of fluoride?”,”Fluosilicic acid (H2SiF6).”
-“Continuous turbidity monitoring of pressure-sand filters is an essential operating requirement because”,”The filter bed cannot be observed for problems during operation.”
-“Violent, upswelling boils of water during backwash process can indicate”,”Gravel bed upset our clogging underdrains.”
-“For continuous and effective removal of turbidity and most organic compounds, the minimum depth of granular activated carbon is”,”24 inches.”
-“The problems associated with chlorine, iron, turbidity, organic color, and bacterial slime in the ion-exchange process can”,”Reduce the exchange capacity of the resin bed.”
-“If one were to select the optimum coagulation dosage on the basis of plotting jar test results, the optimum dosage would probably be”,”At some level beyond which there would be little additional turbidity removal without considerable additional cost for chemicals.”
-“If fluoride feed equipment is equipped with a continuous analyzer automatically adjusts the feed rate, it is good practice to”,”Test samples routinely to verify the accuracy of the analyzer.”
-“Alkalinity, pH, water temperature, turbidity, and mixing action are all”,”Factors that can affect good floc formation.”
-“Test results from sampling immediately after aeration should show that there has been a reduction in”,”Dissolved gases.”
-“It is recommended that nephelometric turbidimeters be used to monitor filtered water because”,”They are sensitive to turbidity levels below 1 NTU.”
-“A change in treatment operations following chemical application for the control of algae would probably include”,”Decreases in Coagulant dosage.”
-“The primary feature of solids-contact process is one in which”,”Coagulation, flocculation, and sedimentation are combined into one treatment unit.”
-“The influent into the treatment plant had high color and a turbidity of 0.05 NTU. Improved flocculation can usually be achieved by”,”Adding bentonite clay at flash mixer.”
-“One characteristic of activated carbon that enhances its use in the adsorption process is its”,”Large pore structure.”
-“What metallic element should be monitored for when using caustic soda for corrosion control?”,”Sodium.”
-“Effectiveness of coagulation flocculation process is best measured”,”Using nephelometric turbidimeter”
-“The removal of organic materials using activated carbon depends on”,”Adsorption.”
-“The efficiency of aeration process is primarily determined by the”,”Surface contact between air and water.”
-“The maximum safe dosage of copper sulfate depends in part on”,”The toxic effect on fish.”
-“One method to detect short circuiting problems is to”,”Conduct tracer studies.”
-“A common operating problem with fluoridation is”,”Fluoride concentrations below the optimum due to inadequate feed rates.”
-“An important operating reason for adding powdered activated carbon ahead of normal coagulation/flocculation and filtration is that”,”Carbon treatment should not be allowed to interfere with disinfection.”
-“Iron remains in the ferrous state will”,”Pass through the filters.”
-“Modern detergents contain additives called sequestering agents that”,”Prevent hard water from causing problems.”
-“Pinpoint floc, fish eyes, and high turbidity in settled water are indicators of”,”Operating problems that require further investigation.”
-“The value of filtrability test is that the test”,”Measures actual coagulated water in process and is not a laboratory simulation”
-“If the pH is being raised slightly beyond the saturation point to prevent corrosion in the distribution system, then chlorination dosages may need to be”,”Increased.”
-“The type of Aerator most effective in removing dissolved gases is the”,”Draft.”
-“When operating a surface water treatment plant, which of the following laboratory tests is of most significance for establishing chemical dosages for coagulating water?”,”PH and alkalinity.”
-“The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.”,”Adsorption”
-“The process of reversing the flow of water back through the filter media to remove the entrapped solids.”,”Backwashing”
-“Which one of the following is a hazard when using hydrofluosilicic acid?”,”Corrosiveness.”
-“In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media”,”False; above the media”
-“Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period”,”TRUE”
-“Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period”,”FALSE”
-“Usually higher backwash rates are required at low temperatures and with smaller media”,”FALSE”
-“Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes”,”FALSE”
-“Filtration is the first and most important step in the solids removal process”,”FALSE”
-“Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc”,”TRUE”
-“The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants”,”FALSE”
-“Particle counters can tell the difference between a particle of clay and a microorganism”,”FALSE”
-“Conventional filtration”
-filtration that is preceded by coagulation, flocculation and sedimentation.”
-“Why is activated carbon used along with other types of filter media?”,”To remove tastes, odors, and organic substances”
-“What is a slurry”,”A watery mixture or suspension of insoluble matter”
-“Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?”,”To prevent the filter media from being carried out over the wash troughs during backwash”
-“In the filtration process, how is filter efficiency measured?”,”By overall reduction in turbidity”
-“What is filter clogging”,”A buildup of head loss across the filter media until it reaches some predetermined design limit”
-“What problem is created by too high backwash rate?”,”There could be excessive loss of filter media and media disturbance”
-“How do filter control systems regulate flow rates throughout the filter?”,”By maintaining an adequate head above the media surface”
-“How does the declining-rate filter control system work?”,”The flow rate varies with head loss and each filter operates at the same, but variable, water surface level”
-“How does the self-backwash filter control system work?”,”The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each”
-“Advantage of the conventional filtration process”,”The system provides a great amount of flexibility and reliability in plant operation”
-“What is an efficient means of handling filter backwash waters?”,”Recycle the water to the beginning of the plant”
-“Problem caused by air-bound filters”,”The air prevents water from passing through the filter and causes shortened filter runs”
-“Surface Water Treatment Rule”,”A set of treatment technique requirements that apply to all water system using surface water”
-“Why is flow control critical for accurate and repeatable particle counter performance?”,”Because all particle count data must be based on sample volume”
-“Which types of impurities are removed by filtration?”,”1. BOD 2. Biological forms 3. Colloids 4. Floc 5. Suspended particles”
-“Filter removal of TURBIDITY depends on what factors?”,”1. Chemical characteristics of the water being treated, 2. Filter type and operation, 3. Nature of suspension, 4. Types and degree of pre-treatment”
-“What are the specific classifications of filter types used in water treatment today?”,” 1. Diatomaceous earth filtration 2. Gravity filtration 3. Pressure filtration 4. Slow sand filtration”
-“What are different types of gravity filtration systems used to treat water?”,”1. Dual media 2. Mixed media 3. Single media”
-“Which characteristics are used to classify types of filter media?”,”1. Effective size 2. Hardness 3. Specific gravity 4. Uniformity coefficient”
-“What types of filter control system are commonly used in gravity filtration installations?”,”1. Declining rate 2. Rate-of-flow 3. Self-backwash 4. Split-flow
-“Which factors are important filter process control guidelines?”,”1. Filter effluent water quality (turbidity) 2. Filter influent water quality (turbidity) 3. Filter performance “
-Which factors can be used to develop process guidelines to assist operators in evaluating normal process conditions and in recognizing abnormal conditions?”,”1. Design considerations 2. Trial and experience 3. Water quality conditions 4. Water quality standards”
-“Factors operators can use to calculate when the filtration cycle will be completed?”,”1. Effluent turbidity level 2.Elapsed run time 3. Head loss”
-“Which process calculations are operators expected to perform in the routine operation of the filtration process?”,”1. Backwash rate 2. Filtration Rate 3. Percent of water production used to back wash filter 4.Unit Filter Run Volume”
-“Abrupt changes in which water quality indicators are warnings to operators of abnormal process conditions?”,”1. Chlorine demand 2. Color 3. pH and alkalinity 4. TON 5. Turbidity”
-“Which factors are indicators of abnormal filtration conditions?”,”1. Filter turbidity breakthrough 2. Filters that will not come clean during backwash 3. Media boils during backwash 4. Mud balls in filter media 5. Rapid changes in head loss buildup in the filter”
-“Short filter runs may result from which factors?”,”1. Clogging of the filter under drain system 2. Excessively high filtration rates 3. Excessive mud ball formation in the filter media 4. Filter aid overdosing 5. Increased solids loading”
-“Factors that an operator should investigate when troubleshooting a filtration process”,”1. Filtration process changes 2. Process problems 3. Filter effluent quality changes 4. Sedimentation process effluent quality changes 5. Source water quality changes”
-“Under which conditions may clean filters be put into service?”,”1. A dirty filter is removed for back washing 2. To decrease filtration rates 3. To increase plant production as a result of increased demand for water\\”
-“Which tasks should an operator perform when checking a filter as part of starting up or shutting down the filtration process?”,”1. Be sure filter media and wash water troughs are clean of all debris as leaves, twigs, and tools 2. Check and be sure all access covers and walkways gratings are in place 3. Check source of backwash water to ensure it is ready to go 4. Make sure process monitoring equipment such as head loss and turbidity system are operational”
-“Which tasks are typical routine maintenance functions?”,”1. Checking pumps and motors for leaks, unusual noise and vibrations, or overheating 2. Ensuring good ventilation in equipment work areas 3. Inspecting for alignment of shafts and coupling 4. Keeping electric motors free of dirt, moisture and pests 5. Maintaining proper lubrication”
-“Which water treatment technologies are recognized by the SWTR”,”1. Conventional filtration 2. Diatomaceous filtration 3. Direct filtration 4. Slow sand”
-“Particle counters can be used to perform which tasks? “,”1. To evaluate and compare the performance of different arrangements of filter media 2. To evaluate and compare the performance of different types of filter media 3. To measure effectiveness of polymer addition and polymer dose points to improve filter performance 4. To optimize filter startup rate 5. To optimize filter-to-waste period minimization”
-“What is a crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity”,”breakthrough”
-“Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process”,”Mud ball”
-“_____ is a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms”,”diatomaceous earth”
-“A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.”,”Direct filtration”
-“An instrument for measuring and comparing the turbidity of liquids by passing light through them and determining how much light is reflected by the particles in the liquid. The normal measuring range is 0 to 100 and is expressed as Nephelometric Turbidity Units (NTUs).”,”Turbidity meter”
-“______ is the head, pressure or energy lost by water flowing in a pipe or channel as a result of turbulence caused by the velocity of the flowing water and the roughness of the pipe, channel walls or restrictions caused by fittings.”,”Head loss”
-“The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.”,”Adsorption”
-“The process of reversing the flow of water back through the filter media to remove the entrapped solids.”,”Backwashing”
-“Why is diatomaceous earth filtration used in some water treatment applications and not in others”,”Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions”
-“What is a desirable characteristics for filter media”,”A deeper filter bed with a larger media size”
-“What problems can develop from improper backwash rates”,”An insufficient backwash rates may not completely remove trapped solids from the filter media”
-“What is the primary purpose of the filtration process?”,”To remove particulate impurities and floc from water being treated”
-“Which instrument would you use to monitor a filtration process?”,”Turbidity meter”
-“How frequently should the performance of the filtration process be evaluated?”,”Influent, every 2 hours; effluent, continuously”
-“What would you look for in evaluating the filter media condition after a back wash cycle?”,”Cracking, media loss, and mud balls”
-“Which item is an indicator of an upset or failure in the filtration process or pretreatment process?”,”Excessive media loss”
-“How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters”,”Decrease filtration rates”
-“What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media”,”Adjust the backwash flow rates, surface wash flow rate, or duration”
-“What should you not check for after starting any piece of equipment?”,”Check for excessive noise and vibration, over heating, and leakage”
-“Name a type of filtration that can be used to meet the requirements of the SWTR”,”Diatomaceous earth filtration”
-“How can particle counters be used to monitor filter performance?”,”Measure effects of filter flow rate”
-“When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.”,”As long as necessary to permit the clearing of the service line”
-“The purpose of fluoridating municipal water supply is to”,”Help prevent dental decay.”
-“Optimum coagulant dosage can be established by performing”,”jar tests.”
-“Which word best describes the chemical combination of substances in solution so as to cause separation in the insoluble form”,”Precipitation.”
-“Corrosive waters can be the result of the presence of”,”Acids.”
-“A substance added to water to promote the formation of a protective film in transmission pipes is known as”,”An inhibitor.”
-“When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?”,”Sodium.”
-“A chemical commonly used for coagulation in water treatment. is”,”Alum.”
-“The filter rate and backwash rate each filter shall be determined and recorded once each”,”Month.”
-“Water may be aerated by several methods, almost all of which involve”,”Exposing a large surface area to the atmosphere.”
-“The detention time usually required in a conventional straight flow sedimentation basin is how many hours”,”2-6 hours”
-“Air binding is a condition that may occur as a result of”,”Negative head.”
-“A program for the control of algae, should be instituted”,”After trend information has been established and adequate monitoring is practiced.”
-“With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is”,”Floc carry over from the sedimentation system.”
-“A fluoride saturator”,”Is suitable for small water systems.”
-“The most desirable place to feed activated carbon in a lime-soda ash softening plant, is”,”To raw water at earliest stage possible.”
-“Activated alumina is used effectively for the removal of”,”Certain inorganic elements.”
-“Harvesting, dewatering, dredging, shading, and lining are all method for controlling rooted aquatic plants”,”Physically.”
-“Pinpoint floc is a condition associated with”,”Flash mixing.”
-“Sedimentation can be improved by”,”Maintaining a uniform, horizontal, low-velocity flow across the basin.”
-“If a filter has been out of service and aloud to go dry, which filter control valve should be used to refill it with water?”,”Backwash inlet valve.”
-“Polyelectrolytes are”,”Coagulant aids.”
-“One function of aeration is the removal of ________ from water prior to the lime-soda ash softening process”,”Carbon dioxide”
-“Calcium carbonate stability refers to”,”A condition where water will neither dissolve nor deposit calcium carbonate”
-“A condition that tends to increase the corrosiveness of water on metals is”,”High dissolved oxygen content.”
-“Adsorption operates under the principle of”,”Adhesion.”
-“When adding polyphosphate for sequestration to a well and also adding chlorine to the well, what should be fed first?”,”Polyphosphate.”
-“Treated water is always use for back washing”,”To avoid contamination of the filter bed.”
+"Mudballs are clumps of?","Filter media and other material."
+"Coagulation occurs during the first?","1 to 5 seconds."
+"A filter has a surface area of 920 sq ft. What is the filtration rate in gallons per minute per square foot, if it receives a flow of 4,875 GPM?","5.3 GPM/SQ FT."
+"A filter should be backwashed when it has a high?","Head loss, filters should also be backwashed when effluent turbidity is high."
+"Which of the following chemicals decreases corrosion rates?","CaCO3"
+"The relative importance of removal mechanisms within a filter depends largely on the name of the water being treated, degree of pre-treatment, and filter characteristics","TRUE"
+"In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media","False; above the media"
+"Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period","TRUE"
+"Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period","FALSE"
+"Usually higher backwash rates are required at low temperatures and with smaller media","FALSE"
+"Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes","FALSE"
+"Filtration is the first and most important step in the solids removal process","FALSE"
+"Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc","TRUE"
+"The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants","FALSE"
+"Particle counters can tell the difference between a particle of clay and a microorganism","FALSE"
+"Conventional filtration","filtration that is preceded by coagulation, flocculation and sedimentation."
+"Why is activated carbon used along with other types of filter media?","To remove tastes, odors, and organic substances"
+"Slurry","A watery mixture or suspension of insoluble matter"
+"Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?","To prevent the filter media from being carried out over the wash troughs during backwash"
+"In the filtration process, how is filter efficiency measured?","By overall reduction in turbidity"
+"filter clogging","A buildup of head loss across the filter media until it reaches some predetermined design limit"
+"What problem is created by too high backwash rate?","There could be excessive loss of filter media and media disturbance"
+"How do filter control systems regulate flow rates throughout the filter?","By maintaining an adequate head above the media surface"
+"How does the declining-rate filter control system work?","The flow rate varies with head loss and each filter operates at the same, but variable, water surface level"
+"How does the self-backwash filter control system work?","The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each"
+"Advantage of the conventional filtration process","The system provides a great amount of flexibility and reliability in plant operation"
+"What is an efficient means of handling filter backwash waters?","Recycle the water to the beginning of the plant"
+"Problem caused by air-bound filters","The air prevents water from passing through the filter and causes shortened filter runs"
+"Surface Water Treatment Rule","A set of treatment technique requirements that apply to all water system using surface water"
+"Why is flow control critical for accurate and repeatable particle counter performance?","Because all particle count data must be based on sample volume"
+"A crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity","breakthrough"
+"Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process","Mud ball"
+"a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms","diatomaceous earth"
+"A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.","Direct filtration"
+"Why is diatomaceous earth filtration used in some water treatment applications and not in others","Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions"
+"What is a desirable characteristics for filter media","A deeper filter bed with a larger media size"
+"What problems can develop from improper backwash rates","An insufficient backwash rates may not completely remove trapped solids from the filter media"
+"What is the primary purpose of the filtration process?","To remove particulate impurities and floc from water being treated"
+"Which instrument would you use to monitor a filtration process?","Turbidity meter"
+"How frequently should the performance of the filtration process be evaluated?","Influent, every 2 hours; effluent, continuously"
+"What would you look for in evaluating the filter media condition after a back wash cycle?","Cracking, media loss, and mud balls"
+"Which item is an indicator of an upset or failure in the filtration process or pretreatment process?","Excessive media loss"
+"How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters","Decrease filtration rates"
+"What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media","Adjust the backwash flow rates, surface wash flow rate, or duration"
+"What should you not check for after starting any piece of equipment?","Check for excessive noise and vibration, over heating, and leakage"
+"Name a type of filtration that can be used to meet the requirements of the SWTR","Diatomaceous earth filtration"
+"How can particle counters be used to monitor filter performance?","Measure effects of filter flow rate"
+"When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.","As long as necessary to permit the clearing of the service line"
+"Chemical commonly used to raise pH is","lime"
+"Polyphosphates may be used in water treatment to retard corrosion and","calcium scale."
+"Coagulation and sedimentation alone cannot remove all of the turbidity and suspended matter in raw water. Final step in the removal of suspended matter in water is","Filtration."
+"Which chemical is considered most effective for removing or destroying the affect of phenols in water?","CIO2"
+"Treated water is always use for back washing","To avoid contamination of the filter bed."
+"The nephelometric method of measuring turbidity is based on the","Scattering of light."
+"How can the supervisor be certain scheduled maintenance is completed?","Supervisor inspect work."
+"hydrogen sulfide and water may be effectively controlled by","Aeration."
+"In general, a properly operated sedimentation facility should remove","At least 60\% of the settleable matter"
+"Trihalomethansare formed when","Chlorine reacts with humic and fulvic acids in water."
+"The most severe symptoms of fluorosis is teeth that","Show signs of pitting."
+"To ensure that operating parameters are effectively monitored during aeration, surface water should be sampled and tested","To the extent required to detect and evaluate all significant changes in water quality."
+"In plant sampling points following filtration are normally selected to monitor for","Bacteria and turbidity removal."
+"The chemical formula for ferric oxide is","Fe2O3"
+"Sedimentation is improved by","Uniform, horizontal, low velocity flow across the basin ."
+"When calculating carbonate hardness, the following would be included","Magnesium bicarbonate."
+"An important reason for analyzing for raw water samples for color is","Because it may indicate high levels of organic compounds, which may produce Trihalomethanes upon contact with chlorine."
+"Objectives for preventive maintenance program include","Reduce emergency repairs and maintenance."
+"Treatment plant operators should","Having some knowledge of the health effects associated with fluoridation"
+"Baffles are installed downstream of the basin inlet to","Reduce velocity."
+"Two chemical contaminants with maximum contaminant levels that are regulated in the community and noncommunity systems are nitrates and","Turbidity."
+"If static pressure in a water system is too high, the remedy is to","Install pressure reducing valves."
+"The main purpose of flocculation is to","Bring together microfloc particles."
+"Solids contact basins and sludge blanket clarifiers are also called","Upflow clarifiers."
+"Fluoride chemicals, like many chemicals used in water treatment, constitute a variety of potential health hazards, but the hazard most common in handling and feeding dry fluoride compounds is","inhalation."
+"The purpose of adding carbon dioxide to water after a chemical precipitation softening process is to","Restore the carbonate balance."
+"Both alum and ferric sulfate are affected by","alkalinity."
+"Anabaena can cause what undesirable characteristic in water?","Taste and odor."
+"If maintaining pressure in a fluoride feed system is not necessary, backflow can best be prevented by","Providing an air gap."
+"The SPADNS method can be used to determine the concentration of","Fluoride."
+"Flow measurements for plant operations are usually taken","Somewhere near the point where the water enters the treatment plant."
+"A commonly used test to monitor the influent and effluent water of a presedimentation basin is","Bacteriological count."
+"Blackwater complaints are the result of","Powdered activated carbon entering the distribution system."
+"If a fuse continues to blow, you should","Inspect the affected equipment to determine the cause."
+"Solids contact basins are designed with baffles to","Separate the mixing and settling processes."
+"If phosphate is used to sequester or suspend iron, the phosphate should be injected","Before chlorination."
+"What type of treatment should be given when a well produces red water?","PH adjustment, aeration and filtration."
+"Operational control flash mixing is best achieved by","Installing in line mechanical mixers."
+"Dissolved oxygen, pH, and temperature can best be related to the aeration process as","Basic control tests."
+"If short filter runs are occurring because of high head loss, it would be advisable to","Reduce filter aid dosage."
+"The fluoridation monitoring practice that is most highly recommended involves","Routinely determining the fluoride concentration in the raw and treated water."
+"Usually the most desirable point of application to add powdered activated carbon is","In a raw water intake line."
+"If a routine turbidity sample exceeds the maximum contaminant level, the utility should","Take a check sample within 1 hour."
+"Oxidation and aeration are","Two processes for removing or modifying constituents."
+"The effective pH range for hydrogen sulfide removal is","6 or less."
+"Overcoming problems of cold water floc can be corrected by operating the process at the best pH for that water temperature, increasing the coagulant dosage, or","Adding a weighted agents."
+"Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and","On-line turbidity meter."
+"Oxygen supersaturation should be avoided","Retard or prevent corrosion."
+"Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and","On-line turbidity meter."
+"Oxygen supersaturation should be avoided","Retard or prevent corrosion."
+"The heat generated during lime slacking","Accelerate the slaking process."
+"If fluoride is added ahead of filtration","Some fluoride loss will occur."
+"When using diquat or endothal for the control off aquatic plants, it is important to","Determine the appropriate waiting time before water can be used."
+"At least once a year a filter bed should be","Probed for gravel displacement."
+"Head loss- turbidity, and length of filter run are each considered independently in determining","When a filter needs back washing."
+"The most significant difference between the general properties of powdered activated carbon and granular activated carbon is","Granular activated carbon is reactivated; powdered activated carbon is not."
+"Persistent filter binding can be overcome","By a change in the dose of the Coagulant or Coagulant aid."
+"In addition to precipitating calcium carbonate, treatment techniques can form a protective coating in the distribution system with the use of","polyphosphates."
+"If sodium fluoride solution is used with water containing hardness in excess of 75 mg/L as CaCO3, it is recommended that","The make-up water be softened."
+"A softening curve is plotted from","Jar test and testing process performance."
+"At a minimum, analyses on water from granular activated carbon contractor should include the threshold odor test, analyses for the removal of any organic compounds of concern, and the","Standard plate count."
+"Control tests for conventional gravity filters using granular activated carbon as a filter media","Include control tests for both the filtration and adsorption process."
+"A condition that tends to increase the corrosiveness of water is","High dissolved oxygen."
+"The water treatment chemical copperas. is","Iron sulfate."
+"A calm area within a settling basin necessary for suspended material to settle. Is the","Settling zone."
+"The term "clarification" is most closely related to","Sedimentation."
+"The purpose of the jar test is to determine the","Correct amount of coagulatant to use for proper coagulation."
+"Optimum coagulant dosage can be established by","Performing jar tests."
+"Bluestone, is a","Common name for copper sulfate."
+"Fish eyes. are","Undissolved clumps in solution"
+"Air binding is a condition that may occur as a result of","Negative head."
+"A program for the control of algae, should be instituted","After trend information has been established and adequate monitoring is practiced."
+"With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is","Floc carry over from the sedimentation system."
+"A fluoride saturator","Is suitable for small water systems."
+"The most desirable place to feed activated carbon in a lime-soda ash softening plant, is","To raw water at earliest stage possible."
+"Activated alumina is used effectively for the removal of","Certain inorganic elements."
+"Harvesting, dewatering, dredging, shading, and lining are all method for controlling rooted aquatic plants","Physically."
+"Copper sulfate dosage calculations for water with a total methyl-Orange alkalinity equal to or greater than 50 MG/L as CaCO3 are usually treated at a dosage of 1 MG/L calculated for the","Upper two feet regardless of depth."
+"Softening water high in color concentration would probably require","Conventional alum coagulation before softening."
+"When normal backwash rates are insufficient to thoroughly clean the filter media, it is recommended that","Auxiliary surface-wash equipment be installed."
+"If activated carbon particles become coated with floc, they will","Lose adsorptive capacity."
+"During the fall when the water temperature drops, a possible coagulation operational problem at the filtration plant is","Floc carryover from the sedimentation process."
+"If direct filtration in practiced, it is important to carefully monitor the process because","Of the short time between coagulation and filtration and the high filter-laying rates."
+"Granular activated carbon is often selected instead of powdered activated carbon where","Continuous removal of organics is required."
+"Microstraining is the treatment technique that is normally designed to remove \rule{1.5cm}{0.5pt} from water","Algae and coarse suspended solids."
+"One potential problem that must be monitored when using granular activated carbon as a filter media is","Media loss."
+"Activated carbon is used to reduce","tastes and odors."
+"When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?","Sodium."
+"A chemical commonly used for coagulation in water treatment. is","Alum."
+"What type of treatment should be given when a well produces red water?","PH adjustment, aeration, and filtration."
+"The chemical that is most commonly added to reservoirs for the control of algae. is","Copper sulfate."
+"Which of the following fluoride compounds contains the greatest percentage of fluoride?","Fluosilicic acid (H2SiF6)."
+"Continuous turbidity monitoring of pressure-sand filters is an essential operating requirement because","The filter bed cannot be observed for problems during operation."
+"Violent, upswelling boils of water during backwash process can indicate","Gravel bed upset our clogging underdrains."
+"For continuous and effective removal of turbidity and most organic compounds, the minimum depth of granular activated carbon is","24 inches."
+"The problems associated with chlorine, iron, turbidity, organic color, and bacterial slime in the ion-exchange process can","Reduce the exchange capacity of the resin bed."
+"If one were to select the optimum coagulation dosage on the basis of plotting jar test results, the optimum dosage would probably be","At some level beyond which there would be little additional turbidity removal without considerable additional cost for chemicals."
+"If fluoride feed equipment is equipped with a continuous analyzer automatically adjusts the feed rate, it is good practice to","Test samples routinely to verify the accuracy of the analyzer."
+"Alkalinity, pH, water temperature, turbidity, and mixing action are all","Factors that can affect good floc formation."
+"Test results from sampling immediately after aeration should show that there has been a reduction in","Dissolved gases."
+"It is recommended that nephelometric turbidimeters be used to monitor filtered water because","They are sensitive to turbidity levels below 1 NTU."
+"A change in treatment operations following chemical application for the control of algae would probably include","Decreases in Coagulant dosage."
+"The primary feature of solids-contact process is one in which","Coagulation, flocculation, and sedimentation are combined into one treatment unit."
+"The influent into the treatment plant had high color and a turbidity of 0.05 NTU. Improved flocculation can usually be achieved by","Adding bentonite clay at flash mixer."
+"One characteristic of activated carbon that enhances its use in the adsorption process is its","Large pore structure."
+"What metallic element should be monitored for when using caustic soda for corrosion control?","Sodium."
+"Effectiveness of coagulation flocculation process is best measured","Using nephelometric turbidimeter"
+"The removal of organic materials using activated carbon depends on","Adsorption."
+"The efficiency of aeration process is primarily determined by the","Surface contact between air and water."
+"The maximum safe dosage of copper sulfate depends in part on","The toxic effect on fish."
+"One method to detect short circuiting problems is to","Conduct tracer studies."
+"A common operating problem with fluoridation is","Fluoride concentrations below the optimum due to inadequate feed rates."
+"An important operating reason for adding powdered activated carbon ahead of normal coagulation/flocculation and filtration is that","Carbon treatment should not be allowed to interfere with disinfection."
+"Iron remains in the ferrous state will","Pass through the filters."
+"Modern detergents contain additives called sequestering agents that","Prevent hard water from causing problems."
+"Pinpoint floc, fish eyes, and high turbidity in settled water are indicators of","Operating problems that require further investigation."
+"The value of filtrability test is that the test","Measures actual coagulated water in process and is not a laboratory simulation"
+"If the pH is being raised slightly beyond the saturation point to prevent corrosion in the distribution system, then chlorination dosages may need to be","Increased."
+"The type of Aerator most effective in removing dissolved gases is the","Draft."
+"When operating a surface water treatment plant, which of the following laboratory tests is of most significance for establishing chemical dosages for coagulating water?","PH and alkalinity."
+"The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.","Adsorption"
+"The process of reversing the flow of water back through the filter media to remove the entrapped solids.","Backwashing"
+"Which one of the following is a hazard when using hydrofluosilicic acid?","Corrosiveness."
+"In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media","False; above the media"
+"Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period","TRUE"
+"Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period","FALSE"
+"Usually higher backwash rates are required at low temperatures and with smaller media","FALSE"
+"Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes","FALSE"
+"Filtration is the first and most important step in the solids removal process","FALSE"
+"Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc","TRUE"
+"The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants","FALSE"
+"Particle counters can tell the difference between a particle of clay and a microorganism","FALSE"
+"Conventional filtration"
+filtration that is preceded by coagulation, flocculation and sedimentation."
+"Why is activated carbon used along with other types of filter media?","To remove tastes, odors, and organic substances"
+"What is a slurry","A watery mixture or suspension of insoluble matter"
+"Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?","To prevent the filter media from being carried out over the wash troughs during backwash"
+"In the filtration process, how is filter efficiency measured?","By overall reduction in turbidity"
+"What is filter clogging","A buildup of head loss across the filter media until it reaches some predetermined design limit"
+"What problem is created by too high backwash rate?","There could be excessive loss of filter media and media disturbance"
+"How do filter control systems regulate flow rates throughout the filter?","By maintaining an adequate head above the media surface"
+"How does the declining-rate filter control system work?","The flow rate varies with head loss and each filter operates at the same, but variable, water surface level"
+"How does the self-backwash filter control system work?","The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each"
+"Advantage of the conventional filtration process","The system provides a great amount of flexibility and reliability in plant operation"
+"What is an efficient means of handling filter backwash waters?","Recycle the water to the beginning of the plant"
+"Problem caused by air-bound filters","The air prevents water from passing through the filter and causes shortened filter runs"
+"Surface Water Treatment Rule","A set of treatment technique requirements that apply to all water system using surface water"
+"Why is flow control critical for accurate and repeatable particle counter performance?","Because all particle count data must be based on sample volume"
+"Which types of impurities are removed by filtration?","1. BOD 2. Biological forms 3. Colloids 4. Floc 5. Suspended particles"
+"Filter removal of TURBIDITY depends on what factors?","1. Chemical characteristics of the water being treated, 2. Filter type and operation, 3. Nature of suspension, 4. Types and degree of pre-treatment"
+"What are the specific classifications of filter types used in water treatment today?"," 1. Diatomaceous earth filtration 2. Gravity filtration 3. Pressure filtration 4. Slow sand filtration"
+"What are different types of gravity filtration systems used to treat water?","1. Dual media 2. Mixed media 3. Single media"
+"Which characteristics are used to classify types of filter media?","1. Effective size 2. Hardness 3. Specific gravity 4. Uniformity coefficient"
+"What types of filter control system are commonly used in gravity filtration installations?","1. Declining rate 2. Rate-of-flow 3. Self-backwash 4. Split-flow
+"Which factors are important filter process control guidelines?","1. Filter effluent water quality (turbidity) 2. Filter influent water quality (turbidity) 3. Filter performance "
+Which factors can be used to develop process guidelines to assist operators in evaluating normal process conditions and in recognizing abnormal conditions?","1. Design considerations 2. Trial and experience 3. Water quality conditions 4. Water quality standards"
+"Factors operators can use to calculate when the filtration cycle will be completed?","1. Effluent turbidity level 2.Elapsed run time 3. Head loss"
+"Which process calculations are operators expected to perform in the routine operation of the filtration process?","1. Backwash rate 2. Filtration Rate 3. Percent of water production used to back wash filter 4.Unit Filter Run Volume"
+"Abrupt changes in which water quality indicators are warnings to operators of abnormal process conditions?","1. Chlorine demand 2. Color 3. pH and alkalinity 4. TON 5. Turbidity"
+"Which factors are indicators of abnormal filtration conditions?","1. Filter turbidity breakthrough 2. Filters that will not come clean during backwash 3. Media boils during backwash 4. Mud balls in filter media 5. Rapid changes in head loss buildup in the filter"
+"Short filter runs may result from which factors?","1. Clogging of the filter under drain system 2. Excessively high filtration rates 3. Excessive mud ball formation in the filter media 4. Filter aid overdosing 5. Increased solids loading"
+"Factors that an operator should investigate when troubleshooting a filtration process","1. Filtration process changes 2. Process problems 3. Filter effluent quality changes 4. Sedimentation process effluent quality changes 5. Source water quality changes"
+"Under which conditions may clean filters be put into service?","1. A dirty filter is removed for back washing 2. To decrease filtration rates 3. To increase plant production as a result of increased demand for water\\"
+"Which tasks should an operator perform when checking a filter as part of starting up or shutting down the filtration process?","1. Be sure filter media and wash water troughs are clean of all debris as leaves, twigs, and tools 2. Check and be sure all access covers and walkways gratings are in place 3. Check source of backwash water to ensure it is ready to go 4. Make sure process monitoring equipment such as head loss and turbidity system are operational"
+"Which tasks are typical routine maintenance functions?","1. Checking pumps and motors for leaks, unusual noise and vibrations, or overheating 2. Ensuring good ventilation in equipment work areas 3. Inspecting for alignment of shafts and coupling 4. Keeping electric motors free of dirt, moisture and pests 5. Maintaining proper lubrication"
+"Which water treatment technologies are recognized by the SWTR","1. Conventional filtration 2. Diatomaceous filtration 3. Direct filtration 4. Slow sand"
+"Particle counters can be used to perform which tasks? ","1. To evaluate and compare the performance of different arrangements of filter media 2. To evaluate and compare the performance of different types of filter media 3. To measure effectiveness of polymer addition and polymer dose points to improve filter performance 4. To optimize filter startup rate 5. To optimize filter-to-waste period minimization"
+"What is a crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity","Breakthrough"
+"Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process","Mud ball"
+"_____ is a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms","diatomaceous earth"
+"A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.","Direct filtration"
+"An instrument for measuring and comparing the turbidity of liquids by passing light through them and determining how much light is reflected by the particles in the liquid. The normal measuring range is 0 to 100 and is expressed as Nephelometric Turbidity Units (NTUs).","Turbidity meter"
+"______ is the head, pressure or energy lost by water flowing in a pipe or channel as a result of turbulence caused by the velocity of the flowing water and the roughness of the pipe, channel walls or restrictions caused by fittings.","Head loss"
+"The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.","Adsorption"
+"The process of reversing the flow of water back through the filter media to remove the entrapped solids.","Backwashing"
+"Why is diatomaceous earth filtration used in some water treatment applications and not in others","Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions"
+"What is a desirable characteristics for filter media","A deeper filter bed with a larger media size"
+"What problems can develop from improper backwash rates","An insufficient backwash rates may not completely remove trapped solids from the filter media"
+"What is the primary purpose of the filtration process?","To remove particulate impurities and floc from water being treated"
+"Which instrument would you use to monitor a filtration process?","Turbidity meter"
+"How frequently should the performance of the filtration process be evaluated?","Influent, every 2 hours; effluent, continuously"
+"What would you look for in evaluating the filter media condition after a back wash cycle?","Cracking, media loss, and mud balls"
+"Which item is an indicator of an upset or failure in the filtration process or pretreatment process?","Excessive media loss"
+"How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters","Decrease filtration rates"
+"What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media","Adjust the backwash flow rates, surface wash flow rate, or duration"
+"What should you not check for after starting any piece of equipment?","Check for excessive noise and vibration, over heating, and leakage"
+"Name a type of filtration that can be used to meet the requirements of the SWTR","Diatomaceous earth filtration"
+"How can particle counters be used to monitor filter performance?","Measure effects of filter flow rate"
+"When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.","As long as necessary to permit the clearing of the service line"
+"The purpose of fluoridating municipal water supply is to","Help prevent dental decay."
+"Optimum coagulant dosage can be established by performing","jar tests."
+"Which word best describes the chemical combination of substances in solution so as to cause separation in the insoluble form","Precipitation."
+"Corrosive waters can be the result of the presence of","Acids."
+"A substance added to water to promote the formation of a protective film in transmission pipes is known as","An inhibitor."
+"When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?","Sodium."
+"A chemical commonly used for coagulation in water treatment. is","Alum."
+"The filter rate and backwash rate each filter shall be determined and recorded once each","Month."
+"Water may be aerated by several methods, almost all of which involve","Exposing a large surface area to the atmosphere."
+"The detention time usually required in a conventional straight flow sedimentation basin is how many hours","2-6 hours"
+"Air binding is a condition that may occur as a result of","Negative head."
+"A program for the control of algae, should be instituted","After trend information has been established and adequate monitoring is practiced."
+"With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is","Floc carry over from the sedimentation system."
+"A fluoride saturator","Is suitable for small water systems."
+"The most desirable place to feed activated carbon in a lime-soda ash softening plant, is","To raw water at earliest stage possible."
+"Activated alumina is used effectively for the removal of","Certain inorganic elements."
+"Harvesting, dewatering, dredging, shading, and lining are all method for controlling rooted aquatic plants","Physically."
+"Pinpoint floc is a condition associated with","Flash mixing."
+"Sedimentation can be improved by","Maintaining a uniform, horizontal, low-velocity flow across the basin."
+"If a filter has been out of service and aloud to go dry, which filter control valve should be used to refill it with water?","Backwash inlet valve."
+"Polyelectrolytes are","Coagulant aids."
+"One function of aeration is the removal of ________ from water prior to the lime-soda ash softening process","Carbon dioxide"
+"Calcium carbonate stability refers to","A condition where water will neither dissolve nor deposit calcium carbonate"
+"A condition that tends to increase the corrosiveness of water on metals is","High dissolved oxygen content."
+"Adsorption operates under the principle of","Adhesion."
+"When adding polyphosphate for sequestration to a well and also adding chlorine to the well, what should be fed first?","Polyphosphate."
+"Treated water is always use for back washing","To avoid contamination of the filter bed."
+"The main purpose of flocculation is to","Bring together microfloc particles."
+"Solids contact basins and sludge blanket clarifiers are also called","Upflow clarifiers."
+"Two operating problems commonly associated with screening facilities are","Clogging and corrosion."
+"The type of Aerator most effective in removing dissolved gases is the","Draft."
+"The fluoridation monitoring practice that is most highly recommended involves","Routinely determining the fluoride concentration in the raw and treated water."
+"Usually the most desirable point of application to add powdered activated carbon is","In a raw water intake line."
+
 
