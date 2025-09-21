@@ -79,5 +79,34 @@ Front,Back
 "What is condition monitoring in pumps?","Tracking vibration, temperature, and performance to predict failures."
 "Why rotate standby pumps periodically?","To balance wear, confirm operability, and extend equipment life."
 "What is pump station safety concern?","Confined space hazards, electrical safety, rotating equipment, and chemical feed risks."
-
+“What are pumps used for?”,”To add energy to liquids to produce flow or increase pressure”
+“What is pressure defined as?”,”force per unit area”
+“How do all pumps move fluid (water, oil, molten metal, sludge) from one place to another?”,”Some combination of Pushing, Pulling, Throwing, Squeezing”
+“What do all pumps have?”,”A power end (pistons on reciprocating pumps; motors on centrifugal pumps), Fluid end or the pumping end”
+“Do pumps develop energy on their own?”,”No”
+“What are the main types of pumps?”,”Kinetic, Positive displacement, Educators and ejectors”
+“How does centrifugal pump work?”,”Uses a spinning rotor (impeller or propeller) to increase kinetic energy and pressure of the pumped fluid.”
+“Why is it not a good idea to operate a centrifugal pump for long periods of time with the discharge closed?”,”The heat generated due to a closed discharge valve can cause the pump to explode.”
+“What is another name for a centrifugal pump?”,”A Volute pump”
+“What is the volute and what is its purpose?”,”The volute is the pump casing, the impeller discharges into a volute, which is a gradually widening spiral channel in the pump casing.”
+The volute converts the liquid velocity created by the impeller to pressure”
+“What is an impeller?”,”impellers spin at a high rate of speed and must be carefully machined and balance to avoid vibration”
+“What are some types of impellers?”,”Closed impellers: have side walls or shrouds on both sides of the vanes. A semiclosed impeller: has a wall on one side of the vanes; the other side is open An open impeller: has no side walls, the vanes are attached directly to the hub. Hub is a solid center area that has a hole through it. The pump shaft extends through the hub.”
+“What is the eye of an impeller?”,”The eye is the area the liquid enters into the impeller.”
+“Pump capacity is expressed by what?”,”Pump capacity is expressed as volumetric flow rate \& discharge pressure. Note: remember flow rate and discharge pressure.”
+“The capacity of a centrifugal pump can be increased by doing one of two things. What are they?”,”1. Increase the speed of the pump 2. Increase the size of the impeller”
+“What does positive displacement mean?”,”For every revolution or stroke a definite volume is displaced.”
+“How does a vane pump work?”,”The vanes maintain pressure against the pump housing”
+“How does a rotary screw pump work?”,”As the screw rotates fluid moves along the axis of the screw”
+“How do gear pumps work?”,”Use the meshing of gears to move fluid”
+“How do reciprocating piston pumps work?”,”Piston reciprocates back and forth inside a cylinder. The liquid piston is driven by power piston or by a rotating crank shaft. The liquid piston moves the fluid. The power piston is driven by steam or compressed air. A crank shaft would be driven by an electric motor or steam turbine”
+“What is a diaphragm pump?”,”Uses reciprocating action to flex a diaphragm. This action either fills or empties the chambers in the pump. Fluid is directed by use of check valves.”
+“What is pump capacity?”,”The capacity of a pump is the amount of liquid the pump can handle in a given period of time. It is usually expressed in GPM delivered at a specific pressure.”
+“What is head?”,”The vertical distance between the two liquid levels in a pumping system.”
+“What is total pump head?”,”The sum of the suction lift and the discharge head”
+“What is static discharge head?”,”The vertical distance from the centerline of the pump to the liquid level on the discharge”
+“What is friction head?”,”In addition to the head pressures, there is always a friction loss associated with the system.”
+“What is velocity head?”,”The head pressure required to impart velocity to a fluid.”
+“What is Net Positive Suction Head (NPSH)?”,”It is the head necessary needed to overcome the friction and flow losses in a pump's suction. The minimum suction head will be supplied by the pump manufacturer. If a pump is operated below the NPSH, cavitation can occur.”
+“What is cavitation?”,”the formation of bubbles within the pumped liquid that collapse and damage the propeller or impeller.”
 
