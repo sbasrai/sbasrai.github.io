@@ -175,7 +175,7 @@
       if(!actions){actions=document.createElement('div');actions.className='actions';document.querySelector('.wrap').appendChild(actions);}
       actions.innerHTML='';
       const againBtn=document.createElement('button'); againBtn.className='btn again'; againBtn.textContent='Again'; againBtn.onclick=()=>{again++; next();};
-      const goodBtn=document.createElement('button'); goodBtn.className='btn good'; goodBtn.textContent='Good'; goodBtn.onclick=()=>{known++; next();};
+      const goodBtn=document.createElement('button'); goodBtn.className='btn good'; goodBtn.textContent='Next'; goodBtn.onclick=()=>{known++; next();};
       actions.append(againBtn,goodBtn);
       document.getElementById('known').textContent=String(known);
       document.getElementById('again').textContent=String(again);
