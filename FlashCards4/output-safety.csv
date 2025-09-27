@@ -130,4 +130,23 @@ Front,Back
 "What is lockout device?","A physical device preventing operation of equipment until maintenance is finished."
 "What is a tagout device?","A warning tag indicating equipment must not be operated until safe."
 "Why are incident investigations important?","They identify root causes of accidents and recommend corrective actions."
+"What does PEL stand for and who sets it?","Permissible Exposure Limit; set by OSHA. It is an enforceable maximum allowable concentration of a substance or agent, usually expressed as an 8-hour TWA."
+"What does TWA stand for?","Time-Weighted Average; the average exposure over an 8-hour workday and 40-hour workweek that should not be exceeded."
+"What does STEL stand for and what does it mean?","Short-Term Exposure Limit; the maximum concentration a worker can be exposed to for a short duration (typically 15 minutes) without adverse effects."
+"What does TLV stand for and who publishes it?","Threshold Limit Value; published by ACGIH. It represents exposure levels (TWA, STEL, or Ceiling) most workers can experience without harm."
+"What does REL stand for and who issues it?","Recommended Exposure Limit; issued by NIOSH as guidance to protect worker health. May include TWA, STEL, or Ceiling limits."
+"What does IDLH stand for and what does it mean?","Immediately Dangerous to Life or Health; the airborne concentration that poses an immediate threat to life, causes irreversible health effects, or prevents escape."
+"Give an example of a PEL for chlorine.","0.5 ppm (OSHA PEL, 8-hr TWA)."
+"Give an example of a STEL for chlorine.","1 ppm (ACGIH STEL)."
+"Give an example of an IDLH value for hydrogen sulfide (H₂S).","100 ppm (NIOSH IDLH)."
+"What is OSHA’s PEL for hydrogen sulfide (H₂S)?","20 ppm (Ceiling)."
+"What is OSHA’s PEL for carbon monoxide (CO)?","50 ppm (8-hr TWA)."
+"What is NIOSH’s REL for carbon monoxide (CO)?","35 ppm (8-hr TWA)."
+"What is the IDLH concentration for carbon monoxide (CO)?","1200 ppm."
+"What is OSHA’s Action Level for noise exposure?","85 dBA TWA (8-hr), requiring a hearing conservation program."
+"What is OSHA’s PEL for noise exposure?","90 dBA TWA (8-hr)."
+"What does WBGT stand for in heat stress monitoring?","Wet Bulb Globe Temperature; combines temperature, humidity, air flow, and radiant heat to measure heat stress risk."
+"What control measures are recommended when WBGT values indicate high heat stress?","Provide rest breaks, shade, hydration, and acclimatization schedules."
+
+
 
