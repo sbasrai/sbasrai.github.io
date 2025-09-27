@@ -1,0 +1,31 @@
+Front,Back
+Define NPSH.,Net Positive Suction Head (available vs. required to avoid cavitation).
+What is cavitation?,Formation/collapse of vapor bubbles causing noise/vibration/erosion.
+How to reduce cavitation risk?,"Increase suction head, decrease temperature, reduce pump speed, or lower suction losses."
+What is TDH?,Total Dynamic Head: static head + friction + velocity head adjustments.
+Affinity laws relate what?,"Pump flow, head, and power to speed/impeller diameter changes."
+What is a VFD?,Variable Frequency Drive controlling motor speed for flow/pressure.
+Purpose of check valve on discharge?,Prevents reverse flow/backspin when pump stops.
+What is a foot valve?,Check valve at suction inlet to keep prime.
+What is priming?,Filling pump casing/suction to remove air before starting.
+What is a pump curve?,Graph of head vs flow for a specific pump and speed.
+Best efficiency point (BEP)?,Flow where pump efficiency is highest and vibration lowest.
+Parallel pump operation effect?,Increases flow at similar head.
+Series pump operation effect?,Increases head at similar flow.
+What is wire-to-water efficiency?,Overall efficiency from power input to water output.
+Role of air release valves on force mains?,Remove trapped air to reduce headloss and surges.
+What is water hammer?,"Pressure surge from rapid velocity change (e.g., valve closure)."
+How to mitigate water hammer?,"Slow valve closure, surge tanks, air chambers, VFD ramping."
+What is soft start?,Gradual acceleration to limit inrush current and surges.
+Pump rotation check purpose?,Ensure correct direction to avoid low flow/overheating.
+What is seal water?,Clean water to cool/lubricate mechanical seals or packing.
+What is pump packing?,Rings compressed around shaft sleeve to limit leakage.
+Centrifugal vs positive displacement?,Centrifugal adds velocity/pressure; PD moves fixed volume per cycle.
+What is a wet well?,Sump where influent collects for pumping (lift station).
+Purpose of level sensors?,Start/stop pumps automatically and prevent overflow/dry run.
+What is NPSHa vs NPSHr?,Available at site vs required by pump; NPSHa must exceed NPSHr.
+What increases friction head?,"Higher flow, smaller/rougher pipes, more fittings."
+What is shutoff head?,Maximum head at zero flow on pump curve.
+What is a pressure relief valve?,Protects system from excessive pressure surges.
+What is a suction strainer?,Screen on suction line to keep debris from entering pump.
+Why balance rotating assemblies?,Reduce vibration and bearing/seal wear.
