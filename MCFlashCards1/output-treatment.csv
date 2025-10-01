@@ -1,599 +1,1655 @@
 Front,Back
-"What is coagulation?","Addition of chemicals to destabilize particles."
-"What is flocculation?","Gentle mixing to form larger floc from destabilized particles."
-"What is sedimentation?","Gravity settling to remove floc before filtration."
-"What is filtration?","Passing water through media to remove remaining solids."
-"Common coagulant chemical?","Aluminum sulfate (alum) or ferric salts."
-"What is jar testing?","Bench tests to optimize coagulant dose and mixing conditions."
-"What is filter ripening?","Initial period after startup when effluent turbidity may be higher."
-"What is backwashing?","Reversing flow to clean a filter by expanding the media bed."
-"What is filter-to-waste?","Discharging initial filtered water until quality stabilizes."
-"What is GAC?","Granular Activated Carbon used for organics/DBP precursor removal."
-"What is PAC?","Powdered Activated Carbon dosed for taste/odor or organics control."
-"What is lime softening?","Chemical precipitation process to reduce hardness/alkalinity."
-"What is membrane MF/UF?","Micro/ultrafiltration membranes removing particles/pathogens."
-"What is RO?","Reverse Osmosis membrane process removing dissolved salts/contaminants."
-"Define flux (membranes).","Permeate flow per area (e.g. gfd or LMH)."
-"What is CIP?","Clean‑in‑place for membrane fouling removal."
-"What is aeration used for?","Oxidize/strip VOCs, H2S, CO2; increase DO."
-"What is oxidation for iron/manganese?","Convert soluble forms to insoluble for filtration."
-"What is breakpoint chlorination?","Adding chlorine until demand satisfied and free chlorine residual forms."
-"What is ozonation?","Use of ozone as a strong oxidant/disinfectant."
-"What is UV disinfection?","Use of ultraviolet light to inactivate pathogens."
-"What is sludge blanket?","Suspended solids layer in upflow clarifiers aiding separation."
-"What is sludge age (solids retention time)?","Average time solids stay in a biological system."
-"What is DAF?","Dissolved Air Flotation to float solids to surface for removal."
-"What is polymer?","Coagulant aid to strengthen floc and improve settling."
-"What is filter breakthrough?","Sudden rise in effluent turbidity indicating loss of performance."
-"What is recarbonation?","CO2 addition after softening to stabilize water and adjust pH."
-"Purpose of baffling in contactors?","Increase contact time and reduce short‑circuiting."
-"What is pre‑oxidation used for?","Control taste/odor, manganese, or algae prior to coagulation."
-"What is a clearwell?","Finished‑water storage providing disinfection contact time."
-"What is the recommended loading rate for copper sulfate for algae control at an alkalinity greater than 50 mg/l?","5.4 LB of copper sulfate per acre of surface area."
-"What is the primary origin of coliform bacteria in water supplies?","Animal or human feces."
-"Which of the following best defines the term specific capacity?","Amount of water a well will produce for each foot of drawdown."
-"The most common type of well used for public water supply systems is a __________?","Drilled well."
-"Copper sulfate is used for algae control. Your reservoir is 1,200 ft. long and 600 ft. wide. At an application rate of 5.5 LB per surface acre, how much copper sulfate is required?","91 LB."
-"Which of the following terms is defined as the killing or inactivation of pathogenic organisms in water?","Disinfection."
-"Free chlorine residual values are based on a contact time of at least?","10 minutes."
-"What is the typical strength of calcium hypochlorite, available chlorine range?","65-70\%."
-"The iron content of a raw water is 1.81 mg/l. What is the percent removal if the finished water contains 0.11 mg/l iron?","94\%."
-"Which of the following chemicals will raise pH?","Soda ash. Lime and Caustic soda also raise pH."
-"As water temperature increases, the disinfection action of chlorine will?","Increase."
-"What effect will caustic soda have on water?","Increase the pH of the water."
-"In order to prevent freezing, what is the maximum chlorine usage per day from a 150 LB cylinder?","42 LBS."
-"Which of the following chemicals is used to soften water through chemical precipitation?","Calcium hydroxide (Lime)."
-"How many pounds of 61\% calcium hypochlorite are required for a 50 mg/l dosage in a tank that is 110 ft in diameter and has a water level of 19 ft?","923 LBS."
-"Mudballs are clumps of?","Filter media and other material."
-"Coagulation occurs during the first?","1 to 5 seconds."
-"A filter has a surface area of 920 sq ft. What is the filtration rate in gallons per minute per square foot, if it receives a flow of 4,875 GPM?","5.3 GPM/SQ FT."
-"A filter should be backwashed when it has a high?","Head loss, filters should also be backwashed when effluent turbidity is high."
-"Which of the following chemicals decreases corrosion rates?","CaCO3"
-"The relative importance of removal mechanisms within a filter depends largely on the name of the water being treated, degree of pre-treatment, and filter characteristics","TRUE"
-"In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media","False; above the media"
-"Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period","TRUE"
-"Depending on the amount of DO in the water being treated and the filtration rate"," the filter will exhibit high head loss or clog after a given time period","FALSE"
-"Usually higher backwash rates are required at low temperatures and with smaller media","FALSE"
-"Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes","FALSE"
-"Filtration is the first and most important step in the solids removal process","FALSE"
-"Significant changes in source water turbidity levels"," either increases or decreases"," require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc","TRUE"
-"The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants","FALSE"
-"Particle counters can tell the difference between a particle of clay and a microorganism","FALSE"
-"Conventional filtration","filtration that is preceded by coagulation, flocculation and sedimentation."
-"Why is activated carbon used along with other types of filter media?","To remove tastes, odors, and organic substances"
-"Slurry,A watery mixture or suspension of insoluble matter"
-"Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?","To prevent the filter media from being carried out over the wash troughs during backwash"
-"In the filtration process, how is filter efficiency measured?","By overall reduction in turbidity"
-"filter clogging,A buildup of head loss across the filter media until it reaches some predetermined design limit"
-"What problem is created by too high backwash rate?","There could be excessive loss of filter media and media disturbance"
-"How do filter control systems regulate flow rates throughout the filter?","By maintaining an adequate head above the media surface"
-"How does the declining-rate filter control system work?","The flow rate varies with head loss and each filter operates at the same, but variable, water surface level"
-"How does the self-backwash filter control system work?","The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each"
-"Advantage of the conventional filtration process,The system provides a great amount of flexibility and reliability in plant operation"
-"What is an efficient means of handling filter backwash waters?","Recycle the water to the beginning of the plant"
-"Problem caused by air-bound filters,The air prevents water from passing through the filter and causes shortened filter runs"
-"Surface Water Treatment Rule,A set of treatment technique requirements that apply to all water system using surface water"
-"Why is flow control critical for accurate and repeatable particle counter performance?","Because all particle count data must be based on sample volume"
-"A crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity,breakthrough"
-"Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process,Mud ball"
-"a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms,diatomaceous earth"
-"A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.,Direct filtration"
-"An instrument for measuring and comparing the turbidity of liquids by passing light through them and determining how much light is reflected by the particles in the liquid. The normal measuring range is 0 to 100 and is expressed as Nephelometric Turbidity Units (NTUs).,Turbidity meter"
-"the head, pressure or energy lost by water flowing in a pipe or channel as a result of turbulence caused by the velocity of the flowing water and the roughness of he pipe, channel walls or restrictions caused by fittings.,Head loss"
-"The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.,Adsorption"
-"The process of reversing the flow of water back through the filter media to remove the entrapped solids.,Backwashing"
-"used to measure hydraulic head,Piezometer"
-"The distance between the water surface and the media surface in a filter.,submergence"
-"Why is diatomaceous earth filtration used in some water treatment applications and not in others,""Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions"
-"What is a desirable characteristics for filter media,A deeper filter bed with a larger media size"
-"What problems can develop from improper backwash rates,An insufficient backwash rates may not completely remove trapped solids from the filter media"
-"What is the primary purpose of the filtration process?","To remove particulate impurities and floc from water being treated"
-"Which instrument would you use to monitor a filtration process?","Turbidity meter"
-"How frequently should the performance of the filtration process be evaluated?","Influent, every 2 hours; effluent, continuously"
-"What would you look for in evaluating the filter media condition after a back wash cycle?","Cracking, media loss, and mud balls"
-"Which item is an indicator of an upset or failure in the filtration process or pretreatment process?","Excessive media loss"
-"How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters,Decrease filtration rates"
-"What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media,""Adjust the backwash flow rates, surface wash flow rate, or duration"
-"What should you not check for after starting any piece of equipment?","Check for excessive noise and vibration, over heating, and leakage"
-"Name a type of filtration that can be used to meet the requirements of the SWTR,Diatomaceous earth filtration"
-"How can particle counters be used to monitor filter performance?","Measure effects of filter flow rate"
-"When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.,As long as necessary to permit the clearing of the service line"
-"Chemical commonly used to raise pH is,lime"
-"Polyphosphates may be used in water treatment to retard corrosion and,calcium scale."
-"Coagulation and sedimentation alone cannot remove all of the turbidity and suspended matter in raw water. Final step in the removal of suspended matter in water is,Filtration."
-"Which chemical is considered most effective for removing or destroying the affect of phenols in water?","CIO2"
-"Treated water is always use for back washing,To avoid contamination of the filter bed."
-"The nephelometric method of measuring turbidity is based on the ______,Scattering of light."
-"How can the supervisor be certain scheduled maintenance is completed?","Supervisor inspect work."
-"hydrogen sulfide and water may be effectively controlled by,Aeration."
-"In general, a properly operated sedimentation facility should remove,At least 60\% of the settleable matter"
-"Trihalomethans are formed when,Chlorine reacts with humic and fulvic acids in water."
-"The most severe symptoms of fluorosis is teeth that ______,Show signs of pitting."
-"To ensure that operating parameters are effectively monitored during aeration, surface water should be sampled and tested","To the extent required to detect and evaluate all significant changes in water quality."
-"In plant sampling points following filtration are normally selected to monitor for ______","Bacteria and turbidity removal."
-"The chemical formula for ferric oxide is ______","Fe2O3"
-"Sedimentation is improved by ______","Uniform, horizontal, low velocity flow across the basin ."
-"When calculating carbonate hardness, the following would be included ______","Magnesium bicarbonate."
-"An important reason for analyzing for raw water samples for color is ______","Because it may indicate high levels of organic compounds, which may produce Trihalomethanes upon contact with chlorine."
-"Objectives for preventive maintenance program include","Reduce emergency repairs and maintenance."
-"Treatment plant operators should ______","Having some knowledge of the health effects associated with fluoridation"
-"Baffles are installed downstream of the basin inlet to ______,Reduce velocity."
-"Two chemical contaminants with maximum contaminant levels that are regulated in the community and noncommunity systems are nitrates and","Turbidity."
-"If static pressure in a water system is too high, the remedy is to ______",Install pressure reducing valves."
-"The main purpose of flocculation is to ______","Bring together microfloc particles."
-"Solids contact basins and sludge blanket clarifiers are also called,Upflow clarifiers."
-"Two operating problems commonly associated with screening facilities are,Clogging and corrosion."
-"The purpose of the completed test using the multiple tube fermentation method is to,Verify the presence of coliform bacteria."
-"If the pH is being raised slightly beyond the saturation point to prevent corrosion in the distribution system, then chlorination dosages may need to be,Increased."
-"The type of Aerator most effective in removing dissolved gases is the,Draft."
-"The term volatile can best be defined as,Turning to vapor easily."
-"Problems with pinpoint floc can often be corrected by,Adding a weighting agent."
-"The purpose of the confirmed test using the multiple-tube fermentation method is to,Increase the certainty that coliform bacteria are present."
-"One characteristic of activated carbon that enhances its use in the adsorption process is its,Large pore structure."
-"What metallic element should be monitored for when using caustic soda for corrosion control?","Sodium."
-"When operating a surface water treatment plant, which of the following laboratory tests is of most significance for establishing chemical dosages for coagulating water?","PH and alkalinity."
-"An example of chemical element is,Carbon."
-"The process of adjusting pH just above the saturation point of calcium carbonate will,Form a protective coating on the surface of the pipes."
-"An operator is caught in a room with chlorine gas is leaking. If the operator does not have a mask, what should the operator do?","Keep mouth closed, keep head as high as possible, and quickly walk out of the room, holding breath if possible."
-"Fluoride chemicals, like many chemicals used in water treatment, constitute a variety of potential health hazards, but the hazard most common in handling and feeding dry fluoride compounds is,inhalation."
-"The purpose of adding carbon dioxide to water after a chemical precipitation softening process is to,Restore the carbonate balance."
-"Both alum and ferric sulfate are affected by","alkalinity."
-"Anabaena can cause what undesirable characteristic in water?","Taste and odor."
-"If maintaining pressure in a fluoride feed system is not necessary, backflow can best be prevented by,Providing an air gap."
-"The SPADNS method can be used to determine the concentration of,Fluoride."
-"Flow measurements for plant operations are usually taken,Somewhere near the point where the water enters the treatment plant."
-"A commonly used test to monitor the influent and effluent water of a presedimentation basin is,Bacteriological count."
-"The Langelier index is an indicator used to measure,Whether of water is likely to dissolve or precipitate CaCO3"
-"Effectiveness of coagulation flocculation process is best measured,Using nephelometric turbidimeter"
-"The removal of organic materials using activated carbon depends on,Adsorption."
-"The efficiency of aeration process is primarily determined by the,Surface contact between air and water."
-"The maximum safe dosage of copper sulfate depends in part on,The toxic effect on fish."
-"One method to detect short circuiting problems is to,Conduct tracer studies."
-"A common operating problem with fluoridation is,Fluoride concentrations below the optimum due to inadequate feed rates."
-"An important operating reason for adding powdered activated carbon ahead of normal coagulation/flocculation and filtration is that,Carbon treatment should not be allowed to interfere with disinfection."
-"The amount of time a sample can be stored depends on,The stability of that constituent to be tested and whether the sample can be preserved."
-"If excessive media loss occurs consistently, one should,Investigate all back washing procedures."
-"Sodium thiosulfate crystals are placed in bacteriological samples bottles to,Neutralize any chlorine present in the sample."
-"Ferric hydroxide is,Common rust."
-"Blackwater complaints are the result of,Powdered activated carbon entering the distribution system."
-"If a fuse continues to blow, you should,Inspect the affected equipment to determine the cause."
-"Solids contact basins are designed with baffles to,Separate the mixing and settling processes."
-"If phosphate is used to sequester or suspend iron, the phosphate should be injected,Before chlorination."
-"What type of treatment should be given when a well produces red water?","PH adjustment, aeration and filtration."
-"Operational control flash mixing is best achieved by,Installing in line mechanical mixers."
-"Dissolved oxygen, pH, and temperature can best be related to the aeration process as,Basic control tests."
-"The carrying capacity of water mains is often reduced by,Tuberculation."
-"Automation of a water system would provide,Constant pressure."
-"If short filter runs are occurring because of high head loss, it would be advisable to,Reduce filter aid dosage."
-"The fluoridation monitoring practice that is most highly recommended involves,Routinely determining the fluoride concentration in the raw and treated water."
-"Usually the most desirable point of application to add powdered activated carbon is,In a raw water intake line."
-"To test if a 110 V AC outlet is hot, set volt-ohm meter for,250 Volt AC."
-"Iron remains in the ferrous state will,Pass through the filters."
-"A sample in the presumptive test for total coliform is positive,Gas is produced within 48 hours."
-"If a routine turbidity sample exceeds the maximum contaminant level, the utility should,Take a check sample within 1 hour."
-"Oxidation and aeration are,Two processes for removing or modifying constituents."
-"The effective pH range for hydrogen sulfide removal is,6 or less."
-"If no gas is formed in the inverted vials after the first 24 hours incubation in the presumptive test,The culture must be incubated for another 24 hours."
-"Occasionally some of the people on a work crew will indulge in active horse play. This should be,Stop immediately because it is likely to cause an accident."
-"Overcoming problems of cold water floc can be corrected by operating the process at the best pH for that water temperature, increasing the coagulant dosage, or,Adding a weighted agents."
-"A foreman's monthly report should include,Number of complaints received and investigated."
-"Public notification for an acute maximum contaminant level violation in a community water system must take the form of","Mail, newspaper, and broadcast."
-"Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and,On-line turbidity meter."
-"Oxygen supersaturation should be avoided,Retard or prevent corrosion."
-"Corrosive chemicals are usually pump with a,Diaphragm pump."
-"Two chemical compounds that should never be stored together are calcium oxide and Alum."
-"Routine bacteriological and chemical reports must be submitted to the appropriate regulatory agency by utility doing the testing,Within the first 10 days following the month of analysis."
-"The heat generated during lime slacking,Accelerate the slaking process."
-"If fluoride is added ahead of filtration,Some fluoride loss will occur."
-"If dry powder activated carbon is transferred to a day tank in the form of a slurry, it is important that,The slurry be kept in suspension."
-"When using diquat or endothal for the control off aquatic plants, it is important to,Determine the appropriate waiting time before water can be used."
-"At least once a year a filter bed should be,Probed for gravel displacement."
-"One opening has become available that would be an advancement to any one of three qualified eager employees. How should this situation be handled?","Talk to the three as a group, explain the situation, and make your selection. The Notify all personal of the change."
-"The rate of galvanic corrosion depends largely on,How widely two metals are separated in the galvanic series."
-"A characteristic of chemical in water,Alkalinity"
-"The atomic absorption technique is used to measure,Concentration of metals."
-"The number of bacteriological water samples to be taken per month for any given water system is based on,Population served."
-"Head loss- turbidity, and length of filter run are each considered independently in determining","When a filter needs back washing."
-"The recommended holding period, type of container, and preservation methods are the same chemical constituents","A single sample of sufficient volume maybe use for analysis."
-"Modern detergents contain additives called sequestering agents that","Prevent hard water from causing problems."
-"The value of filtrability test is that the test","Measures actual coagulated water in process and is not a laboratory simulation"
-"One of the employees in your crew complains about having to a hard job. The proper thing to do is","Explain that all employees must do their fair share of the hard work as well as the easier tasks."
-"The most significant difference between the general properties of powdered activated carbon and granular activated carbon is","Granular activated carbon is reactivated; powdered activated carbon is not."
-"Persistent filter binding can be overcome","By a change in the dose of the Coagulant or Coagulant aid."
-"To analytical methods used to test for coliform bacteria in water are","Multiple-tube fermentation and membrane filter methods."
-"Bed life refers to","That time it takes for granular activated carbon to lose its adsorption compacity."
-"Hydrofluosilicic acid comes in the form of","Liquid."
-"The most common operating problem related to the use of powdered activated carbon is","Handling and storing the material."
-"Increase funds for the year are limited. However, two or three outstanding new we employed individuals are grossly underpaid for their services. How should this situation be handled?","Call at staff meeting, explain the situation, and raise their salaries."
-"In addition to precipitating calcium carbonate, treatment techniques can form a protective coating in the distribution system with the use of,polyphosphates."
-"A maximum contaminant level is","Is allowable concentration of a particular contaminant in drinking water."
-"A common requirement for the chemical storage of quick lime and soda ash is that the compounds should be stored","In a dry area."
-"Pinpoint floc, fish eyes, and high turbidity in settled water are indicators of","Operating problems that require further investigation."
-"The effect partially closing the discharge valve on a three-phase, induction motor-driven, centrifugal pump would be to","Cause the motor to draw less amperage."
-"During the backwash cycle, the backwash rate must be high enough to","Cause the media grains to agitate violently and rub against each other."
-"If sodium fluoride solution is used with water containing hardness in excess of 75 mg/L as CaCO3, it is recommended that","The make-up water be softened."
-"Finished-water sample points are normally monitoring for","Bacteria, chlorine residual, and turbidity."
-"A softening curve is plotted from,Jar test and testing process performance."
-"At a minimum, analyses on water from granular activated carbon contractor should include the threshold odor test, analyses for the removal of any organic compounds of concern, and the,Standard plate count."
-"Control tests for conventional gravity filters using granular activated carbon as a filter media,Include control tests for both the filtration and adsorption process."
-"A condition that tends to increase the corrosiveness of water is,High dissolved oxygen."
-"When an employee refuses to observe safety requirements because the employee ""has learned over the years that they are useless","what action should the immediate superviser take?","Initiate immediate disciplinary action."
-"The system that makes use of a constant 4\% sodium fluoride solution is the","Saturate."
-"A common way to handle alum sludge is to","Pump the sludge into lagoons."
-"The process used to remove organic substances from depleted activated carbon is called","Reactivation."
-"What condition would tend to increase the corrosiveness of the water on metals?","High dissolved carbon dioxide content."
-"Dissolved less and cadmium can have harmful public health effects in the form of","Toxicity."
-"If one were to select the optimum coagulation dosage on the basis of plotting jar test results, the optimum dosage would probably be","At some level beyond which there would be little additional turbidity removal without considerable additional cost for chemicals."
-"If fluoride feed equipment is equipped with a continuous analyzer automatically adjusts the feed rate, it is good practice to","Test samples routinely to verify the accuracy of the analyzer."
-"Alkalinity, pH, water temperature, turbidity, and mixing action are all","Factors that can affect good floc formation."
-"Test results from sampling immediately after aeration should show that there has been a reduction in","Dissolved gases."
-"It is recommended that nephelometric turbidimeters be used to monitor filtered water because","They are sensitive to turbidity levels below 1 NTU."
-"A change in treatment operations following chemical application for the control of algae would probably include","Decreases in Coagulant dosage."
-"The primary feature of solids-contact process is one in which","Coagulation, flocculation, and sedimentation are combined into one treatment unit."
-"The influent into the treatment plant had high color and a turbidity of 0.05 NTU. Improved flocculation can usually be achieved by","Adding bentonite clay at flash mixer."
-"The concentration of organics chemicals in water it's usually determined by using,A gas chromatograph."
-"To properly train a new employee, you should","Pace carefully the amount of new material you him to learn."
-"A factor that has little effect on the successful operation of a solids-contact basin is the","Type of sludge residues that accumulate in the basin."
-"Scales are not required for fluoride installations using","Saturators."
-"Filters in a water treatment process are primarily for removing or reducing","Turbidity."
-"A heavy growth of algae in a surface water reservoir will have which one of the following effects on the water?","Raise the pH"
-"The water treatment chemical copperas. is","Iron sulfate."
-"A calm area within a settling basin necessary for suspended material to settle. Is the","Settling zone."
-"The term clarification is most closely related to","Sedimentation."
-"The purpose of the jar test is to determine the","Correct amount of coagulatant to use for proper coagulation."
-"Optimum coagulant dosage can be established by","Performing jar tests."
-"Bluestone, is a,Common name for"," copper sulfate."
-"Fish eyes are","Undissolved clumps in solution"
-"Air binding is a condition that may occur as a result of","Negative head."
-"A program for the control of algae, should be instituted","After trend information has been established and adequate monitoring is practiced."
-"With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is","Floc carry over from the sedimentation system."
-"A fluoride saturator is typically suitable for ______","Small water systems."
-"The most desirable place to feed activated carbon in a lime-soda ash softening plant, is","To raw water at earliest stage possible."
-"Activated alumina is used effectively for the removal of","Certain inorganic elements."
-"Harvesting, dewatering, dredging, shading, and lining are all ____ methods for controlling rooted aquatic plants","Physically."
-"Copper sulfate dosage calculations for water with a total methyl-Orange alkalinity equal to or greater than 50 MG/L as CaCO3 are usually treated at a dosage of 1 MG/L calculated for the","Upper two feet regardless of depth."
-"Softening water high in color concentration would probably require","Conventional alum coagulation before softening."
-"When normal backwash rates are insufficient to thoroughly clean the filter media,it is recommended that","Auxiliary surface-wash equipment be installed."
-"If activated carbon particles become coated with floc"," they will,Lose adsorptive capacity."
-"Trihalomethanes are formed by the reaction of certain organic compounds in the water with","Free chlorine."
-"For continuous and effective removal of turbidity and most organic compounds, the minimum depth of granular activated carbon is","24 inches."
-"The problems associated with chlorine, iron, turbidity, organic color, and bacterial slime in the ion-exchange process can","Reduce the exchange capacity of the resin bed."
-"Slime, corrosion, toxicity, filter clogging, and tastes and odors are all associated with","Algae."
-"Violent, upswelling boils of water during backwash process can indicate","Gravel bed upset or clogging underdrains."
-"A variance may be granted to a public water supply when it _______","is unable to meet an MCL due to characteristics of the raw water, despite use of best available technology."
-"Which of the following fluoride compounds contains the greatest percentage of fluoride?","Fluosilicic acid (H2SiF6)."
-"Continuous turbidity monitoring of pressure-sand filters is an essential operating requirement because","The filter bed cannot be observed for problems during operation."
-"The maximum contaminant level for total Trihalomethanes for water systems 10,000 or more and an oxidant as a disinfectant is","0.1 mg/L."
-"During the fall when the water temperature drops, a possible coagulation operational problem at the filtration plant is","Floc carryover from the sedimentation process."
-"If direct filtration in practiced, it is important to carefully monitor the process because","Of the short time between coagulation and filtration and the high filter-laying rates."
-"Granular activated carbon is often selected instead of powdered activated carbon where","Continuous removal of organics is required."
-"Microstraining is the treatment technique that is normally designed to remove _______ from water","Algae and coarse suspended solids."
-"One potential problem that must be monitored when using granular activated carbon as a filter media is","Media loss."
-"Activated carbon is used to reduce","tastes and odors."
-"When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?","Sodium."
-"A chemical commonly used for coagulation in water treatment. is","Alum."
-"What type of treatment should be given when a well produces red water?","PH adjustment, aeration, and filtration."
-"The chemical that is most commonly added to reservoirs for the control of algae is _______","Copper sulfate"
-"What is the purpose of coagulation in water treatment?","To destabilize suspended particles by neutralizing charges, allowing them to form larger aggregates."
-"What is alum commonly used for?","As a coagulant that helps remove turbidity, color, and microorganisms by forming floc."
-"What is flocculation?","Gentle mixing that encourages particle collisions and growth into larger, settleable floc."
-"Why is pH important for coagulation?","The solubility and effectiveness of coagulants depend heavily on pH."
-"What is sedimentation?","The process of allowing heavy floc particles to settle out by gravity in a clarifier or basin."
-"What is the purpose of tube settlers?","They shorten settling distances and increase sedimentation efficiency in clarifiers."
-"What is dissolved air flotation (DAF)?","A clarification method that floats particles using microbubbles, useful for algae-rich waters."
-"What is filtration in treatment?","The process of removing remaining suspended solids by passing water through sand, anthracite, or membranes."
-"What is filter backwashing?","Reversing flow through a filter to remove trapped solids and restore performance."
-"What is filter-to-waste?","Initial filtered water discharged after a backwash until turbidity stabilizes."
-"What is a dual-media filter?","A filter with anthracite over sand for improved performance and longer filter runs."
-"What is GAC filtration used for?","Granular Activated Carbon removes organics, taste, odor, and DBP precursors by adsorption."
-"How does PAC differ from GAC?","Powdered Activated Carbon is dosed as a slurry for short-term events, while GAC is fixed in filters."
-"What is lime softening?","A chemical process that reduces hardness by precipitating calcium and magnesium."
-"What is recarbonation?","Adding CO2 to stabilize water after softening and reduce scaling potential."
-"What is greensand filtration used for?","To oxidize and filter manganese and iron, regenerated with potassium permanganate."
-"What is membrane microfiltration?","Low-pressure membranes that remove particles, bacteria, and some protozoa from water."
-"What is reverse osmosis (RO)?","A high-pressure membrane process that removes dissolved salts and contaminants."
-"What is a jar test?","A bench test to determine optimal coagulant dose and mixing conditions."
-"What is filter ripening?","The short period after a filter backwash when effluent turbidity may be higher until the filter stabilizes."
-"What is filter headloss?","The resistance to flow through a filter bed; rising headloss indicates clogging and need for backwash."
-"What is a filter aid polymer?","A chemical added to strengthen floc and improve filter capture efficiency."
-"What is breakpoint chlorination in treatment?","The point where chlorine demand is satisfied and a free chlorine residual is established."
-"Why is pre-oxidation sometimes used?","To control taste/odor, oxidize iron/manganese, or assist coagulation."
-"What is sludge handling in treatment plants?","Processes to thicken, dewater, and dispose of settled solids safely."
-"What is sludge blanket clarification?","A process using a suspended layer of solids to capture incoming particles."
-"What is a clearwell?","A storage tank that provides disinfection contact time and operational storage."
-"What is T10 in disinfection design?","The contact time for the first 10% of water through a basin, used for CT calculations."
-"What is streaming current monitoring?","A real-time method for adjusting coagulant dose by measuring particle charge."
-"What is corrosion control treatment?","Adjusting pH and alkalinity or adding inhibitors like orthophosphate to limit lead and copper leaching."
-"What is fluoridation?","The addition of fluoride to water to prevent dental decay."
-"What is potassium permanganate used for?","To oxidize iron, manganese, and control some taste and odor issues."
-"What is aeration used for in treatment?","To remove dissolved gases like CO2 or H2S and oxidize iron and manganese."
-"What is biological filtration?","A process where biofilms on filter media help degrade organic matter and ammonia."
-"What is filter breakthrough?","A sudden rise in effluent turbidity indicating filter failure."
-"Why is consistent plant flow important?","Sudden changes upset coagulation, flocculation, and filtration processes."
-"What is an SOP in treatment?","A Standard Operating Procedure outlining consistent steps for safe and effective operation."
-"What is CT compliance?","Verification that contact time and disinfectant levels meet required pathogen inactivation credits."
-"Why monitor TOC removal in treatment?","Because TOC contributes to DBP formation, and regulations require certain removal levels."
-"What is on-site generation of sodium hypochlorite?","Producing hypochlorite from salt and electricity, reducing hazards of chlorine gas delivery."
-"What is a start-up filter protocol?","Steps for ripening, filter-to-waste, and stabilization before putting filters into service."
-"Why log plant performance data?","To track trends, identify problems early, and demonstrate compliance."
-"What is a clearwell baffling factor?","A rating of mixing efficiency; higher baffling improves disinfection contact time."
-"What is sludge age in treatment?","The average time solids remain in the system; important for process stability."
-"What is a polymer used for in treatment?","To improve coagulation, sludge dewatering, and filter performance."
-"What is filter rate control?","Maintaining a steady filtration rate to avoid turbidity spikes and premature breakthrough."
-"What is lime stabilization of sludge?","Raising pH with lime to control pathogens and odors in sludge."
-"What is corrosion index monitoring?","Calculations like LSI or RSI to predict scaling or corrosion tendencies."
-"What is a taste-and-odor episode?","Sudden appearance of earthy/musty compounds (e.g., geosmin, MIB) often linked to algae."
-"What is the purpose of plant redundancies?","To ensure continuous treatment during maintenance or equipment failures."
-"What is a SCADA system in treatment?","Supervisory Control and Data Acquisition used to monitor and control treatment processes remotely."
-"Mudballs are clumps of?","Filter media and other material."
-"Coagulation occurs during the first?","1 to 5 seconds."
-"A filter has a surface area of 920 sq ft. What is the filtration rate in gallons per minute per square foot, if it receives a flow of 4,875 GPM?","5.3 GPM/SQ FT."
-"A filter should be backwashed when it has a high?","Head loss, filters should also be backwashed when effluent turbidity is high."
-"Which of the following chemicals decreases corrosion rates?","CaCO3"
-"The relative importance of removal mechanisms within a filter depends largely on the name of the water being treated, degree of pre-treatment, and filter characteristics","TRUE"
-"In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media","False; above the media"
-"Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period","TRUE"
-"Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period","FALSE"
-"Usually higher backwash rates are required at low temperatures and with smaller media","FALSE"
-"Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes","FALSE"
-"Filtration is the first and most important step in the solids removal process","FALSE"
-"Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc","TRUE"
-"The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants","FALSE"
-"Particle counters can tell the difference between a particle of clay and a microorganism","FALSE"
-"Conventional filtration","filtration that is preceded by coagulation, flocculation and sedimentation."
-"Why is activated carbon used along with other types of filter media?","To remove tastes, odors, and organic substances"
-"Slurry","A watery mixture or suspension of insoluble matter"
-"Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?","To prevent the filter media from being carried out over the wash troughs during backwash"
-"In the filtration process, how is filter efficiency measured?","By overall reduction in turbidity"
-"filter clogging","A buildup of head loss across the filter media until it reaches some predetermined design limit"
-"What problem is created by too high backwash rate?","There could be excessive loss of filter media and media disturbance"
-"How do filter control systems regulate flow rates throughout the filter?","By maintaining an adequate head above the media surface"
-"How does the declining-rate filter control system work?","The flow rate varies with head loss and each filter operates at the same, but variable, water surface level"
-"How does the self-backwash filter control system work?","The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each"
-"Advantage of the conventional filtration process","The system provides a great amount of flexibility and reliability in plant operation"
-"What is an efficient means of handling filter backwash waters?","Recycle the water to the beginning of the plant"
-"Problem caused by air-bound filters","The air prevents water from passing through the filter and causes shortened filter runs"
-"Surface Water Treatment Rule","A set of treatment technique requirements that apply to all water system using surface water"
-"Why is flow control critical for accurate and repeatable particle counter performance?","Because all particle count data must be based on sample volume"
-"A crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity","breakthrough"
-"Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process","Mud ball"
-"a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms","diatomaceous earth"
-"A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.","Direct filtration"
-"Why is diatomaceous earth filtration used in some water treatment applications and not in others","Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions"
-"What is a desirable characteristics for filter media","A deeper filter bed with a larger media size"
-"What problems can develop from improper backwash rates","An insufficient backwash rates may not completely remove trapped solids from the filter media"
-"What is the primary purpose of the filtration process?","To remove particulate impurities and floc from water being treated"
-"Which instrument would you use to monitor a filtration process?","Turbidity meter"
-"How frequently should the performance of the filtration process be evaluated?","Influent, every 2 hours; effluent, continuously"
-"What would you look for in evaluating the filter media condition after a back wash cycle?","Cracking, media loss, and mud balls"
-"Which item is an indicator of an upset or failure in the filtration process or pretreatment process?","Excessive media loss"
-"How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters","Decrease filtration rates"
-"What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media","Adjust the backwash flow rates, surface wash flow rate, or duration"
-"What should you not check for after starting any piece of equipment?","Check for excessive noise and vibration, over heating, and leakage"
-"Name a type of filtration that can be used to meet the requirements of the SWTR","Diatomaceous earth filtration"
-"How can particle counters be used to monitor filter performance?","Measure effects of filter flow rate"
-"When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.","As long as necessary to permit the clearing of the service line"
-"Chemical commonly used to raise pH is","lime"
-"Polyphosphates may be used in water treatment to retard corrosion and","calcium scale."
-"Coagulation and sedimentation alone cannot remove all of the turbidity and suspended matter in raw water. Final step in the removal of suspended matter in water is","Filtration."
-"Which chemical is considered most effective for removing or destroying the affect of phenols in water?","CIO2"
-"Treated water is always use for back washing","To avoid contamination of the filter bed."
-"The nephelometric method of measuring turbidity is based on the","Scattering of light."
-"How can the supervisor be certain scheduled maintenance is completed?","Supervisor inspect work."
-"hydrogen sulfide and water may be effectively controlled by","Aeration."
-"In general, a properly operated sedimentation facility should remove","At least 60\% of the settleable matter"
-"Trihalomethansare formed when","Chlorine reacts with humic and fulvic acids in water."
-"The most severe symptoms of fluorosis is teeth that","Show signs of pitting."
-"To ensure that operating parameters are effectively monitored during aeration, surface water should be sampled and tested","To the extent required to detect and evaluate all significant changes in water quality."
-"In plant sampling points following filtration are normally selected to monitor for","Bacteria and turbidity removal."
-"The chemical formula for ferric oxide is","Fe2O3"
-"Sedimentation is improved by","Uniform, horizontal, low velocity flow across the basin ."
-"When calculating carbonate hardness, the following would be included","Magnesium bicarbonate."
-"An important reason for analyzing for raw water samples for color is","Because it may indicate high levels of organic compounds, which may produce Trihalomethanes upon contact with chlorine."
-"Objectives for preventive maintenance program include","Reduce emergency repairs and maintenance."
-"Treatment plant operators should","Having some knowledge of the health effects associated with fluoridation"
-"Baffles are installed downstream of the basin inlet to","Reduce velocity."
-"Two chemical contaminants with maximum contaminant levels that are regulated in the community and noncommunity systems are nitrates and","Turbidity."
-"If static pressure in a water system is too high, the remedy is to","Install pressure reducing valves."
-"The main purpose of flocculation is to","Bring together microfloc particles."
-"Solids contact basins and sludge blanket clarifiers are also called","Upflow clarifiers."
-"Fluoride chemicals, like many chemicals used in water treatment, constitute a variety of potential health hazards, but the hazard most common in handling and feeding dry fluoride compounds is","inhalation."
-"The purpose of adding carbon dioxide to water after a chemical precipitation softening process is to","Restore the carbonate balance."
-"Both alum and ferric sulfate are affected by","alkalinity."
-"Anabaena can cause what undesirable characteristic in water?","Taste and odor."
-"If maintaining pressure in a fluoride feed system is not necessary, backflow can best be prevented by","Providing an air gap."
-"The SPADNS method can be used to determine the concentration of","Fluoride."
-"Flow measurements for plant operations are usually taken","Somewhere near the point where the water enters the treatment plant."
-"A commonly used test to monitor the influent and effluent water of a presedimentation basin is","Bacteriological count."
-"Blackwater complaints are the result of","Powdered activated carbon entering the distribution system."
-"If a fuse continues to blow, you should","Inspect the affected equipment to determine the cause."
-"Solids contact basins are designed with baffles to","Separate the mixing and settling processes."
-"If phosphate is used to sequester or suspend iron, the phosphate should be injected","Before chlorination."
-"What type of treatment should be given when a well produces red water?","PH adjustment, aeration and filtration."
-"Operational control flash mixing is best achieved by","Installing in line mechanical mixers."
-"Dissolved oxygen, pH, and temperature can best be related to the aeration process as","Basic control tests."
-"If short filter runs are occurring because of high head loss, it would be advisable to","Reduce filter aid dosage."
-"The fluoridation monitoring practice that is most highly recommended involves","Routinely determining the fluoride concentration in the raw and treated water."
-"Usually the most desirable point of application to add powdered activated carbon is","In a raw water intake line."
-"If a routine turbidity sample exceeds the maximum contaminant level, the utility should","Take a check sample within 1 hour."
-"Oxidation and aeration are","Two processes for removing or modifying constituents."
-"The effective pH range for hydrogen sulfide removal is","6 or less."
-"Overcoming problems of cold water floc can be corrected by operating the process at the best pH for that water temperature, increasing the coagulant dosage, or","Adding a weighted agents."
-"Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and","On-line turbidity meter."
-"Oxygen supersaturation should be avoided","Retard or prevent corrosion."
-"Rapid-sand filters can be installed with control devices consisting of a rate-of-flow controller, loss-of-head indicator, and","On-line turbidity meter."
-"Oxygen supersaturation should be avoided","Retard or prevent corrosion."
-"The heat generated during lime slacking","Accelerate the slaking process."
-"If fluoride is added ahead of filtration","Some fluoride loss will occur."
-"When using diquat or endothal for the control off aquatic plants, it is important to","Determine the appropriate waiting time before water can be used."
-"At least once a year a filter bed should be","Probed for gravel displacement."
-"Head loss- turbidity, and length of filter run are each considered independently in determining","When a filter needs back washing."
-"The most significant difference between the general properties of powdered activated carbon and granular activated carbon is","Granular activated carbon is reactivated; powdered activated carbon is not."
-"Persistent filter binding can be overcome","By a change in the dose of the Coagulant or Coagulant aid."
-"In addition to precipitating calcium carbonate, treatment techniques can form a protective coating in the distribution system with the use of","polyphosphates."
-"If sodium fluoride solution is used with water containing hardness in excess of 75 mg/L as CaCO3, it is recommended that","The make-up water be softened."
-"A softening curve is plotted from","Jar test and testing process performance."
-"At a minimum, analyses on water from granular activated carbon contractor should include the threshold odor test, analyses for the removal of any organic compounds of concern, and the","Standard plate count."
-"Control tests for conventional gravity filters using granular activated carbon as a filter media","Include control tests for both the filtration and adsorption process."
-"A condition that tends to increase the corrosiveness of water is","High dissolved oxygen."
-"The water treatment chemical copperas. is","Iron sulfate."
-"A calm area within a settling basin necessary for suspended material to settle. Is the","Settling zone."
-"The term "clarification" is most closely related to","Sedimentation."
-"The purpose of the jar test is to determine the","Correct amount of coagulatant to use for proper coagulation."
-"Optimum coagulant dosage can be established by","Performing jar tests."
-"Bluestone, is a","Common name for copper sulfate."
-"Fish eyes. are","Undissolved clumps in solution"
-"Air binding is a condition that may occur as a result of","Negative head."
-"A program for the control of algae, should be instituted","After trend information has been established and adequate monitoring is practiced."
-"With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is","Floc carry over from the sedimentation system."
-"A fluoride saturator","Is suitable for small water systems."
-"The most desirable place to feed activated carbon in a lime-soda ash softening plant, is","To raw water at earliest stage possible."
-"Activated alumina is used effectively for the removal of","Certain inorganic elements."
-"Harvesting, dewatering, dredging, shading, and lining are all method for controlling rooted aquatic plants","Physically."
-"Copper sulfate dosage calculations for water with a total methyl-Orange alkalinity equal to or greater than 50 MG/L as CaCO3 are usually treated at a dosage of 1 MG/L calculated for the","Upper two feet regardless of depth."
-"Softening water high in color concentration would probably require","Conventional alum coagulation before softening."
-"When normal backwash rates are insufficient to thoroughly clean the filter media, it is recommended that","Auxiliary surface-wash equipment be installed."
-"If activated carbon particles become coated with floc, they will","Lose adsorptive capacity."
-"During the fall when the water temperature drops, a possible coagulation operational problem at the filtration plant is","Floc carryover from the sedimentation process."
-"If direct filtration in practiced, it is important to carefully monitor the process because","Of the short time between coagulation and filtration and the high filter-laying rates."
-"Granular activated carbon is often selected instead of powdered activated carbon where","Continuous removal of organics is required."
-"Microstraining is the treatment technique that is normally designed to remove \rule{1.5cm}{0.5pt} from water","Algae and coarse suspended solids."
-"One potential problem that must be monitored when using granular activated carbon as a filter media is","Media loss."
-"Activated carbon is used to reduce","tastes and odors."
-"When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?","Sodium."
-"A chemical commonly used for coagulation in water treatment. is","Alum."
-"What type of treatment should be given when a well produces red water?","PH adjustment, aeration, and filtration."
-"The chemical that is most commonly added to reservoirs for the control of algae. is","Copper sulfate."
-"Which of the following fluoride compounds contains the greatest percentage of fluoride?","Fluosilicic acid (H2SiF6)."
-"Continuous turbidity monitoring of pressure-sand filters is an essential operating requirement because","The filter bed cannot be observed for problems during operation."
-"Violent, upswelling boils of water during backwash process can indicate","Gravel bed upset our clogging underdrains."
-"For continuous and effective removal of turbidity and most organic compounds, the minimum depth of granular activated carbon is","24 inches."
-"The problems associated with chlorine, iron, turbidity, organic color, and bacterial slime in the ion-exchange process can","Reduce the exchange capacity of the resin bed."
-"If one were to select the optimum coagulation dosage on the basis of plotting jar test results, the optimum dosage would probably be","At some level beyond which there would be little additional turbidity removal without considerable additional cost for chemicals."
-"If fluoride feed equipment is equipped with a continuous analyzer automatically adjusts the feed rate, it is good practice to","Test samples routinely to verify the accuracy of the analyzer."
-"Alkalinity, pH, water temperature, turbidity, and mixing action are all","Factors that can affect good floc formation."
-"Test results from sampling immediately after aeration should show that there has been a reduction in","Dissolved gases."
-"It is recommended that nephelometric turbidimeters be used to monitor filtered water because","They are sensitive to turbidity levels below 1 NTU."
-"A change in treatment operations following chemical application for the control of algae would probably include","Decreases in Coagulant dosage."
-"The primary feature of solids-contact process is one in which","Coagulation, flocculation, and sedimentation are combined into one treatment unit."
-"The influent into the treatment plant had high color and a turbidity of 0.05 NTU. Improved flocculation can usually be achieved by","Adding bentonite clay at flash mixer."
-"One characteristic of activated carbon that enhances its use in the adsorption process is its","Large pore structure."
-"What metallic element should be monitored for when using caustic soda for corrosion control?","Sodium."
-"Effectiveness of coagulation flocculation process is best measured","Using nephelometric turbidimeter"
-"The removal of organic materials using activated carbon depends on","Adsorption."
-"The efficiency of aeration process is primarily determined by the","Surface contact between air and water."
-"The maximum safe dosage of copper sulfate depends in part on","The toxic effect on fish."
-"One method to detect short circuiting problems is to","Conduct tracer studies."
-"A common operating problem with fluoridation is","Fluoride concentrations below the optimum due to inadequate feed rates."
-"An important operating reason for adding powdered activated carbon ahead of normal coagulation/flocculation and filtration is that","Carbon treatment should not be allowed to interfere with disinfection."
-"Iron remains in the ferrous state will","Pass through the filters."
-"Modern detergents contain additives called sequestering agents that","Prevent hard water from causing problems."
-"Pinpoint floc, fish eyes, and high turbidity in settled water are indicators of","Operating problems that require further investigation."
-"The value of filtrability test is that the test","Measures actual coagulated water in process and is not a laboratory simulation"
-"If the pH is being raised slightly beyond the saturation point to prevent corrosion in the distribution system, then chlorination dosages may need to be","Increased."
-"The type of Aerator most effective in removing dissolved gases is the","Draft."
-"When operating a surface water treatment plant, which of the following laboratory tests is of most significance for establishing chemical dosages for coagulating water?","PH and alkalinity."
-"The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.","Adsorption"
-"The process of reversing the flow of water back through the filter media to remove the entrapped solids.","Backwashing"
-"Which one of the following is a hazard when using hydrofluosilicic acid?","Corrosiveness."
-"In all gravity filtration systems the water level or pressure (head) below the media forces the water through the filter media","False; above the media"
-"Filter production rates are the measures of the amount of water that can be processed through an individual filter module in a given time period","TRUE"
-"Depending on the amount of DO in the water being treated and the filtration rate, the filter will exhibit high head loss or clog after a given time period","FALSE"
-"Usually higher backwash rates are required at low temperatures and with smaller media","FALSE"
-"Filter Backwash Recycling Rule requires that recycled filter back wash water be returned downstream of all treatment processes","FALSE"
-"Filtration is the first and most important step in the solids removal process","FALSE"
-"Significant changes in source water turbidity levels, either increases or decreases, require immediate verification of the effectiveness of the filtration process in removing suspended solids and floc","TRUE"
-"The startup or shutdown of the filtration process is not a routine operating procedure in most water treatment plants","FALSE"
-"Particle counters can tell the difference between a particle of clay and a microorganism","FALSE"
-"Conventional filtration"
-filtration that is preceded by coagulation, flocculation and sedimentation."
-"Why is activated carbon used along with other types of filter media?","To remove tastes, odors, and organic substances"
-"What is a slurry","A watery mixture or suspension of insoluble matter"
-"Why must adequate clearance be allowed between the top of the filter media and the bottom of the wash trough?","To prevent the filter media from being carried out over the wash troughs during backwash"
-"In the filtration process, how is filter efficiency measured?","By overall reduction in turbidity"
-"What is filter clogging","A buildup of head loss across the filter media until it reaches some predetermined design limit"
-"What problem is created by too high backwash rate?","There could be excessive loss of filter media and media disturbance"
-"How do filter control systems regulate flow rates throughout the filter?","By maintaining an adequate head above the media surface"
-"How does the declining-rate filter control system work?","The flow rate varies with head loss and each filter operates at the same, but variable, water surface level"
-"How does the self-backwash filter control system work?","The influent flow to each filter is divided by a weir and the water surface level in each filter varies according to head loss, but the flow rate remains constant for each"
-"Advantage of the conventional filtration process","The system provides a great amount of flexibility and reliability in plant operation"
-"What is an efficient means of handling filter backwash waters?","Recycle the water to the beginning of the plant"
-"Problem caused by air-bound filters","The air prevents water from passing through the filter and causes shortened filter runs"
-"Surface Water Treatment Rule","A set of treatment technique requirements that apply to all water system using surface water"
-"Why is flow control critical for accurate and repeatable particle counter performance?","Because all particle count data must be based on sample volume"
-"Which types of impurities are removed by filtration?","1. BOD 2. Biological forms 3. Colloids 4. Floc 5. Suspended particles"
-"Filter removal of TURBIDITY depends on what factors?","1. Chemical characteristics of the water being treated, 2. Filter type and operation, 3. Nature of suspension, 4. Types and degree of pre-treatment"
-"What are the specific classifications of filter types used in water treatment today?"," 1. Diatomaceous earth filtration 2. Gravity filtration 3. Pressure filtration 4. Slow sand filtration"
-"What are different types of gravity filtration systems used to treat water?","1. Dual media 2. Mixed media 3. Single media"
-"Which characteristics are used to classify types of filter media?","1. Effective size 2. Hardness 3. Specific gravity 4. Uniformity coefficient"
-"What types of filter control system are commonly used in gravity filtration installations?","1. Declining rate 2. Rate-of-flow 3. Self-backwash 4. Split-flow
-"Which factors are important filter process control guidelines?","1. Filter effluent water quality (turbidity) 2. Filter influent water quality (turbidity) 3. Filter performance "
-Which factors can be used to develop process guidelines to assist operators in evaluating normal process conditions and in recognizing abnormal conditions?","1. Design considerations 2. Trial and experience 3. Water quality conditions 4. Water quality standards"
-"Factors operators can use to calculate when the filtration cycle will be completed?","1. Effluent turbidity level 2.Elapsed run time 3. Head loss"
-"Which process calculations are operators expected to perform in the routine operation of the filtration process?","1. Backwash rate 2. Filtration Rate 3. Percent of water production used to back wash filter 4.Unit Filter Run Volume"
-"Abrupt changes in which water quality indicators are warnings to operators of abnormal process conditions?","1. Chlorine demand 2. Color 3. pH and alkalinity 4. TON 5. Turbidity"
-"Which factors are indicators of abnormal filtration conditions?","1. Filter turbidity breakthrough 2. Filters that will not come clean during backwash 3. Media boils during backwash 4. Mud balls in filter media 5. Rapid changes in head loss buildup in the filter"
-"Short filter runs may result from which factors?","1. Clogging of the filter under drain system 2. Excessively high filtration rates 3. Excessive mud ball formation in the filter media 4. Filter aid overdosing 5. Increased solids loading"
-"Factors that an operator should investigate when troubleshooting a filtration process","1. Filtration process changes 2. Process problems 3. Filter effluent quality changes 4. Sedimentation process effluent quality changes 5. Source water quality changes"
-"Under which conditions may clean filters be put into service?","1. A dirty filter is removed for back washing 2. To decrease filtration rates 3. To increase plant production as a result of increased demand for water\\"
-"Which tasks should an operator perform when checking a filter as part of starting up or shutting down the filtration process?","1. Be sure filter media and wash water troughs are clean of all debris as leaves, twigs, and tools 2. Check and be sure all access covers and walkways gratings are in place 3. Check source of backwash water to ensure it is ready to go 4. Make sure process monitoring equipment such as head loss and turbidity system are operational"
-"Which tasks are typical routine maintenance functions?","1. Checking pumps and motors for leaks, unusual noise and vibrations, or overheating 2. Ensuring good ventilation in equipment work areas 3. Inspecting for alignment of shafts and coupling 4. Keeping electric motors free of dirt, moisture and pests 5. Maintaining proper lubrication"
-"Which water treatment technologies are recognized by the SWTR","1. Conventional filtration 2. Diatomaceous filtration 3. Direct filtration 4. Slow sand"
-"Particle counters can be used to perform which tasks? ","1. To evaluate and compare the performance of different arrangements of filter media 2. To evaluate and compare the performance of different types of filter media 3. To measure effectiveness of polymer addition and polymer dose points to improve filter performance 4. To optimize filter startup rate 5. To optimize filter-to-waste period minimization"
-"What is a crack or break in a filter bed allowing floc or particulate matter to pass through a filter causing increased filter effluent turbidity","Breakthrough"
-"Material round in shape that forms in filters and gradually increases in size when not removed by the back washing process","Mud ball"
-"_____ is a soft, fine, porous deposit that is composed mainly of the skeletons of diatoms","diatomaceous earth"
-"A method of treating water which consists of the addition of coagulant chemicals, flash mixing, coagulation, minimal flocculation, and filtration.","Direct filtration"
-"An instrument for measuring and comparing the turbidity of liquids by passing light through them and determining how much light is reflected by the particles in the liquid. The normal measuring range is 0 to 100 and is expressed as Nephelometric Turbidity Units (NTUs).","Turbidity meter"
-"______ is the head, pressure or energy lost by water flowing in a pipe or channel as a result of turbulence caused by the velocity of the flowing water and the roughness of the pipe, channel walls or restrictions caused by fittings.","Head loss"
-"The gathering of a gas, liquid, or dissolved substance on the surface or interface zone of another material.","Adsorption"
-"The process of reversing the flow of water back through the filter media to remove the entrapped solids.","Backwashing"
-"Why is diatomaceous earth filtration used in some water treatment applications and not in others","Limited use in larger treatment plants due to hydraulic flow, sludge disposal, and other operational conditions"
-"What is a desirable characteristics for filter media","A deeper filter bed with a larger media size"
-"What problems can develop from improper backwash rates","An insufficient backwash rates may not completely remove trapped solids from the filter media"
-"What is the primary purpose of the filtration process?","To remove particulate impurities and floc from water being treated"
-"Which instrument would you use to monitor a filtration process?","Turbidity meter"
-"How frequently should the performance of the filtration process be evaluated?","Influent, every 2 hours; effluent, continuously"
-"What would you look for in evaluating the filter media condition after a back wash cycle?","Cracking, media loss, and mud balls"
-"Which item is an indicator of an upset or failure in the filtration process or pretreatment process?","Excessive media loss"
-"How could you adjust the filter operation if increases in source water turbidity and resultant increases in coagulant feed rates impose a greater loss on the plants active filters","Decrease filtration rates"
-"What backwash process adjustments would you make to solve such problems as media boils, media loss, or incomplete cleaning of media","Adjust the backwash flow rates, surface wash flow rate, or duration"
-"What should you not check for after starting any piece of equipment?","Check for excessive noise and vibration, over heating, and leakage"
-"Name a type of filtration that can be used to meet the requirements of the SWTR","Diatomaceous earth filtration"
-"How can particle counters be used to monitor filter performance?","Measure effects of filter flow rate"
-"When collecting a distribution system sample for bacteriological testing the person collecting sample should allow the water to run how long.","As long as necessary to permit the clearing of the service line"
-"The purpose of fluoridating municipal water supply is to","Help prevent dental decay."
-"Optimum coagulant dosage can be established by performing","jar tests."
-"Which word best describes the chemical combination of substances in solution so as to cause separation in the insoluble form","Precipitation."
-"Corrosive waters can be the result of the presence of","Acids."
-"A substance added to water to promote the formation of a protective film in transmission pipes is known as","An inhibitor."
-"When hard water is softened by zeolite ion-exchange process, which substance is exchanged for calcium and magnesium and will appear in the product water?","Sodium."
-"A chemical commonly used for coagulation in water treatment. is","Alum."
-"The filter rate and backwash rate each filter shall be determined and recorded once each","Month."
-"Water may be aerated by several methods, almost all of which involve","Exposing a large surface area to the atmosphere."
-"The detention time usually required in a conventional straight flow sedimentation basin is how many hours","2-6 hours"
-"Air binding is a condition that may occur as a result of","Negative head."
-"A program for the control of algae, should be instituted","After trend information has been established and adequate monitoring is practiced."
-"With the coming of winter, the water temperature drops. A likely operational problem at a filtration plant with coagulation is","Floc carry over from the sedimentation system."
-"A fluoride saturator","Is suitable for small water systems."
-"The most desirable place to feed activated carbon in a lime-soda ash softening plant, is","To raw water at earliest stage possible."
-"Activated alumina is used effectively for the removal of","Certain inorganic elements."
-"Harvesting, dewatering, dredging, shading, and lining are all method for controlling rooted aquatic plants","Physically."
-"Pinpoint floc is a condition associated with","Flash mixing."
-"Sedimentation can be improved by","Maintaining a uniform, horizontal, low-velocity flow across the basin."
-"If a filter has been out of service and aloud to go dry, which filter control valve should be used to refill it with water?","Backwash inlet valve."
-"Polyelectrolytes are","Coagulant aids."
-"One function of aeration is the removal of ________ from water prior to the lime-soda ash softening process","Carbon dioxide"
-"Calcium carbonate stability refers to","A condition where water will neither dissolve nor deposit calcium carbonate"
-"A condition that tends to increase the corrosiveness of water on metals is","High dissolved oxygen content."
-"Adsorption operates under the principle of","Adhesion."
-"When adding polyphosphate for sequestration to a well and also adding chlorine to the well, what should be fed first?","Polyphosphate."
-"Treated water is always use for back washing","To avoid contamination of the filter bed."
-"The main purpose of flocculation is to","Bring together microfloc particles."
-"Solids contact basins and sludge blanket clarifiers are also called","Upflow clarifiers."
-"Two operating problems commonly associated with screening facilities are","Clogging and corrosion."
-"The type of Aerator most effective in removing dissolved gases is the","Draft."
-"The fluoridation monitoring practice that is most highly recommended involves","Routinely determining the fluoride concentration in the raw and treated water."
-"Usually the most desirable point of application to add powdered activated carbon is","In a raw water intake line."
-
-
+"What is the purpose of coagulation and flocculation?
+a. control corrosion
+b. to kill disease causing organisms
+c. to remove leaves, sticks, and fish debris
+d. *to remove particulate impurities and suspended matter",
+"How are filter production (capacity) rates measured?
+a. Mgd/sq.ft.
+b. *Gpm/sq.ft.
+c. Gpm
+d. Mgd",
+"How can an operator tell if a filter is NOT completely cleaned after backwashing?
+a. *the initial headloss is on the high side
+b. the backwash rate was too slow
+c. mudballs are NOT present
+d. backwashing pumping rate is too low
+e. traditional plant
+d. is located on the plant effluent line after the clearwell",
+"What is the recommended loading rate for copper sulfate for algae control at an alkalinity greater than 50mg/L ?
+a. 0.9lb of copper sulfate per acre of surface area
+b. 1.9lb of copper sulfate per acre of surface area
+c. 2-4 lb of copper sulfate per acre of surface area
+d. .4lb of copper sulfate per acre of surface area",
+"The two most common types of chlorine disinfection by-products include:
+a. TTHM and HAA5
+b. TTHA of HMM5
+c. Turbidity and color
+d. Chloride and fluoride",
+"Water that is safe to drink is called water.
+a. Potable
+b. Palatable
+c. Good
+d. Clear",
+"The type of organisms that can cause disease are said to be microorganisms.
+a. Bad
+b. Pathogenic
+c. Undesirable
+d. Sick",
+"The basic goal for water treatment is to
+a. Protect public health
+b. Make it clear
+c. Make it taste good
+d. Get stuff out",
+"Four types of aesthetic contaminants in water include the following:
+a. Odor, turbidity, color, hydrogen sulfide gas
+b. Pathogens, microorganisms, arsenic, disinfection by-products",
+"What does mg/L stand for?
+a. Microorganisms/Liter
+b. Milligrams/Loser
+c. Milligrams/Liter
+d. None of the above",
+"Disinfection by-products are a product of:
+a. Filtration
+b. Disinfection
+c. Sedimentation
+d. Adsorption",
+"Acute contaminants are those that can cause sickness after:
+a. Prolonged exposure
+b. Low levels or low exposure",
+"Chronic contaminants are those that can cause sickness after:
+a. Prolonged exposure
+b. Low levels or low exposure",
+"TTHMs and HAA5s can affect:
+a. Health
+b. Aesthetics
+c. Color
+d. Odor",
+"Oxidation, coagulation, and disinfection are processes.
+a. Physical
+b. Chemical
+c. Biological
+d. Mechanical",
+"Flocculation, sedimentation, filtration, and adsorption are processes.
+a. Physical
+b. Chemical
+c. Biological
+d. Mechanical",
+"A precipitate can be formed after which one of the following processes:
+a. Oxidation
+b. Flocculation
+c. Filtration
+d. Adsorption",
+"Giardia and cryptosporidium are a type of:
+a. Mineral
+b. Organism
+c. Color
+d. Bird",
+"The chemical oxidation process in water treatment is typically used to aid in the removal of :
+a. Organic contaminants
+b. Inorganic contaminants
+c. Large contaminants
+d. None of the above",
+"The process of decreasing the stability of colloids in water is called:
+a. Flocculation
+b. Coagulation
+c. Sedimentation
+d. Clarification",
+"Slowly agitating coagulated materials is the process of:
+a. Flocculation
+b. Coagulation
+c. Sedimentation
+d. Filtration",
+"The sedimentation portion of water treatment is also called a(n):
+a. Clarifier
+b. Filter
+c. Adsorber
+d. Water treater",
+"Particles that are less than 1μm in size and will not settle easily and are called:
+a. Light particles
+b. Colloidal particles
+c. Colored particles
+d. Flat particles",
+"One micrometer is also equal to:
+a. 0.1 mm
+b. 0.0001 mm
+c. 0.001 mm
+d. 1 m",
+"Particles less than 0.45μm in size are considered to be:
+a. Dissolved
+b. Really little
+c. Colored particles
+d. Flat particles",
+"Turbidity is measured as:
+a. Mg/L
+b. mL
+c. gpm
+d. NTU",
+"Al2(SO4)3 ⋅ 18H20 is the chemical formula for:
+a. Alum
+b. Iron
+c. Manganese
+d. Lead",
+"A(n)_polymer is commonly used as a coagulant.
+a. Anionic
+b. Cationic
+c. Nonionic
+d. Ionic",
+"A(n)_polymer is used to enhance flocculation.
+a. Anionic
+b. Cationic
+c. Nonionic
+d. Ionic",
+"The concentration of a chemical added to the water is measured in:
+a. mL
+b. mg
+c. mg/L
+d. Liters",
+"The quantity of chlorine remaining after primary disinfection is called a residual.
+a. Chlorine
+b. Permaganate
+c. Hot
+d. Cold",
+"Primary disinfectants are used to microorganisms.
+a. Hurt
+b. Inactivate
+c. Burn up
+d. Evaporate",
+"Secondary disinfectants are used to provide a in the distribution system.
+a. Color
+b. Chemical
+c. Smell
+d. Residual",
+"What type of polymer is used to improve the efficiency of the sedimentation process?
+a. Cationic
+b. Nonionic
+c. Anionic
+d. All of the above",
+"In a typical water treatment plant, alum would be added into the mixer.
+a. Speed
+b. Large
+c. Slow d. Flash",
+"The process of cleaning a filter by pumping water up through the filter media is called _ the filter.
+a. Backwashing
+b. Rewashing
+c. Purging
+d. Lifting",
+"Bag and cartridge filters are used to remove which two pathogenic microorganisms?
+a. Viruses and giardia
+b. Giardia and cryptosporidium
+c. Viruses and bacteria
+d. None of the above",
+"List the four types of membrane filtration processes commonly used in water treatment.
+a. MF, UF, NF, and RO
+b. MNF, UOF, NOF, and ROO
+c. CFM, FM, FN, and OR
+d. None of the above",
+"What is a method of reducing hardness?
+a. Softening
+b. Hardening
+c. Lightning
+d. Flashing",
+"Adsorption of a substance involves its accumulation onto the surface of a:
+a. Solid
+b. Rock
+c. Pellet
+d. Snow ball",
+"The solid that adsorbs a contaminant is called the:
+a. Adsorbent
+b. Adsorbate
+c. Sorbet
+d. Rock",
+"The adsorption process is used to remove:
+a. Organics or inorganics
+b. Bugs or salts
+c. Organisms or dirt
+d. Color or particles",
+"Describe two primary methods used to control taste and odor?
+a. Oxidation and adsorption
+b. Filtration and sedimentation
+c. Mixing and coagulation
+d. Sedimentation and clarification",
+"List the five types of surface water filtration systems. filtration, media filtration diatomaceous earth filtration, membrane filtration filtration, media filtration
+a. Bag filtration, cartridge filtration, fine filtration, coarse
+b. Conventional treatment, direct filtration, slow sand filtration,
+c. Turbidity filtration, color filtration, bag filtration, fine
+d. None of the above",
+"GAC contactors are used to reduce the amount of contaminants in water.
+a. Inorganic
+b. Turbidity
+c. Particle
+d. Organic",
+"Greensand can be operated in either regeneration or regeneration modes.
+a. Continuous or intermittent
+b. Fast or slow
+c. Hot or cold
+d. Constant or unusual",
+"What is the cause of taste and odor problems in raw surface water?
+a. Copper sulfate
+b. Blue-green algae
+c. Oxygen
+d. Lake turnover",
+"What chemical reduces blue-green algae growth?
+a. Chlorine
+b. Caustic Soda
+c. Copper Sulfate
+d. Alum",
+"What is the purpose of adding fluoride to drinking water?
+a. Increase tooth decay
+b. Reduce tooth decay
+c. Make teeth white
+d. Government conspiracy",
+"The optimal coagulant dose is determined by a
+a. Chlorine Test
+b. Flocculation test
+c. Jar Test
+d. Coagulation test",
+"The most common primary coagulant is
+a. Alum
+b. Cationic polymer
+c. Fluoride
+d. Anionic polymer",
+"Bacteria and Viruses belong to a particle size known as
+a. Suspended
+b. Dissolved
+c. Strained
+d. Colloidal",
+"The purpose of coagulation is to
+a. Increase filter run times
+b. Increase sludge
+c. Increase particle size
+d. Destabilize colloidal particles",
+"The purpose of flocculation
+a. Destabilize colloidal particles
+b. Increase particle size
+c. Decrease sludge
+d. Decrease filter run times",
+"Primary coagulant aids used in treatment process are
+a. Poly-aluminum chloride
+b. Aluminum sulfate
+c. Ferric chloride
+d. All of the Above",
+"How do water agencies monitor the effectiveness of their filtration process?
+a. Alkalinity
+b. Conductivity
+c. Turbidity
+d. pH",
+"Flocculation is used to enhance
+a. Number of particle collisions to increase floc
+b. Charge neutralization
+c. Dispersion of chemicals in water
+d. Settling speed of floc",
+"If there is a problem with floc formation, what would you consider changing?
+a. Adjust coagulant dose
+b. Stay the course
+c. Adjust mixing intensity
+d. Both A&C",
+"Which step in the treatment process is the shortest?
+a. Filtration
+b. Sedimentation
+c. Flocculation
+d. Coagulation",
+"To lower the pH for enhanced coagulation the operator will add
+a. Chlorine
+b. Sulfuric acid
+c. Lime
+d. Caustic Soda",
+"The flocculation process lasts how long?
+a. Seconds
+b. 5-10 minutes
+c. 15-45 minutes
+d. Over an hour",
+"The function of a flocculation basin is to
+a. Settle colloidal particles
+b. Destabilize colloidal particles
+c. Mix chemicals
+d. Allow suspended particles to grow",
+"The treatment process that involves coagulation, flocculation, sedimentation, and filtration is known as
+a. Direct filtration
+b. Slow sand Filtration
+c. Conventional treatment
+d. Pressure filtration",
+"Sedimentation produces waste known as
+a. Backwash water
+b. Sludge
+c. Waste water
+d. Mud",
+"What kind of process is the sedimentation step?
+a. Physical
+b. Chemical
+c. Biological
+d. Direct",
+"The weirs at the effluent of a sedimentation basin are also called
+a. Effluent weirs
+b. Baffling
+c. Launders
+d. Spokes",
+"Sedimentation is used in water treatment plants to
+a. Settle pathogenic material
+b. Destabilize particles
+c. Disinfect water
+d. Reduce loading on Filters",
+"Scouring is a term that describes conditions in a sedimentation tank which
+a. Could impact the rest of treatment process
+b. Higher flow rates in the sludge zone
+c. Re-suspends settle sludge
+d. All of the above",
+"The four zones in a Sedimentation basin include
+a. Inlet, sedimentation, sludge, outlet
+b. Inlet, filter, waste, outlet
+c. Inlet, top, bottom, outlet
+d. Surface, sedimentation, sludge, outlet",
+"The removal and inactivation requirement for Giardia is?
+a. 99.9%
+b. 99.99%
+c. 99.00%
+d. 90%",
+"Short circuiting in a sedimentation basin could be caused by
+a. Surface wind
+b. Ineffective weir placement, or weirs covered in algae
+c. Poor baffling in sedimentation inlet zone
+d. All of the Above",
+"How much solids should be removed during sedimentation?
+a. 95% or more
+b. 80 − 95%
+c. 70 − 80%
+d. 60 − 70%",
+"The type of basin that includes coagulation and flocculation is
+a. Rectangular
+b. Triangular
+c. Up-Flow
+d. None of the above",
+"Recarbonation basins are used to stabilize water after
+a. Filtration
+b. Disinfection
+c. Softening
+d. Coagulation",
+"Which of the following is an effective way for removing iron water? a. adding baffles
+b. adding sodium chloride
+c. aeration and filtration
+d. flash mixing",
+"How can iron bacteria be controlled in a water distribution system?
+a. by aeration
+b. filtration
+c. chlorination
+d. precipitation",
+"Which of the following is a hazard when handling hydrofluosilicic acid?
+a. fire
+b. explosion
+c. corrosion
+d. inhalation",
+"Which of the following forms of iron is most soluble in water?
+a. Ferric (Fe⁺³)
+b. Ferric hydroxide [Fe(OH₃)]
+c. Ferrous (Fe⁺²)
+d. Ferrous oxide (FeO)",
+"An acceptable means of corrosion control for relatively small systems is
+a. Activated carbon
+b. Lime-soda ash softening
+c. pH control
+d. zeolite softening",
+"Lead in drinking water can result in
+a. Impaired mental functioning in children
+b. Prostate cancer in men
+c. Stomach and intestinal disorders
+d. Reduced white blood cell count",
+"The problem caused by dissolved carbon dioxide in the water of the distribution system is
+a. increased Trihalomethanes
+b. Corrosion
+c. Excessive encrustation
+d. Tastes and odors",
+"The presence of the coliform group of bacteria in water indicates
+a. Contamination
+b. Inadequate disinfection
+c. Improper sampling
+d. Taste and odor problems",
+"At what pH would a chlorinated water have the highest concentration of hypochlorous acid?
+a. 5
+b. 7
+c. 9
+d. 11",
+"One use of polyphosphates is to
+a. Control algae
+b. Improve taste
+c. Sequester iron and manganese
+d. Kill bacteria",
+"The type of corrosion caused by the use of dissimilar metal in a water system is
+a. Caustic corrosion
+b. Galvanic corrosion
+c. Oxygen corrosion
+d. Tubercular corrosion",
+"A method used to soften water is
+a. Aeration
+b. Sedimentation
+c. Ion exchange
+d. Adsorption",
+"The main characteristic of raw water that enables algae to grow is
+a. Presence of copper sulfate
+b. Low pH
+c. High hardness
+d. Presence of nutrients",
+"Which of the following chemicals will most likely keep iron in suspension?
+a. Chlorine
+b. Fluoride
+c. Polyphosphate
+d. Lime inhibitor",
+"If raw water turbidity changed from 10 to 300 turbidity units and the finished water turbidity had increased from 0.1 to 1.0 turbidity units, the unit process having the most impact to correct this situation is
+a. Coagulation
+b. Sedimentation
+c. Filtration
+d. Disinfection",
+"The granular filtration process is designed to reduce
+a. Calcium and magnesium sulfates
+b. True color
+c. Total dissolved solids
+d. Turbidity",
+"Aeration in water treatment plants is used to
+a. Lower the pH
+b. Reduce concentrations of dissolved gasses
+c. Reduce turbidity
+d. Stabilize chlorine residuals",
+"What can the operator do if iron fouling appears to be a problem in an ion exchange softener?
+a. Decrease the strength of the brine used in the regeneration stage
+b. Increase backwash flow rates
+c. Inçrease duration of backwash stage
+d. Increase duration of service stage",
+"Trihalomenthane may be partially removed from water by:
+a. fluoridation
+b. chlorination
+c. oxidation
+d. ultraviolet radiation",
+"Temporary cloudiness in a freshly drawn sample of tap water may be caused by:
+a. air
+b. chlorine
+c. hardness
+d. silica",
+"Two fundamental treatment requirements for public water systems using surface sources are
+a. Coagulation and sedimentation
+b. Lime softening and disinfection
+c. Filtration and aeration
+d. Disinfection and filtration",
+"A zeolite softening unit will replace calcium and magnesium ions with ions.
+a. Fluoride
+b. Iron
+c. Sodium
+d. Sulfur",
+"What happens when lime is fed to water for corrosion control? a. Alkalinity is decreased
+b. CO₂ does not change
+c. Turbidity is decreased
+d. pH is increased",
+"Which two chemicals are used to remove turbidity?
+a. Soda Ash and lime
+b. Copper sulphate and caustic soda
+c. Alum and lime",
+"Which of the following is considered to be a coagulant aid?
+a. Lime
+b. Polymer
+c. Bentonite
+d. All of the above",
+"Alum precipitates as
+a. Aluminum carbonate
+b. Aluminum sulphate
+c. Aluminum hydroxide",
+"Turbidity removal with alum is best accomplished at what pH ?
+a. 3.5
+b. 5.0
+c. 6.5",
+"Which of the following will not lower the pH ?
+a. Alum
+b. Carbonic acid
+c. Ferric chloride
+d. Sodium carbonate",
+"Liquid fluoride is delivered as:
+a. Sodium Fluoride
+b. Hydrofluorosilicic acid
+c. Sodium Silicofluoride
+d. Hydrofluoric acid",
+"An upflow clarifier will have which of the following processes?
+a. Coagulation
+b. Flocculation
+c. Sedimentation
+d. All of the above",
+"Sludge that rises to the surface of a sedimentation basin is caused by:
+a. Not removing sludge often enough
+b. Removing sludge too often
+c. pH is too low
+d. Surface loading rate is too low",
+"Pin floc leaving a sedimentation basin may indicate a problem with:
+a. Coagulation
+b. Flocculation
+c. Sedimentation
+d. Disinfection",
+"What is the backwash rate for a rapid sand filter?
+a. 2 gpm/sq.ft.
+b. 15gpm/sq.ft.
+c. 20gpm/sq.ft.
+d. 25gpm/sq.ft.",
+"What is the maximum run time for a gravity filter?
+a. 8 hours
+b. 20 hours
+c. 48 hours
+d. 100 hours",
+"During backwash, the filter bed should expand:
+a. 5 − 10%
+b. 15 − 20%
+c. 30 − 50%
+d. 60 − 80%",
+"If the backwash time is too short, what may result?
+a. Too much freeboard
+b. Mudballs
+c. Loss of filter media
+d. Filter breakthrough",
+"If the filtration rate is too high, what may result?
+a. Filter breakthrough
+b. Mudballs
+c. Reduction in operating costs
+d. Lower headloss",
+"Solids removed from a filter are most commonly removed by what method?
+a. Adsorption
+b. Straining
+c. Deactivation
+d. Flocculation",
+"What is a typical filtration rate for slow sand filters?
+a. 2.0-6.0 GPM/sq. ft.
+b. 6.0-10.0 GPM/sq. ft.
+c. 1.0 − 2.0GPM/sq. ft.
+d. 0.5 − 0.10GPM/sq. ft.",d. 0.5 − 0.10GPM/sq. ft.
+"In a typical conventional treatment plant, the finished water turbidity for an individual filter should be less than
+a. 1.0 NTUs
+b. 0.3 NTUs
+c. 5.0NTUs
+d. 3.0 NTUs",b. 0.3 NTUs
+"A filter running under normal conditions will see head loss in a filter
+a. Remain constant
+b. Increase slowly
+c. Rapidly increase
+d. Decrease slowly",
+"A filter must be washed if this condition is met
+a. Head Loss
+b. Turbidity break through
+c. Maximum Filter run time
+d. All of the Above",
+"Filter performance is measured by the removal of
+a. Oxygen
+b. Head loss
+c. Turbidity
+d. Chlorine",
+"What is the biologically active layer of a slow sand filter called?
+a. Mixed Media
+b. Duel Media
+c. Sludge Layer
+d. Schmutzdecke",
+"The pressure drop in a filter is called
+a. Turbidity breakthrough
+b. Head Loss
+c. Filtration
+d. Backwash",
+"What is the most common reason for putting a filter into the wash cycle?
+a. Head loss
+b. Filter run time
+c. Turbidity breakthrough
+d. Water level decrease",
+"Formation of mud balls and excessive boiling during a wash is an indicator of
+a. Proper backwash rate
+b. Too low backwash rate
+c. Excessive backwash rate
+d. Improper chemical dose",
+"Important processes which occur during filtration are
+a. Sedimentation
+b. Adsorption
+c. Straining
+d. All of the Above",
+"Typical filtration rates for a conventional treatment plant are
+a. 0.2-0.6 GPM/sq.ft.
+b. 2.0-10.0 GPM/sq.ft.
+c. 10.0-20.0 GPM/sq.ft.
+d. 200-400 GPM/sq.ft.",
+"Detention time in flocculation basins are usually designed to provide for
+a. 5 to 15 minutes.
+b. 15 to 45 minutes.
+c. 45 to 60 minutes.
+d. 60 to 90 minutes.",b. 15 to 45 minutes.
+"Alum works best in a pH range of
+a. less than 4.0.
+b. 4.0 to 5.5 .
+c. 5.8 to 8.5 .
+d. Greater than 9.0.",c. 5.8 to 8.5 .
+"Which statement is true concerning colloidal particles? on them covalent bonding control their behavior to their mass
+a. Colloidal particles are so small that gravity has little effect
+b. The zeta potential between colloidal particles is balanced by
+c. Electrical phenomenon of colloidal particles predominate and
+d. The surface area of colloidal particles is very small compared",a. Colloidal particles are so small that gravity has little effect
+"Which natural electrical force keeps colloidal particles apart in water treatment?
+a. van der Waals forces
+b. Ionic forces
+c. Zeta potential
+d. Quantum forces",c. Zeta potential
+"The zeta potential measures the number of excess all particulate matter.
+a. electrons
+b. ions
+c. cations
+d. protons",a. electrons
+"Low temperature water can be compensated for when using alum by
+a. increasing the pH.
+b. decreasing the pH.
+c. increasing the alum dosage.
+d. decreasing the alum dosage.",c. increasing the alum dosage.
+"Which is the optimal pH range for the removal of particulate matter, when using alum as a coagulant?
+a. 4.5 to 5.7
+b. 5.8 to 6.5
+c. 6.5 to 7.2
+d. 7.3 to 8.1",c. 6.5 to 7.2
+"Which forces will pull particles together once they have been destabilized in the coagulation-flocculation process?
+a. van der Waals forces
+b. Zeta potential
+c. Ionic forces
+d. Quantum forces",a. van der Waals forces
+"Which is a common mistake that operators make in regards to flocculation units? bearings
+a. Excessive flocculation time
+b. Lack of food-grade NSF-approved grease on the flocculator
+c. Keeping the mixing energy the same in all flocculation units
+d. Too short a flocculation time",c. Keeping the mixing energy the same in all flocculation units
+"Ferric sulfate has which advantage over aluminum sulfate (alum)?
+a. Less staining characteristics
+b. Less cost
+c. More dense floc
+d. Not as corrosive",c. More dense floc
+"Which is the minimum recommended number of flocculation basins?
+a. 2
+b. 3
+c. 4
+d. 5",b. 3
+"Which type of polymer(s) is (are) sometimes formulated with regulated substances from the following list?
+a. Polyethylene
+b. Divinylbenzene
+c. Polypropylene and polyethylene
+d. Nonionic and anionic polymers",d. Nonionic and anionic polymers
+"Which is the most probable solution if rotifers are visible in the finished water? process
+a. Superchlorinate the water plant
+b. Optimize coagulation, flocculation, and filtration
+c. Use aeration followed by lime softening before the settling
+d. Use oxygen deprivation","b. Optimize coagulation, flocculation, and filtration"
+"The best addition for water that is highly colored due to organic matter would be
+a. the addition of lime.
+b. lime addition with increase in the coagulant being used.
+c. a small increase in a nonionic polymer.
+d. the addition of an acid to lower pH before coagulation.",d. the addition of an acid to lower pH before coagulation.
+"If the activation process of silica is not carefully controlled, flocculators. bringing it eventually to a grinding halt.
+a. the silica could splash due to high heat of reactants.
+b. it could inhibit floc formation.
+c. it could corrode and destroy the metal and rubber in the
+d. it could deposit silica on the flocculators and the gears,",b. it could inhibit floc formation.
+"In solid-contact basins with fairly constant water quality parameters, how often should the solids concentration be determined?
+a. At least once per week
+b. At least every other day
+c. At least once per month
+d. At least twice per day",d. At least twice per day
+"The definition of decant is disturbing any layer(s) above or below. without disturbing the overlying liquid layer(s). stirring up bottom sediment.
+a. to draw off a liquid layer from a vessel of any size without
+b. to draw off the sediment at the bottom of a vessel of any size
+c. to remove the precipitate at the bottom of any size vessel.
+d. to draw off the liquid from a vessel of any size without",d. to draw off the liquid from a vessel of any size without
+"How often should sedimentation basins with mechanical sludge removal equipment be drained and inspected?
+a. Twice a year
+b. Once a year
+c. Every other year
+d. Every three years",b. Once a year
+"Which is the most important reason to reduce turbidity?
+a. To reduce taste and odor problems
+b. To remove pathogens
+c. To reduce corrosion
+d. To determine the efficiency of coagulation and filtration",b. To remove pathogens
+"If enteric disease-causing protozoans have been found in the effluent of a water plant, which is the most probable solution? water plant; backwashing filters will remove the PAC will remove the PAC sedimentation, and filtration
+a. Where possible, use powdered activated carbon (PAC) throughout
+b. Use PAC only in the sedimentation basin; backwashing the filters
+c. Use multibarrier approach—coagulation, flocculation,
+d. Superchlorinate the water plant","c. Use multibarrier approach—coagulation, flocculation,"
+"Which is the major cause of short circuiting in a sedimentation basin? growths on the side of the basin
+a. Open basins that are subject to algal growths and thick slime
+b. Basins without a wind break
+c. Poor inlet baffling
+d. Density currents",c. Poor inlet baffling
+"Conventional sedimentation has a removal of Cryptosporidium oocysts.
+a. less than 0.5-log
+b. 0.5-log
+c. 1.0-log
+d. 2.0-log",a. less than 0.5-log
+"In solids-contact basins, the weir loading normally should not exceed weir length.
+a. 1 gpm/ft
+b. 2 gpm/ft
+c. 5 gpm/ft
+d. 10 gpm/ft",d. 10 gpm/ft
+"Dissolved-air flotation is particularly good for removing
+a. sulfides.
+b. inorganics.
+c. manganese and iron.
+d. algae.",d. algae.
+"If nematodes are interfering with the disinfectant, which is the most probable solution?
+a. Optimize the settling process
+b. Use chloramines
+c. Decrease detention time of finished water in clearwell and tanks
+d. Use oxygen deprivation",a. Optimize the settling process
+"At which angle should the parallel inclined plates be installed when using the shallow-depth sedimentation method?
+a. 35^(∘)
+b. 45^(∘)
+c. 50^(∘)
+d. 60^(∘)",b. 45^(∘)
+"Why do solids-contact basins have much shorter detention times than conventional treatment basins? time the mixing zone moves upward is conducive for producing larger settleable floc chemical reactions occur more quickly and completely in the mixing area
+a. Because chemical reactions take place throughout the basin
+b. Because the settling zone water moves upward, while at the same
+c. Because the gentle upward flow of the water throughout the basin
+d. Because of the recycled materials from the sludge blanket, the","d. Because of the recycled materials from the sludge blanket, the"
+"The pulsating energy in a pulsator clarifier helps to help in flocculation.
+a. maintain a uniform sludge blanket layer.
+b. mix the coagulants with the raw water.
+c. mix the coagulant aids with the primary coagulant and water to
+d. raise the sludge blanket over the weir for wasting.",a. maintain a uniform sludge blanket layer.
+"Pulsator clarifiers are used to treat water that is
+a. low in temperature, usually  < 10^(∘)C.
+b. high in color and low in turbidity.
+c. low in color and high in turbidity.
+d. high in organic acids.",b. high in color and low in turbidity.
+"Which is the filtration flow rate through a manganese greensand pressure filter?
+a. 1 to 2gpm/ft²
+b. 2 to 3gpm/ft²
+c. 3 to 5gpm/ft²
+d. 5 to 8gpm/ft²",b. 2 to 3gpm/ft²
+"When a filter is ripening, troughs.
+a. it is in need of a backwash.
+b. turbidity is just starting to break through.
+c. it is becoming more efficient in particle removal.
+d. it is beginning to grow algae in the filter bed, walls, and",c. it is becoming more efficient in particle removal.
+"Virgin greensand can be regenerated by soaking the filter bed for several hours in a solution of chlorine containing
+a. 50mg/LCl₂.
+b. 75mg/LCl₂.
+c. 100mg/LCl₂.
+d. 200mg/LCl₂.",c. 100mg/LCl₂.
+"Which role does the action of straining of suspended particles play during filtration?
+a. Minor
+b. Fair
+c. Good
+d. Major",a. Minor
+"The turbidity of settled water before it is applied to the filters (post sedimentation process) should always be kept below
+a. 1 to 2ntu.
+b. 2 to 4ntu.
+c. 5 ntu.
+d. 8 to 10ntu.",a. 1 to 2ntu.
+"Which is the best process for the removal of turbidity?
+a. Anion exchange
+b. Coagulation, flocculation, sedimentation, and filtration
+c. Chemical oxidation
+d. Granular activated carbon","b. Coagulation, flocculation, sedimentation, and filtration"
+"If filter run times between backwashes are long, for example one week, because high quality (low turbidity) water is being applied to the filters, which problem could still arise?
+a. Mudball formation
+b. Air binding and formation of mudballs
+c. Extended backwashing due to media becoming too compacted
+d. Floc breakthrough",d. Floc breakthrough
+"Gravel displacement in a filter bed from backwash rates with too high of a velocity could eventually cause
+a. compaction of the filter media.
+b. loss of media into the backwash troughs.
+c. a sand boil.
+d. bed shrinkage.",c. a sand boil.
+"Virgin greensand with 60 grams KMnO4 25% by weight solution of MnO2 with 200 grams Mn(OH)2)
+a. does not require regeneration.
+b. requires regeneration with potassium permanganate - 1 hour soak
+c. requires regeneration with manganese dioxide - 2 hour soak with
+d. requires regeneration with manganese hydroxide - 4 hour soak",b. requires regeneration with potassium permanganate - 1 hour soak
+"Which conventional treatment step is eliminated by direct filtration?
+a. Oxidation
+b. Aeration
+c. Flocculation
+d. Sedimentation",d. Sedimentation
+"Which is the best solution if iron bacteria are causing corrosion problems in the filters? orthophosphate
+a. Protect the metal parts of the filters by adding zinc
+b. Optimize the settling process
+c. Superchlorinate
+d. Add lime at 50 mg/L to one filter at a time",c. Superchlorinate
+"A conventional water treatment plant with dual media filters has very cold water in the winter and warm water in the summer. Which should the operator do to compensate for this temperature change? or increasing backwash flow rate rates to remove turbidity
+a. Use more coagulants in the summer per million gallons
+b. Sustain the same bed expansion without media loss by reducing
+c. Increase summer bed expansion and increase winter backwash flow
+d. Increase bed expansion in the winter compared to summer in order",b. Sustain the same bed expansion without media loss by reducing
+"How are reverse osmosis membranes cleaned once they become fouled? hours 24 hours then soaked in an acid solution for 3 days
+a. They are soaked in high purity industrial soap for at least 24
+b. They are cleaned with an acid wash
+c. They are cleaned with an acid, then with an industrial soap for
+d. They are cleaned first with a high purity industrial soap and",b. They are cleaned with an acid wash
+"Which membrane process is used to treat brackish water or seawater?
+a. Microfiltration
+b. Nanofiltration
+c. Reverse osmosis
+d. Ultrafiltration",c. Reverse osmosis
+"The amount of reject water from a reverse osmosis unit is dependent on the number of stages in which the membranes are configured and the
+a. feed pressure.
+b. amount of cations.
+c. amount of cations and anions.
+d. pH of the water.",a. feed pressure.
+"In the precipitative softening plant, which percentage of solids sludge is produced?
+a. 1%
+b. 5%
+c. 10%
+d. 30%",b. 5%
+"Which sludge disposal method is most economical for lime-soda ash softening plants?
+a. Disposal into the sewage system
+b. Sand drying beds
+c. Lagoons
+d. Landfill the sludge",c. Lagoons
+"Current regulations require water treatment wastes to be monitored
+a. daily.
+b. weekly.
+c. monthly.
+d. quarterly.",a. daily.
+"Which process is used to concentrate sludge?
+a. Sand bed
+b. Solar lagoon
+c. Thickener
+d. Centrifuge",c. Thickener
+"Which process is used to dewater sludge?
+a. Wash water basin
+c. Thickener
+b. Sand bed
+c. Thickener
+d. Reclamation basin",b. Sand bed
+"Which precipitates can foul a cation exchange resin?
+a. Sodium chloride and potassium chloride
+b. Chlorate and borate
+c. Sulfates
+d. Iron and manganese",d. Iron and manganese
+"Which process works best for sequestering manganese?
+a. Sodium silicate alone
+b. Sodium silicate and chlorine
+c. Polyphosphates alone
+d. Polyphosphates and chlorine",d. Polyphosphates and chlorine
+"When should polyphosphates used for sequestration of iron and manganese from a well be injected into the process?
+a. Right after disinfection
+b. Immediately after aeration to remove unwanted gases
+c. Right after clarification
+d. Right after the water leaves the well",d. Right after the water leaves the well
+"Recarbonation is
+a. adding CO2 to the water.
+b. adding bicarbonate to the water.
+c. adding acid to precipitate the excess lime.
+d. adding caustic soda.",a. adding CO2 to the water.
+"In the ion-exchange softening process, once the resin can no longer soften water it must be
+a. renewed.
+b. re-catalyzed.
+c. regenerated.
+d. recharged.",c. regenerated.
+"Ion exchange processes can typically be used for direct groundwater treatment as long as turbidity and levels are not excessive.
+a. calcium carbonate
+b. iron
+c. carbon dioxide
+d. sodium sulfate",b. iron
+"Softened water has a high pH and a high concentration of CaCO₃. Therefore, stabilization is essential in order to prevent the CaCO₃ from precipitating out
+a. in household plumbing.
+b. in the clear well.
+c. in the distribution system.
+d. on the filters.",d. on the filters.
+"Which is the best type of salt to use in the regeneration of ion exchange softener resin?
+a. Fine-grained salt
+b. Block salt
+c. Block or road salt
+d. Rock salt or pellet-type salt",d. Rock salt or pellet-type salt
+"Powdered activated carbon is primarily used to control
+a. disinfectant by-products.
+b. organic compounds responsible for tastes and odors.
+c. synthetic organic chemicals.
+d. humic and fulvic acids.",b. organic compounds responsible for tastes and odors.
+"Ion exchange will remove
+a. all hardness.
+b. all hardness down to 7.4 mg/l, as CaCO3.
+c. all hardness down to 17.2 mg/l, as CaCO3.
+d. all hardness down to about 25.0 mg/l, as CaCO3.",a. all hardness.
+"Which is the most effective method for removing tastes and odors?
+a. Coagulation, sedimentation, and filtration
+b. Granular activated carbon
+c. Anion exchange
+d. Lime softening",b. Granular activated carbon
+"Backwashing rate procedures should be reassessed to determine the cause of granular activated carbon loss if the loss per year exceeds
+a. 2 inches.
+b. 4 inches.
+c. 6 inches.
+d. 8 inches.",a. 2 inches.
+"Which is the most efficient process for the removal of nitrite and nitrate?
+a. Powdered activated carbon
+b. Granular activated carbon
+c. Anion exchange
+d. Cation exchange",c. Anion exchange
+"Which is the main problem if particle agglomeration is occurring in a filter for iron and manganese removal at the interface of the coal layer and the layer below?
+a. Oxidant is too weak
+b. Coagulant dosage is excessive
+c. Coal layer is too fine
+d. Coal layer is too coarse",d. Coal layer is too coarse
+"Which is the most effective method for the removal of disinfection by-products?
+a. Reverse osmosis
+b. Lime softening
+c. Ultrafiltration
+d. Granular activated carbon",d. Granular activated carbon
+"The purpose of stabilization is distribution system
+a. to prevent floc from rising in the basin
+b. to prevent sludge from entering the filters
+c. to prevent corrosion or excessive scale from entering the
+d. to prevent excessive turbidity at the top of the filters",c. to prevent corrosion or excessive scale from entering the
+"Core sampling is a viable way to check the condition of your
+a. raw water
+b. coagulation process
+c. finished water
+d. filters",d. filters
+"In solid contact units, the three main operational fundamentals are
+a. sedimentation, slurry, & suspended solids
+b. mixing, clarifying, & filtration
+c. chemical dosage, recirculation rate, & sludge control
+d. weighing agents, alkalinity & pac","c. chemical dosage, recirculation rate, & sludge control"
+"Particle counters can be used in place of ------------------------------------------------------------------------ in the treatment process to obtain better control.
+a. flash mixers
+b. variable drives
+c. filter coring
+d. turbidimeters",d. turbidimeters
+"In their soluble or reduced state, iron and manganese are
+a. alkalinity enhancers
+b. colorless
+c. negatively charged
+d. won’t dissolve in water",b. colorless
+"The maximum filtration rate allowable, without special permission, for dual and mixed media filters is
+a. 2gal/min/sqft
+b. 5gal/min/sqft
+c. there is no maximum
+d. 9gal/min/sqft",b. 5gal/min/sqft
+"During the coagulation/flocculation process, particulate impurities can be divided into two classifications.
+a. primary coagulants and coagulant aids
+b. settleable and nonsettleable solids
+c. hydraulic and mechanical
+d. paddlewheel and walking beam",b. settleable and nonsettleable solids
+"In conventional rectangular sedimentation basins, 50% of the sludge should settle out in the of the basin.
+a. first third
+b. last half
+c. very beginning
+d. tail end",a. first third
+"Generally, the more uniform the media, the the rate of headloss.
+a. slower
+b. same
+c. smaller
+d. larger",a. slower
+"polymers are positively charged.
+a. nonionic
+b. anionic
+c. cationic
+d. platonic",c. cationic
+"The Van der Waals principle refers to
+a. oppositely charged particles attract
+b. the settling rate of suspended solids
+c. the benefits of early oxidation of raw water
+d. the backwash rates of multi media filters",a. oppositely charged particles attract
+"The time necessary to perform the coagulation, flocculation, and settling processes in treatment are correctly listed in what order, starting with coagulation?
+a. days, weeks, months
+b. hours, minutes, seconds
+c. weeks, months, years
+d. seconds, minutes, hours","d. seconds, minutes, hours"
+"Overdosing of potassium permanganate will likely cause
+a. an extremely high pH
+b. pink water
+c. taste and odor
+d. inadequate settling",b. pink water
+"Which of the following is most likely to be used as a primary coagulant?
+a. brine
+b. ammonious hydroxide
+c. ferric sulfate
+d. sodium thiosulfate",c. ferric sulfate
+"Desirable media characteristics include
+a. permeability
+b. solubility in water
+c. full of impurities
+d. hard and durable",d. hard and durable
+"The two types of removal mechanisms for gravity filters are
+a. redundant and repetitive
+b. mechanical and adsorption
+c. coagulation and flocculation
+d. regeneration and renewal",b. mechanical and adsorption
+"Fluoride is added to water to
+a. create a nuisance
+b. aid in the development of teeth and bones
+c. so there is something that has both a primary and secondary MCL
+d. aid in the protective coating of pipes",b. aid in the development of teeth and bones
+"The best pH level for coagulation usually falls in the range of
+a. 4-6
+b. 5 − 7
+c. 7 − 9
+d. 1 − 3",b. 5 − 7
+"The mixing of coagulant chemicals and raw water is called
+a. flocculation
+b. aeration
+c. reverse osmosis
+d. flash mixing",d. flash mixing
+"Sedimentation basins have zones.
+a. five
+b. four
+c. three
+d. two",b. four
+"A jumbled mass or collection of floc, solids, and filter media that could grow into a larger mass and reduce filter efficiency is
+a. turbidity mass
+b. tuberculation
+c. a mudball
+d. a media crack",c. a mudball
+"When backwashing filters, bed expansion should be between
+a. 15 − 30% percent.
+b. 10 − 20%
+c. 20 − 40%
+d. 30 − 50%",a. 15 − 30% percent.
+"The two main softening methods used by treatment facilities are
+a. reverse osmosis and oxidation
+b. distillation and disinfection
+c. ultraviolet radiation and electrodialysis
+d. ion-exchange and lime-soda ash",d. ion-exchange and lime-soda ash
+"The effective way to combat taste and odor problems is
+a. aeration and tube settlers
+b. settling out by particle counting
+c. prevent them from occurring
+d. coagulation and flocculation",c. prevent them from occurring
+"If a filter exceeds NTU at any time the system must arrange for the State to conduct a Comprehensive Performance Evaluation within thirty days.
+a. 2.0NTU
+b. 3.0NTU
+c. 5.0NTU
+d. 10.0NTU",a. 2.0NTU
+"Most water treatment facilities will run more effectively if
+a. the mayor lends a hand
+b. it runs 24hrs a day
+c. it runs 12hrs on and 12hrs off
+d. it runs 16 hours a day",b. it runs 24hrs a day
+"Turbidity is used as a process control measurement because
+a. everyone has a turbidimeter around
+b. the results are foolproof
+c. the number of pathogens increase as turbidity increases
+d. turbidity removal is an extremely easy task",c. the number of pathogens increase as turbidity increases
+"Solids contact units (clarifiers) generally demand a higher level of operator knowledge and skill than conventional treatment techniques and processes.
+a. true
+b. false",
+"Filtration actually particulates.
+a. destroys
+b. stores
+c. dissolves
+d. suspends",b. stores
+"is a concentrated accumulation of chemicals and contaminants and pollutants that we attempt to remove from raw water.
+a. pathogens
+b. sludge
+c. coagulants
+d. fluoride",b. sludge
+"Iron and manganese removal can be accomplished by
+a. oxidation with chlorine followed by filtration
+b. oxidation by aeration followed by filtration
+c. oxidation by potassium permanganate followed by filtration
+d. all of the above",d. all of the above
+"Short circuiting refers to
+a. pumps running backwards which stops treatment
+b. a movie made in the 80 ’s
+c. inadequate voltage applied water treated by electrodialysis
+d. uneven flows which result in decreased treatment efficiency",d. uneven flows which result in decreased treatment efficiency
+"Solids removed from a filter are most commonly removed by what method?
+a. Adsorption
+b. Straining
+c. Deactivation
+d. Flocculation",
+"What is a typical filtration rate for slow sand filters?
+a. 2.0-6.0 GPM/sq. ft
+b. 6.0-10.0 GPM/sq. ft
+c. 1.0-2.0 GPM/sq. ft
+d. 0.5-0.10 GPM/sq. ft",
+"In a typical conventional treatment plant, the finished water turbidity for an individual filter should be less than ------------------------------------------------------------------------ .
+a. 1.0 NTUs
+b. 0.3 NTUs
+c. 5.0 NTUs
+d. 3.0 NTUs",
+"A filter running under normal conditions will see head loss in a filter ------------------------------------------------------------------------ .
+a. Remain constant
+b. Increase slowly
+c. Rapidly increase
+d. Decrease slowly",
+"A filter must be washed if this condition is met:
+a. Head loss
+b. Turbidity breakthrough
+c. Maximum filter run time
+d. All of the above",
+"Filter performance is measured by the removal of ------------------------------------------------------------------------ .
+a. Oxygen
+b. Head loss
+c. Turbidity
+d. Chlorine",
+"What is the biologically active layer of a slow sand filter called?
+a. Mixed media
+b. Duel media
+c. Sludge layer
+d. Schmutzdecke",
+"The pressure drop in a filter is called ------------------------------------------------------------------------ .
+a. Turbidity breakthrough
+b. Head Loss
+c. Filtration
+d. Backwash",
+"What is the most common reason for putting a filter into the wash cycle?
+a. Head loss
+b. Filter run time
+c. Turbidity breakthrough
+d. Water level decrease",
+"Formation of mud balls and excessive boiling during a wash is an indicator of ------------------------------------------------------------------------ .
+a. Proper backwash rate
+b. Too low backwash rate
+c. Excessive backwash rate
+d. Improper chemical dose",
+"Important processes which occur during filtration are ------------------------------------------------------------------------ .
+a. Sedimentation
+b. Adsorption
+c. Straining
+d. All of the above",
+"Typical filtration rates for a conventional treatment plant are ------------------------------------------------------------------------ .
+a. 0.2-0.6 GPM/sq.ft
+b. 2.0-10.0 GPM/sq.ft
+c. 10.0-20.0 GPM/sq.ft
+d. 200-400 GPM/sq.ft",
+"Which will occur if dry alum and quicklime are mixed together
+a. Create tremendous heat and hydrogen gas will be released
+b. Dust may be released which may cause an explosion
+c. A coagulated gel will form a
+d. Nothing as they are neutral towards each other",
+"X. The quantity of dissolved oxygen in water is a function of
+a. Ph alkalinity temperature and total dissolved solids
+b. Temperature and alkalinity
+c. Ph and temperature d
+d. Temperature pressure and salinity",
+"When chlorine has destroyed all reducing compounds any chlorine remaining will react with
+a. Nitrite and form chloramines
+b. Nitrates and form chloramines
+c. Ammonia and form chloramines
+d. Organics and form aromatics",
+"When used with alum which chemical improves coagulation
+a. Ferric chloride
+b. Ferric sulfate
+c. Sodium aluminate
+d. Aluminum sulfate",
+"In the ion exchange softening process once the resin can no longer soften water it must be
+a. Renewed
+b. Re-catalyzed
+c. Regenerated
+d. Recharged",
+"Low values for which characteristic may require the addition of lime caustic soda or sodium bicarbonate
+a. Turbidity
+b. Water temperature
+c. pH
+d. Alkalinity",
+"Ion exchange process can typically be used for direct groundwater treatment as long as turbidity and ------------------------------------------------------------------------ levels are not excessive
+a. Calcium carbonate
+b. Iron
+c. Carbon dioxide
+d. Sodium sulfate",
+"Which statement is true concerning colloidal particles on them bonding control their behavior a to theirs mass
+a. Colloidal particles are so small that gravity has little effect
+b. The zeta potential between colloidal is balanced by covalent
+c. Electrical phenomenon of colloidal particles predominate and
+d. The surface area of colloidal particles is very small compared",
+"The zeta potential measures the number of excess found on the surface of all particulate matter
+a. Electrons
+b. Ions
+c. Cations
+d. Protons",
+"Which natural electrical force keeps colloidal particles apart in water treatment
+a. Van der waals force
+b. Ionic forces
+c. Zeta potential
+d. Quantum forces",
+"Ferric sulfate has which advantage over aluminum sulfate (alum)
+a. Less staining characteristics
+b. Less cost
+c. More dense floc
+d. Not as corrosive",
+"Which is the major cause of short circuiting in a sedimentation basin growths
+a. Open basins that are subject to algal growths and thick slime
+b. Basins without a wind break
+c. Poor inlet baffling
+d. Density currents",c. Poor inlet baffling
+"Algae blooms may be responsible for which of the following problems
+a. An increased in chlorine demand
+b. Elevated disinfection by products
+c. Filter clogging d
+d. All ofthe above",d. All ofthe above
+"Strategies for taste and odor treatment generally fall under two broad categories
+a. Oxidation and chlorination
+b. Aeration and degasification
+c. Removal and destruction
+d. Sedimentation and adsorption",c. Removal and destruction
+"A problem in filters that occurs when suspended solids pass through the filter media is called
+a. Head loss
+b. Breakthrough
+c. Turbidity
+d. Air binding",b. Breakthrough
+"What is a typical filtration rate for slow sand filters?
+a. 2.0-6.0 GPM/sq. ft
+b. 6.0-10.0 GPM/sq. ft
+c. 1.0-2.0 GPM/sq. ft
+d. 0.5-0.10 GPM/sq. ft",
+"The branch of science which deals with water or fluids at rest or in motion is
+a. conductivity
+b. geology
+c. oceanography
+d. hydraulics",d. hydraulics
+"What is the ratio of lime to copper sulfate for controlling algae growth on basin walls?
+a. l part lime to 1 part copper sulfate
+b. 1 part lime to 2·parts copper sulfate
+c. 1 part lime to 3 parts copper sulfate
+d. 2 parts lime to 3 parts copper sulfate",a. l part lime to 1 part copper sulfate
+"Copper sulfate is used in surface water reservoirs to control
+a. Emergent weeds
+b. Algae
+c. Mosquito larvae
+d. Snails",b. Algae
+"Which of the following best defines adsorption? molecular or chemical action surface or interface zone of another substance particles by the use of chemicals compounds
+a. Assimilation of one substance into the body of another by
+b. Adhesion of a gas, liquid, or dissolved substance onto the
+c. Converting small particles of suspended solids into larger
+d. Chemical complexing of metallic cations with certain inorganic","b. Adhesion of a gas, liquid, or dissolved substance onto the"
+"About how much alkalinity is required for each milligram per liter of alum added to raw water?
+a. 0.5mg/L
+b. l.0mg/L
+c. 1.5 mg/L
+d. 2.0 mg/L",a. 0.5mg/L
+"A water treatment plant’s flocculation-coagulation and sedimentation processes should be checked if which of the following changes?
+a. Turbidity
+b. Chlorine feed rate
+c. Fluoride feed rate
+d. Total trihalomethanes",a. Turbidity
+"Which of the following is an example of a weighting agent?
+a. Polyelectrolytes
+b. Bentonite clay
+c. Calcium carbonate
+d. Sodium bicarbonate",b. Bentonite clay
+"Algae can shorten filter runs by
+a. Clogging the filters
+b. Increasing chlorine demand
+c. Lowering the pH
+d. Increasing turbidity",a. Clogging the filters
+"Coagulation is a chemical and physical reaction that converts
+a. Settleable solids into nonsettleable solids
+b. Nonsettleable solids into settleable solids
+c. Dissolved solids into settleable solids
+d. Dissolved solids into a precipitate",b. Nonsettleable solids into settleable solids
+"Water, deposition in metal piping will increase if
+a. The pH is above 7.0 and has low dissolved oxygen levels
+b. The alkalinity is high and water temperature is low
+c. Total dissolved solids are high and the pH is below 7.0
+d. The pH and alkalinity increase",d. The pH and alkalinity increase
+"The filtration unit process usually
+a. is located at the beginning of a filtration plant
+b. follows the coagulation/flocculation/sedimentation processes
+c. is located after the clear well area",b. follows the coagulation/flocculation/sedimentation processes
+"Filters are generally backwashed when the loss-of-head indicator registers a certain set value, such as 6-ft, or upon a certain time, say 48-hours, or upon a rise in
+a. alkalinity
+b. a jar-test result
+c. turbidity
+d. temperature",c. turbidity
+"Which is the safe dosage for most species of fish when using copper sulfate to control algae in a body of water?
+a. 0.3 mg/l
+b. 0.5 mg/l
+c. 0.8 mg/l
+d. 1.0 mg/l",b. 0.5 mg/l
+"Manganese greensand filters can be regenerated by using followed by potassium permanganate solution for the second backwash cycle.
+a. a surface wash and an air-water backwash.
+b. brine water during backwashing.
+c. potassium permanganate solution during backwashing.
+d. first a brine solution during the first backwashing cycle",c. potassium permanganate solution during backwashing.
+"Which material is manganese greensand and which is the coating?
+a. Quartz sand coated with manganese hydroxide [Mn(OH)₂]
+b. Garnet sand coated with manganese dioxide [MnO₂]
+c. Ilmenite sand coated with manganese hydroxide
+d. Glauconite sand coated with manganese dioxide",d. Glauconite sand coated with manganese dioxide
+"Which is the layer of solids and biological growth that forms on the top of a slow sand filter?
+a. Biosolids film
+b. Bio-carbonated scale layer
+c. Schmutzdecke
+d. Saprophytic layer",c. Schmutzdecke
+"Below are four membrane technologies. Which is the correct sequence from larger to smaller pore sizes? nanofiltration osmosis nanofiltration nanofiltration
+a. Microfiltration, reverse osmosis, ultrafiltration, and
+b. Microfiltration, ultrafiltration, nanofiltration, and reverse
+c. Reverse osmosis, ultrafiltration, microfiltration, and
+d. Ultrafiltration, microfiltration, reverse osmosis, and","b. Microfiltration, ultrafiltration, nanofiltration, and reverse"
+"Which filter media material is given an abrasive number?
+a. Garnet
+b. Activated carbon
+c. Sand
+d. Greensand",b. Activated carbon
+"Direct filtration is used to treat raw water that has average turbidities
+a. below 10NTU.
+b. up to 25NTU.
+c. 40 to 50NTU.
+d. above 50NTU.",b. up to 25NTU.
+"Diatomaceous earth filters
+a. have a relatively high installation cost.
+b. have relatively high operating costs.
+c. are used only for water with low turbidity.
+d. produce very little backwash sludge.",c. are used only for water with low turbidity.
+"A multi-barrier water filtration plant that contains a flash mix, a coagulation/flocculation zone, sedimentation, filtration and a clear well is considered to be a
+a. community special treatment plant
+b. direct filtration plant
+c. reverse osmosis plant
+d. *conventional filtration plant
+e. traditional plant",
+"Baffling inside a storage facility may be needed to prevent ""hot spots"" and
+a. straight through flows
+b. long contact times with disinfectants
+c. high chlorine residuals throughout the facility
+d. high temperatures throughout the storage facility",a. straight through flows
+"Which chemical, when it contacts moisture, will produce a cake that is both difficult and hazardous to handle?
+a. Quicklime
+b. Calcium oxide
+c. Calcium hydroxide
+d. Soda ash",d. Soda ash
+"Which of the following conditions is favorable for the rapid growth of algal?
+a. moderate to high dissolved oxygen and nutrients
+b. high pH and water hardness
+c. low temperatures and low dissolved oxygen
+d. high alkalinity and water hardness",a. moderate to high dissolved oxygen and nutrients
+"Flocculation is defined as mixing
+a. the gathering of fine particles after coagulation by gentle
+b. clumps of bacteria
+c. the capacity of water to neutralize acids
+d. a high molecular weight of compounds that have negative charges",a. the gathering of fine particles after coagulation by gentle
+"When handling fluoride chemicals, personnel should wear a respirator or mask approved by
+a. OSHA
+b. MSA
+c. EPA
+d. NIOSH",d. NIOSH
+"are used to cause particles to become destabilized and begin to clump together.
+a. coagulant aids
+b. nonsettable solids
+c. zeta particles
+d. primary coagulants",d. primary coagulants
+"Which of the following are commonly used coagulation chemicals?
+a. hypochlorites and free chlorine
+b. sodium and potassium chlorides
+c. *alum and polymers
+d. bleach and HTH",
+"Chlorine gas is ------------------------------------------------------------------------ times heavier than breathing air
+a. 2.5
+b. 20
+c. 60
+d. 460",a. 2.5
+"Filters are generally backwashed when the loss-of-head indicator registers a certain set value, such as 6-ft, or upon a certain time, say 48-hours, or upon a rise in
+a. alkalinity
+b. a jar-test result
+c. turbidity
+d. temperature",c. turbidity
+"Why should a filter be drained if it is going to be out-of-service for a prolonged period?
+a. to allow the media to dry out
+b. to save water
+c. to prevent the filter from floating on groundwater levels
+d. *to avoid algal growth",
+"The proper concentration for fluoride in drinking water is determined by:
+a. average annual air temperature
+b. average annual water temperature
+c. average alkalinity
+d. average iron concentration",a. average annual air temperature
+"When operating a filter, one of the operational concerns is the difference between the pressure or head on top of the filter and the pressure or head at the bottom of the filter. This difference is called ------------------------------------------------------------------------ pressure.
+a. Different
+b. Differential
+c. High
+d. Low",b. Differential
+"List the basic processes, in the proper order, for a conventional treatment plant.
+a. Coagulation, flocculation, sedimentation, filtration
+b. Flocculation, coagulation, sedimentation, filtration
+c. Filtration, coagulation, flocculation, sedimentation
+d. Coagulation, sedimentation, flocculation, filtration","a. Coagulation, flocculation, sedimentation, filtration"
+"The four most common oxidants include:
+a. Chlorine, potassium permanganate, ozone, chlorine dioxide
+b. Chlorides, soap, air, coagulants
+c. Air, chemicals, sodium, chloride
+d. Flocculants, coagulants, sediments, granules","a. Chlorine, potassium permanganate, ozone, chlorine dioxide"
+"When comparing conventional treatment with direct filtration, what process unit, ------------------------------------------------------------------------ is in the conventional treatment plant that is not in the direct filtration plant?
+a. Filter
+b. Clarifier
+c. Mixer
+d. Detention",
+"How thick should the layer of sodium fluoride crystals be maintained in a saturator tank for flows of less than 100 gpm?
+a. 6 inches
+b. 10 inches
+c. 1 foot
+d. 2 feet",a. 6 inches
+"How much alkalinity as CaCO₃ will dry-basis alum consume?
+a. 0.5 mg/l
+b. 0.8 mg/l
+c. 1.2 mg/l
+d. 1.5 mg/l",a. 0.5 mg/l
+"Natural zeolites that have become exhausted with use are regenerated by immersing them in a strong solution of which chemical?
+a. NaCl
+b. NaOH
+c. HCl
+d. H₂SO₄",a. NaCl
+"The zeta potential on a particular sample of water is -2 . The degree of coagulation is best described as
+a. poor.
+b. fair.
+c. excellent.
+d. maximum.",c. excellent.
+"Which is a disadvantage of using static mixers?
+a. They do not provide good mixing
+b. They are not economical
+c. They increase head loss
+d. They require too much maintenance",c. They increase head loss
+"Which is the usual effective pH range of iron salt coagulants?
+a. 3.5 to 9.0
+b. 6.5 to 8.8
+c. 3.0 to 9.5
+d. 4.2 to 9.0",a. 3.5 to 9.0
+"Which determines whether or not colloidal-sized particles in suspension repel each other, stay in suspension, or agglomerate and eventually settle?
+a. Number of collisions
+b. Flow and temperature of the water
+c. Types of chemical bonding
+d. Magnitude of the charges",d. Magnitude of the charges
+"If the sludge in a sedimentation basin becomes too thick, which could happen? accelerating normal floc settling very difficult to remove
+a. Gases from decomposition will rise through the settled sludge
+b. Abundant trihalomethanes and haloacetic acids will form
+c. Solids can become resuspended or taste and odors can develop
+d. The sludge will compact at the bottom of the basin making it",c. Solids can become resuspended or taste and odors can develop
+"In basins using tube and plate settlers, which parameter must be much better than conventional treatment basins?
+a. Metals must be oxidized before reaching the tubes and plates
+b. Floc rate must be 2 to 3 times slower than conventional basins
+c. Floc rate must be 3 to 4 times faster than conventional basins
+d. Floc must have good settling characteristics",d. Floc must have good settling characteristics
+"Which type of sedimentation basins have the flow of water admitted at an angle?
+a. Rectangular settling basins
+b. Square settling basins
+c. Center-feed settling basins
+d. Spiral-flow basins",d. Spiral-flow basins
+"At which minimum angle must self-cleaning tube settlers be placed?
+a. 50 degrees
+b. 60 degrees
+c. 65 degrees
+d. 70 degrees",a. 50 degrees
+"If crustaceans have clogged the water treatment plant’s filters, which is the most probable solution? have died, physically remove them and then repeat process on the other filters water question
+a. Shut down the filters and physically remove them
+b. Shut down one filter at a time and drain; once the crustaceans
+c. Backwash filters using a very high concentration of ozone in the
+d. Use a disinfectant that targets the specific organisms in",d. Use a disinfectant that targets the specific organisms in
+"Which organism can escape coagulation and thus pass through a granular filter?
+a. Giardia
+b. Entamoeba
+c. Cryptosporidium
+d. Naegleria",c. Cryptosporidium
+"Reverse osmosis membranes will compact faster with
+a. higher iron content.
+b. higher chlorine contact.
+c. higher pressure.
+d. higher pH.",c. higher pressure.
+"Which would immediately occur if newly installed manganese greensand was not skimmed of the fines after backwashing and stratification steps were completed?
+a. Uneven flow through the bed
+b. Cracks would develop in the bed
+c. Mudball formation
+d. Shorter filter runs",d. Shorter filter runs
+"When a filter is operated at normal flow rates, its ability to trap flocculated particles in suspension is a function of media size.
+a. effective size multiplied by uniformity coefficient.
+b. effective size multiplied by uniformity coefficient divided by
+c. media depth and media size.
+d. media depth and uniformity coefficient.",c. media depth and media size.
+"Which is the total concentration of dissolved solids in the wastewater from the regeneration of ion exchange units?
+a. 10,000 to 20,000 mg/l
+b. 20,000 to 30,000 mg/l
+c. 35,000 to 45,000 mg/l
+d. 45,000 to 60,000 mg/l","c. 35,000 to 45,000 mg/l"
+"Which is the usual range of percent sludge solids, if the sludge is allowed to accumulate and compact at the bottom of a sedimentation basin?
+a. 2-4 %
+b. 4-7 %
+c. 7-12 %
+d. 12-15 %",a. 2-4 %
+"Which should be determined first before an in-ground sedimentation tank is drained? large enough
+a. The solids content
+b. The hazardous metals content
+c. Sludge volume and volume of process area to make sure it will be
+d. Water table level",d. Water table level
+"Which sludge dewatering process is best for alum sludges (which are difficult to dewater) when the cakes are very dry, filtrate is clear, and solids capture is very high?
+a. Centrifuge
+b. Vacuum filters
+c. Filter press
+d. Belt filter press",c. Filter press
+"Which sludge dewatering process requires a precoat of diatomaceous earth and its use has declined due to other newer methods?
+a. Centrifuge
+b. Vacuum filters
+c. Filter press
+d. Belt filter press",b. Vacuum filters
+"It is impossible to produce waters with a hardness of less than ------------------------------------------------------------------------ when using the lime-soda ash process.
+a. 9 mg/l
+b. 17 mg/l
+c. 25 mg/l
+d. 50 mg/l",c. 25 mg/l
+"When added to water for softening purposes, soda ash will do which of the following? viruses, bacteria, and other multicellular organisms
+a. Disinfect the water and kill the vast majority of protozoans,
+b. Raise the pH of water to between 8.0 and 9.8 pH units
+c. Add CO2 to the water
+d. Add calcium alkalinity to the water","a. Disinfect the water and kill the vast majority of protozoans,"
+"Magnetic ion exchange resin has been developed to remove
+a. total organic carbon.
+b. chlorides.
+c. iron and magnesium.
+d. sulfates and sulfides.",a. total organic carbon.
+"Approximately how much carbon is lost during the reactivation process for granular activated carbon?
+a. 5 %
+b. 7 %
+c. 10 %
+d. 15 %",a. 5 %
+"Which is the most advantageous application point for powdered activated carbon?
+a. Raw water intake
+b. After coagulation
+c. After oxidation with chlorine
+d. In the filters",a. Raw water intake
+"To obtain the best and most lasting control of algae, which is the optimum alkalinity range of the water being treated when using copper sulfate for algae control?
+a. <50 mg/l
+b. 50-75 mg/l
+c. 76-100 mg/l
+d. >101 mg/l",a. <50 mg/l
+"Trout can be killed if the copper sulfate application exceeds what dosage level?
+a. 0.08 mg/l
+b. 0.10 mg/l
+c. 0.12 mg/l
+d. 0.14 mg/l",d. 0.14 mg/l
+"The copper sulfate dose for controlling algae in lakes is predominately based on a lake’s
+a. temperature.
+b. pH.
+c. turbidity.
+d. alkalinity.",d. alkalinity.
+"Which is the typical filtration rate for high-rate filters?
+a. 0.5 to 2.0gpm/ft²
+b. 3.0 to 12.0gpm/ft²
+c. 15.0 to 20.0gpm/ft²
+d. > 25.0gpm/ft²",b. 3.0 to 12.0gpm/ft²
+"Particle counters use the principle of light
+a. scattering.
+b. reflection.
+c. refraction.
+d. blockage.",d. blockage.
+"The pressure-reducing and shutoff valve on a vaporizer will shut off when there is a/an
+a. loss of electrical power.
+b. high water level.
+c. high water temperature.
+d. over-pressurization of the vaporization system.",a. loss of electrical power.
+"How much time does it usually take to slake lime in the detention-time lime slaker?
+a. 20 to 30 minutes
+b. 30 to 45 minutes
+c. 45 to 60 minutes
+d. 60 to 75 minutes",a. 20 to 30 minutes
+"At which temperature should the slaking process be maintained?
+a. 120Deg. F
+b. 135Deg. F
+c. 150Deg. F
+d. 160Deg. F or higher",d. 160Deg. F or higher
+"Which would be the most probable solution to control algae in the source water if the algae were clogging the filters at the water plant?
+a. Use activated carbon
+b. Decrease oxygen levels
+c. Backwash filters more frequently
+d. Control nutrients",d. Control nutrients
+"A diatom is a type of
+a. bacterium.
+b. algae.
+c. virus.
+d. protozoan.",b. algae.
+"Over which water quality indicator do operators have the greatest control?
+a. alkalinity
+b. pH
+c. temperature
+d. *turbidity",
+"Which method would be the most effective treatment for zebra mussels at the inlet? at least 15 minutes minutes
+a. Continuous dosing of chloramines at 0.5 to 1.0 mg/l
+b. Continuous dosing of chlorine at 0.5 to 1.0 mg/l
+c. Shock dosages of potassium permanganate at 1.0 to 2.0 mg/l for
+d. Shock treatment using chlorine at a dosage of 10.0 mg/l for 30",d. Shock treatment using chlorine at a dosage of 10.0 mg/l for 30
+"The bulk of synthetic organic compounds (SOCs) are
+a. solvents.
+b. PAHs, PCBs, and polynuclear aromatic hydrocarbons.
+c. pesticides.
+d. volatiles.",c. pesticides.
+"Which one of the following would be best to use for controlling algae in large water bodies?
+a. Hydrogen peroxide
+b. Granular activated carbon
+c. Powdered activated carbon
+d. Magnesium sulfate",c. Powdered activated carbon
+"For operational corrosion control, the total alkalinity concentration should be measured every
+a. 8 hours.
+b. 12 hours.
+c. 4 hours.
+d. Week.",a. 8 hours.
+"When manganese greensand filters are run in the continuous regeneration mode [continuous regeneration of the MnO₂( s) surfaces], the free chlorine residual in the filter effluent should be kept at
+a. 0.50 mg/l.
+b. 1.00 mg/l.
+c. 1.20 mg/l.
+d. 1.75 mg/l.",a. 0.50 mg/l.
+"The chemical that is used most for raising pH is:
+a. Calgon
+b. Lime
+c. Alum
+d. Calcium chloride",b. Lime
+"Proper coagulant dosage can be determined by:
+a. Performing jar test
+b. The break-point chlorination
+c. Performing total solids tests
+d. Observing the pilot filter",a. Performing jar test
+"Which will occur if dry alum and quicklime are mixed together
+a. Create tremendous heat and hydrogen gas will be released
+b. Dust may be released which may cause an explosion
+c. A coagulated gel will form a
+d. Nothing as they are neutral towards each other",
+"Which device collects the settled water as it leaves the sedimentation basins
+a. Effluent weir
+b. Effluent flow box
+c. Effluent baffle
+d. Effluent launder",d. Effluent launder
+"List three water treatment coagulant chemicals
+a. Turbidity, alkalinity, temperature
+b. Alum, ferric chloride, polymers
+c. Chlorine, potassium permanganate, ozone
+d. Water, pH, alum","b. Alum, ferric chloride, polymers"
+"Low values for which water characteristic usually cause poor coagulation flocculation and settling characteristics
+a. Water temperature
+b. Turbidity
+c. Alkalinity
+d. pH",c. Alkalinity
+"Which of the following is a required treatment technique for the control of lead?
+a. Ion exchange
+b. Corrosion control
+c. Lime softening
+d. Activated carbon",b. Corrosion control
+"Recarbonation basins are used to stabilize water after
+a. Filtration
+b. Disinfection
+c. Softening
+d. Coagulation",c. Softening
