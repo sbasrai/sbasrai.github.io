@@ -1,143 +1,662 @@
 Front,Back
-"Define NPSH.","Net Positive Suction Head (available vs. required to avoid cavitation)."
-"What is cavitation?","Formation/collapse of vapor bubbles causing noise/vibration/erosion."
-"How to reduce cavitation risk?","Increase suction head, decrease temperature, reduce pump speed, or lower suction losses."
-"What is TDH?","Total Dynamic Head: static head + friction + velocity head adjustments."
-"Affinity laws relate what?","Pump flow, head, and power to speed/impeller diameter changes."
-"What is a VFD?","Variable Frequency Drive controlling motor speed for flow/pressure."
-"Purpose of check valve on discharge?","Prevents reverse flow/backspin when pump stops."
-"What is a foot valve?","Check valve at suction inlet to keep prime."
-"What is priming?","Filling pump casing/suction to remove air before starting."
-"What is a pump curve?","Graph of head vs flow for a specific pump and speed."
-"Best efficiency point (BEP)?","Flow where pump efficiency is highest and vibration lowest."
-"Parallel pump operation effect?","Increases flow at similar head."
-"Series pump operation effect?","Increases head at similar flow."
-"What is wire-to-water efficiency?","Overall efficiency from power input to water output."
-"Role of air release valves on force mains?","Remove trapped air to reduce headloss and surges."
-"What is water hammer?","Pressure surge from rapid velocity change (e.g. valve closure)."
-"How to mitigate water hammer?","Slow valve closure, surge tanks, air chambers, VFD ramping."
-"What is soft start?","Gradual acceleration to limit inrush current and surges."
-"Pump rotation check purpose?","Ensure correct direction to avoid low flow/overheating."
-"What is seal water?","Clean water to cool/lubricate mechanical seals or packing."
-"What is pump packing?","Rings compressed around shaft sleeve to limit leakage."
-"Centrifugal vs positive displacement?","Centrifugal adds velocity/pressure; PD moves fixed volume per cycle."
-"What is a wet well?","Sump where influent collects for pumping (lift station)."
-"Purpose of level sensors?","Start/stop pumps automatically and prevent overflow/dry run."
-"What is NPSHa vs NPSHr?","Available at site vs required by pump; NPSHa must exceed NPSHr."
-"What increases friction head?","Higher flow, smaller/rougher pipes, more fittings."
-"What is shutoff head?","Maximum head at zero flow on pump curve."
-"What is a pressure relief valve?","Protects system from excessive pressure surges."
-"What is a suction strainer?","Screen on suction line to keep debris from entering pump."
-"Why balance rotating assemblies?","Reduce vibration and bearing/seal wear."
-"What is the purpose of pumps in a water system?","To move water from sources through treatment and into distribution at required pressures and flows."
-"What is static head?","The vertical distance water must be lifted, independent of flow rate."
-"What is friction head?","The pressure lost due to friction as water flows through pipes, fittings, and valves."
-"What is total dynamic head (TDH)?","The sum of static head, friction head, and any pressure head requirements."
-"What is pump efficiency?","The ratio of water horsepower output to brake horsepower input, expressed as a percentage."
-"What is a centrifugal pump?","A pump that imparts velocity to water using a rotating impeller, converting velocity to pressure."
-"What is a vertical turbine pump used for?","To lift groundwater from wells or open basins, often with column shafts and line-shaft bearings."
-"What is a submersible pump?","A pump with motor and impellers located underwater, common in wells."
-"What is a positive displacement pump?","A pump that moves a fixed volume of water per cycle, such as diaphragm or piston pumps."
-"What is a peristaltic pump used for?","A positive displacement pump commonly used for chemical feed applications."
-"What is a pump curve?","A graph showing pump head versus flow rate at a constant speed, provided by the manufacturer."
-"What is the best efficiency point (BEP)?","The point on a pump curve where efficiency is highest and vibration is lowest."
-"What happens if a pump operates far from BEP?","It may experience cavitation, excessive vibration, heat, or premature wear."
-"What is cavitation?","The formation and collapse of vapor bubbles in a pump due to low pressure, causing noise and damage."
-"How can cavitation be reduced?","By raising suction head, lowering pump speed, or using larger suction piping."
-"What is NPSH?","Net Positive Suction Head, the pressure available to keep water from vaporizing at the pump suction."
-"What is NPSHr?","Net Positive Suction Head required by the pump to avoid cavitation."
-"What is NPSHa?","Net Positive Suction Head available from the system at pump suction conditions."
-"What is priming a pump?","Filling the pump and suction line with water to remove air before starting a centrifugal pump."
-"What is a check valve used for in pumping?","To prevent backflow when the pump is off."
-"What is a foot valve?","A check valve at the bottom of a suction line to maintain prime and prevent backflow."
-"What is a pump station surge tank?","A tank used to absorb pressure surges and protect pipes from water hammer."
-"What is water hammer?","A pressure surge caused by sudden changes in flow velocity, such as pump starts or stops."
-"How can water hammer be minimized?","By using slow-closing valves, surge tanks, or variable speed drives."
-"What is a variable frequency drive (VFD)?","A device that controls motor speed and pump flow by adjusting motor frequency."
-"What are the benefits of VFDs?","They improve energy efficiency, reduce water hammer, and provide flexible flow control."
-"What is pump head measured in?","Feet of water or meters, representing pressure converted into equivalent water column height."
-"What is brake horsepower (BHP)?","The actual horsepower delivered to a pump shaft by the motor."
-"What is water horsepower (WHP)?","The theoretical power required to move water, based on flow and head."
-"What is motor efficiency?","The ratio of output shaft power to electrical power input."
-"What is pump station redundancy?","Having standby pumps to ensure service reliability during maintenance or failures."
-"What is a jockey pump?","A small pump used to maintain pressure in a system without starting main pumps."
-"What is parallel pump operation?","Running multiple pumps together to increase flow while maintaining similar head."
-"What is series pump operation?","Running pumps in series to increase head while maintaining similar flow."
-"What is a pressure relief valve in pumping?","A valve that opens to protect pumps and piping from excessive pressure."
-"What is a wet well?","A basin where influent water collects before being pumped."
-"What is a dry well?","A separate chamber housing pumps and motors, kept dry for maintenance access."
-"What is SCADA in pump stations?","Supervisory Control and Data Acquisition system used for remote monitoring and control of pumps."
-"What is pump run time tracking?","Recording operating hours to schedule maintenance and assess wear."
-"Why lubricate pump bearings?","To reduce friction, prevent overheating, and extend service life."
-"What is alignment in pumps?","Proper positioning of pump and motor shafts to reduce vibration and wear."
-"What is a mechanical seal?","A device preventing leakage along the pump shaft, replacing packing in many pumps."
-"What is packing in a pump?","Rings of material compressed around the shaft to control leakage in older pump designs."
-"What is pump station head loss?","The energy lost to friction, fittings, and minor losses within a pumping station."
-"Why is pump curve testing done?","To confirm actual pump performance matches manufacturer specifications."
-"What is pump shutoff head?","The maximum head a pump develops at zero flow."
-"What is wire-to-water efficiency?","Overall efficiency from electrical input to hydraulic output, including motor and pump losses."
-"What is condition monitoring in pumps?","Tracking vibration, temperature, and performance to predict failures."
-"Why rotate standby pumps periodically?","To balance wear, confirm operability, and extend equipment life."
-"What is pump station safety concern?","Confined space hazards, electrical safety, rotating equipment, and chemical feed risks."
-“What are pumps used for?”,”To add energy to liquids to produce flow or increase pressure”
-“What is pressure defined as?”,”force per unit area”
-“How do all pumps move fluid (water, oil, molten metal, sludge) from one place to another?”,”Some combination of Pushing, Pulling, Throwing, Squeezing”
-“What do all pumps have?”,”A power end (pistons on reciprocating pumps; motors on centrifugal pumps), Fluid end or the pumping end”
-“Do pumps develop energy on their own?”,”No”
-“What are the main types of pumps?”,”Kinetic, Positive displacement, Educators and ejectors”
-“How does centrifugal pump work?”,”Uses a spinning rotor (impeller or propeller) to increase kinetic energy and pressure of the pumped fluid.”
-“Why is it not a good idea to operate a centrifugal pump for long periods of time with the discharge closed?”,”The heat generated due to a closed discharge valve can cause the pump to explode.”
-“What is another name for a centrifugal pump?”,”A Volute pump”
-“What is the volute and what is its purpose?”,”The volute is the pump casing, the impeller discharges into a volute, which is a gradually widening spiral channel in the pump casing.”
-The volute converts the liquid velocity created by the impeller to pressure”
-“What is an impeller?”,”impellers spin at a high rate of speed and must be carefully machined and balance to avoid vibration”
-“What are some types of impellers?”,”Closed impellers: have side walls or shrouds on both sides of the vanes. A semiclosed impeller: has a wall on one side of the vanes; the other side is open An open impeller: has no side walls, the vanes are attached directly to the hub. Hub is a solid center area that has a hole through it. The pump shaft extends through the hub.”
-“What is the eye of an impeller?”,”The eye is the area the liquid enters into the impeller.”
-“Pump capacity is expressed by what?”,”Pump capacity is expressed as volumetric flow rate \& discharge pressure. Note: remember flow rate and discharge pressure.”
-“The capacity of a centrifugal pump can be increased by doing one of two things. What are they?”,”1. Increase the speed of the pump 2. Increase the size of the impeller”
-“What does positive displacement mean?”,”For every revolution or stroke a definite volume is displaced.”
-“How does a vane pump work?”,”The vanes maintain pressure against the pump housing”
-“How does a rotary screw pump work?”,”As the screw rotates fluid moves along the axis of the screw”
-“How do gear pumps work?”,”Use the meshing of gears to move fluid”
-“How do reciprocating piston pumps work?”,”Piston reciprocates back and forth inside a cylinder. The liquid piston is driven by power piston or by a rotating crank shaft. The liquid piston moves the fluid. The power piston is driven by steam or compressed air. A crank shaft would be driven by an electric motor or steam turbine”
-“What is a diaphragm pump?”,”Uses reciprocating action to flex a diaphragm. This action either fills or empties the chambers in the pump. Fluid is directed by use of check valves.”
-“What is pump capacity?”,”The capacity of a pump is the amount of liquid the pump can handle in a given period of time. It is usually expressed in GPM delivered at a specific pressure.”
-“What is head?”,”The vertical distance between the two liquid levels in a pumping system.”
-“What is total pump head?”,”The sum of the suction lift and the discharge head”
-“What is static discharge head?”,”The vertical distance from the centerline of the pump to the liquid level on the discharge”
-“What is friction head?”,”In addition to the head pressures, there is always a friction loss associated with the system.”
-“What is velocity head?”,”The head pressure required to impart velocity to a fluid.”
-“What is Net Positive Suction Head (NPSH)?”,”It is the head necessary needed to overcome the friction and flow losses in a pump's suction. The minimum suction head will be supplied by the pump manufacturer. If a pump is operated below the NPSH, cavitation can occur.”
-“What is cavitation?”,”the formation of bubbles within the pumped liquid that collapse and damage the propeller or impeller.”
-“The packing around the shaft of a centrifugal pump should be”,”Tighten just enough to allow an occasional drop of liquid to escape”
-“Static head is defined as the”,”Pressure due to depth or elevation of the water”
-“1 pound per square inch of pressure raise the water how many feet”,”2.31 feet”
-“What is used to detect chlorine leaks”,”10\% solution of ammonia hydroxide”
-“The pressure gauge reading at the base of a tank filled to a depth of one foot, is”,”0.433 feet”
-“Pressure is commonly measured in”,”Pounds per square inch”
-“Mechanical seals are being installed in pumps because”,”Packing requires an undesirable leakage that the seals eliminate.”
-“A major cause of pump and motor shaft coupling wear is a”,”Misalignment between pumps and motor flanges.”
-“Vertical turbine pumps that are used in wells may be oil lubricated or water lubricated. Operators should use extreme care not to start any water lubricated pump before making sure that the”,”Bearings are wet.”
-“Centrifugal pump noises will most likely be due to”,”Cavitation.”
-“What type of pump works on the basis of inertia or mass moving in a circular motion?”,”Centrifugal.”
-“The total dynamic head against which a pump must operate”,”Is the sum of the static head and the head due to friction loss.”
-“A centrifugal type pump should never be run empty except momentarily because”,”The parts lubricated by water would be damaged.”
-“When a centrifugal pump with new packing is started and the packing seems to leak air, the proper procedure is to”,”Stop the motor and repack the stuffing box.”
-“Static had is defined as the”,”Pressure due to depth or elevation of the water.”
-“What are pumps used for?”,”To add energy to liquids to produce flow or increase pressure”
-“What is pressure defined as?”,”force per unit area”
-“What are the functions of pumps”,”Circulate liquids (cooling systems and heating systems)”
-“What is a diaphragm pump?”,”Uses reciprocating action to flex a diaphragm. This action either fills or empties the chambers in the pump. Fluid is directed by use of check valves.”
-“What is pump capacity?”,”The capacity of a pump is the amount of liquid the pump can handle in a given period of time. It is usually expressed in GPM delivered at a specific pressure.”
-“What is head?”,”The vertical distance between the two liquid levels in a pumping system.”
-“What is total pump head?”,”The sum of the suction lift and the discharge head”
-“What is static discharge head?”,”The vertical distance from the centerline of the pump to the liquid level on the discharge”
-“What is friction head?”,”In addition to the head pressures, there is always a friction loss associated with the system.”
-“What is velocity head?”,”The head pressure required to impart velocity to a fluid.”
-“What is Net Positive Suction Head (NPSH)?”,”It is the head necessary needed to overcome the friction and flow losses in a pump's suction. The minimum suction head will be supplied by the pump manufacturer. "What can occur if a pump is operated below the NPSH?","Cavitation.”
-“What is cavitation?”,”the formation of bubbles within the pumped liquid that collapse and damage the propeller or impeller.”
-“Cavitation is a problem with pumps. What can be done to prevent it from occurring?”,”Reduce the suction lift.”
-“Static suction head + friction suction head + friction discharge head makes up the”,”The total dynamic head of a pump.”
-“A leak from a packing gland should be approximately”,”One drop per second”
-
-
+"Name the valve sometimes found on the suction side of a centrifugal pump where water enters the casing:
+a. Check valve
+b. Gate valve
+c. Altitude valve
+d. Pressure relief valve
+e. Foot valve",e. Foot valve
+"After a pump is shut off but continues to run backwards, this indicates:
+a. The bearings are failing
+b. The packing needs tightening
+c. The main lock nut needs tightening
+d. The check valve is leaking
+e. A valve on the discharge side is shut",d. The check valve is leaking
+"Wear rings are installed in a pump to:
+a. Hold the shaft in position
+b. Keep the impeller in place
+c. Concentrate wear on an economically replaceable part
+d. Wear out the sleeve",c. Concentrate wear on an economically replaceable part
+"Head is measured in:
+a. Absolute pressure
+b. Gauge pressure
+c. Feet
+d. Foot-pounds",c. Feet
+"To ease installation of impeller wear rings, they can be:
+a. Lubricated with light oil
+b. Greased with lithium
+c. Heated
+d. Cooled",c. Heated
+"Packing is designed to:
+a. Add lubricant to the shaft
+b. Expand and deteriorate with normal use
+c. Protect the shaft
+d. Wear and deteriorate with normal use",d. Wear and deteriorate with normal use
+"Bearings on a line-shaft turbine can be lubricated with:
+a. Oil or water
+b. Grease or oil
+c. Lithium or grease
+d. Graphite or grease",a. Oil or water
+"Packing replacement is usually performed when:
+a. Water leakage sprays from the housing
+b. No further tightening will control leakage at the packing gland
+c. Gland bolts are more than 2.5 inches above the nut
+d. Packing has completely disintegrated",b. No further tightening will control leakage at the packing gland
+"Which is at the top of a stuffing box?
+a. Packing gland
+b. Lantern ring
+c. Mechanical seal
+d. Seal cage",a. Packing gland
+"Which assembly holds the lantern ring and packing?
+a. Shaft assembly
+b. Casing ring assembly
+c. Packing gland casing
+d. Stuffing box",d. Stuffing box
+"Which prevents the impeller from turning on the shaft?
+a. Lock nut on threaded shaft
+b. Key
+c. Steel pin
+d. Caliper pin",b. Key
+"Which device serves the same function as packing?
+a. Inline suction gland
+b. Packing gland
+c. Mechanical seal
+d. Lantern seal",c. Mechanical seal
+"For water-lubricated vertical turbine pumps, do not start before ensuring:
+a. Discharge valve is open
+b. Bearings are dry
+c. Suction valve is closed
+d. Bearings are wet",d. Bearings are wet
+"The head against which a pump must operate:
+a. Equals static head plus friction head
+b. Must be above shut-off head
+c. Is the static head
+d. Is the friction head",a. Equals static head plus friction head
+"Condition when the source is below the pump centerline:
+a. Pressure head
+b. Velocity head
+c. Suction lift
+d. Total discharge head",c. Suction lift
+"Most common use for a positive-displacement pump today:
+a. Raw water intake
+b. System booster
+c. Chemical feed
+d. Filter feed",c. Chemical feed
+"Pumping with impeller eye above water is called:
+a. Dry well
+b. Suction head
+c. Wet well
+d. Suction lift",d. Suction lift
+"The force that moves water in an end-suction centrifugal pump is:
+a. Pressure
+b. Centrifugal
+c. Velocity
+d. Kinetic",b. Centrifugal
+"__ is the loss of energy due to friction.
+a. Velocity loss
+b. Headloss
+c. Elevation loss
+d. Pump loss",b. Headloss
+"As water travels around the volute, the energy shifts from:
+a. High velocity head to low PSI
+b. Low velocity head to high PSI
+c. Low velocity head to low PSI
+d. High velocity head to high PSI",b. Low velocity head to high PSI
+"Part of an end-suction pump that collects flow from the impeller:
+a. Shaft
+b. Packing
+c. Suction head
+d. Volute",d. Volute
+"Head as energy by virtue of position/state is:
+a. Velocity
+b. Potential
+c. Kinetic
+d. Pressure",b. Potential
+"Impeller with no shrouds, used for large solids:
+a. Semi-open
+b. Open
+c. Closed
+d. Very-closed",b. Open
+"Pump station design with impeller eye submerged:
+a. Dry well
+b. Suction head
+c. Wet well
+d. Suction lift",c. Wet well
+"The discharge valve on a pump may be closed briefly (e.g., startup) for which pump type?
+a. Piston
+b. Progressive cavity
+c. Diaphragm
+d. Dynamic (centrifugal)",d. Dynamic (centrifugal)
+"Velocity is measured in:
+a. Inches per second
+b. PSI
+c. Feet per second
+d. Yards per second",c. Feet per second
+"Impeller with shrouds on both sides for clean liquids:
+a. Semi-open
+b. Open
+c. Closed
+d. Very-closed",c. Closed
+"To change the discharge of a positive-displacement pump, change the:
+a. Speed
+b. Discharge valve
+c. Suction valve
+d. Rotation",a. Speed
+"Which component prevents leakage from discharge to suction?
+a. Lantern ring
+b. Volute
+c. Wear ring
+d. Shaft sleeve",c. Wear ring
+"Mechanical seals are installed because:
+a. Packing requires leakage that seals eliminate
+b. Seals prevent cross connections
+c. Seals allow more misalignment than packing
+d. Packing is unavailable",a. Packing requires leakage that seals eliminate
+"Major cause of pump–motor coupling wear:
+a. Discharge pressure too high
+b. Low suction pressure
+c. Misalignment
+d. Worn seal",c. Misalignment
+"Discharge of a piston-type pump:
+a. Constant as rpm changes
+b. Constant at constant speed (fixed volume per stroke)
+c. Varies inversely with head
+d. Varies with TDH",b. Constant at constant speed (fixed volume per stroke)
+"Electrical current is measured in:
+a. Amperes
+b. Ohms
+c. Volts
+d. Watts",a. Amperes
+"A “pinging/rocks” sound in a pump is most likely:
+a. Descaling
+b. Cavitation
+c. Corrosion
+d. Hardness",b. Cavitation
+"Bearings excessively hot are most likely due to:
+a. Over-lubrication
+b. Speed too slow
+c. Worn impeller
+d. Worn packing",a. Over-lubrication
+"Leakage past packing is required because it acts as a:
+a. Adhesive
+b. Coolant
+c. Corrosion inhibitor
+d. Scale inhibitor",b. Coolant
+"Sudden rise in discharge pressure with drop in flow most likely due to:
+a. Discharge valve closed
+b. Suction valve closed
+c. Amperage decreased
+d. Voltage increased",a. Discharge valve closed
+"Difference between free-water surfaces (pump off) is:
+a. Suction lift
+b. Total dynamic head
+c. Discharge head
+d. Friction loss
+e. Total static head",e. Total static head
+"Static suction head + suction friction + static discharge head + discharge friction equals:
+a. Pump curve
+b. Operating pressure
+c. Efficiency
+d. Total dynamic head
+e. Velocity head",d. Total dynamic head
+"Pumps are primed to:
+a. Replace air inside the pump with water
+b. Seat the valves
+c. Wet the packing
+d. Provide test water
+e. Overcome positive suction head",a. Replace air inside the pump with water
+"Backspin after well shutdown indicates:
+a. High water table
+b. Low water table
+c. Confined aquifer
+d. Faulty check valve
+e. Leak in sanitary seal",d. Faulty check valve
+"A water seal on a pump also:
+a. Cools bearings
+b. Keeps grit out of the packing box
+c. Keeps pump primed
+d. Serves as reserve supply
+e. Prevents cavitation",b. Keeps grit out of the packing box
+"Enclosed, open, and semi-closed refer to:
+a. Impellers
+b. Lantern rings
+c. Sleeves
+d. Stuffing boxes",a. Impellers
+"Device that converts electrical to mechanical energy:
+a. Motor
+b. Generator
+c. Transformer
+d. Battery
+e. Pump",a. Motor
+"If a pump sounds like pumping rocks, the cause is:
+a. Cavitation
+b. Corrosion
+c. Overtight packing
+d. Misalignment
+e. Seal wear",a. Cavitation
+"The purpose of packing in a centrifugal pump is (among options given):
+a. None of the above",a. None of the above
+"Which of the following is a positive-displacement pump?
+a. Air lift
+b. Centrifugal
+c. Reciprocating
+d. Turbine
+e. All of the above",c. Reciprocating
+"Practical maximum suction lift for a centrifugal pump in good condition:
+a. 0 ft
+b. 2.31 ft
+c. 14.7 ft
+d. 20–25 ft",d. 20–25 ft
+"The linkage between pump and motor is the:
+a. Coupling
+b. Impeller
+c. Bearings
+d. Volute
+e. Stator",a. Coupling
+"Electrical equivalent to friction in water lines:
+a. Voltage
+b. Resistance
+c. Amperage
+d. Capacitance
+e. Inductance",b. Resistance
+"Main water-containing body of a centrifugal pump:
+a. Shaft
+b. Impeller
+c. Bearings
+d. Volute
+e. Stator",d. Volute
+"Pump type with very high flow at low head:
+a. Radial flow
+b. Axial flow
+c. Vertical turbine
+d. Piston
+e. Mixed flow",b. Axial flow
+"Alternating current is produced by a:
+a. Single battery
+b. Batteries in series
+c. Batteries in parallel
+d. Solenoid
+e. Generator",e. Generator
+"Electrical transformers:
+a. Step up/down current
+b. Step up/down voltage
+c. Increase power output
+d. Decrease power output
+e. Reduce resistance",b. Step up/down voltage
+"An open electrical circuit has:
+a. Low resistance
+b. High power
+c. Low capacitance
+d. High conductivity
+e. Zero amperage",e. Zero amperage
+"Adding stages (bowls) to a deep-well turbine pump will:
+a. Increase discharge capacity
+b. Decrease discharge capacity
+c. Increase discharge pressure
+d. Decrease discharge pressure
+e. None of the above",c. Increase discharge pressure
+"When installing packing, joints should be:
+a. In line
+b. Pre-heated
+c. Staggered 90^(∘)
+d. Soaked overnight
+e. Re-used",c. Staggered 90^(∘)
+"U.S. standard line frequency:
+a. 50 Hz
+b. 60 Hz
+c. 110 Hz
+d. 120 Hz
+e. 240/480 Hz",b. 60 Hz
+"Compared with packing, mechanical seals:
+a. Require no adjustment
+b. Do not leak
+c. Are generally more expensive
+d. Are harder to replace
+e. All of the above",e. All of the above
+"Reservoir is 200 ft above main; standpipe shows 185 ft at same elevation. Therefore:
+a. No flow
+b. Flow into reservoir
+c. Flow out of reservoir
+d. Nearby pump station
+e. Indeterminate",c. Flow out of reservoir
+"Motors draw more power at starting because:
+a. Check valves must open
+b. Water must be accelerated
+c. Pump/motor must start turning
+d. All of the above",d. All of the above
+"Which does not affect friction loss in a given length of pipe?
+a. Water hardness
+b. Number of fittings
+c. Pipe interior roughness
+d. Flow velocity",a. Water hardness
+"The inlet to a pump is the:
+a. Suction
+b. Volute
+c. Impeller
+d. Effluent",a. Suction
+"The rotating element in a centrifugal pump is the:
+a. Fan
+b. Impeller
+c. Rotor
+d. Volute",b. Impeller
+"Positive-displacement pumps should be operated with:
+a. Both valves closed
+b. Suction and discharge valves open
+c. Suction closed, discharge open
+d. Suction open, discharge closed",b. Suction and discharge valves open
+"Check alignment between two shafts using a:
+a. Caliper
+b. Micrometer
+c. Straightedge
+d. Feeler gauge",c. Straightedge
+"Most commonly used pump for high-capacity wells:
+a. Air lift
+b. Centrifugal
+c. Positive displacement
+d. Plunger
+e. None of the above",b. Centrifugal
+"A vertical turbine is a(n):
+a. Centrifugal pump
+b. Parshall flume
+c. Positive displacement pump
+d. Reciprocating pump
+e. All of the above",a. Centrifugal pump
+"Packing ring joints should be:
+a. Placed in line
+b. Next to motor
+c. Next to pump
+d. Staggered",d. Staggered
+"If packing has slight leakage during operation, you should:
+a. Shut down immediately
+b. Tighten packing gland
+c. Lubricate gland
+d. Decrease speed and head
+e. Do nothing (slight leakage is normal)",e. Do nothing (slight leakage is normal)
+"If bearings are still hot after lubrication checks, next step:
+a. Replace bearings
+b. Operate only when needed
+c. Clean the pump
+d. Recheck TDH
+e. Inspect alignment of pump and motor",e. Inspect alignment of pump and motor
+"If a wastewater pump is shut down long-term, proper step is to lock out the disconnect and shut valves both sides.
+a. True
+b. False",b. False
+"Centrifugal pump parts include:
+a. Diaphragm
+b. Impeller
+c. Piston
+d. Rotor",b. Impeller
+"Where does wear most frequently occur on a plunger pump?
+a. Cylinder
+b. Rotor
+c. Stators
+d. Volute",a. Cylinder
+"Easiest way to tell progressive-cavity wear (capacity loss):
+a. Time a 20-L fill from a tap
+b. Measure discharge pressure with valves open while pumping
+c. Disassemble and measure parts
+d. Deadhead and measure pressure",b. Measure discharge pressure with valves open while pumping
+"A centrifugal pump vibrates and is noisy—most probable cause:
+a. Impeller too small
+b. Foot valve too small
+c. Dirt/grit in seal water
+d. Air in the pump",d. Air in the pump
+"With pump running and reduced station discharge; impeller clear; level sensors OK — most likely cause:
+a. Improper packing
+b. Misaligned belt drives
+c. Pump air-bound
+d. None of the above",c. Pump air-bound
+"Excessive leakage around plunger-pump shafts/plungers indicates:
+a. Pumping against too great a head
+b. Excessive wear of shaft/plunger
+c. Eccentric needs replacement
+d. Ball checks need replacement",b. Excessive wear of shaft/plunger
+"With two identical pumps, best control strategy is:
+a. One does most work; other occasional
+b. Alternate operation
+c. Both start together
+d. None of the above",b. Alternate operation
+"A positive-displacement sludge pump should never be placed into operation:
+a. Without being primed
+b. With the discharge valve closed
+c. With the discharge valve opened
+d. None of the above",b. With the discharge valve closed
+"Before repairing a pump’s electrical circuit, you should: lock)
+a. Lockout/tagout the breaker (disconnect, tag “Do Not Activate,”
+b. Notify supervisor
+c. Tell operators not to activate
+d. Turn pump off","a. Lockout/tagout the breaker (disconnect, tag “Do Not Activate,”"
+"Pump maintenance includes:
+a. Check bearing temperature
+b. Check packing gland
+c. Alternate identical pumps to equalize wear
+d. All of the above",d. All of the above
+"Internal leakage in a centrifugal pump is prevented by:
+a. Impellers
+b. Sleeves
+c. Volutes
+d. Wear rings",d. Wear rings
+"With rope packing, a slow drip at the gland indicates:
+a. Tighten gland
+b. Loosen gland
+c. Proper adjustment
+d. Replace packing",c. Proper adjustment
+"Maximum elevation (practical suction lift) above source should not exceed:
+a. 2.2 ft
+b. 22 ft
+c. 200 ft
+d. 224 ft",b. 22 ft
+"Vertical distance between free water surfaces at suction and discharge is:
+a. Discharge head
+b. Dynamic head
+c. Velocity head
+d. Static head",d. Static head
+"In electrical circuits, a device used to reduce voltage is a:
+a. Ammeter
+b. Transducer
+c. Transformer
+d. Voltmeter",c. Transformer
+"If back-pressure drops too low and the pump runs long, then:
+a. Efficiency drops and the pump heats up
+b. No water will flow
+c. Lubricants disperse better
+d. Water hammer occurs upstream",a. Efficiency drops and the pump heats up
+"Connect a motor to a pump using a:
+a. Sleeve clamp
+b. Coupling
+c. Mechanical seals
+d. Baling wire and tape",b. Coupling
+"Good application for a peristaltic pump:
+a. Booster pump
+b. Well pump
+c. Chemical feed pump
+d. Air compressor",c. Chemical feed pump
+"Component in a diaphragm pump with most maintenance issues:
+a. Shaft
+b. Check valves
+c. Diaphragm
+d. Pump head",c. Diaphragm
+"The shaft’s main function is to transmit:
+a. Centrifugal force
+b. Kinetic energy
+c. Thrust
+d. Torque",d. Torque
+"Simplest AC motor; rotor is bars in slots (“cage”):
+a. Squirrel-cage
+b. Wound-rotor
+c. Capacitor-start
+d. Synchronous",a. Squirrel-cage
+"Valve used to maintain pump prime:
+a. Suction
+b. Foot
+c. Vacuum header
+d. Butterfly",b. Foot
+"Which characteristic is shown on a pump curve:
+a. Wire-to-water horsepower
+b. Motor horsepower
+c. Friction loss
+d. Efficiency",d. Efficiency
+"Motor type for quick acceleration with infrequent starting:
+a. Repulsion–induction
+b. Capacitor-start
+c. Wound-rotor
+d. Synchronous",b. Capacitor-start
+"Pump used to increase pressure in large distribution systems:
+a. Positive displacement
+b. Progressive cavity
+c. Vertical turbine (centrifugal booster)
+d. Airlift",c. Vertical turbine (centrifugal booster)
+"Pump type most used by public water systems:
+a. Piston
+b. Velocity (centrifugal)
+c. Positive-displacement
+d. Archimedes",b. Velocity (centrifugal)
+"Maximum practical suction lift (general):
+a. 5–15 ft
+b. 15–25 ft
+c. 30–40 ft
+d. 45–55 ft",b. 15–25 ft
+"Pump with rotating impellers in a case:
+a. Axial-flow
+b. Centrifugal
+c. Jet
+d. Mixed-flow",b. Centrifugal
+"Best valve to dampen water hammer:
+a. Pressure-relief
+b. Needle
+c. Pressure-reducing
+d. Pinch",a. Pressure-relief
+"Motor with no rotor windings and typically low starting torque:
+a. Squirrel-cage
+b. Split-phase
+c. Repulsion–induction
+d. Capacitor-start",a. Squirrel-cage
+"Pump type with very high efficiency (90–95%) at high pressure; close clearances; higher maintenance:
+a. Jet
+b. Vertical turbine
+c. Mixed flow
+d. Centrifugal (multistage)",d. Centrifugal (multistage)
+"Motor whose rotor resistance can be controlled while running:
+a. Synchronous
+b. Squirrel-cage
+c. Compound
+d. Wound-rotor",d. Wound-rotor
+"Centrifugal, positive displacement, and turbine are:
+a. Types of valves
+b. Types of pipe
+c. Water plant chemicals
+d. Types of pumps",d. Types of pumps
+"Pump seals can be classified as:
+a. Balanced or unbalanced
+b. Packing ring or mechanical
+c. Flat/smooth vs. round-faced
+d. Factory or custom",b. Packing ring or mechanical
+"Discharge rate of a piston-type pump is best described as:
+a. Constant as speed changes
+b. Precise volume per stroke
+c. Varies inversely with head
+d. Varies with TDH",b. Precise volume per stroke
+"Main purpose of priming:
+a. Ensure free operation
+b. Compress air in cylinder
+c. Replace air with water in pump
+d. Wet packing",c. Replace air with water in pump
+"Mechanical seals are more appropriate when:
+a. High suction head / need to minimize leakage
+b. Low rpm
+c. High rpm
+d. High discharge head",a. High suction head / need to minimize leakage
+"Suction-pipe component that holds the prime:
+a. Casing
+b. Foot valve
+c. Impeller
+d. Lantern ring",b. Foot valve
+"Combined pump–motor efficiency is:
+a. Total system efficiency
+b. Well efficiency
+c. Wire-to-water efficiency
+d. Motor-to-pipe efficiency",c. Wire-to-water efficiency
+"Primary indicator of bearing failure:
+a. Leakage from packing
+b. Reduced discharge
+c. Noise from pump
+d. Odor at discharge",c. Noise from pump
+"Feet of head equivalent to 100 psi discharge pressure:
+a. 12.0 ft
+b. 14.5 ft
+c. 43.3 ft
+d. 231 ft",d. 231 ft
+"Mechanical seals need replacement when leakage occurs:
+a. From the pump body
+b. Around the shaft
+c. At the volute
+d. At the slinger ring",b. Around the shaft
+"Centrifugal pump part that restricts recirculation between discharge and suction:
+a. Wear rings
+b. Shaft rings
+c. Packing rings
+d. Lantern rings",a. Wear rings
+"Packing should be replaced when tightening no longer controls leakage from the:
+a. Mechanical seal
+b. Packing gland
+c. Stuffing box
+d. Shaft sleeve",b. Packing gland
+"At a station with a centrifugal pump, a sudden rise in discharge pressure with drop in flow can also be caused by:
+a. A pump control/discharge valve malfunction (closing)
+b. Suction valve closing
+c. Decreased amperage
+d. Increased voltage",a. A pump control/discharge valve malfunction (closing)
+"One horsepower equals (ft·lb)/min:
+a. 746
+b. 3300
+c. 7460
+d. 33000",d. 33000
+"Pressure reading corresponding to 100 ft of head:
+a. 2.3 psi
+b. 4.3 psi
+c. 23.1 psi
+d. 43.3 psi",d. 43.3 psi
+"Maximum theoretical suction lift at sea level:
+a. 10 ft
+b. 34 ft
+c. 52 ft
+d. 85 ft",b. 34 ft
+"If only two rings of packing are used, the joints should be:
+a. Aligned
+b. Staggered
+c. Large
+d. Lead",b. Staggered
+"If only two rings of packing are used, joint staggering should be:
+a. 15–45°
+b. 45–90°
+c. 90–180°
+d. 180–225°",c. 90–180°
+"Primary function of couplings:
+a. Compensate for alignment changes
+b. Control motor temperature
+c. Reduce shaft wear
+d. Lubricate motor",a. Compensate for alignment changes
+"Unless water-cooled, mechanical seal temperature should never exceed:
+a. 95°F (35°C)
+b. 120°F (49°C)
+c. 140°F (60°C)
+d. 160°F (71°C)",d. 160°F (71°C)
+"After initial service, grease-lubricated bearings should be re-greased:
+a. Weekly
+b. Monthly
+c. Every 3–6 months
+d. Annually",c. Every 3–6 months
+"Electrical demand is:
+a. The same as horsepower
+b. Opposition to current flow
+c. Amount of power (watts) during a given interval
+d. Maximum kW over a billing demand interval",d. Maximum kW over a billing demand interval
+"Device that converts AC to DC by one-way conduction:
+a. Inverter
+b. Current transformer
+c. Rectifier
+d. Voltage regulator",c. Rectifier
+"Opposition to electrical current flow is measured in:
+a. Ohms
+b. Amps
+c. Volts
+d. Watts",a. Ohms
