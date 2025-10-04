@@ -1,0 +1,31 @@
+Front,Back
+Define CT.,Concentration × Time product used to gauge disinfection performance.
+What factors reduce chlorine effectiveness?,"Low pH helps; high pH, high demand, and low temperature reduce effectiveness."
+Free vs combined chlorine?,Free is HOCl/OCl−; combined is chloramine species.
+What is breakpoint chlorination?,Dose at which chlorine demand is satisfied and free chlorine residual increases.
+Typical system minimum residual?,≈0.2 mg/L free chlorine at extremities (jurisdiction dependent).
+Why maintain residual in distribution?,Provide ongoing protection and indicate system integrity.
+Chlorine gas safety concern?,Toxic inhalation hazard; requires gas detection and scrubbing.
+Sodium hypochlorite storage issue?,"Decomposes over time; affected by heat, light, and metals."
+Chloramine advantage?,"More stable residual, fewer THMs (but may form nitrosamines)."
+Chloramine disadvantage?,Less potent disinfectant; potential nitrification in distribution.
+What is contact basin baffling?,Design elements to improve effective contact time (T10).
+Define T10.,Time for 10% of the water to pass through (effective contact time).
+UV advantage?,Effective against Cryptosporidium; no DBPs from dose itself.
+UV limitation?,No residual; requires power and UVT adequate.
+Ozone advantage?,Strong oxidant/disinfectant; improves taste/odor.
+Ozone limitation?,Short‑lived; may form bromate if bromide present.
+Dechlorination agent?,Sodium thiosulfate or sulfur dioxide/sulfite.
+What is chlorine demand?,Amount of chlorine consumed by reactions before residual forms.
+Chlorine contact time increases with?,"Lower flow, larger volume, better baffling."
+What is combined chlorine breakpoint behavior?,"Initial residual rises (chloramines), dips near breakpoint, rises as free chlorine."
+What is nitrification?,Biological conversion of ammonia → nitrite → nitrate in chloraminated systems.
+How to control nitrification?,"Maintain proper Cl2:NH3 ratio, minimize water age, periodic boosting/free chlorination."
+What is ORP?,Oxidation‑Reduction Potential indicating oxidizing conditions.
+Why measure free/total chlorine separately?,To differentiate free chlorine from chloramines for control.
+What is hypochlorous acid (HOCl)?,"The most effective free chlorine species, dominant at low pH."
+pH effect on HOCl/OCl−?,Lower pH favors HOCl; higher pH shifts to OCl− (less effective).
+What is a chlorine booster station?,Facility to add disinfectant to maintain residual in long systems.
+How is chlorine gas fed?,From cylinders via vacuum regulator to ejector to solution.
+What is emergency scrubber?,System to neutralize accidental chlorine gas releases.
+What is dichlorination?,"Removal of chlorine residual before discharge (e.g., using SO2, sulfite)."
