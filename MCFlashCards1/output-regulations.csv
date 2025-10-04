@@ -1,163 +1,476 @@
 Front,Back
-"What does MCL stand for?","Maximum Contaminant Level."
-"What does MCLG stand for?","Maximum Contaminant Level Goal (non‑enforceable health goal)."
-"What law authorizes national drinking water standards?","Safe Drinking Water Act (SDWA)."
-"Who sets national primary drinking water regulations?","U.S. EPA."
-"What is MRDL?","Maximum Residual Disinfectant Level."
-"What is action level (AL)?","Concentration that triggers required actions (e.g. Lead and Copper Rule)."
-"What is TT (Treatment Technique)?,"Required process in lieu of an MCL when monitoring not practical (e.g. turbidity)."
-"What is CCR?","Consumer Confidence Report—annual water quality report to customers."
-"What is a public water system (PWS)?","System providing water for human consumption to ≥15 connections or 25 people for ≥60 days/year."
-"What is the Lead and Copper Rule focus?","Corrosion control and sampling at taps for Pb/Cu."
-"What is Stage 2 DBPR about?","Locational running annual averages for THMs/HAA5 to control DBPs."
-"What is Ground Water Rule?","Requires sanitary surveys and corrective actions for groundwater systems."
-"What is a sanitary survey?","On‑site review of water source, treatment, distribution, and management."
-"What are secondary standards?,"Non‑enforceable guidelines for aesthetic qualities (odor, color, taste)."
-"What is a cross‑connection?","Physical link between potable and non‑potable systems."
-"What is backflow?","Reverse flow from a contaminant source into potable water."
-"Two types of backflow?","Backsiphonage and backpressure."
-"What device prevents backflow at service connections?","Reduced pressure principle (RP) or double check valve assembly (DCVA) as appropriate."
-"What is public notification?","Required notices to customers about violations or situations affecting health."
-"Define MRDLG.","Maximum Residual Disinfectant Level Goal (non‑enforceable)."
-"What is an M&R requirement?","Monitoring & Reporting obligations for compliance."
-"What is SWTR?","Surface Water Treatment Rule—sets turbidity and microbial removal/inactivation requirements."
-"What is IESWTR/Long Term 1 & 2?","Enhanced rules tightening turbidity and addressing Cryptosporidium."
-"Where are standards codified?","40 CFR Part 141–143 (federal)."
-"What is primacy?","Authority granted to states to implement/enforce drinking water rules."
-"What is an emergency notification plan?","Plan to inform public and coordinate during emergencies."
-"Define Boil Water Notice.","Advisory to boil tap water due to possible contamination."
-"What is public advisory Tier 1?","Immediate health risk; notify within 24 hours."
-"What is a main purpose of secondary MCLs?","Address aesthetics to maintain consumer acceptance."
-"What is cross‑connection control program?","Program to prevent backflow via surveys, testing, and enforcement."
-"What is the Safe Drinking Water Act (SDWA)?","The primary federal law ensuring safe drinking water in the U.S., authorizing the EPA to set national standards."
-"When was the Safe Drinking Water Act enacted?","In 1974, with major amendments in 1986 and 1996."
-"What is an MCL?","Maximum Contaminant Level, the highest level of a contaminant allowed in drinking water."
-"What is an MCLG?","Maximum Contaminant Level Goal, a non-enforceable health-based target level."
-"How does an MCL differ from an MCLG?","MCLs are enforceable limits, while MCLGs are non-enforceable health goals."
-"What is a treatment technique (TT)?","A required process to control a contaminant when an MCL is not feasible, such as turbidity or lead/copper rules."
-"What is the Lead and Copper Rule (LCR)?","A rule requiring utilities to monitor tap water and control corrosion to limit lead and copper exposure."
-"What are the action levels under the Lead and Copper Rule?","15 µg/L for lead and 1.3 mg/L for copper."
-"What is the Total Coliform Rule (TCR)?","A rule requiring monitoring for coliform bacteria as an indicator of microbial contamination."
-"What replaced the TCR in 2016?","The Revised Total Coliform Rule (RTCR), which emphasizes assessments and corrective actions."
-"What is the Surface Water Treatment Rule (SWTR)?","It requires filtration and disinfection of surface water or GUDI sources to protect against Giardia, viruses, and bacteria."
-"What is the Interim Enhanced Surface Water Treatment Rule (IESWTR)?","A rule strengthening turbidity standards and Cryptosporidium monitoring for larger systems."
-"What is the Long Term 2 Enhanced Surface Water Treatment Rule (LT2ESWTR)?","A rule requiring monitoring and additional treatment for Cryptosporidium in surface water systems."
-"What is the Stage 1 Disinfectants and Disinfection Byproducts Rule (DBPR)?","It regulates DBPs such as TTHMs and HAA5 to reduce health risks from disinfection."
-"What is the Stage 2 DBPR?","It requires locational running annual averages (LRAAs) for DBP compliance across the distribution system."
-"What is the Ground Water Rule (GWR)?","It requires corrective action when fecal indicators are found in groundwater systems."
-"What is the Consumer Confidence Report (CCR)?","An annual water quality report provided to customers summarizing water quality and compliance."
-"Who enforces the SDWA?","The U.S. EPA, but states may assume primacy if they adopt equivalent rules and maintain oversight."
-"What is primacy?","Authority granted to states to implement and enforce the SDWA regulations."
-"What is the Public Notification Rule?","A rule requiring utilities to notify customers of violations or health risks in their water supply."
-"What is the Unregulated Contaminant Monitoring Rule (UCMR)?","A program that requires monitoring for contaminants of concern not yet regulated."
-"What is the purpose of the UCMR?","To collect data that informs future regulatory decisions and potential new MCLs."
-"What is the variance under SDWA?","A regulatory permission to supply water not meeting an MCL due to factors like treatment limitations, with conditions."
-"What is an exemption under SDWA?","A temporary relief from meeting a requirement, usually for small systems, if no unreasonable health risk exists."
-"What is a sanitary survey?","A periodic review of a water system’s facilities, operations, and records to ensure compliance and identify risks."
-"What is the required frequency of sanitary surveys?","Every 3 years for community systems and every 5 years for non-community systems."
-"What is the Public Water System Supervision (PWSS) program?","The EPA/state program overseeing compliance with SDWA regulations."
-"What are secondary standards?","Non-enforceable guidelines for aesthetic water qualities like taste, odor, or staining (e.g., iron, manganese)."
-"What is the maximum contaminant level for arsenic?","10 µg/L."
-"What is the maximum contaminant level for nitrate?","10 mg/L as nitrogen."
-"What is the maximum contaminant level for fluoride?","4.0 mg/L (primary); 2.0 mg/L is a secondary standard for aesthetics."
-"What is the maximum contaminant level for total coliform under RTCR?","Zero; any detection requires an assessment and potential corrective action."
-"What are operator certification requirements under SDWA?","All community and non-transient non-community systems must be operated by certified personnel."
-"What is the Capacity Development program?","A program ensuring systems have the technical, managerial, and financial capacity to comply long-term."
-"What is the Source Water Assessment Program (SWAP)?","A program requiring states to evaluate source water susceptibility to contamination."
-"What is the Emergency Planning and Community Right-to-Know Act (EPCRA)?","A federal law requiring reporting of hazardous chemicals and emergency planning."
-"What is the America's Water Infrastructure Act (AWIA) of 2018?","It requires risk and resilience assessments and updated emergency response plans for community systems."
-"What is the difference between acute and chronic contaminants?","Acute contaminants cause immediate health effects (like nitrate); chronic contaminants cause effects after long-term exposure (like arsenic)."
-"What is the purpose of monitoring waivers?","To reduce monitoring frequency if water quality data demonstrate low risk of contamination."
-"What is the difference between community and non-community water systems?","Community systems serve year-round residents; non-community systems serve places like schools or workplaces."
-"What is a consecutive system?","A water system that buys finished water from another permitted system."
-"What is a cross-connection control program?","A program preventing backflow that could contaminate potable water systems."
-"What is the difference between BAT and TT?","Best Available Technology (BAT) is specified for compliance with MCLs; Treatment Technique (TT) is a required process in lieu of an MCL."
-"What is the role of the state primacy agency?","To implement, monitor, and enforce SDWA regulations within its jurisdiction."
-"What are operator continuing education requirements?","Operators must complete approved training to maintain certification renewal per state rules."
-"What is the penalty for non-compliance with SDWA?","It can include administrative orders, fines, and legal enforcement actions."
-"What is a boil water notice?","A public notification advising consumers to boil water before use due to microbial contamination risk."
-"What are the 3 tiers of public notifications?","Tier 1: Immediate health risk, Tier 2: Other violations, Tier 3: Non-health-based issues like monitoring lapses."
-"What are secondary maximum contaminant levels (SMCLs)?","Guidelines for aesthetic qualities like color, taste, and odor; not health-based or enforceable."
-"What is EPA’s Contaminant Candidate List (CCL)?","A list of unregulated contaminants that may require future regulation."
-"What is the purpose of operator certification reciprocity?","Allows certified operators to transfer credentials between states with equivalent standards."
-“Where are maximum contaminant levels for water quality indicators specified?”,”National primary drinking water regulations”
-“ Which type of violation requires an all clear notification to the public”,”Tier 1”
-“ How many positive coliform positive samples are allowed each month for water systems that collect less than 40 samples per month”,”1”
-“ If a water sample test positive for coliforms, the system must collect a set of repeat samples within”,”24 hours”
-“ A public water system has at least \rule{1.5cm}{0.5pt}service connections or serves \rule{1.5cm}{0.5pt} or more persons\rule{1.5cm}{0.5pt}or more days of each year.”,”15;25;60”
-“ Where are the samples points located for required sampling of coliform bacteria in a community water system”,”At the consumers faucet”
-“ Water being serve to the public for a population greater than 3300 must not have a disinfectant residual entering the distribution system below\rule{1.5cm}{0.5pt}for more than 4hrs”,”0.2mg/L”
-“ Which is the Action Level for copper”,”1.3mg/L”
-“ Where are the sampling point(s) located for required sampling of turbidity in a community water system”,”Point(s) where water enters the distribution system, including all filter effluents if surface treatment plant”
-“ Under the Surface Water Treatment Rule ,disinfection residuals must be collected at the same location in the distribution system as”,”coliform samples”
-“ Which is the MCL for haloacetic acids (HAA5)”,”0.060mg/L”
-“ If a water system collects at least 40 samples per month for the analyses of total coliform, which percent of total coliform positive samples are acceptable for the system to remain in compliance with the MCL for total coliform”,”No more than 5\%”
-“ Water systems are required to achieve at least\rule{1.5cm}{0.5pt}removal and /or inactivation of viruses between a point where the raw water is not subject to re contamination by surface water runoff and a point downstream before or at the first customer”,”4 LOG”
-“ Where are the sampling points located for required sampling of organics(except THM) in community water systems”,”Entry points to the Distribution System”
-“ Where are the sampling points located for required sampling of natural radionuclides in a community water system”,”Each entry point to the Distribution System”
-“ Continuous chlorine residual monitoring is required where the water enters the Distribution \item System under the Surface Water Treatment Rule when the”,”Population served is >3300 people”
-“ A community water system must post CCR on a publicly accessible Web site if it serves more than”,”100,000 people”
-“ Public water systems that cannot meet the required removal of TOC can comply if the source water TOC level is \rule{1.5cm}{0.5pt} ,calculated quarterly as a running annual average”,”<2.0mg/L”
-“ To avoid filtration, one criterion is that the fecal coliform concentration must be equal to or less than\rule{1.5cm}{0.5pt}in representative samples of the source water immediately before the first or only point of disinfectant application in the at least\rule{1.5cm}{0.5pt} of the measurements made for previous 6 months that the system served water to the public on an ongoing basis”,”20/100mL;90\%”
-“ Water systems may be allowed by their state to monitor annually if the state has determined that the system is reliable and consistently below the MCL for organic compounds. “
-\item When must the water system collect these annual samples”,”During the quarter that yielded the highest analytical results”
-“ How is the term lead free defined, when used with respect to solders and flux”,”Containing not more than 0.02\% lead”
-“ What is the MCLG for Giardia lambia”,”Zero”
-“ Which is the maximum residual disinfection level goal for chlorine”,”4mg/L”
-“ If a water system collects at least 40 samples per month for the analyses of total coliforms which percent of total coliform positive samples are acceptable for the system to remain in compliance with the mcl for total coliforms”,”No more than 5\%”
-“ If a water system collects less than 40 samples per month for the analyses of total coliform how many samples can be total coliform positive and the system still remain in compliance with the mcl for total coliform”,”1”
-“ Which is the MCL for bromate”,”0.010mg/L”
-“ Which is the best available technology for removing combined radium-226 and radium-228 from source water”,”Lime softening”
-“ Water systems are required to achieve at least\rule{1.5cm}{0.5pt}removal and /or inactivation of viruses between a point where the raw water is not subject to re-contamination by surface water runoff and a point downstream before or at the first customer”,”At least 3-Log removal”
-“ For systems using conventional treatment or direct filtration the turbidity level of representative sample of a systems filtered water must be less than or equal to \rule{1.5cm}{0.5pt} in at least\rule{1.5cm}{0.5pt}of the samples collected each month according to the Enhanced Surface Water Treatment Rule”,”0.3ntu;95\%”
-“ Which are the turbidity requirements for slow sand filtration”,”1.0ntu in 95%of the measurements collected each month”
-“ Which are the turbidity requirements for diatomaceous earth filtration”,”1.0ntu in 95\%of the measurements collected each month”
-“ Measurements for pH, turbidity, temperature, and residual disinfectant concentrations must be performed by a person approve by the”,”State”,”“
-\item If a water supplier fails to comply with any national primary drinking water regulation, including monitoring  requirements, the water supplier must report to the state the failure to comply within”,”48 hours”
-“ When is it acceptable for a water supplier not to report analytical results to the state”,”When a state laboratory performs the analyses”
-“ How long does the public water system have for completing and submitting to the primacy agency that it has fully complied with a public notification requirement”,”10 days”
-“ When must a water supplier monitor for unregulated contaminants”,”When the water supplier serves more than 10,000 people”
-“ If the water system is required to monitor unregulated contaminants, it must collect the samples in one continuous”,”12-month period”
-“ If a water system does not collect a sample for unregulated contaminant monitoring according to federal instructions for a listed contaminant, the deviation must be reported to the UCMR sampling coordinator or state within”,”7 days”
-“ How often must a public water system using surface water in whole or in part collect and analyze one sample per water plant at the entry to the distribution system for sodium concentration levels”,”Annually”
-“ The prohibition on the use of lead for any plumbing in residential or nonresidential facility connected to a public water system that monitors water for human consumption does not apply to”,”repair cast iron pipes using lead joints”
-“ Which is the sample size for lead and copper analyses”,”1,000ml”
-“ The first draw samples from taps for lead and copper analyses shall have stood motionless in the plumbing of each sampling site for at least”,”6 hours”
-“ Lead and copper samples collected by customers at their taps must be acidified within”,”14 days”
-“ Which is not an acceptable method of sampling for lead and copper analyses lead service lines”,”At the tap after the water has remain motionless for at least 4 hrs”
-“ When a large system serving more than, 100,00 people, reduce the number of sampling sites for lead and copper and”,”When the system meets the lead and copper action level for 2 consecutive six month monitoring periods”
-“ When can a water system that meets the lead and copper action level for two consecutive six months periods reduce the number of samples and reduce the frequency of sampling so that is only required to sample every 3 years”,”When 90th percentile for lead is <0.005 mg/l and for copper <0.65 mg/l”
-“ A small water system has met a certain criteria and has been granted a full waiver and thus a reduce frequency for monitoring lead and copper. How often does it now have to monitor”,”At least once every 9 years”
-“ All water systems that exceed the lead and copper action level shall monitor water quality parameters. Which sample criteria shall be followed if exceptions are not granted”,”2 samples for each water quality parameter, per entry point to the distribution system during each period”
-“ When a water system is required to monitor water quality parameters because it exceed the lead and copper action level ,which parameter must be measured every two weeks at each entry point to the distribution system”,”pH”
-“ When a water system is required to monitor water quality parameters because it exceeded the lead and copper action level and the system uses corrosion inhibitor, which parameter must be measured every two week at each entry point to the distribution system”,”Dosage rate of the chemical corrosion inhibitor”
-“ Water systems are required to monitor for water quality parameters when they exceed the lead and copper action levels. If this systems maintain the range of values for the water quality parameters that reflect optimal corrosion control treatment during each of two consecutive six months monitoring periods ,then although they must still monitor at the entry points to the distribution system, they are allowed to”,”reduce the number of site samples”
-“ If a water system that monitors for water quality parameters because it exceeded the lead and copper action levels maintains the range of values for the water quality parameters reflecting optimal corrosion control treatment during three consecutive years of monitoring the system may”,”reduce the frequency of sampling from 6 month periods to annually”
-“ Ground Water systems that have fail to meet lead and copper action levels shall take a minimum of”,”one sample at every entry point to the distribution system that is representative of each well after treatment”
-“ Surface water systems that have failed to meet the lead and copper action levels shall take a minimum of”,”one sample after any application of treatment or in the distribution at any point which is representative of each source after treatment”
-“ Water systems monitoring for lead and copper and water quality parameters must report all the results within the first \rule{1.5cm}{0.5pt} after each monitoring period”,”10 days”
-“ Any water system subject to the NPDWR subpart 1,Control of Lead and Copper, shall retain on its premises original records of all sampling data and analysis, reports, surveys, letters, evaluations, schedules, state determinations and any other information for no fewer than”,”12 years”
-“ Which test must a water utility perform to determine monitoring frequency and specific radionuclide analyses”,”Gross alpha particle activity scan”
-“ Under the stage 1 disinfectant and disinfectants by products rule jar testing may be conducted as part of the enhanced coagulation requirements to”,”Determine alternative total organic carbon removal requirements for a particular plant”
-“ The USEPA recommends water systems using surface water source to collect samples for hexavalent chromium (chromium-6) on a”,”quarterly basis”
-“ The USEPA recommends water systems using a ground water source(s)to collect samples for hexavalent chromium (chromium-6) on a”,”Semi annual basis”
-“ Which is the National Primary Drinking Water Regulations MCL for total chromium that includes hexavalent chromium(chromium-6)”,”0.1 mg/l”
-“ A water system using conventional filtration treatment does not have to use enhanced coagulation to achieve  the total organic carbon percent removal if the TTHM and the sum of HAA5 running annual average are”,”<0.040 mg/l and <0.030 mg/l for TTHM and HAA5 respectively”
-“ A water system that uses enhanced softening, but cannot achieve the required TOC removals, can still comply by using results from lowering the treated water alkalinity to less than \rule{1.5cm}{0.5pt} as CaCO3 measured monthly and calculated quarterly as running annual averages”,”<60 mg/l”
-“ A water system that detects nitrate at levels above\rule{1.5cm}{0.5pt}\rule{1.5cm}{0.5pt},but below the MCL, must include in the CCR a short informational statement about the impacts of nitrate to children”,”5.0 mg/l”
-“ How long must a water system monitor the CT 99.9\% values daily to determine the total logs of inactivation for each day of operation”,”12 months”
-“ Water systems parameters for calculating CT pH, temperature, residual  concentration, and disinfectant contact time must be determined”,”each day during peak hourly flows”
-“ A water system that calculates the logs of inactivation for Giardia lambia must also calculate the logs of inactivation for viruses if it uses which type of disinfectant”,”Chloramines”
-“ If a water system changes its disinfection sampling point, disinfection type, process or any other modification identified by the estate, it must”,”develop disinfection benchmark”
-“ Filtered water systems can avoid source water monitoring for cryptosporidium and E coli if the system provides a total of at least \rule{1.5cm}{0.5pt}\rule{1.5cm}{0.5pt}of treatment for cryptosporidium”,”5.5 log”
-“ A system must begin a second round of source water monitoring no latter than \rule{1.5cm}{0.5pt}\rule{1.5cm}{0.5pt}following initial bin classification (average source water or cryptosporidium concentration)or determination of the mean cryptosporidium level, as applicable”,”6 years”
-“ Unfiltered water with a mean cryptosporidium level greater than \rule{1.5cm}{0.5pt}must provide at least 3 log cryptosporidium inactivation”,”0.001 oocysts/l”
-“ If water supplier fails to comply with any National Primary Drinking Water Regulation including monitoring requirements the water supplier must report to the state the failure to comply within”,”48 hours”
-“ If benzene, toluene, ethyl benzene or xylene is detected in water from groundwater wells at a level exceeding 0.0005 mg/l how often must the system monitor at each sampling point where the contaminant were detected”,”Quarterly for a minimum of 2 quarters”
-“ How many annual consecutive annual samples with no detection results for an organic contaminant must a water system achieve before it may be apply to the state for a waiver”,”3”
-“ How soon must a small water system notify the state in writing after it becomes aware of lead containing and /or copper containing material in the system”,”Within 60 days”
-“ A public water system that uses surface water or ground water under the direct influence of surface water and provides filtration treatment is required by the primacy agency to report to report an acute violation of the filtered water turbidity standard if any turbidity measurements collected during the month exceeds”,”5.0 ntu”
-“ The federal Safe Drinking Water Act requires a water system to provide a plant schematics showing the origin of all flows that recycled. Which other requirement for this recycle provision must be shown on the schematics”,”The hydraulic conveyance used to transport the recycle flows”
-“Two chemical contaminants with maximum contaminant levels that are regulated in the community and noncommunity systems are nitrates and”,”Turbidity.”
-
-
+"A positive fecal coliform (E. coli) result must be reported to the primacy agency within
+a. 8 hours
+b. 12 hours
+c. 24 hours
+d. 48 hours",c. 24 hours
+"Which agency sets legal limits on contaminants in potable water?
+a. National Primary Drinking Water Regulations
+b. United States Environmental Protection Agency
+c. United States Public Health Service
+d. Occupational Safety and Health Administration",b. United States Environmental Protection Agency
+"Which may be substituted for residual disinfectant measurement when total coliforms are also sampled at the same point?
+a. Heterotrophic plate count (HPC)
+b. Fecal coliforms
+c. Giardia lamblia
+d. Combined chlorine",a. Heterotrophic plate count (HPC)
+"What does MCL stand for?
+a. Minimum contaminant level
+b. Micron contaminant level
+c. Maximum contaminant level
+d. Milligrams counted last",c. Maximum contaminant level
+"How long must sanitary surveys be retained?
+a. 3 years
+b. 5 years
+c. 7 years
+d. 10 years",d. 10 years
+"The most severe violation requiring the fastest public notification is
+a. Tier I
+b. Tier II
+c. Tier III
+d. Tier IV",a. Tier I
+"The primacy agency may grant a variance/exemption as long as
+a. Best Available Technology is used
+b. There is no threat to public health
+c. Both A and B
+d. Never permitted",c. Both A and B
+"A system serving at least 25 of the same people six months out of the year is
+a. Nontransient noncommunity
+b. Transient noncommunity
+c. Community
+d. None of the above",a. Nontransient noncommunity
+"Regulations based on aesthetic qualities are
+a. Primary Standards
+b. Secondary Standards
+c. Microbiological Standards
+d. Radiological Standards",b. Secondary Standards
+"The lowest reportable level for a water sample is the
+a. 0.5 mg/L
+b. Zero
+c. Public health goal
+d. Detection level for reporting",d. Detection level for reporting
+"Primary Standards are based on
+a. Color and taste
+b. Aesthetic quality
+c. Public health
+d. Odor",c. Public health
+"A disease-causing microorganism is a
+a. Pathogen
+b. Colilert
+c. Pathological
+d. Turbidity",a. Pathogen
+"Under the SWTR, the combined removal/inactivation for Giardia is
+a. 1.0 log
+b. 2.0 log
+c. 3.0 log
+d. 4.0 log",c. 3.0 log
+"Virus removal/inactivation equivalency under SWTR is
+a. 99.9%
+b. 99.99%
+c. 99.0%
+d. 99.999%",b. 99.99%
+"For systems taking  > 40 total coliform samples per month, the maximum positive percentage allowed is
+a. 10%
+b. 7%
+c. 5% (percentile wording)
+d. 5%",d. 5%
+"The National Primary Drinking Water Regulations apply to contaminants with adverse effects on
+a. Water color
+b. Water taste
+c. Water odor
+d. Human health",d. Human health
+"Which is considered an acute risk?
+a. Two Tier 2 violations
+b. One Tier 2 violation
+c. Two Tier 1 violations
+d. One Tier 1 violation",d. One Tier 1 violation
+"Records on turbidity analyses must be kept at least
+a. 5 years
+b. 7 years
+c. 10 years
+d. 25 years",a. 5 years
+"Records on bacteriological analyses must be kept at least
+a. 5 years
+b. 7 years
+c. 10 years
+d. 25 years",a. 5 years
+"Difference between primary and secondary standards: secondary standards address aesthetics
+a. Primary standards address substances posing health risk;
+b. Primary are carcinogens; secondary are not
+c. Primary eventually kill; secondary never affect health
+d. Secondary make some people sick; primary make everyone sick",a. Primary standards address substances posing health risk;
+"SDWA definition of a public water system is (smallest correct threshold)
+a. 10 connections or 20 people for 60+ days/yr
+b. 15 connections or 20 people for 90+ days/yr
+c. 10 connections or 25 people for 30+ days/yr
+d. 15 connections or 25 people for 60+ days/yr",d. 15 connections or 25 people for 60+ days/yr
+"For monitoring/reporting violations, public notice must be given within
+a. 1 week by hand delivery
+b. 45 days by posting at town hall
+c. 1 year (e.g., with the water bill/annual notice)
+d. 3 months via daily newspaper","c. 1 year (e.g., with the water bill/annual notice)"
+"What U.S. agency establishes drinking water standards?
+a. AWWA
+b. USEPA
+c. NIOSH
+d. NSF",b. USEPA
+"If a supply exceeds an MCL, who must notify consumers?
+a. The testing lab
+b. The water supplier
+c. The Department of Health
+d. USEPA",b. The water supplier
+"According to the Lead and Copper Rule, the 90th percentile lead action level is
+a. 0.005 mg/L
+b. 0.015 mg/L
+c. 0.030 mg/L
+d. 0.050 mg/L",b. 0.015 mg/L
+"The term MCLG means the margin of safety
+a. Maximum allowable level in drinking water
+b. Level below which no known/suspected adverse effects occur with
+c. Level that triggers Tier 1 violation
+d. Minimum detectable level",b. Level below which no known/suspected adverse effects occur with
+"The main difference between Tier 1 and Tier 2 violations is
+a. Tier 1 has direct adverse health effects; Tier 2 does not
+b. Tier 1 requires public notice; Tier 2 does not
+c. Tier 1 is acute; Tier 2 is not acute
+d. Tier 1 has legal consequences; Tier 2 does not",c. Tier 1 is acute; Tier 2 is not acute
+"The most important well-site factor from a health standpoint is
+a. Anticipated yield
+b. Availability of power
+c. Distance from other wells
+d. Vulnerability (to contamination)",d. Vulnerability (to contamination)
+"Trihalomethanes (THMs) are classified as
+a. Metals
+b. Inorganic constituents
+c. Secondary standards
+d. Radiological contaminants
+e. Volatile organic compounds",e. Volatile organic compounds
+"“Primacy” means
+a. States can supersede USEPA rules
+b. USEPA supersedes state rules
+c. States must adopt stricter rules than USEPA
+d. Primary authority to implement/enforce drinking water rules",d. Primary authority to implement/enforce drinking water rules
+"Who must develop a coliform monitoring/siting plan?
+a. Large systems ( > 50, 000)
+b. Large and medium ( > 3, 300)
+c. Small and medium (25–3, 300)
+d. All public water systems",d. All public water systems
+"The MCLG for known/probable carcinogens is
+a. Set by the state
+b. Equal to the MCL
+c. Zero
+d. The minimum detectable level",c. Zero
+"Which disease is not typically transmitted by contaminated water?
+a. Cryptosporidiosis
+b. Giardiasis
+c. Cholera
+d. Typhoid
+e. Tuberculosis",e. Tuberculosis
+"The maximum disinfectant residual allowed (free chlorine MRDL) in distribution is
+a. 0.2 mg/L
+b. 2.0 mg/L
+c. 2.0 μg/L
+d. 4.0 mg/L
+e. No maximum",d. 4.0 mg/L
+"If a single routine total coliform sample is positive, you must immediately upstream and downstream
+a. Immediately notify the health department
+b. Immediately notify customers
+c. Re-test at the original point only
+d. Take repeat samples at the original site and at points
+e. Flush only",d. Take repeat samples at the original site and at points
+"For systems with  > 40 routine coliform samples/month, the maximum positives permitted is
+a. 2
+b. 2%
+c. 5
+d. 5%
+e. Variable",d. 5%
+"Final determination of vulnerability is made by
+a. Private contractor/consultants
+b. The primacy agency
+c. The water supplier
+d. All of the above",b. The primacy agency
+"Primary and secondary standards are normally established with a
+a. Maximum contaminant level (MCL / SMCL)
+b. Minimum contaminant level
+c. Public health goal
+d. Maximum contaminant level goal
+e. Minimum contaminant level goal",a. Maximum contaminant level (MCL / SMCL)
+"The presence of coliforms in a distribution system
+a. Proves pathogens are present
+b. Indicates chlorine demand spiked
+c. Indicates pathogens may be present
+d. Requires brilliant green bile as a disinfectant
+e. Has no significance",c. Indicates pathogens may be present
+"The regulation establishing microbiological quality standards is
+a. Disinfection By-Product Rule
+b. Secondary Standards
+c. Total Coliform Rule (as revised)
+d. Lead and Copper Rule
+e. Maximum Contaminant Level",c. Total Coliform Rule (as revised)
+"For systems using surface water or GWUDI, turbidity must be measured at least
+a. Every 4 hours
+b. Daily
+c. Weekly
+d. Monthly",a. Every 4 hours
+"Monitoring requirements can depend on
+a. Results of a vulnerability assessment
+b. Size of the water system
+c. Previous MCL violations
+d. All of the above",d. All of the above
+"BARF is an acronym for
+a. Boil Advisory Reference Form
+b. Bacteriological Analysis Report Forms
+c. Biological Activity Reactive Format
+d. Vomit",b. Bacteriological Analysis Report Forms
+"Which of these does not have a primary MCL?
+a. Nitrate
+b. Fluoride
+c. Manganese
+d. Copper",c. Manganese
+"MCLG is an acronym for
+a. Most Common Lucky Guess
+b. Minimum Colloidal Level Goals
+c. Maximum Chlorine Level Gallons
+d. Maximum Contaminant Level Goals",d. Maximum Contaminant Level Goals
+"The LT2ESWTR requires source water testing for
+a. Algae
+b. Pharmaceuticals
+c. Cryptosporidium
+d. Nitrate",c. Cryptosporidium
+"Combined filter effluent must be < NTU in 95% of 4-hour measurements each month:
+a. 1.0 NTU
+b. 2.0 NTU
+c. 3.0 NTU
+d. 0.3 NTU",d. 0.3 NTU
+"If you get a positive coliform sample, you must downstream service connections
+a. Retake the original sample only
+b. Retake the original, plus one within 5 upstream and one within 5
+c. Retake at plant and any nearby connection
+d. Do nothing if fecal/E. coli is absent","b. Retake the original, plus one within 5 upstream and one within 5"
+"(State example) Minimum free chlorine residual everywhere in the system
+a. 0.2 mg/L
+b. 2.0 mg/L
+c. 4.0 mg/L
+d. No minimum",a. 0.2 mg/L
+"For a community water system, a sanitary survey must be conducted
+a. Every 5 years
+b. Every 2 years
+c. Every 3 years
+d. Every 10 years",c. Every 3 years
+"Secondary standards alert the public to
+a. Local cancer incidence
+b. Dissolved solids only
+c. Immediate health concerns
+d. Radiological conditions
+e. Aesthetic issues in drinking water",e. Aesthetic issues in drinking water
+"Why keep adequate, reliable records in a treatment plant?
+a. To document effectiveness and meet regulatory requirements
+b. For cold cases
+c. For IRS due diligence
+d. Because of public homeland security files",a. To document effectiveness and meet regulatory requirements
+"Which substances pose an immediate health threat when standards are exceeded?
+a. Benzene and mercury
+b. Coliform and nitrate
+c. Mercury and coliform
+d. Lead and nitrate",b. Coliform and nitrate
+"EPA recommends surface-water systems collect hexavalent chromium (Cr(VI)) samples on a
+a. Monthly basis
+b. Quarterly basis
+c. Annual basis
+d. Every 3 years",c. Annual basis
+"Which set of rules sets the MCLs for harmful chemicals?
+a. Disinfection By-Product Rule
+b. Safe Drinking Water Act rules (NPDWRs)
+c. Surface Water Treatment Rule
+d. O’Doyle Rules",b. Safe Drinking Water Act rules (NPDWRs)
+"The Maximum Contaminant Level (MCL) for nitrate (as N) is
+a. 1.0 mg/L
+b. 5.0 mg/L
+c. 10.0 mg/L
+d. 50.0 mg/L",c. 10.0 mg/L
+"The MCL for nitrite (as N) is
+a. 0.5 mg/L
+b. 1.0 mg/L
+c. 3.0 mg/L
+d. 10.0 mg/L",b. 1.0 mg/L
+"The MCL for arsenic is
+a. 0.005 mg/L
+b. 0.010 mg/L
+c. 0.050 mg/L
+d. 0.100 mg/L",b. 0.010 mg/L
+"The Lead and Copper Rule 90th percentile copper action level is
+a. 0.65 mg/L
+b. 1.0 mg/L
+c. 1.3 mg/L
+d. 2.0 mg/L",c. 1.3 mg/L
+"Under Stage 1/2 DBPR, the MCL for Total Trihalomethanes (TTHMs) is
+a. 0.040 mg/L
+b. 0.080 mg/L
+c. 0.100 mg/L
+d. 0.200 mg/L",b. 0.080 mg/L
+"Under Stage 1/2 DBPR, the MCL for HAA5 is
+a. 0.030 mg/L
+b. 0.060 mg/L
+c. 0.080 mg/L
+d. 0.100 mg/L",b. 0.060 mg/L
+"The MRDL for free chlorine in distribution is
+a. 2.0 mg/L
+b. 4.0 mg/L
+c. 0.2 mg/L
+d. No maximum",b. 4.0 mg/L
+"The MRDL for chloramines (as Cl₂) is
+a. 2.0 mg/L
+b. 3.0 mg/L
+c. 4.0 mg/L
+d. 0.8 mg/L",c. 4.0 mg/L
+"The MRDL for chlorine dioxide at the entry point is
+a. 4.0 mg/L
+b. 0.8 mg/L
+c. 0.3 mg/L
+d. 1.0 mg/L",b. 0.8 mg/L
+"The MCL for chlorite (chlorine dioxide by-product) is
+a. 0.3 mg/L
+b. 0.8 mg/L
+c. 1.0 mg/L
+d. 2.0 mg/L",c. 1.0 mg/L
+"The MCL for bromate (for ozone users) is
+a. 0.010 mg/L
+b. 0.030 mg/L
+c. 0.050 mg/L
+d. 0.100 mg/L",a. 0.010 mg/L
+"Under the Revised Total Coliform Rule (RTCR), an acute MCL violation occurs with triggers
+a. Any total coliform-positive sample
+b. An E. coli-positive sample with associated monitoring/PN
+c. Two total coliform-positives in one month
+d. HPC above 500 CFU/mL",b. An E. coli-positive sample with associated monitoring/PN
+"Under RTCR, when a routine total-coliform sample is positive, repeat sampling must occur locations)
+a. Within 7 days
+b. Within 24 hours (original site and specified upstream/downstream
+c. At the end of the month
+d. Only if chlorine residual is low",b. Within 24 hours (original site and specified upstream/downstream
+"Tier 1 public notification must be issued
+a. Within 7 days
+b. Within 24 hours
+c. Within 30 days
+d. Within 12 months",b. Within 24 hours
+"Tier 2 public notification must be issued
+a. Within 24 hours
+b. Within 30 days
+c. Within 90 days
+d. With the annual CCR only",b. Within 30 days
+"Tier 3 public notification must be issued
+a. Within 24 hours
+b. Within 30 days
+c. Within 12 months
+d. Only upon request",c. Within 12 months
+"The Consumer Confidence Report (CCR) must be delivered by
+a. January 1 each year
+b. April 1 each year
+c. July 1 each year
+d. December 31 each year",c. July 1 each year
+"CCRs must generally be retained for at least
+a. 1 year
+b. 3 years
+c. 5 years
+d. 10 years",b. 3 years
+"Conventional/DE filtered systems must meet turbidity of
+a. ≤ 0.3 NTU in 95% of measurements each month and never exceed
+1. 0 NTU
+b. ≤ 0.5 NTU in 95% of measurements and never exceed 2.0 NTU
+c. Daily average  ≤ 0.3 NTU
+d. Weekly average  ≤ 0.5 NTU",a. ≤ 0.3 NTU in 95% of measurements each month and never exceed
+"The SWTR combined virus inactivation/removal requirement for filtered systems is
+a. 2-log
+b. 4-log
+c. 5-log
+d. 6-log",b. 4-log
+"Under the Ground Water Rule (GWR), a triggered source-water monitoring event occurs when positive
+a. Turbidity exceeds 1.0 NTU
+b. A routine distribution coliform sample is total-coliform
+c. Chlorine residual falls below 0.2 mg/L
+d. A Tier 2 violation is issued",b. A routine distribution coliform sample is total-coliform
+"Fluoride standards (federal) are
+a. Primary MCL 2.0 mg/L; SMCL 4.0 mg/L
+b. Primary MCL 4.0 mg/L; SMCL 2.0 mg/L
+c. Primary MCL 1.0 mg/L; SMCL 0.7 mg/L
+d. No federal standards",b. Primary MCL 4.0 mg/L; SMCL 2.0 mg/L
+"Gross alpha particle activity MCL (excluding radon/uranium) is
+a. 5 pCi/L
+b. 15 pCi/L
+c. 30 pCi/L
+d. 50 pCi/L",b. 15 pCi/L
+"Combined radium-226/228 MCL is
+a. 2 pCi/L
+b. 5 pCi/L
+c. 10 pCi/L
+d. 15 pCi/L",b. 5 pCi/L
+"Uranium MCL is
+a. 15 μg/L
+b. 30 μg/L
+c. 60 μg/L
+d. 100 μg/L",b. 30 μg/L
+"Under Stage 2 DBPR, compliance for TTHM/HAA5 is based on
+a. Maximum site result each quarter
+b. Location Running Annual Average (LRAA) at each site
+c. System-wide running annual average only
+d. Monthly maximum",b. Location Running Annual Average (LRAA) at each site
+"The CCR must include which of the following? likely sources
+a. System finances and staffing levels
+b. Detected contaminants table with MCLs, MCLGs, results, and
+c. Detailed SCADA trends
+d. Operator certification numbers","b. Detected contaminants table with MCLs, MCLGs, results, and"
+"The entity with “primacy” jurisdiction
+a. Writes federal rules
+b. Implements and enforces drinking water rules for its
+c. Operates all public water systems
+d. Sets occupational safety rules",b. Implements and enforces drinking water rules for its
+"Under RTCR, systems must develop and maintain a
+a. DBP monitoring optimization plan
+b. Nitrate emergency response plan
+c. Sample siting plan for coliform monitoring
+d. Capital improvement plan",c. Sample siting plan for coliform monitoring
+"A Level 1 Assessment under RTCR is required when
+a. Any single E. coli-positive sample occurs
+b. The coliform monitoring trigger is exceeded (e.g., multiple TC+)
+c. Turbidity exceeds 0.3 NTU
+d. Chlorine residual exceeds 4.0 mg/L","b. The coliform monitoring trigger is exceeded (e.g., multiple TC+)"
+"A Level 2 Assessment under RTCR is generally required when
+a. Any total coliform positive is found
+b. Any repeat sample is negative
+c. An E. coli MCL violation occurs or repeated Level 1 triggers
+d. A Tier 3 violation is issued",c. An E. coli MCL violation occurs or repeated Level 1 triggers
+"Records retention for chemical analyses (most primary contaminants) is at least
+a. 1 year
+b. 10 years
+c. 3 years
+d. 5 years",b. 10 years
+"Public Notification (PN) content must include risk, corrective actions, and contact info
+a. Names of all operators
+b. Nature of violation, potential health effects, population at
+c. Only the date of violation
+d. System budget information","b. Nature of violation, potential health effects, population at"
+"The Initial Distribution System Evaluation (IDSE) under Stage 2 DBPR was used to compliance monitoring
+a. Identify corrosion control needs
+b. Identify sites with high TTHM/HAA5 formation for future
+c. Choose CCR language
+d. Set fluoride dosage",b. Identify sites with high TTHM/HAA5 formation for future
+"The coliform group used as an indicator organism represents pathway intrusion
+a. Only pathogens
+b. A broader group indicating potential fecal contamination and
+c. Only E. coli
+d. Only protozoa",b. A broader group indicating potential fecal contamination and
+"Action when chlorine dioxide entry point MRDL (0.8 mg/L) is exceeded severity/persistence per rule
+a. None if HPC is low
+b. Immediate monitoring and Tier 2 or Tier 1 PN depending on
+c. Wait for next month
+d. Reduce pH only",b. Immediate monitoring and Tier 2 or Tier 1 PN depending on
+"For combined filter effluent (CFE) turbidity monitoring, the minimum frequency for conventional treatment plants is
+a. Once per day
+b. Every 4 hours
+c. Weekly
+d. Monthly",b. Every 4 hours
+"Under the CCR rule, health language is required sensitive subpopulations
+a. Only for nitrate
+b. For detected contaminants exceeding an MCL or relevant for
+c. Only for DBPs
+d. Never required",b. For detected contaminants exceeding an MCL or relevant for
