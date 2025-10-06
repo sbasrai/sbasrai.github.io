@@ -1,77 +1,117 @@
-Front,Back
-"A 500,000 gallon storage tank is drawn down to a one-third of the total volume during daily use. How much water remains in the tank?\ \*a. 166,667 gal\ **Solution:**\ $500,000 \times \dfrac{1}{3} = \boxed{166,667}$
-b. 333,333 gal\
-c. 300,000 gal\
-d. 500,000 gal\",
-"Convert $22\dfrac{1}{4}$ into a fraction.\ \*b. $\dfrac{89}{4}$\ **Solution:**\ $=\dfrac{22\times4 + 1}{4}=\boxed{\dfrac{89}{4}}$
-a. $\dfrac{45}{4}$\
-c. $\dfrac{21}{4}$\
-d. $\dfrac{88}{4}$\",
-"Express 10 ft 6 in as a fraction.\ \*c. $\dfrac{21}{2}$\ **Solution:**\ $6"" = 6\text{ in} \times \dfrac{\text{ft}}{12\text{ in}} = \dfrac{6}{12}=\dfrac{1}{2}\text{ ft} \implies 10\text{ ft }6\text{ in} = 10\dfrac{1}{2}\text{ ft} = \boxed{\dfrac{21}{2}\text{ ft}}$
-a. $\dfrac{20}{2}$\
-b. $\dfrac{10}{2}$\
-d. $\dfrac{22}{2}$\",
-"A 400,000-gallon reservoir is filled to $\dfrac{3}{5}$ of its capacity. How many gallons are in the tank?\ \*a. 240,000 gal\ **Solution:**\ $400,000\times\dfrac{3}{5}=\boxed{240,000\text{ gal}}$
-b. 300,000 gal\
-c. 200,000 gal\
-d. 350,000 gal\",
-"A storage tank holds 1.2 million gallons. If it is drained to $\dfrac{1}{4}$ of capacity, how much water has been used?\ \*b. 900,000 gal\ **Solution:**\ $\text{Used} = 1.2\times10^6 - \dfrac{1}{4}(1.2\times10^6)=0.75\times1.2\times10^6=\boxed{900,000\text{ gal}}$
-a. 300,000 gal\
-c. 1,200,000 gal\
-d. 600,000 gal\",
-"Convert $2.75$ ft into a mixed fraction.\ \*a. $2\dfrac{3}{4}$\ **Solution:**\ $0.75 = \dfrac{3}{4} \implies 2.75 = \boxed{2\dfrac{3}{4} = \dfrac{11}{4}}$
-b. $2\dfrac{1}{2}$\
-c. $2\dfrac{2}{3}$\
-d. $2\dfrac{5}{8}$\",
-"Add $4\dfrac{1}{3}+2\dfrac{5}{6}$.\ \*b. $7\dfrac{1}{6}$\ **Solution:**\ Convert to improper fractions:\ $\dfrac{13}{3}+\dfrac{17}{6}=\dfrac{26}{6}+\dfrac{17}{6}=\dfrac{43}{6}=\boxed{7\dfrac{1}{6}}$
-a. $6\dfrac{1}{3}$\
-c. $7\dfrac{1}{2}$\
-d. $8\dfrac{1}{6}$\",
-"Subtract $6\dfrac{3}{4}-2\dfrac{5}{8}$.\ \*b. $4\dfrac{1}{8}$\ **Solution:**\ $\dfrac{27}{4}-\dfrac{21}{8}=\dfrac{54}{8}-\dfrac{21}{8}=\boxed{\dfrac{33}{8}=4\dfrac{1}{8}}$
-a. $3\dfrac{7}{8}$\
-c. $4\dfrac{1}{4}$\
-d. $5\dfrac{1}{8}$\",
-"The flow rate in a pipe is $\dfrac{3}{4}$ of the design capacity of 800 gpm. What is the actual flow?\ \*a. 600 gpm\ **Solution:**\ $800\times\dfrac{3}{4}=\boxed{600\text{ gpm}}$
-b. 650 gpm\
-c. 550 gpm\
-d. 700 gpm\",
-"A 1,200,000-gallon storage tank is filled to $\dfrac{5}{6}$ of its total capacity. How much water is in the tank?\ \*a. 1,000,000 gal\ **Solution:**\ $1,200,000 \times \dfrac{5}{6} = \boxed{1,000,000\text{ gal}}$
-b. 900,000 gal\
-c. 800,000 gal\
-d. 700,000 gal\",
-"A 500,000-gallon reservoir is drained to $\dfrac{2}{5}$ of its capacity. How much water was used?\ \*b. 300,000 gal\ **Solution:**\ $\text{Used} = 500,000 - 500,000\times\dfrac{2}{5} = 500,000 - 200,000 = \boxed{300,000\text{ gal}}$
-a. 100,000 gal\
-c. 200,000 gal\
-d. 350,000 gal\",
-"A chemical tank contains 80 gallons of sodium hypochlorite solution. If $\dfrac{3}{8}$ of the tank is used each day, how many gallons are used per day?\ \*b. 30 gal\ **Solution:**\ $80 \times \dfrac{3}{8} = \boxed{30\text{ gal/day}}$
-a. 10 gal\
-c. 25 gal\
-d. 35 gal\",
-"A 36-inch water main is reduced to $\dfrac{3}{4}$ flow due to maintenance. What fraction of the cross-sectional area remains open?\ \*b. $\left(\dfrac{3}{4}\right)^2 = \dfrac{9}{16}$\ **Solution:**\ Area $\propto D^2 \implies \left(\dfrac{3}{4}\right)^2=\boxed{\dfrac{9}{16}}$
-a. $\dfrac{1}{2}$\
-c. $\dfrac{3}{8}$\
-d. $\dfrac{7}{8}$\",
-"A pump runs 12 hours per day. If it operates at $\dfrac{2}{3}$ of full capacity, how many equivalent full-capacity hours does it operate?\ \*a. 8 hours\ **Solution:**\ $12\times\dfrac{2}{3}=\boxed{8\text{ hours}}$
-b. 6 hours\
-c. 9 hours\
-d. 7 hours\",
-"A lime slurry feed tank is $\dfrac{5}{8}$ full. If the total capacity is 400 gallons, how many gallons are in the tank?\ \*b. 250 gal\ **Solution:**\ $400\times\dfrac{5}{8}=\boxed{250\text{ gal}}$
-a. 200 gal\
-c. 275 gal\
-d. 300 gal\",
-"A pipe delivers water at a rate of 900 gpm for $\dfrac{2}{3}$ of an hour. How many gallons are delivered?\ \*a. 36,000 gal\ **Solution:**\ $900\text{ gpm}\times 60\text{ min/hr}\times\dfrac{2}{3}\text{ hr}=900\times40=\boxed{36,000\text{ gal}}$
-b. 27,000 gal\
-c. 30,000 gal\
-d. 24,000 gal\",
-"A 40 ft pipe section is cut into $\dfrac{5}{8}$ of its original length. What is the new pipe length?\ \*a. 25 ft\ **Solution:**\ $40\times\dfrac{5}{8}=\boxed{25\text{ ft}}$
-b. 20 ft\
-c. 30 ft\
-d. 35 ft\",
-"An operator uses $\dfrac{1}{6}$ lb of polymer per 1000 gallons of water. If the plant treats 9 MGD, how many pounds of polymer are used daily?\ \*a. 1,500 lb/day\ **Solution:**\ $9,000,000\text{ gal/day}\times\dfrac{1}{6}\text{ lb/1000 gal}=\dfrac{9,000,000}{1000}\times\dfrac{1}{6}=9000\times\dfrac{1}{6}=\boxed{1,500\text{ lb/day}}$
-b. 900 lb/day\
-c. 600 lb/day\
-d. 2,000 lb/day\",
-"A backwash basin holds $\dfrac{3}{4}$ of its 80,000-gallon capacity. If 20% of that volume is discharged during backwash, how many gallons are released?\ \*b. 12,000 gal\ **Solution:**\ $80,000\times\dfrac{3}{4}\times0.20=60,000\times0.20=\boxed{12,000\text{ gal}}$
-a. 10,000 gal\
-c. 14,000 gal\
-d. 15,000 gal\",
+front,back
+"A 500,000 gallon storage tank is drawn down to a one-third of the total volume during daily use. How much water remains in the tank?
+a. 166,667 gal
+b. 333,333 gal
+c. 300,000 gal
+d. 500,000 gal","Answer: a. 166,667 gal
+Solution: 500,000 × 1/3 = 166,667"
+"Convert 221/4 into a fraction.
+a. 45/4
+b. 89/4
+c. 21/4
+d. 88/4","Answer: b. 89/4
+Solution: =22×4 + 1/4=89/4"
+"Express 10 ft 6 in as a fraction.
+a. 20/2
+b. 10/2
+c. 21/2
+d. 22/2","Answer: c. 21/2
+Solution: 6"" = 6 in × ft/12 in = 6/12=1/2 ft 10 ft 6 in = 101/2 ft = 21/2 ft"
+"A 400,000-gallon reservoir is filled to 3/5 of its capacity. How many gallons are in the tank?
+a. 240,000 gal
+b. 300,000 gal
+c. 200,000 gal
+d. 350,000 gal","Answer: a. 240,000 gal
+Solution: 400,000×3/5=240,000 gal"
+"A storage tank holds 1.2 million gallons. If it is drained to 1/4 of capacity, how much water has been used?
+a. 300,000 gal
+b. 900,000 gal
+c. 1,200,000 gal
+d. 600,000 gal","Answer: b. 900,000 gal
+Solution: Used = 1.2×10^6 - 1/4(1.2×10^6)=0.75×1.2×10^6=900,000 gal"
+"Convert 2.75 ft into a mixed fraction.
+a. 23/4
+b. 21/2
+c. 22/3
+d. 25/8","Answer: a. 23/4
+Solution: 0.75 = 3/4 2.75 = 23/4 = 11/4"
+"Add 41/3+25/6.
+a. 61/3
+b. 71/6
+c. 71/2
+d. 81/6","Answer: b. 71/6
+Solution: Convert to improper fractions:
+
+13/3+17/6=26/6+17/6=43/6=71/6"
+"Subtract 63/4-25/8.
+a. 37/8
+b. 41/8
+c. 41/4
+d. 51/8","Answer: b. 41/8
+Solution: 27/4-21/8=54/8-21/8=33/8=41/8"
+"The flow rate in a pipe is 3/4 of the design capacity of 800 gpm. What is the actual flow?
+a. 600 gpm
+b. 650 gpm
+c. 550 gpm
+d. 700 gpm","Answer: a. 600 gpm
+Solution: 800×3/4=600 gpm"
+"A 1,200,000-gallon storage tank is filled to 5/6 of its total capacity. How much water is in the tank?
+a. 1,000,000 gal
+b. 900,000 gal
+c. 800,000 gal
+d. 700,000 gal","Answer: a. 1,000,000 gal
+Solution: 1,200,000 × 5/6 = 1,000,000 gal"
+"A 500,000-gallon reservoir is drained to 2/5 of its capacity. How much water was used?
+a. 100,000 gal
+b. 300,000 gal
+c. 200,000 gal
+d. 350,000 gal","Answer: b. 300,000 gal
+Solution: Used = 500,000 - 500,000×2/5 = 500,000 - 200,000 = 300,000 gal"
+"A chemical tank contains 80 gallons of sodium hypochlorite solution. If 3/8 of the tank is used each day, how many gallons are used per day?
+a. 10 gal
+b. 30 gal
+c. 25 gal
+d. 35 gal","Answer: b. 30 gal
+Solution: 80 × 3/8 = 30 gal/day"
+"A 36-inch water main is reduced to 3/4 flow due to maintenance. What fraction of the cross-sectional area remains open?
+a. 1/2
+b. (3/4)^2 = 9/16
+c. 3/8
+d. 7/8","Answer: b. (3/4)^2 = 9/16
+Solution: Area D^2 (3/4)^2=9/16"
+"A pump runs 12 hours per day. If it operates at 2/3 of full capacity, how many equivalent full-capacity hours does it operate?
+a. 8 hours
+b. 6 hours
+c. 9 hours
+d. 7 hours","Answer: a. 8 hours
+Solution: 12×2/3=8 hours"
+"A lime slurry feed tank is 5/8 full. If the total capacity is 400 gallons, how many gallons are in the tank?
+a. 200 gal
+b. 250 gal
+c. 275 gal
+d. 300 gal","Answer: b. 250 gal
+Solution: 400×5/8=250 gal"
+"A pipe delivers water at a rate of 900 gpm for 2/3 of an hour. How many gallons are delivered?
+a. 36,000 gal
+b. 27,000 gal
+c. 30,000 gal
+d. 24,000 gal","Answer: a. 36,000 gal
+Solution: 900 gpm× 60 min/hr×2/3 hr=900×40=36,000 gal"
+"A 40 ft pipe section is cut into 5/8 of its original length. What is the new pipe length?
+a. 25 ft
+b. 20 ft
+c. 30 ft
+d. 35 ft","Answer: a. 25 ft
+Solution: 40×5/8=25 ft"
+"An operator uses 1/6 lb of polymer per 1000 gallons of water. If the plant treats 9 MGD, how many pounds of polymer are used daily?
+a. 1,500 lb/day
+b. 900 lb/day
+c. 600 lb/day
+d. 2,000 lb/day","Answer: a. 1,500 lb/day
+Solution: 9,000,000 gal/day×1/6 lb/1000 gal=9,000,000/1000×1/6=9000×1/6=1,500 lb/day"
+"A backwash basin holds 3/4 of its 80,000-gallon capacity. If 20\% of that volume is discharged during backwash, how many gallons are released?
+a. 10,000 gal
+b. 12,000 gal
+c. 14,000 gal
+d. 15,000 gal","Answer: b. 12,000 gal
+Solution: 80,000×3/4×0.20=60,000×0.20=12,000 gal"
