@@ -1,156 +1,129 @@
-<html>
-	<head>
-		<link href="./index.css" rel="stylesheet"></link>
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-		<link href="<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet">"
-		<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-	</head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>H2O Academy</title>
+  <style>
+    body {margin:0;font-family:Arial, sans-serif;}
+    header.topbar {background:#004d66;color:#fff;padding:12px 20px;display:flex;align-items:center;justify-content:space-between;}
+    header.topbar nav a {color:#fff;text-decoration:none;margin-left:20px;}
+    header.topbar nav a:hover {text-decoration:underline;}
 
-	<body>
+    .page {display:none;padding:20px;}
+    .page.active {display:block;}
 
-		<div class="myDiv">
-			<h1>Wastewater Resource Recovery Facility Operations</h1>
-		</div>			
-		<button id="prev">Previous</button>
-		<button id="next">Next</button>
-		<span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
-		<canvas id="the-canvas"></canvas>
-		<ol type="1">
-			<li><a href="./chapter1.pdf"> Why Treat Wastewater</a></li>
-			<li><a href="./chapter2.pdf"> Regulations</a></li>
-			<li><a href="./chapter3.pdf">Elements of Wastewater Treatment</a></li>
-			<li><a href="./chapter4.pdf">Wastewater Constituents</a></li>
-			<li><a href="./chapter5.pdf">Wastewater Properties & Parameters</a></li>
-			<li><a href="./chapter6.pdf">Wastewater Sampling</a></li>
-			<li><a href="./chapter7.pdf">Laboratory Analysis</a></li>
-			<li><a href="./chapter8.pdf">Wastewater Math Fundamentals</a></li>
-		<li><a href="./chapter9.pdf">Collections</a></li>
-		<li><a href="./chapter10.pdf">Preliminary Treatment</a></li>
-		<li><a href="./chapter11.pdf">Primary Treatment</a></li>
-		<li><a href="./chapter12.pdf">Introduction to Secondary Treatment</a></li>
-		<li><a href="./chapter13.pdf">Trickling Filters</a></li>
-		<li><a href="./chapter14.pdf">Stabilization Ponds</a> </li>
-		<li><a href="./chapter15.pdf">Activated Sludge</a></li>
-		<li><a href="./chapter16.pdf">Nutrient Removal</a></li>
-		<li><a href="./chapter17.pdf">Solids Treatment Overview</a> </li>
-		<li><a href="./chapter18.pdf">Biosolids Regulations</a></li>
-		<li><a href="./chapter19.pdf">Sludge Thickening</a></li>
-		<li><a href="./chapter20.pdf">Sludge Stabilization - Digestion</a></li>
-		<li><a href="./chapter21.pdf">Sludge Dewatering</a></li>
-		<li><a href="./chapter22.pdf">Chlorination</a></li>
-		<li><a href="./chapter23.pdf">Disinfection</a></li>
-		<li><a href="./chapter24.pdf">Odor Control</a></li>
-		<li><a href="./chapter25.pdf">Wastewater Chemicals</a></li>
-		<li><a href="./chapter26.pdf">Pumping Efficiencies & Costs</a></li>
-		<li><a href="./chapter27.pdf">Safety</a></li>
-		<li><a href="./chapter28.pdf">Wastewater Treatment - Future</a></li>
-</ol>
-<a href = "mailto: wrrfops@gmail.com">Send Email</a>
-<a href="https://www.waterboards.ca.gov/water_issues/programs/operator_certification/operator_certification.html" type="text/html">California - Wastewater Operator Certification Program</a>
+    .shell {display:grid;grid-template-columns:250px 1fr;gap:20px;}
+    .sidebar {background:#f0f8fa;padding:15px;border-radius:6px;}
+    .sidebar h3 {margin-top:0;color:#004d66;}
+    .sidebar ul {list-style:none;padding:0;}
+    .sidebar ul li {margin:8px 0;}
+    .sidebar ul li a {text-decoration:none;color:#004d66;}
+    .sidebar ul li a:hover {text-decoration:underline;}
 
-<script src="./pdfjs-2.12.313-dist/build/pdf.js"></script>
-	
-	<script>// If absolute URL from the remote server is provided, configure the CORS
-		// header on that server.
-		var url = './chapter2.pdf';
-		
-		// Loaded via <script> tag, create shortcut to access PDF.js exports.
-		var pdfjsLib = window['pdfjs-dist/build/pdf'];
-		
-		// The workerSrc property shall be specified.
-		pdfjsLib.GlobalWorkerOptions.workerSrc = './pdfjs-2.12.313-dist/build/pdf.worker.js';
-		
-		var pdfDoc = null,
-    pageNum = 1,
-    pageRendering = false,
-    pageNumPending = null,
-    scale = 0.8,
-    canvas = document.getElementById('the-canvas'),
-    ctx = canvas.getContext('2d');
+    .card {background:#fff;padding:15px;border:1px solid #ccc;border-radius:6px;}
+      /* Quick-launch buttons */
+    .quick-buttons{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-top:10px;margin-bottom:10px}
+    .quick-btn{display:inline-block;background:#004d66;color:#fff;text-decoration:none;padding:10px 12px;border-radius:6px;text-align:center;border:1px solid #00384c}
+    .quick-btn:hover{background:#006b86}
+    .links-grid{list-style:disc;padding-left:20px}
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">H2O ACADEMY</div>
+    <nav>
+      <a href="#home" data-view="home">Home</a>
+      <a href="#students" data-view="students">Students</a>
+      <a href="#agencies" data-view="agencies">Public Agencies</a>
+      <a href="#contact" data-view="home">Contact</a>
+    </nav>
+  </header>
 
-/**
- * Get page info from document, resize canvas accordingly, and render page.
- * @param num Page number.
- */
-function renderPage(num) {
-  pageRendering = true;
-  // Using promise to fetch the page
-  pdfDoc.getPage(num).then(function(page) {
-    var viewport = page.getViewport({scale: scale});
-    canvas.height = viewport.height;
-    canvas.width = viewport.width;
+  <!-- HOME -->
+  <main id="home" class="page active">
+    <h1>Welcome to H2O Academy</h1>
+    <p>Professional training and certification prep for water treatment and distribution operators.</p>
+  </main>
 
-    // Render PDF page into canvas context
-    var renderContext = {
-      canvasContext: ctx,
-      viewport: viewport
-    };
-    var renderTask = page.render(renderContext);
+  <!-- STUDENTS -->
+  <main id="students" class="page">
+    <h1>Student Resources</h1>
+    <div class="shell">
+      <aside class="sidebar">
+        <h3>Menu</h3>
+        <ul>
+          <li><a href="#ebook">eBook / Textbook</a></li>
+          <li><a href="#swrcb">SWRCB Exam Info</a></li>
+          <li><a href="#practice">Practice Questions / Exams</a></li>
+          <li><a href="#downloads">Downloads & Formula Sheets</a></li>
+          <li><a href="#resources">Additional Resources</a></li>
+        </ul>
+      </aside>
+      <div>
+        <section id="ebook" class="card"><h2>eBook / Textbook</h2><p>Placeholder for course eBook.</p></section>
+        <section id="swrcb" class="card"><h2>SWRCB Exam Information</h2><p>Links and guidance for T1–T5, D1–D5, and AWTO exams.</p></section>
+        <section id="practice" class="card"><h2>Practice Exams</h2><p>Interactive practice tests for treatment and distribution.</p></section>
+        <section id="downloads" class="card"><h2>Downloads</h2><p>Formula sheets, quick references, and cheat sheets.</p></section>
+        <section id="resources" class="card"><h2>Study Resources</h2><p>Additional guides and references.</p></section>
+      </div>
+    </div>
+  </main>
 
-    // Wait for rendering to finish
-    renderTask.promise.then(function() {
-      pageRendering = false;
-      if (pageNumPending !== null) {
-        // New page rendering is pending
-        renderPage(pageNumPending);
-        pageNumPending = null;
-      }
+  <!-- AGENCIES -->
+  <main id="agencies" class="page">
+    <h1>Public Agency Training</h1>
+    <div class="shell">
+      <aside class="sidebar">
+        <h3>Menu</h3>
+        <ul>
+          <li><a href="#topics">Topics for Training</a></li>
+          <li><a href="#samples">Sample Sessions</a></li>
+          <li><a href="#suggest">Suggest Topics</a></li>
+          <li><a href="#resources-agency">Agency Resources</a></li>
+          <li><a href="#ceu">CEU Certificates</a></li>
+        </ul>
+      </aside>
+      <div>
+        <section id="topics" class="card"><h2>Training Topics</h2><p>List of training areas (water quality, SCADA, safety, etc.).</p></section>
+        <section id="samples" class="card"><h2>Sample Training Sessions</h2><p>Examples of 3, 6, and 9-hour training agendas.</p></section>
+        <section id="suggest" class="card"><h2>Suggest Topics</h2><p>Form placeholder for agency staff to suggest topics.</p></section>
+        <section id="resources-agency" class="card"><h2>Agency Resources</h2>
+  <p>Quick-launch links your team uses most. Edit URLs as needed.</p>
+  <div class="quick-buttons">
+    <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/" target="_blank" rel="noopener noreferrer">SWRCB Drinking Water</a>
+    <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/OperatorCertification.html" target="_blank" rel="noopener noreferrer">Operator Certification (CA)</a>
+    <a class="quick-btn" href="https://sdwis.waterboards.ca.gov/PDWW/" target="_blank" rel="noopener noreferrer">Drinking Water Watch (CA)</a>
+    <a class="quick-btn" href="https://www.epa.gov/dwreginfo" target="_blank" rel="noopener noreferrer">EPA Drinking Water Regs</a>
+    <a class="quick-btn" href="https://www.epa.gov/ccr" target="_blank" rel="noopener noreferrer">EPA CCR</a>
+    <a class="quick-btn" href="https://www.calwarn.org/" target="_blank" rel="noopener noreferrer">CalWARN (Mutual Aid)</a>
+    <a class="quick-btn" href="https://www.cisa.gov/water" target="_blank" rel="noopener noreferrer">CISA – Water/Wastewater Cyber</a>
+    <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/certlic/labs/" target="_blank" rel="noopener noreferrer">ELAP – Accredited Labs</a>
+    <a class="quick-btn" href="https://www.owp.csus.edu/" target="_blank" rel="noopener noreferrer">CSUS – Office of Water Programs</a>
+    <a class="quick-btn" href="https://www.awwa.org/Professional-Development" target="_blank" rel="noopener noreferrer">AWWA – Professional Development</a>
+  </div>
+  <h3>More useful links</h3>
+  <ul class="links-grid">
+    <li><a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/CCR.html" target="_blank" rel="noopener noreferrer">CA CCR Templates & Guidance</a> (update with your state guidance if outside CA)</li>
+    <li><a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/electronic_annual_report.html" target="_blank" rel="noopener noreferrer">Electronic Annual Report (eAR) – Portal & FAQ</a> (replace with the current link used by your district)</li>
+    <li><a href="https://www.epa.gov/ground-water-and-drinking-water/revised-total-coliform-rule-and-total-coliform-rule" target="_blank" rel="noopener noreferrer">EPA RTCR Resources</a></li>
+    <li><a href="https://www.epa.gov/dwreginfo/stage-2-disinfectants-and-disinfection-byproducts-rule" target="_blank" rel="noopener noreferrer">EPA Stage 2 DBPR</a></li>
+  </ul>
+</section>
+        <section id="ceu" class="card"><h2>CEU Certificates</h2><p>Details on certificates and reporting.</p></section>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    document.querySelectorAll('[data-view]').forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        const view = link.getAttribute('data-view');
+        document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+        document.getElementById(view).classList.add('active');
+      });
     });
-  });
-
-  // Update page counters
-  document.getElementById('page_num').textContent = num;
-}
-
-/**
- * If another page rendering in progress, waits until the rendering is
- * finised. Otherwise, executes rendering immediately.
- */
-function queueRenderPage(num) {
-  if (pageRendering) {
-    pageNumPending = num;
-  } else {
-    renderPage(num);
-  }
-}
-
-/**
- * Displays previous page.
- */
-function onPrevPage() {
-  if (pageNum <= 1) {
-    return;
-  }
-  pageNum--;
-  queueRenderPage(pageNum);
-}
-document.getElementById('prev').addEventListener('click', onPrevPage);
-
-/**
- * Displays next page.
- */
-function onNextPage() {
-  if (pageNum >= pdfDoc.numPages) {
-    return;
-  }
-  pageNum++;
-  queueRenderPage(pageNum);
-}
-document.getElementById('next').addEventListener('click', onNextPage);
-
-/**
- * Asynchronously downloads PDF.
- */
-pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
-  pdfDoc = pdfDoc_;
-  document.getElementById('page_count').textContent = pdfDoc.numPages;
-
-  // Initial/first page rendering
-  renderPage(pageNum);
-});</script>>
-	</body>
+  </script>
+</body>
 </html>
