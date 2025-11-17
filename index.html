@@ -9,23 +9,30 @@
 
     /* TOPBAR + LOGO FIX */
     header.topbar {
-        background:#004d66;
-        color:#fff;
-        padding:12px 20px;
-        display:flex;
-        align-items:center;         /* aligns logo + menu vertically */
-        justify-content:space-between;
+      background:#004d66;
+      color:#fff;
+      padding:12px 20px;
+      display:flex;
+      align-items:center;         /* aligns logo + menu vertically */
     }
 
     .brand {
         display:flex;
         align-items:center;         /* ensures logo is centered vertically */
+      flex:0 0 auto;
     }
 
     .logo {
         height:40px;                /* <<< reduce logo size here */
         width:auto;                 /* keeps proper aspect ratio */
         display:block;
+    }
+
+    header.topbar nav {
+      margin:0 auto; /* center nav using auto margins */
+      display:flex;
+      gap:18px;
+      align-items:center;
     }
 
     header.topbar nav a {
@@ -113,7 +120,7 @@
           <li><a href="#topics">Topics for Training</a></li>
           <li><a href="#samples">Sample Sessions</a></li>
           <li><a href="#suggest">Suggest Topics</a></li>
-          <li><a href="#resources-agency">Agency Resources</a></li>
+          <li><a href="#resources-agency" data-view="agency-resources">Agency Resources</a></li>
           <li><a href="#ceu">CEU Certificates</a></li>
         </ul>
       </aside>
@@ -122,28 +129,36 @@
         <section id="samples" class="card"><h2>Sample Training Sessions</h2><p>Examples of 3, 6, and 9-hour training agendas.</p></section>
         <section id="suggest" class="card"><h2>Suggest Topics</h2><p>Form placeholder for agency staff to suggest topics.</p></section>
         <section id="resources-agency" class="card"><h2>Agency Resources</h2>
-  <p>Quick-launch links your team uses most. Edit URLs as needed.</p>
-  <div class="quick-buttons">
-    <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/" target="_blank" rel="noopener noreferrer">SWRCB Drinking Water</a>
-    <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/OperatorCertification.html" target="_blank" rel="noopener noreferrer">Operator Certification (CA)</a>
-    <a class="quick-btn" href="https://sdwis.waterboards.ca.gov/PDWW/" target="_blank" rel="noopener noreferrer">Drinking Water Watch (CA)</a>
-    <a class="quick-btn" href="https://www.epa.gov/dwreginfo" target="_blank" rel="noopener noreferrer">EPA Drinking Water Regs</a>
-    <a class="quick-btn" href="https://www.epa.gov/ccr" target="_blank" rel="noopener noreferrer">EPA CCR</a>
-    <a class="quick-btn" href="https://www.calwarn.org/" target="_blank" rel="noopener noreferrer">CalWARN (Mutual Aid)</a>
-    <a class="quick-btn" href="https://www.cisa.gov/water" target="_blank" rel="noopener noreferrer">CISA – Water/Wastewater Cyber</a>
-    <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/certlic/labs/" target="_blank" rel="noopener noreferrer">ELAP – Accredited Labs</a>
-    <a class="quick-btn" href="https://www.owp.csus.edu/" target="_blank" rel="noopener noreferrer">CSUS – Office of Water Programs</a>
-    <a class="quick-btn" href="https://www.awwa.org/Professional-Development" target="_blank" rel="noopener noreferrer">AWWA – Professional Development</a>
-  </div>
-  <h3>More useful links</h3>
-  <ul class="links-grid">
-    <li><a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/CCR.html" target="_blank" rel="noopener noreferrer">CA CCR Templates & Guidance</a> (update with your state guidance if outside CA)</li>
-    <li><a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/electronic_annual_report.html" target="_blank" rel="noopener noreferrer">Electronic Annual Report (eAR) – Portal & FAQ</a> (replace with the current link used by your district)</li>
-    <li><a href="https://www.epa.gov/ground-water-and-drinking-water/revised-total-coliform-rule-and-total-coliform-rule" target="_blank" rel="noopener noreferrer">EPA RTCR Resources</a></li>
-    <li><a href="https://www.epa.gov/dwreginfo/stage-2-disinfectants-and-disinfection-byproducts-rule" target="_blank" rel="noopener noreferrer">EPA Stage 2 DBPR</a></li>
-  </ul>
-</section>
+          <p>Quick-launch links your team uses most. Use the <strong>Agency Resources</strong> tab to open the full list of links and tools.</p>
+          <h3>More useful links</h3>
+          <ul class="links-grid">
+            <li><a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/CCR.html" target="_blank" rel="noopener noreferrer">CA CCR Templates & Guidance</a> (update with your state guidance if outside CA)</li>
+            <li><a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/electronic_annual_report.html" target="_blank" rel="noopener noreferrer">Electronic Annual Report (eAR) – Portal & FAQ</a> (replace with the current link used by your district)</li>
+            <li><a href="https://www.epa.gov/ground-water-and-drinking-water/revised-total-coliform-rule-and-total-coliform-rule" target="_blank" rel="noopener noreferrer">EPA RTCR Resources</a></li>
+            <li><a href="https://www.epa.gov/dwreginfo/stage-2-disinfectants-and-disinfection-byproducts-rule" target="_blank" rel="noopener noreferrer">EPA Stage 2 DBPR</a></li>
+          </ul>
+        </section>
         <section id="ceu" class="card"><h2>CEU Certificates</h2><p>Details on certificates and reporting.</p></section>
+      </div>
+    </div>
+  </main>
+
+  <!-- AGENCY RESOURCES (separate page shown when user selects the Agency Resources tab) -->
+  <main id="agency-resources" class="page">
+    <h1>Agency Resources</h1>
+    <div class="card">
+      <p>Quick-launch links your team uses most. Edit URLs as needed.</p>
+      <div class="quick-buttons">
+        <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/" target="_blank" rel="noopener noreferrer">SWRCB Drinking Water</a>
+        <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/OperatorCertification.html" target="_blank" rel="noopener noreferrer">Operator Certification (CA)</a>
+        <a class="quick-btn" href="https://sdwis.waterboards.ca.gov/PDWW/" target="_blank" rel="noopener noreferrer">Drinking Water Watch (CA)</a>
+        <a class="quick-btn" href="https://www.epa.gov/dwreginfo" target="_blank" rel="noopener noreferrer">EPA Drinking Water Regs</a>
+        <a class="quick-btn" href="https://www.epa.gov/ccr" target="_blank" rel="noopener noreferrer">EPA CCR</a>
+        <a class="quick-btn" href="https://www.calwarn.org/" target="_blank" rel="noopener noreferrer">CalWARN (Mutual Aid)</a>
+        <a class="quick-btn" href="https://www.cisa.gov/water" target="_blank" rel="noopener noreferrer">CISA – Water/Wastewater Cyber</a>
+        <a class="quick-btn" href="https://www.waterboards.ca.gov/drinking_water/certlic/labs/" target="_blank" rel="noopener noreferrer">ELAP – Accredited Labs</a>
+        <a class="quick-btn" href="https://www.owp.csus.edu/" target="_blank" rel="noopener noreferrer">CSUS – Office of Water Programs</a>
+        <a class="quick-btn" href="https://www.awwa.org/Professional-Development" target="_blank" rel="noopener noreferrer">AWWA – Professional Development</a>
       </div>
     </div>
   </main>
