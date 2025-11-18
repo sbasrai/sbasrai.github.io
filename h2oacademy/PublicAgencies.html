@@ -3,68 +3,79 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>H2O Academy — Public Agencies</title>
+  <title>H2O Academy — Public Agencies (Menu)</title>
   <style>
-    :root{--brand:#1b65d4;--nav:#0f2c52;--ink:#0b1b2b;--muted:#4a5d75;--line:#e6eef7;--bg:#f6f9fe;--white:#fff}
-    *{box-sizing:border-box;margin:0;padding:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif;color:var(--ink);background:var(--bg)}
-    a{color:inherit;text-decoration:none}
-    .wrap{max-width:1080px;margin:0 auto;padding:0 24px;}
-    .hero{position:relative;isolation:isolate}
-    .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,24,44,.15) 0%, rgba(10,24,44,.45) 55%, rgba(10,24,44,.65) 100%), url('https://images.unsplash.com/photo-1567067977901-30eb1c3718d6?q=80&w=1954&auto=format&fit=crop') center/cover no-repeat;z-index:-1}
-    .hero-inner{padding:72px 0 60px;color:#fff}
-    .hero h1{font-size:clamp(32px,6vw,56px);line-height:1.06;margin:8px 0 8px;text-shadow:0 2px 18px rgba(0,0,0,.28)}
-    .sub{font-size:clamp(16px,2.4vw,20px);max-width:1060px;color:#e9f2ff;margin:10px 0 26px}
-    .cta{display:flex;gap:16px;flex-wrap:wrap}
-    .btn{display:inline-block;padding:14px 18px;border-radius:14px;border:2px solid #203b63;background:#203b63;color:#fff;font-weight:800}
-    .btn.alt{background:transparent;border-color:#e9f2ff;color:#fff}
-    section.section{padding:64px 0;}
-    @media (max-width:600px){section.section{padding:40px 0;}}
-    h2{font-size:30px;margin:0 0 12px}
-    .card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;}
-    ul{margin:10px 0 18px 22px}
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,Arial,Helvetica,sans-serif;background:#f6f9fe;color:#0b1b2b;margin:0}
+    .wrap{max-width:1080px;margin:0 auto;padding:24px}
+    .sidebar{background:#fff;border:1px solid #e6eef7;border-radius:12px;padding:18px}
+    .sidebar h3{margin:0 0 12px;color:#1b65d4}
+    .sidebar ul{list-style:none;padding:0;margin:0}
+    .sidebar li{margin:8px 0}
+    .sidebar a{color:#0f2c52;text-decoration:none}
+    .sidebar a:hover{text-decoration:underline}
+    .hero{position:relative;padding:40px 0 30px}
+    .hero-inner{padding:12px}
+    .sub{color:#4a6b8a;margin:8px 0 18px}
+    .cta{display:flex;gap:12px}
+    .btn{display:inline-block;padding:10px 14px;border-radius:10px;background:#1b65d4;color:#fff;text-decoration:none;font-weight:700}
+    section.section{padding:30px 0}
   </style>
 </head>
 <body>
-
-  <section class="hero" aria-label="Agencies hero">
-    <div class="wrap hero-inner">
-      <h1>Training Solutions for Public Agencies</h1>
-      <p class="sub">Custom exam prep, continuing education, and shift-friendly training for water utilities, municipalities, and public sector teams.</p>
-      <div class="cta">
-        <a class="btn" href="mailto:info@h2o-academy.org?subject=Agency%20Training%20Inquiry">Request Info</a>
-        <a class="btn" href="homepage.html">Return to Homepage</a>
-      </div>
-    </div>
-  </section>
-
   <main>
-    <section class="section">
-      <div class="wrap">
-        <h2>On‑Site & Virtual Training for Agencies</h2>
-        <p>H2O Academy partners with public agencies to deliver tailored water operator training, exam preparation, and continuing education. Our programs are designed to fit your schedule, facility, and workforce needs.</p>
-        <h3>Popular Modules</h3>
+    <div class="wrap">
+      <aside class="sidebar" aria-label="Agencies menu">
+        <h3>Menu</h3>
         <ul>
-          <li>Water Treatment &amp; Distribution Exam Prep (T1–T5, D1–D5)</li>
-          <li>Math for Operators: Calculations, Conversions, &amp; Problem Solving</li>
-          <li>Regulatory Compliance &amp; Reporting</li>
-          <li>Safety, Emergency Response, &amp; Risk Management</li>
-          <li>Process Optimization &amp; Troubleshooting</li>
-          <li>Leadership, Ethics, &amp; Communication Skills</li>
+          <li><a href="#topics">Topics for Training</a></li>
+          <li><a href="#samples">Sample Sessions</a></li>
+          <li><a href="#suggest">Suggest Topics</a></li>
+          <li><a href="../index.html#agency-resources">Agency Resources</a></li>
+          <li><a href="#ceu">CEU Certificates</a></li>
         </ul>
-        <h3>What’s Included</h3>
-        <ul>
-          <li>Live instruction (on‑site or virtual)</li>
-          <li>Custom schedules for shifts/teams</li>
-          <li>Role‑based learning paths</li>
-          <li>Practice exams &amp; handouts</li>
-          <li>Contact hour documentation (where applicable)</li>
-          <li>Follow‑up support for supervisors &amp; trainees</li>
-        </ul>
-        <p><strong>Contact us</strong> to discuss your agency’s needs, request a quote, or schedule a free consultation.</p>
-        <a class="btn" href="mailto:info@h2o-academy.org?subject=Agency%20Training%20Inquiry">Get Started</a>
-      </div>
-    </section>
-  </main>
+      </aside>
+      
+      <!-- User-provided body content -->
+      <section class="hero" aria-label="Agencies hero">
+        <div class="wrap hero-inner">
+          <h1>Training Solutions for Public Agencies</h1>
+          <p class="sub">Custom exam prep, continuing education, and shift-friendly training for water utilities, municipalities, and public sector teams.</p>
+          <div class="cta">
+            <a class="btn" href="mailto:info@h2o-academy.org?subject=Agency%20Training%20Inquiry">Request Info</a>
+            <a class="btn" href="homepage.html">Return to Homepage</a>
+          </div>
+        </div>
+      </section>
 
+      <main>
+        <section class="section">
+          <div class="wrap">
+            <h2>On‑Site & Virtual Training for Agencies</h2>
+            <p>H2O Academy partners with public agencies to deliver tailored water operator training, exam preparation, and continuing education. Our programs are designed to fit your schedule, facility, and workforce needs.</p>
+            <h3>Popular Modules</h3>
+            <ul>
+              <li>Water Treatment &amp; Distribution Exam Prep (T1–T5, D1–D5)</li>
+              <li>Math for Operators: Calculations, Conversions, &amp; Problem Solving</li>
+              <li>Regulatory Compliance &amp; Reporting</li>
+              <li>Safety, Emergency Response, &amp; Risk Management</li>
+              <li>Process Optimization &amp; Troubleshooting</li>
+              <li>Leadership, Ethics, &amp; Communication Skills</li>
+            </ul>
+            <h3>What’s Included</h3>
+            <ul>
+              <li>Live instruction (on‑site or virtual)</li>
+              <li>Custom schedules for shifts/teams</li>
+              <li>Role‑based learning paths</li>
+              <li>Practice exams &amp; handouts</li>
+              <li>Contact hour documentation (where applicable)</li>
+              <li>Follow‑up support for supervisors &amp; trainees</li>
+            </ul>
+            <p><strong>Contact us</strong> to discuss your agency’s needs, request a quote, or schedule a free consultation.</p>
+            <a class="btn" href="mailto:info@h2o-academy.org?subject=Agency%20Training%20Inquiry">Get Started</a>
+          </div>
+        </section>
+      </main>
+    </div>
+  </main>
 </body>
 </html>
