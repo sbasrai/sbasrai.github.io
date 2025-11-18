@@ -67,7 +67,6 @@
       <h1>Student Resources &amp; Practice</h1>
       <p class="sub">Guides, templates, and practice questions for water treatment and distribution operator exam success.</p>
       <div class="cta">
-        <a class="btn" href="#practice">Practice Questions</a>
         <a class="btn" href="#course">Bassett Class Info</a>
       </div>
     </div>
@@ -116,10 +115,10 @@
     </div>
   </section>
 
-  <section class="section" style="background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
+    <section class="section" style="background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
     <div class="wrap">
       <h2 style="font-size:2rem;margin-bottom:18px;">Launch or Advance Your Career in Water</h2>
-      <p>At Bassett Adult School, I teach a 16‑session, 3.5‑hour per‑class Water Technology course designed to prepare you for the State Water Resources Control Board (SWRCB) certification.</p>
+      <p>At Bassett Adult School, I teach a 16‑session, 3.5‑hour per‑class Water Technology course focused on certification exam preparation and practical skills.</p>
       <h3 style="margin-top:28px;margin-bottom:12px;">What You’ll Gain</h3>
       <ul style="margin-bottom:18px;">
         <li>36‑specified Training Certificate (35 hours) in Treatment or Distribution—meeting higher‑level certification</li>
@@ -165,43 +164,11 @@
         <li>Dates, format, pricing, CEU &bull; eligibility</li>
       </ul>
       <div style="display:flex;justify-content:flex-end;gap:12px;">
-        <a class="btn" href="#" id="showPracticeBtn" style="font-size:1.1rem;">Start Quiz</a>
         <a class="btn" href="homepage.html" style="font-size:1.1rem;">Return to Homepage</a>
       </div>
     </div>
   </section>
-
-  <section id="practiceSection" class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
-    <div class="wrap">
-      <h2>Practice Questions</h2>
-      <label for="levelSelect" style="font-weight:bold;">Select Level:</label>
-      <select id="levelSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
-        <option value="">--Select Level--</option>
-        <option value="1">Level 1</option>
-        <option value="2">Level 2</option>
-        <option value="3">Level 3</option>
-      </select>
-      <label for="topicSelect" style="font-weight:bold;margin-left:18px;">Select Topic:</label>
-      <select id="topicSelect" style="margin:0 0 18px 12px;padding:6px 12px;border-radius:6px;">
-        <option value="">--Select Topic--</option>
-        <option value="Water sources">Water sources</option>
-        <option value="Laboratory and Water Quality">Laboratory and Water Quality</option>
-        <option value="Regulations">Regulations</option>
-        <option value="Water Treatment">Water Treatment</option>
-        <option value="Disinfection">Disinfection</option>
-        <option value="Pumping">Pumping</option>
-        <option value="Distribution">Distribution</option>
-        <option value="Safety">Safety</option>
-        <option value="Ethics and Supervision">Ethics and Supervision</option>
-      </select>
-      <button class="btn" id="randomBtn" style="margin-left:12px;">Show Random Question</button>
-      <div class="quiz" id="quiz"></div>
-      <button class="show-answer" onclick="document.querySelectorAll('.answer').forEach(a=>a.style.display='block')">Show Correct Answer</button>
-      <div style="margin-top:24px;">
-        <button class="btn" id="backBtn" style="font-size:1rem;">Back to Student Resources</button>
-      </div>
-    </div>
-  </section>
+  
 
   <section class="section" style="display:none; background:#fff;border-radius:18px;box-shadow:0 8px 32px rgba(0,0,0,.04);">
     <div class="wrap">
@@ -217,29 +184,6 @@
 
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script>
-  let questionsData = null;
-
-  document.getElementById('showPracticeBtn').onclick = function(e) {
-    e.preventDefault();
-    document.querySelector('section.section').style.display = 'none';
-    document.getElementById('practiceSection').style.display = 'block';
-    if (!questionsData) {
-      fetch('questions.yaml')
-        .then(response => response.text())
-        .then(yamlText => {
-          questionsData = jsyaml.load(yamlText);
-          showRandomQuestion();
-        });
-    } else {
-      showRandomQuestion();
-    }
-  };
-
-  document.getElementById('backBtn').onclick = function() {
-    document.getElementById('practiceSection').style.display = 'none';
-    document.querySelector('section.section').style.display = 'block';
-  };
-
   // Show jobs section and hide all others
   document.getElementById('showJobsBtn').onclick = function(e) {
     e.preventDefault();
@@ -258,34 +202,7 @@
     });
   };
 
-  function showRandomQuestion() {
-    const quizDiv = document.getElementById('quiz');
-    quizDiv.innerHTML = '';
-    const selectedLevel = document.getElementById('levelSelect').value;
-    const selectedTopic = document.getElementById('topicSelect').value;
-    if (!selectedLevel || !selectedTopic) {
-      quizDiv.innerHTML = '';
-      return;
-    }
-    const filtered = questionsData.questions.filter(q => 
-      String(q.level) === selectedLevel && q.topic === selectedTopic
-    );
-    if (filtered.length === 0) {
-      quizDiv.innerHTML = '';
-      return;
-    }
-    const q = filtered[Math.floor(Math.random() * filtered.length)];
-    const div = document.createElement('div');
-    div.className = 'quiz-item';
-    div.innerHTML = `<h3>${q.text}</h3>`;
-    if (q.choices) {
-      Object.entries(q.choices).forEach(([key, val]) => {
-        div.innerHTML += `<label><input type="radio" name="${q.id}" value="${key}"> ${val}</label><br>`;
-      });
-    }
-    div.innerHTML += `<div class="answer">Correct Answer: ${q.choices && q.correct ? q.choices[q.correct] : ''}<br>${q.solution || ''}</div>`;
-    quizDiv.appendChild(div);
-  }
+  
 
   function renderJobs() {
     const jobs = [
@@ -319,15 +236,7 @@
     });
   }
 
-  document.getElementById('levelSelect').onchange = function() {
-    if (questionsData) showRandomQuestion();
-  };
-  document.getElementById('topicSelect').onchange = function() {
-    if (questionsData) showRandomQuestion();
-  };
-  document.getElementById('randomBtn').onclick = function() {
-    if (questionsData) showRandomQuestion();
-  };
+  
   </script>
 </body>
 </html>
