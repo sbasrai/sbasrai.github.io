@@ -1,0 +1,1668 @@
+Front,Back
+"MF filtrate turbidity is stable, but TMP increases rapidly during
+each cycle. What is the most likely cause?
+a. Reversible fouling buildup between backwashes
+b. Fiber break
+c. Analyzer malfunction
+d. Air scour failure",Answer: a. Reversible fouling buildup between backwashes
+"MF integrity test passes, but filtrate turbidity spikes briefly
+during transitions. Why?
+a. Fiber failure
+b. Air intrusion or bubbles reaching turbidity analyzer
+c. Module breach
+d. CEB under-dosing",Answer: b. Air intrusion or bubbles reaching turbidity analyzer
+"MF backwash frequency is reduced without adjusting flux. Expected
+outcome?
+a. Faster TMP rise
+b. Lower TMP
+c. Higher filtrate turbidity
+d. Lower energy use",Answer: a. Faster TMP rise
+"MF CEB chlorine concentration is lower than target. What will
+operators observe?
+a. Poor chemical cleaning effectiveness
+b. Higher UVT
+c. Higher filtrate turbidity
+d. Lower TMP",Answer: a. Poor chemical cleaning effectiveness
+"MF TMP begins rising earlier in each filtration cycle. What is the
+most likely cause?
+a. Insufficient backwash frequency
+b. Analyzer drift
+c. Integrity failure
+d. Chemical under-dosing",Answer: a. Insufficient backwash frequency
+"MF filtrate turbidity increases slightly while TMP remains stable.
+Most likely:
+a. Fouling
+b. Fiber break or localized leak
+c. TMP probe drift
+d. Low flux",Answer: b. Fiber break or localized leak
+"MF integrity test fails with a high air decay rate. First step?
+a. Verify test setup and repeat the test
+b. Replace the entire rack
+c. Increase flux
+d. Conduct CIP",Answer: a. Verify test setup and repeat the test
+"MF CEBs become less effective over time. Root cause?
+a. High UVT
+b. Chemical strength deterioration or incorrect mixing
+c. Analyzer error
+d. Excessive air scour",Answer: b. Chemical strength deterioration or incorrect mixing
+"An MF train passes integrity testing, but TMP continues to rise
+while filtrate turbidity remains >= 0.05 NTU. What is the most
+likely interpretation?
+a. Gradual, reversible fouling
+b. Catastrophic fiber break
+c. Analyzer drift
+d. Header O-ring leak","Answer: a. Gradual, reversible fouling"
+"Operators increased low-pH CEB frequency with minimal TMP
+improvement. What is the best next step?
+a. Switch to high-pH CEB targeting organic fouling
+b. Reduce air scour
+c. Reduce flux
+d. Increase backwash frequency only",Answer: a. Switch to high-pH CEB targeting organic fouling
+"For an MF system operating at constant flux, what happens when
+recovery is increased?
+a. Solids loading per unit membrane area increases
+b. TMP decreases
+c. Backwash frequency decreases
+d. Integrity credit decreases",Answer: a. Solids loading per unit membrane area increases
+"An MF integrity test shows a repeatable small leak equivalent to a
+single broken fiber. If ignored, the main risk is:
+a. Loss of log removal credit
+b. Increased TMP
+c. Shorter cycle times
+d. Higher filtrate pH",Answer: a. Loss of log removal credit
+"MF filtrate turbidity begins trending upward from 0.03 NTU to 0.07
+NTU, but TMP is stable. Most likely cause?
+a. Fiber break in multiple modules
+b. Turbidity analyzer drift or fouling
+c. Irreversible fouling
+d. Backwash air scour malfunction",Answer: b. Turbidity analyzer drift or fouling
+"MF TMP rises during the filtration cycle but resets normally after
+backwash. Interpretation?
+a. Reversible fouling
+b. Irreversible fouling
+c. Broken fibers
+d. Chemical cleaning required immediately",Answer: a. Reversible fouling
+"MF integrity test fails with a bubble point slightly below
+threshold. First operator action?
+a. Remove module from service
+b. Repeat the integrity test
+c. Perform full CEB
+d. Increase flux to verify",Answer: b. Repeat the integrity test
+"MF CEB frequency is too low. What is the likely symptom?
+a. Lower TMP
+b. Faster TMP rise between cycles
+c. Higher filtrate turbidity
+d. Improved cycle time",Answer: b. Faster TMP rise between cycles
+"MF filtrate turbidity remains low, but TMP gradually increases from
+cycle to cycle. What is the most likely cause?
+a. Reversible fouling accumulating between cycles
+b. Multiple fiber breaks
+c. Analyzer malfunction
+d. Air scour failure",Answer: a. Reversible fouling accumulating between cycles
+"MF backwash air flow suddenly drops. Immediate likely cause?
+a. Broken fibers
+b. Blower or valve failure
+c. High turbidity in filtrate
+d. Low hypochlorite residual",Answer: b. Blower or valve failure
+"MF integrity test passes but filtrate turbidity shows occasional
+spikes. Cause?
+a. Fiber break
+b. Analyzer bubble interference
+c. Over-fluxing
+d. Permeate tank contamination",Answer: b. Analyzer bubble interference
+"Increasing MF flux without increasing backwash frequency will most
+likely lead to:
+a. Lower TMP
+# RO
+b. Faster TMP rise
+c. Higher filtrate turbidity
+d. Lower energy use",Answer: b. Faster TMP rise
+"RO Delta P increases but permeate conductivity remains constant.
+What does this indicate?
+a. Membrane breach
+b. Hydraulic fouling (particulate/biofouling)
+c. Analyzer drift
+d. Chemical scaling",Answer: b. Hydraulic fouling (particulate/biofouling)
+"RO permeate conductivity increases but Delta P is stable. Which
+is true?
+a. Fouling
+b. Membrane salt rejection loss
+c. Scaling
+d. Air entrainment",Answer: b. Membrane salt rejection loss
+"RO stage-by-stage flows show high lead-stage permeate and very low
+tail-stage permeate. Cause?
+a. O-ring leak
+b. Analyzer drift
+c. Tail-stage fouling or scaling
+d. Air entrainment",Answer: c. Tail-stage fouling or scaling
+"RO feed ORP suddenly drops. Why?
+a. Analyzer malfunction
+b. Excess bisulfite feed
+c. UVT increased
+d. pH decreased",Answer: b. Excess bisulfite feed
+"RO NDP decreases even though feed TDS increases. Why?
+a. Membrane fouling
+b. Higher temperature reduces viscosity
+c. Lower recovery
+d. Analyzer drift",Answer: b. Higher temperature reduces viscosity
+"RO feed SDI increases steadily. Which upstream process is most
+likely underperforming?
+a. UV
+b. MF/UF
+c. RO concentrate tank
+d. Permeate pump",Answer: b. MF/UF
+"RO lead-element permeate flow drops while tail-element flow stays
+normal. Explanation?
+a. Lead-element fouling or scaling
+b. Tail-element fouling
+c. O-ring failure
+d. Analyzer drift",Answer: a. Lead-element fouling or scaling
+"RO Delta P decreases unexpectedly while flows remain constant.
+Cause?
+a. Scaling
+b. Fouling
+c. Temperature increase reducing viscosity
+d. Analyzer failure",Answer: c. Temperature increase reducing viscosity
+"Permeate conductivity decreases while feed conductivity is stable.
+Most likely:
+a. Analyzer error
+b. Lower temperature improving salt rejection
+c. Membrane damage
+d. O-ring leak",Answer: b. Lower temperature improving salt rejection
+"RO concentrate flow increases without change in feed flow. Which is
+true?
+a. Recovery has decreased
+b. Recovery has increased
+c. Feed pressure has dropped
+d. Lead-element fouling occurred",Answer: a. Recovery has decreased
+"Normalized permeate flow is decreasing while normalized salt passage
+is constant. Interpretation?
+a. Fouling or compaction
+b. Scaling
+c. Membrane breach
+d. Analyzer drift",Answer: a. Fouling or compaction
+"RO tail element pressure increases more rapidly than lead elements.
+Most likely:
+a. Biofouling in lead stage
+b. Colloidal or particulate fouling in tail stage
+c. Oxidation of membranes
+d. Low pH",Answer: b. Colloidal or particulate fouling in tail stage
+"RO feed ORP rises unexpectedly even though bisulfite dosing is
+stable. Cause?
+a. Bisulfite pump losing prime or injection failure
+b. High temperature
+c. Low pH
+d. Analyzer drift",Answer: a. Bisulfite pump losing prime or injection failure
+"RO system experiences permeate conductivity drift upward but
+Delta P remains normal. Cause?
+a. Gradual loss of salt rejection
+b. Colloidal fouling
+c. Air entrainment
+d. Analyzer turbidity error",Answer: a. Gradual loss of salt rejection
+"RO feed pump cavitation is most likely due to:
+a. High feed pressure
+b. Membrane fouling
+c. Low net positive suction head (NPSHa)
+d. High temperature",Answer: c. Low net positive suction head (NPSHa)
+"RO concentrate flow suddenly drops with stable feed flow. Most
+likely cause:
+a. Scaling
+b. Concentrate valve partially closed or drifting
+c. Analyzer error
+d. High UVT",Answer: b. Concentrate valve partially closed or drifting
+"Lead-stage Delta P is stable, tail-stage Delta P is
+increasing, and permeate conductivity is unchanged. This pattern
+indicates:
+a. Biofouling in lead elements
+b. Colloidal/particulate fouling in tail stage
+c. Membrane oxidation
+d. Undersized concentrate valve",Answer: b. Colloidal/particulate fouling in tail stage
+"Scaling persists in the RO tail despite correct antiscalant dose.
+Most likely explanation:
+mixing)
+a. Antiscalant is injected too close to the RO (insufficient
+b. Antiscalant is incompatible with the membrane
+c. Antiscalant is inactivated by low pH
+d. Temperature is too high and destroys the antiscalant",Answer: a. Antiscalant is injected too close to the RO (insufficient
+"Permeate conductivity slowly increases while Delta P and flows
+remain stable. What is the most likely cause?
+a. Gradual loss of salt rejection (membrane aging/oxidation)
+b. Colloidal fouling in the tail
+c. VFD/pump mechanical issues
+d. Flow meter drift",Answer: a. Gradual loss of salt rejection (membrane aging/oxidation)
+"Net driving pressure (NDP) increases significantly, but feed
+conductivity and temperature remain constant. Which is most likely?
+a. Osmotic pressure increased
+pressure
+b. Fouling increased hydraulic resistance, requiring higher feed
+c. Permeate pressure dropped to zero
+d. Membranes compacted due to chemical cleaning","Answer: b. Fouling increased hydraulic resistance, requiring higher feed"
+"An RO system shows both increasing Delta P and rising permeate
+conductivity. What cleaning sequence is most appropriate?
+a. Caustic/surfactant cleaning followed by acid cleaning
+b. Acid cleaning only
+c. High-pH cleaning only
+d. Sodium bisulfite flush only",Answer: a. Caustic/surfactant cleaning followed by acid cleaning
+"RO feed conductivity increases while permeate conductivity stays
+stable. This indicates:
+a. Osmotic pressure increase
+b. Membrane breach
+c. Scaling in tail elements
+d. Flow meter drift",Answer: a. Osmotic pressure increase
+"RO normalized permeate flow is decreasing but Delta P is stable.
+Cause?
+a. Loss of membrane permeability (fouling/compaction)
+b. Scaling
+c. Analyzer failure
+d. Air entrainment",Answer: a. Loss of membrane permeability (fouling/compaction)
+"Tail-stage permeate flow decreases while lead-stage remains
+constant. Most likely:
+a. Biofouling in lead stage
+b. Scaling/fouling in tail stage
+c. Pump cavitation
+d. Valve malfunction",Answer: b. Scaling/fouling in tail stage
+"RO permeate pH slowly increases over weeks. Which scenario fits?
+a. CO2 stripping in permeate tank
+b. Weak-base amines passing through membranes
+c. Antiscalant overdose
+d. Caustic feed pump failure",Answer: b. Weak-base amines passing through membranes
+"During startup, RO feed pressure spikes and permeate flow stalls.
+Cause?
+a. High temperature
+b. High recovery
+c. Trapped air in pressure vessel
+d. High pH",Answer: c. Trapped air in pressure vessel
+"Sudden drop in RO feed ORP despite stable bisulfite dosing.
+Explanation?
+# UV/AOP
+a. Bisulfite line plugging or pump failure
+b. High pH
+c. Scaling
+d. Membrane oxidation",Answer: a. Bisulfite line plugging or pump failure
+"UV lamps require less power to maintain dose than last month. Why?
+a. Sleeve fouling
+b. UVT increase
+c. Lamp aging
+d. Peroxide underfeed",Answer: b. UVT increase
+"UV intensity sensors suddenly read higher than expected. Cause?
+a. Sensor calibration drift
+b. Sleeve fouling
+c. Lamp failures
+d. Analyzer wiring error",Answer: a. Sensor calibration drift
+"UV-AOP reactor shows reduced peroxide consumption. Which is likely?
+a. High UVT
+b. High pH
+c. Peroxide injection underfeed
+d. Lamp overdrive",Answer: c. Peroxide injection underfeed
+"UV sleeve fouling will cause:
+a. Higher UVT
+b. Lower UV intensity readings
+c. Lower ORP
+d. Higher dose for same power",Answer: b. Lower UV intensity readings
+"UV lamps require higher power to maintain dose, but UVT is
+unchanged. Cause?
+a. Quartz sleeve fouling
+b. High peroxide
+c. Air entrainment
+d. Analyzer drift",Answer: a. Quartz sleeve fouling
+"UVT shows sudden drop from 92% to 86% with no upstream changes. Most
+likely:
+a. Analyzer fouling or stray light error
+b. Lamp failure
+c. Sleeve break
+d. High pH",Answer: a. Analyzer fouling or stray light error
+"UV radical generation decreases unexpectedly. Why?
+a. High UVT
+b. Lamp age
+c. Peroxide under-dosing
+d. High temperature",Answer: c. Peroxide under-dosing
+"UV dose increases with:
+a. Decreased UVT
+b. Decreased flow rate (longer residence time)
+c. Lamp fouling
+d. Peroxide overfeed",Answer: b. Decreased flow rate (longer residence time)
+"UV intensity decreases gradually while UVT is stable. Most likely
+cause:
+a. Quartz sleeve fouling
+b. Lamp failure
+c. High peroxide
+d. High pH",Answer: a. Quartz sleeve fouling
+"UV reactor shows increased headloss. Why?
+a. Peroxide overdose
+b. Quartz sleeve fouling or debris accumulation
+c. Low UVT
+d. High UV dose",Answer: b. Quartz sleeve fouling or debris accumulation
+"UV-AOP uses peroxide as a radical promoter. A sudden drop in radical
+production is likely due to:
+a. High pH
+b. Peroxide underfeed
+c. UV overdrive
+d. High ORP",Answer: b. Peroxide underfeed
+"UV dose increases with:
+a. Lower UVT
+b. Longer hydraulic residence time
+c. Lamp fouling
+d. Lamp aging",Answer: b. Longer hydraulic residence time
+"UVT decreases from 94% to 88%. The controller increases lamp power
+to maintain dose. What is the primary operational concern?
+a. Increased power consumption per unit of water treated
+b. Excess production of hydroxyl radicals
+c. Loss of NDMA destruction credit
+d. Reduced RO recovery",Answer: a. Increased power consumption per unit of water treated
+"Downstream peroxide residual is consistently higher than expected
+after UV-AOP. What is the most likely explanation?
+a. Excess peroxide is being overfed and is not fully consumed
+b. UV dose is too low
+c. UV dose is too high
+d. Peroxide dose is too low",Answer: a. Excess peroxide is being overfed and is not fully consumed
+"Reduced hydraulic mixing in a UV reactor poses which primary risk?
+a. Higher UVT
+b. Short-circuiting leading to under-dosed regions
+c. Increased lamp fouling
+d. Higher peroxide residual",Answer: b. Short-circuiting leading to under-dosed regions
+"Which operating condition most increases bromate formation risk in
+UV-AOP for high-bromide water?
+a. High pH + high peroxide dose + high UV dose
+b. Low pH + low UV dose
+c. High pH + low UV dose
+d. Low pH + high UV dose",Answer: a. High pH + high peroxide dose + high UV dose
+"UV intensity sensors read low, but UVT and lamp age are normal. Most
+likely issue?
+a. Fouled or dirty UV sensor window
+b. Lamp failure
+c. Peroxide overdose
+d. Valve misalignment",Answer: a. Fouled or dirty UV sensor window
+"Peroxide consumption suddenly decreases in UV-AOP. Cause?
+a. Lower UV dose
+b. Peroxide underfeed or injection pump failure
+c. High pH
+d. High temperature",Answer: b. Peroxide underfeed or injection pump failure
+"UV reactor pressure drop increases. Most likely cause:
+a. Quartz sleeve fouling
+b. High UVT
+c. Low peroxide
+d. Lamp overdrive",Answer: a. Quartz sleeve fouling
+"UV dose reaches setpoint at lower lamp power than usual. Why?
+a. UVT decreased
+# Potable Reuse/CCPs
+b. UVT increased
+c. Peroxide residual high
+d. Lamp fouling",Answer: b. UVT increased
+"In potable reuse, which barrier combination provides log
+inactivation/removal of microconstituents?
+a. MF only
+b. MF + RO only
+c. MF + RO + UV-AOP
+d. UV alone",Answer: c. MF + RO + UV-AOP
+"RO permeate TOC gradually increases. Why?
+a. UV failure
+b. MF integrity loss
+c. Decreasing RO rejection (organic passage)
+d. Analyzer failure",Answer: c. Decreasing RO rejection (organic passage)
+"MF contributes to virus LRV based on:
+a. TMP
+b. Flux
+c. Passing integrity testing
+d. Backwash cycle length",Answer: c. Passing integrity testing
+"Which is the primary purpose of MF in a potable reuse MF--RO--UV-AOP
+train?
+a. Particle and pathogen removal
+b. Salt removal
+c. Chemical oxidation
+d. TOC destruction",Answer: a. Particle and pathogen removal
+"RO permeate TOC increases above baseline. Most likely cause?
+a. UV lamp failure
+b. Loss of RO rejection or organic breakthrough
+c. MF turbidity spike
+d. Peroxide underfeed",Answer: b. Loss of RO rejection or organic breakthrough
+"UV-AOP is primarily responsible for:
+a. Virus removal
+b. Trace organic destruction
+c. Turbidity reduction
+d. Salt removal",Answer: b. Trace organic destruction
+"In potable reuse, RO permeate conductivity is used as a surrogate
+CCP for:
+a. TMP
+b. UVT
+c. Salt rejection and chemical removal performance
+d. MF backwash effectiveness",Answer: c. Salt rejection and chemical removal performance
+"MF LRV assignment is based primarily on:
+a. Flux
+b. TMP
+c. Passing integrity tests
+d. Backwash air scour",Answer: c. Passing integrity tests
+"RO acts as a strong barrier for which contaminant group?
+a. Turbidity
+b. Hardness only
+c. Dissolved organics and salts
+d. Free chlorine",Answer: c. Dissolved organics and salts
+"In an MF/RO/UV-AOP advanced treatment train for potable reuse, which
+statement is most accurate?
+a. Only MF provides pathogen removal
+contaminant barriers
+b. RO alone provides all required virus log reduction
+c. RO plus UV-AOP together provide both pathogen and chemical
+d. UV-AOP is used only to improve aesthetic qualities",Answer: c. RO plus UV-AOP together provide both pathogen and chemical
+"For RO used as a critical control point (CCP) in potable reuse,
+which parameter is typically most critical?
+a. Permeate flow rate
+b. Permeate conductivity (or surrogate TOC reduction)
+c. Feed tank level
+d. MF filtrate turbidity",Answer: b. Permeate conductivity (or surrogate TOC reduction)
+"If RO permeate conductivity exceeds the CCP limit for the required
+duration, what must operators do?
+a. Immediately divert product water and investigate the cause
+b. Continue operation and review data at month-end
+c. Increase MF backwash frequency
+d. Increase UV dose only",Answer: a. Immediately divert product water and investigate the cause
+"A potable reuse facility uses TOC as a CCP surrogate for RO. A
+sudden TOC increase means:
+a. RO membrane scaling
+b. Decreased RO rejection
+c. UV-AOP lamp outage
+d. Lower MF recovery",Answer: b. Decreased RO rejection
+"MF/UF contribution to virus LRV credit is primarily based on:
+a. TMP
+b. Flux
+c. Integrity testing performance
+d. Backwash frequency",Answer: c. Integrity testing performance
+"RO as a barrier for PFAS removal is primarily dependent on:
+a. Membrane rejection properties
+b. Temperature
+c. UV dose
+d. Peroxide concentration",Answer: a. Membrane rejection properties
+"SCADA shows stable flow, but field gauge fluctuates heavily. Cause?
+a. SCADA failure
+b. PLC signal damping/filtering
+c. Fouled flow meter
+d. Air scour interference",Answer: b. PLC signal damping/filtering
+"PID-controlled pH system oscillates. Root cause?
+a. Analyzer drift
+b. Pump cavitation
+c. Controller gain too high
+d. Low ORP",Answer: c. Controller gain too high
+"A VFD pump runs hot even at low speeds. Reason?
+a. Cavitation
+b. Fouling
+c. Harmonic heating at low frequency
+d. Valve misalignment",Answer: c. Harmonic heating at low frequency
+"A flow transmitter suddenly reads zero while the pump is running.
+Most likely:
+a. Transmitter or wiring failure
+b. Valve closed
+c. Cavitation
+d. Air entrainment",Answer: a. Transmitter or wiring failure
+"VFD motor temperature rises even at low speed. Why?
+a. Fouling
+b. Pump cavitation
+c. Harmonic heating at low frequencies
+d. Peroxide overdose",Answer: c. Harmonic heating at low frequencies
+"pH control oscillates around the setpoint. Cause?
+a. Analyzer drift
+b. PID tuning too aggressive (high gain)
+c. Low ORP
+d. Pump cavitation",Answer: b. PID tuning too aggressive (high gain)
+"A flow-paced chemical dosing pump overshoots the setpoint. Most
+likely cause:
+a. Low pH
+b. Poor PID tuning or excessive gain
+c. Analyzer failure
+d. High UVT",Answer: b. Poor PID tuning or excessive gain
+"A pressure transmitter reads erratically with small oscillations.
+Root cause?
+a. Fouling
+b. Scaling
+c. Electrical noise or grounding issue
+d. High ORP",Answer: c. Electrical noise or grounding issue
+"SCADA displays stable analog readings but field gauge shows
+fluctuations. Cause?
+a. SCADA failure
+b. Signal damping/filtering in PLC
+c. Analyzer malfunction
+d. Fiber break",Answer: b. Signal damping/filtering in PLC
+"MF filtrate flow is 10 MGD. RO feed is controlled at 95% of MF
+filtrate by ratio control. MF flow drops, but RO feed remains
+unchanged. Why?
+a. The RO feed flow controller is in manual mode
+b. MF TMP alarm has latched
+c. UV system is in local mode
+d. Turbidity analyzer has failed",Answer: a. The RO feed flow controller is in manual mode
+"Operators experience numerous nuisance alarms due to small analyzer
+fluctuations around alarm limits. What is the best long-term fix?
+a. Disable all low-priority alarms
+b. Increase alarm deadbands and rationalize alarm setpoints
+c. Reduce SCADA scan rates
+d. Convert all alarms to simple event logs",Answer: b. Increase alarm deadbands and rationalize alarm setpoints
+"A turbidity analyzer suddenly drops from 1.0 NTU to 0.1 NTU with no
+observed process change. What is the most likely cause?
+a. Air bubble or maintenance interference at the sensor
+b. Automatic range change within the analyzer
+c. Coagulant overfeed upstream
+d. True rapid improvement in water quality",Answer: a. Air bubble or maintenance interference at the sensor
+"Flow-paced chemical dosing depends primarily on:
+a. Reliable flow measurement
+b. ORP
+c. UVT
+d. TMP",Answer: a. Reliable flow measurement
+"A VFD-driven pump shows pressure oscillations at certain speeds. The
+root cause is likely:
+a. Cavitation
+b. Harmonic resonance
+c. Scaling
+d. Bearing failure",Answer: b. Harmonic resonance
+"A PLC analog input reads noisy signals from a turbidity sensor. Best
+corrective action?
+# Integrated Troubleshooting
+a. Use shielded, grounded signal cable
+b. Increase pump speed
+c. Decrease UV dose
+d. Increase CEB frequency","Answer: a. Use shielded, grounded signal cable"
+"RO feed SDI increases and MF TMP rises simultaneously. Why?
+a. Higher solids loading in source water
+b. Analyzer drift
+c. Low ORP
+d. UV fault",Answer: a. Higher solids loading in source water
+"Sudden MF filtrate turbidity decrease without process change likely
+indicates:
+a. Improved performance
+b. Analyzer dilution or flushing effect
+c. Fiber break
+d. CEB effectiveness",Answer: b. Analyzer dilution or flushing effect
+"RO permeate flow decreases while concentrate flow increases.
+Meaning?
+a. Membrane breach
+b. Recovery decrease (valve drift)
+c. Fouling
+d. Analyzer error",Answer: b. Recovery decrease (valve drift)
+"RO feed pump trips intermittently on low suction pressure. Cause?
+a. Analyzer drift
+b. Scaling
+c. Air entrainment or low NPSH
+d. High recovery",Answer: c. Air entrainment or low NPSH
+"UV system shows high apparent dose despite fouling. Why?
+a. Sensor over-reading (miscalibration)
+b. High UVT
+c. Peroxide overfeed
+d. Increased flow",Answer: a. Sensor over-reading (miscalibration)
+"RO permeate conductivity spikes briefly after CEB or CIP.
+Explanation?
+a. Analyzer drift
+b. Chemical cleaning causes temporary rejection loss
+c. Scaling
+d. Low pH",Answer: b. Chemical cleaning causes temporary rejection loss
+"MF fouling increases rapidly following a raw water change. RO
+Delta P also increases slightly. Why?
+a. Higher solids loading from source water
+b. Valve misalignment
+c. Permeate blending error
+d. High pH",Answer: a. Higher solids loading from source water
+"RO feed pump trips frequently on low suction pressure. Most likely:
+a. High ORP
+b. Low NPSH or suction blockage
+c. Analyzer drift
+d. MF turbine fault",Answer: b. Low NPSH or suction blockage
+"Sudden RO permeate conductivity spike coincides with cleaning. Why?
+a. Analyzer drift
+b. Chemical cleaning temporarily changes rejection
+c. High pH
+d. Scaling",Answer: b. Chemical cleaning temporarily changes rejection
+"RO normalized flows vary widely between trains but pressures are
+identical. Cause?
+a. Instrument calibration drift
+b. Scaling
+c. Fouling
+d. Cavitation",Answer: a. Instrument calibration drift
+"MF filtrate turbidity drops after a storm. Interpretation?
+a. Treatment improvements
+b. Dilution effect or sample line flushing
+c. Analyzer failure
+d. Increased CEB frequency",Answer: b. Dilution effect or sample line flushing
+"UV system shows high dose despite lamp age and low UVT. Why?
+a. UV sensor calibration drift (reading artificially high)
+b. High UVT
+c. Peroxide overdose
+d. Analyzer wiring failure",Answer: a. UV sensor calibration drift (reading artificially high)
+"MF TMP increases and RO feed SDI increases at the same time. Likely
+cause:
+a. High solids loading from raw water
+b. Biofilm in RO
+c. Analyzer drift
+d. Valve malfunction",Answer: a. High solids loading from raw water
+"RO permeate conductivity spikes while Delta P is stable. Most
+likely:
+a. Scaling
+b. O-ring leak or membrane breach
+c. Air entrainment
+d. Analyzer turbidity error",Answer: b. O-ring leak or membrane breach
+"Sudden drop in MF cycle time with normal TMP likely indicates:
+a. Fouling
+b. Flux too high
+c. Backwash valve or cycle control issue
+d. Analyzer drift",Answer: c. Backwash valve or cycle control issue
+"RO pump trips on low suction pressure intermittently. Cause?
+a. High ORP
+b. Air entrainment or low NPSH
+c. Scaling
+d. High UVT",Answer: b. Air entrainment or low NPSH
+"UV dose suddenly drops though UVT is high and lamps are near-new.
+Cause?
+a. Excess peroxide
+b. UV sensor fouling or misalignment
+c. Air scour issue
+d. Concentrate valve drift",Answer: b. UV sensor fouling or misalignment
+"After a storm event, MF filtrate turbidity increases but TMP
+decreases. Why?
+a. Membrane break
+b. Analyzer dilution or inlet sample line flooded
+c. Backwash failure
+d. Concentrate valve stuck open",Answer: b. Analyzer dilution or inlet sample line flooded
+"MF TMP increases and RO Delta P increases after a storm. Most
+likely explanation:
+a. Increased solids loading to MF and RO
+b. Air entrainment
+c. Antiscalant pump failure
+d. Analyzer malfunction",Answer: a. Increased solids loading to MF and RO
+"MF filtrate flow decreases but TMP stays constant. Why?
+a. Flow meter error or calibration drift
+b. Fouling
+c. Scaling
+d. Backwash failure",Answer: a. Flow meter error or calibration drift
+"RO tail elements show declining permeate flow and higher
+differential pressure. Most likely cause:
+a. Biofouling in lead stage
+b. Scaling in tail stage
+c. Analyzer failure
+d. Low ORP",Answer: b. Scaling in tail stage
+"UV-AOP system shows low peroxide consumption and lower-than-expected
+radical production. Cause?
+a. Low pH
+b. Peroxide underfeed
+c. Lamp overdrive
+d. High temperature",Answer: b. Peroxide underfeed
+"A sudden RO permeate conductivity spike with normal Delta P
+indicates:
+a. Membrane breach or o-ring seal failure
+b. Scaling
+c. Biofouling
+d. Analyzer turbidity drift",Answer: a. Membrane breach or o-ring seal failure
+"MF system cycles shorten dramatically without TMP change. Most
+likely:
+a. Scaling
+b. High flux
+c. Control valve or backwash valve malfunction
+d. Low air scour",Answer: c. Control valve or backwash valve malfunction
+"RO recovery drops without change in feed flow or pressure. Cause?
+a. CIP needed
+b. Membrane breach
+c. Concentrate valve drifting toward open
+d. High pH feed",Answer: c. Concentrate valve drifting toward open
+"After a heavy rain event, MF TMP increases, RO feed SDI increases,
+and RO Delta P begins trending upward. What is the best immediate
+operational response?
+a. Increase RO recovery to maintain permeate production
+cycles
+b. Reduce MF flux and increase the frequency of backwash/CEB
+c. Lower RO feed pressure to reduce Delta P
+d. Increase antiscalant dose only",Answer: b. Reduce MF flux and increase the frequency of backwash/CEB
+"UV dose begins to fall short of setpoint despite full lamp power and
+normal UVT. Operators recently increased RO recovery. How does this
+indirectly impact UV-AOP?
+a. Lower flow to the UV system, increasing dose
+b. Higher permeate flow to UV, reducing hydraulic contact time
+c. Lower permeate TDS, reducing UV absorbance
+d. Incorrect UV setpoint in the SCADA system","Answer: b. Higher permeate flow to UV, reducing hydraulic contact time"
+"Two identical RO trains operate in parallel. Train A has a
+significantly higher Delta P than Train B, but both produce
+similar permeate quality and flow. What is the first troubleshooting
+step?
+a. Immediately CIP both trains
+b. Verify instrument calibration and check all valve positions
+c. Increase feed pressure to Train A
+d. Increase antiscalant dose to both trains",Answer: b. Verify instrument calibration and check all valve positions
+"An RO skid experiences random pressure spikes, and the MF filtrate
+flow meter upstream shows occasional negative flow spikes. What is
+the most likely cause?
+a. Harmonic distortion from the RO feed pump VFD
+b. Air entrainment in suction piping or common headers
+c. CO2 stripping in the MF filtrate line
+d. SCADA trending or analyzer malfunction",Answer: b. Air entrainment in suction piping or common headers
+"RO permeate conductivity rises slightly, but sodium and chloride
+remain low while ammonia and neutral organics appear higher in lab
+data. What is the best interpretation?
+a. Membrane failure with salt passage
+and changing water chemistry
+b. Analyzer/conductivity reading influenced by non-ionic species
+c. Antiscalant breakdown products leaking into permeate
+d. Biofilm growth in lead elements",Answer: b. Analyzer/conductivity reading influenced by non-ionic species
+"MF flux is lowered to reduce TMP. TMP improves, but the frequency of
+integrity test failures increases. What is the most likely
+explanation?
+a. Lower flux mechanically damages fibers
+pressure spikes during integrity tests
+# Title 22
+b. Backwash pressure at lower flux becomes too high
+c. Lower flux reduces scouring; solids bridging causes localized
+d. Flux must be higher to maintain integrity performance",Answer: c. Lower flux reduces scouring; solids bridging causes localized
+"A community water system is defined as one serving at least:
+a. 15 service connections or 25 residents year-round
+b. 10 service connections only
+c. 25 connections for any 30 days
+d. Any number if serving agriculture",Answer: a. 15 service connections or 25 residents year-round
+"A non-transient non-community system serves:
+a. Seasonal campgrounds
+b. 25 of the same people for >=6 months
+c. Temporary construction
+d. Schools only",Answer: b. 25 of the same people for >=6 months
+"Title 22 defines ""maximum contaminant level"" (MCL) as:
+a. Operational target
+b. Highest level allowed in drinking water
+c. Treatment technique
+d. Advisory goal",Answer: b. Highest level allowed in drinking water
+"A water system must notify DDW of any MCL violation:
+a. Within the required time frame dependent on tier
+b. Within 30 days always
+c. Only after confirmation samples
+d. Only during sanitary surveys",Answer: a. Within the required time frame dependent on tier
+"Title 22 requires sanitary surveys at least every:
+a. 3 or 5 years depending on system type
+b. 10 years
+c. 2 years
+d. Annually",Answer: a. 3 or 5 years depending on system type
+"Title 22 requires a bacteriological sample siting plan:
+a. For all public water systems
+b. Only for surface water systems
+c. Only systems serving >10,000
+d. Only if turbidity >0.5 NTU",Answer: a. For all public water systems
+"Failure to maintain minimum pressure under Title 22 is:
+a. A distribution system violation
+b. Only an operational advisory
+c. Reported annually
+d. Not regulated",Answer: a. A distribution system violation
+"The required minimum distribution system pressure is:
+a. 10 psi
+b. 20 psi
+c. 35 psi
+d. 50 psi",Answer: b. 20 psi
+"Public notification Tier 1 must be completed:
+a. Within 24 hours
+b. Within 48 hours
+c. Within 30 days
+d. Within 1 year",Answer: a. Within 24 hours
+"Title 22 requires reporting of system changes: *a. Prior to
+implementation when affecting safety
+b. Only after installation
+c. Only during sanitary surveys
+d. Only for chemical systems",Answer: (not marked)
+"An MCL exceedance requires:
+a. Public notification
+b. Nothing until two months of exceedances
+c. Blending only
+d. Only internal documentation",Answer: a. Public notification
+"A Consumer Confidence Report must be delivered:
+a. Annually by July 1
+b. Every month
+c. Only after an MCL violation
+d. Every 3 years",Answer: a. Annually by July 1
+"Monthly monitoring reports (MORs) must be submitted:
+a. Monthly or as required in the permit
+b. Quarterly
+c. Only during inspections
+d. Annually",Answer: a. Monthly or as required in the permit
+"Operator certification must match:
+a. The classification of the treatment facility
+b. Population served only
+c. Pipe diameter
+d. Source water TDS",Answer: a. The classification of the treatment facility
+"A Title 22 treatment technique violation includes:
+a. Failure to maintain turbidity and disinfectant requirements
+b. Any pressure >=50 psi
+c. Low alkalinity
+d. Customer complaints",Answer: a. Failure to maintain turbidity and disinfectant requirements
+"Minimum detectable residual for CT credit:
+a. 0.2 mg/L free chlorine
+b. 0.1 mg/L
+c. 1.0 mg/L
+d. 2.0 mg/L",Answer: a. 0.2 mg/L free chlorine
+"Minimum entry point residual for systems using free chlorine:
+a. 0.1 mg/L
+b. 0.2 mg/L
+c. 1.0 mg/L
+d. 2.0 mg/L",Answer: b. 0.2 mg/L
+"Required Giardia log removal/inactivation:
+a. 2-log
+b. 3-log
+c. 4-log
+d. 6-log",Answer: b. 3-log
+"Virus log removal/inactivation required:
+a. 2-log
+b. 3-log
+c. 4-log
+d. 6-log",Answer: c. 4-log
+"SWTR turbidity limit for conventional filtration (95
+a. 0.1 NTU
+b. 0.3 NTU
+c. 0.5 NTU
+d. 1.0 NTU",Answer: b. 0.3 NTU
+"Maximum turbidity ""never to exceed"":
+a. 0.3 NTU
+b. 0.5 NTU
+c. 1.0 NTU
+d. 2.0 NTU",Answer: c. 1.0 NTU
+"Profiling and benchmarking required when:
+a. Changing disinfection practices
+b. Changing operators
+c. During droughts only
+d. When UVT drops",Answer: a. Changing disinfection practices
+"Fecal indicator sample positive triggers:
+a. Repeat monitoring within 24 hours
+b. No action until second sample
+c. Annual report only
+d. No requirement",Answer: a. Repeat monitoring within 24 hours
+"Under RTCR, an E. coli MCL violation occurs when:
+a. Routine E. coli + repeat E. coli
+b. Any total coliform positive
+c. No repeats collected
+d. High turbidity only",Answer: a. Routine E. coli + repeat E. coli
+"Chlorine CT increases when: *a. Lower temperature or lower pH
+b. Higher temperature
+c. Higher pH
+d. Higher TDS",Answer: (not marked)
+"Combined chlorine as chloramine must maintain:
+a. Detectable residual
+b. >=1.0 mg/L everywhere
+c. >=4.0 mg/L
+d. Zero residual",Answer: a. Detectable residual
+"Turbidity analyzers must be:
+a. Calibrated according to manufacturer requirements
+b. Calibrated yearly only
+c. Never calibrated
+d. Only calibrated after storms",Answer: a. Calibrated according to manufacturer requirements
+"For surface water, minimum monitoring of turbidity is:
+a. Continuous
+b. Weekly
+c. Monthly
+d. Daily grab",Answer: a. Continuous
+"Surface water filtration avoidance requires:
+a. Meeting watershed and source criteria
+b. High pH
+c. High ORP
+d. High UVT",Answer: a. Meeting watershed and source criteria
+"Groundwater under the influence (GWUDI) is identified by:
+a. Microscopic particulate analysis
+b. Turbidity only
+c. Conductivity
+d. Color",Answer: a. Microscopic particulate analysis
+"The CT concept is defined as:
+a. Disinfectant concentration × contact time
+b. Flow ÷ pressure
+c. ORP × pH
+d. Turbidity ÷ flow",Answer: a. Disinfectant concentration × contact time
+"Systems must maintain detectable chlorine residual:
+a. Throughout the distribution system
+b. Only at plant effluent
+c. At storage tanks only
+d. Only during emergencies",Answer: a. Throughout the distribution system
+"Breakpoint chlorination refers to:
+satisfying demand
+a. Point at which free chlorine residual increases after
+b. Chlorine booster failure
+c. Peak hour demand
+d. Endpoint pH",Answer: a. Point at which free chlorine residual increases after
+"A nitrification event is most often associated with:
+a. Chloraminated systems
+b. Ozonation
+c. UV disinfection
+d. High turbidity",Answer: a. Chloraminated systems
+"Nitrate (as N) MCL:
+a. 10 mg/L
+b. 5 mg/L
+c. 45 mg/L
+d. 1 mg/L",Answer: a. 10 mg/L
+"Nitrite (as N) MCL:
+a. 1 mg/L
+b. 2 mg/L
+c. 10 mg/L
+d. 45 mg/L",Answer: a. 1 mg/L
+"Arsenic MCL:
+a. 20 µg/L
+b. 10 µg/L
+c. 5 µg/L
+d. 50 µg/L",Answer: b. 10 µg/L
+"Fluoride MCL (natural sources):
+a. 0.7 mg/L
+b. 2.0 mg/L
+c. 4.0 mg/L
+d. 10 mg/L",Answer: b. 2.0 mg/L
+"Perchlorate MCL:
+a. 10 µg/L
+b. 6 µg/L
+c. 1 µg/L
+d. 15 µg/L",Answer: b. 6 µg/L
+"Chromium-6 MCL (California):
+a. 10 µg/L
+b. 50 µg/L
+c. 1 µg/L
+d. 80 µg/L",Answer: a. 10 µg/L
+"Lead action level under LCR:
+a. 15 µg/L
+b. 10 µg/L
+c. 5 µg/L
+d. 50 µg/L",Answer: a. 15 µg/L
+"Copper action level:
+a. 1.3 mg/L
+b. 0.3 mg/L
+c. 3.0 mg/L
+d. 10 mg/L",Answer: a. 1.3 mg/L
+"TTHM MCL:
+a. 40 µg/L
+b. 80 µg/L
+c. 100 µg/L
+d. 120 µg/L",Answer: b. 80 µg/L
+"HAA5 MCL:
+a. 20 µg/L
+b. 40 µg/L
+c. 60 µg/L
+d. 80 µg/L",Answer: c. 60 µg/L
+"Benzene MCL:
+a. 5 µg/L
+b. 1 µg/L
+c. 10 µg/L
+d. 0.1 µg/L",Answer: b. 1 µg/L
+"Toluene MCL:
+a. 150 µg/L
+b. 5 µg/L
+c. 1 µg/L
+d. 500 µg/L",Answer: a. 150 µg/L
+"Tetrachloroethylene (PCE) MCL:
+a. 5 µg/L
+b. 10 µg/L
+c. 20 µg/L
+d. 50 µg/L",Answer: a. 5 µg/L
+"Trichloroethylene (TCE) MCL: *a. 5 µg/L
+b. 10 µg/L
+c. 20 µg/L
+d. 50 µg/L",Answer: (not marked)
+"Gross alpha MCL:
+a. 15 pCi/L
+b. 5 pCi/L
+c. 50 pCi/L
+d. 500 pCi/L",Answer: a. 15 pCi/L
+"Gross beta MCL (screening):
+a. 4 mrem/yr
+b. 40 mrem/yr
+c. 10 mrem/yr
+d. 15 mrem/yr",Answer: a. 4 mrem/yr
+"Radium-226/228 combined:
+a. 5 pCi/L
+b. 10 pCi/L
+c. 50 pCi/L
+d. 15 pCi/L",Answer: a. 5 pCi/L
+"Uranium MCL:
+a. 20 pCi/L
+b. 200 pCi/L
+c. 5 pCi/L
+d. 50 pCi/L",Answer: a. 20 pCi/L
+"MTBE MCL:
+a. 13 µg/L
+b. 50 µg/L
+c. 5 µg/L
+d. 100 µg/L",Answer: a. 13 µg/L
+"A water system must keep bacteriological records for:
+a. 5 years
+b. 1 year
+c. 2 years
+d. 10 years",Answer: a. 5 years
+"Chemical monitoring records must be kept for:
+a. 10 years
+b. 2 years
+c. 3 years
+d. 1 year",Answer: a. 10 years
+"Violations must be reported to DDW:
+a. As specified by violation tier (24 hours to 30 days)
+b. Annually
+c. Only when asked
+d. Monthly",Answer: a. As specified by violation tier (24 hours to 30 days)
+"Title 22 requires distribution of CCRs to:
+a. All customers
+b. Only regulators
+c. Only new customers
+d. Only large customers",Answer: a. All customers
+"Operators must be certified according to: *a. Facility
+classification (T1--T5, D1--D5)
+b. Local contract
+c. Bureau of Reclamation
+d. OSHA guidelines",Answer: (not marked)
+"Systems must report chlorine residuals:
+a. Daily or continuous, depending on plant type
+b. Annually
+c. Only after complaints
+d. Monthly","Answer: a. Daily or continuous, depending on plant type"
+"Surface water systems must monitor turbidity:
+a. Continuously
+b. Weekly
+c. Monthly
+d. Quarterly",Answer: a. Continuously
+"If a sample is invalidated by DDW:
+a. A replacement sample is required
+b. System is not required to resample
+c. MCL violation is automatic
+d. Only monthly reporting changes",Answer: a. A replacement sample is required
+"Revised Total Coliform Rule requires: *a. Repeat monitoring and
+Level 1/2 assessments
+b. Equalized monitoring only
+c. Simple averaging
+d. Outage reporting",Answer: (not marked)
+"Public Notification Tier 2 must be completed:
+a. Within 30 days
+b. Within 24 hours
+c. Within 48 hours
+d. Within 1 year",Answer: a. Within 30 days
+"Monthly bacteriological monitoring for groundwater systems is:
+a. Based on population served
+b. Not required
+c. Only for chloraminated systems
+d. Weekly always",Answer: a. Based on population served
+"A Boil Water Notice is issued for:
+a. E. coli positive in distribution
+b. High turbidity only
+c. High TDS
+d. Low alkalinity",Answer: a. E. coli positive in distribution
+"Pressure >=5 psi event requires:
+a. Immediate public notification
+b. Only internal reporting
+c. No action
+d. Notify customers within a year",Answer: a. Immediate public notification
+"Backflow prevention program must include:
+a. Certified specialist and annual testing
+b. Customer self-reporting
+c. Visual survey only
+d. No documentation",Answer: a. Certified specialist and annual testing
+"Regulation of recycled water for non-potable reuse is under:
+a. Title 22 Division 4
+b. Title 17 only
+c. Title 8
+d. OSHA CFR 1910",Answer: a. Title 22 Division 4
+"Distribution system sample shows total coliform positive. Required
+action?
+a. Collect repeat samples within 24 hours
+b. Wait for next cycle
+c. Disinfect immediately
+d. Increase pressure",Answer: a. Collect repeat samples within 24 hours
+"A system changes disinfectants (chlorine → chloramine). Requirement?
+a. Must complete a disinfection profile and benchmark
+b. No requirement
+c. Notify public only
+d. Increase turbidity monitoring",Answer: a. Must complete a disinfection profile and benchmark
+"Nitrate rises to 11 mg/L (as N). Action?
+a. Immediate Tier 1 notification
+b. Wait 30 days
+c. Increase blending only
+d. Inform customers next CCR",Answer: a. Immediate Tier 1 notification
+"Storage tank shows low chlorine despite normal dosing. First step?
+a. Check mixing and tank turnover
+b. Increase dose
+c. Lower pH
+d. Reduce flow",Answer: a. Check mixing and tank turnover
+"Turbidity spikes to 1.5 NTU. What next?
+a. Report turbidity violation and investigate filtration
+b. Increase chlorination only
+c. Ignore unless customers complain
+d. Reduce flow only",Answer: a. Report turbidity violation and investigate filtration
+"Customer reports ""chlorine taste is gone."" Operator should:
+a. Immediately verify residual in distribution
+b. Increase dose blindly
+c. Flush entire system
+d. Add caustic",Answer: a. Immediately verify residual in distribution
+"A groundwater system detects 1 E. coli. What is required?
+a. Tier 1 notification and corrective action
+b. Nothing
+c. Tier 3 notification
+d. Annual CCR only",Answer: a. Tier 1 notification and corrective action
+"A system repeatedly loses pressure <=20 psi. This
+is:
+a. A distribution system violation
+b. Not regulated
+c. Only an engineering issue
+d. Aesthetic complaint only",Answer: a. A distribution system violation
+"A customer sample is invalid due to broken chain of custody.
+Requirement?
+a. Resample immediately
+b. Keep old data
+c. Average with past data
+d. Ignore",Answer: a. Resample immediately
+"A plant with conventional filtration observes a turbidity spike to
+0.8 NTU. Action?
+investigate
+a. Possible ""never to exceed"" violation --- report and
+b. No action
+c. Reduce coagulant
+d. Increase UV dose","Answer: a. Possible ""never to exceed"" violation --- report and"
+"UV system offline → chlorine is primary disinfectant. Operator must:
+a. Ensure CT compliance is still achieved
+b. Do nothing
+c. Increase pH
+d. Reduce residual",Answer: a. Ensure CT compliance is still achieved
+"Blended water exceeds TTHM MCL. First response?
+turnover)
+a. Investigate sources and adjust operations (e.g., tank
+b. Shut plant down
+c. Increase coagulation
+d. Add caustic","Answer: a. Investigate sources and adjust operations (e.g., tank"
+"A system adds a new well. Title 22 requires:
+a. Source approval and permit amendment
+b. None
+c. Customer approval
+d. Report in CCR only",Answer: a. Source approval and permit amendment
+"A surface water plant loses SCADA data for turbidity. Requirement?
+a. Manual sampling and reporting until SCADA restored
+b. No sampling needed
+c. Notify customers
+d. Increase chlorine",Answer: a. Manual sampling and reporting until SCADA restored
+"A treatment plant increases pH from 7.0 to 9.0. CT effect?
+a. CT requirement increases (less effective chlorine)
+b. CT decreases
+c. CT unchanged
+d. CT becomes irrelevant",Answer: a. CT requirement increases (less effective chlorine)
+"A system blends two wells: Well A = 18 mg/L nitrate (as N), Well B =
+4 mg/L. What is the maximum
+a. 37.5%
+b. 22%
+c. 44%
+d. 50%",Answer: a. 37.5%
+"A Title 22 MCL exceedance occurs when:
+a. Any single sample exceeds the MCL
+b. The running annual average exceeds the MCL
+c. Two consecutive samples exceed the MCL
+d. A monthly average exceeds the MCL",Answer: b. The running annual average exceeds the MCL
+"For perchlorate, confirmation sampling must occur:
+a. Within 48 hours of an initial detection
+b. Within 30 days
+c. Only quarterly
+d. Only if DDW requests",Answer: a. Within 48 hours of an initial detection
+"Arsenic monitoring frequency may be reduced when:
+a. Three years of data show <=10 µg/L
+b. The source is groundwater
+c. Operator approval
+d. TDS is <=500 mg/L",Answer: a. Three years of data show <=10 µg/L
+"A system detects 14.9 µg/L lead at a Tier 1 site. This is:
+a. An MCL violation
+b. An exceedance of action level, not an MCL
+c. A TT violation
+d. No regulatory significance","Answer: b. An exceedance of action level, not an MCL"
+"An exceedance of the copper action level triggers:
+a. Corrosion control treatment steps
+b. Public notification Tier 1
+c. Boil Water Notice
+d. Immediate shutdown",Answer: a. Corrosion control treatment steps
+"For VOCs, the confirmation sample:
+determination
+a. Must be averaged with the original sample for MCL
+b. Replaces the original sample
+c. Is optional
+d. Must be from a different tap",Answer: a. Must be averaged with the original sample for MCL
+"A drinking water well shows seasonal nitrate spikes. Title 22
+requires:
+a. Increased monitoring during vulnerable periods
+b. No monitoring change
+c. Quarterly only
+d. Annual only",Answer: a. Increased monitoring during vulnerable periods
+"A running annual average is calculated:
+a. Quarterly averages of monthly samples
+b. Monthly averages only
+c. Total samples ÷ 12
+d. Any consecutive 4-month period",Answer: a. Quarterly averages of monthly samples
+"A PCE level of 5 µg/L is detected. This is:
+a. At the MCL and requires confirmation sampling
+b. Not regulated
+c. No action required
+d. Tier 1 notification",Answer: a. At the MCL and requires confirmation sampling
+"A uranium concentration of 45 pCi/L requires:
+a. Public notification Tier 2
+b. Tier 1 notice
+c. No action unless >=50
+d. Monthly repeat sampling",Answer: a. Public notification Tier 2
+"For synthetic organic chemicals (SOCs), initial sampling is:
+a. Four quarters during the first compliance year
+b. Annual
+c. One sample only
+d. Every five years",Answer: a. Four quarters during the first compliance year
+"For radon, California requires:
+a. EPA regulation; no current CA MCL
+b. 4 pCi/L
+c. 15 pCi/L
+d. 50 pCi/L",Answer: a. EPA regulation; no current CA MCL
+"Groundwater systems exceeding manganese secondary MCL must:
+a. Notify customers if discoloration is significant
+b. Shut down immediately
+c. Blend to <=0.01 mg/L
+d. Install GAC",Answer: a. Notify customers if discoloration is significant
+"An MCL violation for TTHM occurs when:
+a. LRAA exceeds 80 µg/L
+b. Any sample >=80 µg/L
+c. RAA exceeds 60 µg/L
+d. Quarterly average >=40 µg/L",Answer: a. LRAA exceeds 80 µg/L
+"System with multiple entry points must evaluate DBPs using:
+a. LRAAs per monitoring location
+b. System-wide average
+c. Weighted blending ratio
+d. Monthly average",Answer: a. LRAAs per monitoring location
+"A perchlorate result of 6.1 µg/L is:
+a. An MCL exceedance
+b. Not a violation
+c. Secondary standard
+d. Unregulated",Answer: a. An MCL exceedance
+"If confirmation sample is lower than original MCL exceedance:
+a. Average determines compliance
+b. Lower value used
+c. Higher value used
+d. System chooses",Answer: a. Average determines compliance
+"A system blending surface water and groundwater must:
+a. Meet MCLs in the blended effluent
+b. Meet MCLs for each source individually
+c. Average annually
+d. Monitor only the groundwater",Answer: a. Meet MCLs in the blended effluent
+"For DBP compliance, if sampling is missed:
+a. A monitoring violation occurs
+b. Use previous data
+c. DDW assigns zero
+d. No violation occurs",Answer: a. A monitoring violation occurs
+"A system using free chlorine at pH 8.5 must:
+a. Use higher CT due to reduced HOCl fraction
+b. Use lower CT
+c. Maintain CT unchanged
+d. Switch to UV",Answer: a. Use higher CT due to reduced HOCl fraction
+"CT is most affected by:
+a. Turbidity
+b. TDS
+c. Temperature
+d. Alkalinity",Answer: c. Temperature
+"When temperature drops from 20°C to 5°C:
+a. CT requirements increase significantly
+b. CT decreases
+c. pH becomes irrelevant
+d. Turbidity governs CT",Answer: a. CT requirements increase significantly
+"A baffling factor of 0.3 indicates:
+a. Poor hydraulic efficiency
+b. Excellent efficiency
+c. Laminar plug flow
+d. No effect on CT",Answer: a. Poor hydraulic efficiency
+"If baffling factor decreases:
+decreases
+a. CT achieved decreases unless residual increases or flow
+b. CT increases
+c. CT unchanged
+d. Residual becomes irrelevant",Answer: a. CT achieved decreases unless residual increases or flow
+"A clearwell has a short-circuiting issue. Operator should:
+a. Improve baffling or increase chlorine dose
+b. Reduce turbidity
+c. Increase pH
+d. Switch to ozone",Answer: a. Improve baffling or increase chlorine dose
+"Chloramines require:
+a. Higher CT than free chlorine
+b. Lower CT
+c. Same CT
+d. No CT credit",Answer: a. Higher CT than free chlorine
+"Disinfection profiling is required:
+a. Before changing type or dose of disinfectant
+b. During monthly testing
+c. After main breaks
+d. Only for systems >=10,000 people",Answer: a. Before changing type or dose of disinfectant
+"If chlorine residual drops below 0.2 mg/L at entry point:
+a. Treatment technique violation
+b. No significance
+c. Only aesthetic
+d. Tier 3 notice",Answer: a. Treatment technique violation
+"Title 22 CT tables are based on:
+a. 99.9% Giardia inactivation
+b. Virus only
+c. 99% Giardia
+d. 4-log virus",Answer: a. 99.9% Giardia inactivation
+"Free chlorine CT tables assume:
+a. Specific pH and temperature categories
+b. pH irrelevant
+c. All systems same CT
+d. Turbidity = CT",Answer: a. Specific pH and temperature categories
+"A plant operating at pH 9.2 should:
+a. Use high CT or adjust pH downward
+b. Reduce dose
+c. Increase turbidity
+d. Increase alkalinity",Answer: a. Use high CT or adjust pH downward
+"CT is compromised if:
+a. Tanks stratify due to low turnover
+b. Turbidity decreases
+c. pH decreases
+d. Temperature increases",Answer: a. Tanks stratify due to low turnover
+"Chlorine demand increases when:
+a. Organic load increases
+b. Alkalinity increases
+c. Temperature decreases
+d. pH decreases",Answer: a. Organic load increases
+"Residual booster stations must:
+a. Maintain detectable chlorine throughout system
+b. Maintain 2.0 mg/L everywhere
+c. Inject only at night
+d. Use chloramines only",Answer: a. Maintain detectable chlorine throughout system
+"A UV system offline requires:
+a. Chlorine CT must fully meet requirements
+b. No changes
+c. Reduced monitoring
+d. Raise pH",Answer: a. Chlorine CT must fully meet requirements
+"CT credit cannot be given if:
+a. Residual <=0.2 mg/L
+b. Tank is baffled
+c. pH <=7
+d. Flow rate known",Answer: a. Residual <=0.2 mg/L
+"A chlorine contact tank with dead zones results in:
+a. Lower effective CT
+b. Higher CT
+c. No change
+d. Higher residual",Answer: a. Lower effective CT
+"A water system reduces flow but keeps dose same. CT:
+a. Increases
+b. Decreases
+c. Unchanged
+d. Must be recalculated but same",Answer: a. Increases
+"A 4-log virus requirement applies to:
+a. Surface water and GWUDI systems
+b. Groundwater only
+c. Recycled water only
+d. Tanks only",Answer: a. Surface water and GWUDI systems
+"Filter effluent exceeding 1.0 NTU:
+a. Never-to-exceed violation
+b. No issue
+c. Annual report
+d. pH adjustment only",Answer: a. Never-to-exceed violation
+"Continuous turbidity monitoring is required for:
+a. Each filter or combined filtered effluent
+b. Raw water
+c. Distribution system
+d. Only plant effluent",Answer: a. Each filter or combined filtered effluent
+"A combined filter effluent spike indicates:
+a. Potential breakthrough; must investigate
+b. Normal variation
+c. No significance
+d. Turbidity meter drift only",Answer: a. Potential breakthrough; must investigate
+"A filter-to-waste requirement ensures:
+a. Turbidity breakthrough is not sent to system
+b. pH control
+c. Corrosion control
+d. Backflow prevention only",Answer: a. Turbidity breakthrough is not sent to system
+"If a filter exceeds 1 NTU twice in 15 minutes:
+a. Individual filter turbidity violation
+b. No action
+c. Backwash required only
+d. Report annually",Answer: a. Individual filter turbidity violation
+"SWTR requires:
+a. 0.3 NTU 95% of time for conventional filtration
+b. 0.1 NTU always
+c. 2.0 NTU 95% of time
+d. 1.0 NTU 95% of time",Answer: a. 0.3 NTU 95% of time for conventional filtration
+"Poor coagulation increases:
+a. Filter effluent turbidity
+b. Residual
+c. CT
+d. TOC removal",Answer: a. Filter effluent turbidity
+"If polymer feed stops:*a. Turbidity spikes likely
+b. pH increases
+c. DBPs decrease
+d. CT increases",Answer: (not marked)
+"Turbidity is a surrogate for: *a. Particle removal and pathogen
+reduction
+b. pH
+c. Temperature
+d. Alkalinity",Answer: (not marked)
+"A plant must notify DDW if turbidity:
+a. Exceeds 1.0 NTU at any time
+b. Exceeds 0.1 NTU
+c. Exceeds 2.0 NTU
+d. Falls below 0.2 NTU",Answer: a. Exceeds 1.0 NTU at any time
+"Filter profiling required when:
+a. Significant turbidity changes occur
+b. New operator hired
+c. Filter media changes
+d. Backwash schedule changes",Answer: a. Significant turbidity changes occur
+"A filter with rapid turbidity rise post-backwash indicates:
+a. Air binding or media damage
+b. Low pH
+c. High chlorine
+d. Warm temperature",Answer: a. Air binding or media damage
+"Individual filter monitoring identifies:
+a. Breakthrough patterns
+b. DBP formation
+c. Corrosion
+d. Nitrification",Answer: a. Breakthrough patterns
+"Turbidity meter drift must be corrected: *a. Immediately;
+turbidity is a critical parameter
+b. Weekly
+c. Monthly
+d. Annually",Answer: (not marked)
+"SWTR requires log removal credit based on:
+a. Combined filter performance
+b. Source water TOC
+c. Flow rate only
+d. TDS",Answer: a. Combined filter performance
+"If multiple filters exceed turbidity standards:
+a. TT violation likely
+b. No action
+c. Report annually
+d. Switch to chloramines",Answer: a. TT violation likely
+"Groundwater filtration is required if:
+a. GWUDI is confirmed
+b. TDS >=500 mg/L
+c. Color >=15 CU
+d. pH >=9",Answer: a. GWUDI is confirmed
+"A filter failing turbidity standards repeatedly must:
+a. Be removed from service and investigated
+b. Continue operating
+c. Report only monthly
+d. Reduce dose only",Answer: a. Be removed from service and investigated
+"Turbidity exceedances require:
+a. Tier 2 notification
+b. Tier 1
+c. Tier 3
+d. No notification",Answer: a. Tier 2 notification
+"Source water turbidity >=5 NTU:
+a. May require enhanced coagulation
+b. Has no impact
+c. Reduces CT
+d. Indicates RTCR violation",Answer: a. May require enhanced coagulation
+"A system with TC+ and EC+ (repeat) has:
+a. An E. coli MCL violation
+b. A TT violation
+c. No violation
+d. Tier 3 notice",Answer: a. An E. coli MCL violation
+"TC+ routine but EC-:
+a. Requires repeat sampling
+b. Requires boil water notice
+c. Is MCL violation
+d. No action",Answer: a. Requires repeat sampling
+"Repeat samples must be collected:
+a. Within 24 hours
+b. Within 48 hours
+c. Within 72 hours
+d. Within 1 week",Answer: a. Within 24 hours
+"Level 1 assessment triggered when:
+a. TC+ frequency exceeds threshold
+b. Any EC+
+c. Any TC+
+d. Annual requirement",Answer: a. TC+ frequency exceeds threshold
+"Level 2 assessment triggered when:
+a. EC+ or repeat violations occur
+b. Customer complaint
+c. High pH
+d. High THM",Answer: a. EC+ or repeat violations occur
+"A missing bacteriological sample is:
+a. Monitoring violation
+b. MCL violation
+c. TT violation
+d. No violation",Answer: a. Monitoring violation
+"Pressure <=5 psi requires:
+a. Tier 1 notice
+b. Tier 2 notice
+c. Tier 3 notice
+d. No notice",Answer: a. Tier 1 notice
+"A main break with contamination potential requires:
+a. Immediate sampling and corrective action
+b. Annual report only
+c. No sampling
+d. Notify customers next CCR",Answer: a. Immediate sampling and corrective action
+"Coliform-positive in distribution indicates:
+a. Possible pathway of contamination
+b. pH issue
+c. CT issue
+d. Turbidity issue",Answer: a. Possible pathway of contamination
+"Cross-connection control program must:
+a. Include annual testing of devices
+b. Be voluntary
+c. Be audited every 10 years
+d. Only for recycled water",Answer: a. Include annual testing of devices
+"Backflow device failure requires:
+a. Immediate correction
+b. No action
+c. Annual only
+d. Quarterly only",Answer: a. Immediate correction
+"Storage tank contamination risk increases with:
+a. Low turnover
+b. High chlorine
+c. Low turbidity
+d. High pH",Answer: a. Low turnover
+"Residual <=0.2 mg/L in distribution:
+a. Potential TT violation
+b. Acceptable
+c. MCL violation
+d. RTCR violation",Answer: a. Potential TT violation
+"Stagnant zones in distribution result in:
+a. DBP formation and nitrification
+b. Lower turbidity
+c. Higher pH
+d. Lower TDS",Answer: a. DBP formation and nitrification
+"Cross-connection inspections required:
+a. Annually for high hazards
+b. Every 10 years
+c. Only during sanitary survey
+d. After customer complaints",Answer: a. Annually for high hazards
+"A hydrant sample shows 0 mg/L chlorine. Correct action:
+a. Investigate and flush system
+b. Ignore
+c. Boost pH
+d. Switch disinfectant",Answer: a. Investigate and flush system
+"A storage tank exceeds 5 days retention:
+a. Increased mixing required
+b. Acceptable
+c. Shut down tank
+d. Raise pH",Answer: a. Increased mixing required
+"Use of booster chlorination requires:
+a. Permit and monitoring plan
+b. No approval
+c. Annual approval
+d. Monthly approval",Answer: a. Permit and monitoring plan
+"Pressure zone interconnection must:
+a. Include backflow protection
+b. Be unrestricted
+c. Be unmonitored
+d. Use chlorine only",Answer: a. Include backflow protection
+"A system experiencing nitrification must:
+a. Breakpoint chlorinate or flush
+b. Reduce chlorine
+c. Increase pH
+d. Add polymer",Answer: a. Breakpoint chlorinate or flush
+"Title 22 requires disinfected tertiary recycled water to meet:
+a. Turbidity <=2 NTU daily average
+b. Turbidity <=1 NTU
+c. Turbidity <=10 NTU
+d. Turbidity <=0.3 NTU",Answer: a. Turbidity <=2 NTU daily average
+"Maximum allowable turbidity for recycled water:
+a. 5 NTU never-to-exceed
+b. 1 NTU
+c. 10 NTU
+d. 0.3 NTU",Answer: a. 5 NTU never-to-exceed
+"Total coliform limit for disinfected tertiary is:
+a. 2.2 MPN/100 mL 7-day median
+b. 23 MPN/100 mL
+c. 1 MPN/100 mL
+d. 0 MPN/100 mL",Answer: a. 2.2 MPN/100 mL 7-day median
+"Single TC result >=23 MPN/100mL requires: *a.
+Immediate investigation and resampling
+b. No action
+c. Monthly reporting only
+d. Only CCR notification",Answer: (not marked)
+"Recycled water disinfection must provide:
+a. 5-log virus removal/inactivation
+b. 4-log virus
+c. 2-log Giardia
+d. 1-log Crypto",Answer: a. 5-log virus removal/inactivation
+"Turbidity monitoring for recycled water must be:
+a. Continuous
+b. Monthly
+c. Daily
+d. Weekly",Answer: a. Continuous
+"Recycled water treatment includes:
+a. Coagulation, filtration, and disinfection
+b. Filtration only
+c. Aeration only
+d. UV only","Answer: a. Coagulation, filtration, and disinfection"
+"Title 22 requires a Recycled Water User's Manual for:
+a. All use sites
+b. Sites >=10 acres
+c. Agricultural only
+d. Industrial only",Answer: a. All use sites
+"Cross-connection testing for dual-plumbed systems must occur:
+a. Every 4 years or as required
+b. Every year
+c. Every 10 years
+d. Only at commissioning",Answer: a. Every 4 years or as required
+"A recycled water system must:
+a. Maintain purple pipe identification
+b. Use blue pipe
+c. Use green pipe
+d. No color requirement",Answer: a. Maintain purple pipe identification
+"For disinfected tertiary, filtration must meet:
+a. 2 NTU daily average
+b. 0.3 NTU
+c. 5 NTU
+d. 10 NTU",Answer: a. 2 NTU daily average
+"Disinfection contact time for recycled water:
+a. Must achieve 5-log virus removal
+b. Must achieve 3-log bacteria
+c. Is fixed at 30 minutes
+d. Based only on pH",Answer: a. Must achieve 5-log virus removal
+"Title 22 prohibits recycled water use for:
+a. Direct human consumption
+b. Irrigation
+c. Industrial cooling
+d. Dust control",Answer: a. Direct human consumption
+"Recycled water impoundments must be:
+a. Labeled and controlled to prevent access
+b. Open to public
+c. Mixed with potable water
+d. Unmonitored",Answer: a. Labeled and controlled to prevent access
+"Recycled water pipeline separation from potable water is typically:
+a. >=10 feet horizontally
+b. >=1 foot
+c. No separation required
+d. 50 feet minimum",Answer: a. >=10 feet horizontally
+"A dual-plumbed building must:
+a. Undergo initial and periodic cross-connection testing
+b. Perform testing every 20 years
+c. Be exempt from testing
+d. Use any color pipe",Answer: a. Undergo initial and periodic cross-connection testing
+"A recycled water use area must have:
+a. Proper signage
+b. No signage
+c. Purple fencing only
+d. Blue markings",Answer: a. Proper signage
+"A recycled water system must notify DDW:
+a. Prior to system modifications
+b. Annually only
+c. Only if requested
+d. Only when customer complaints occur",Answer: a. Prior to system modifications
+"High coliform in tertiary recycled water indicates:
+a. Disinfection failure or filter breakthrough
+b. pH problem
+c. TDS issue
+d. Corrosion",Answer: a. Disinfection failure or filter breakthrough
+"Title 22 tertiary filtration must achieve:
+a. 5-log Giardia removal through filtration + disinfection
+b. 2-log virus
+c. 1-log Crypto only
+d. 3-log bacteria only",Answer: a. 5-log Giardia removal through filtration + disinfection

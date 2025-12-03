@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Multiple Choice Questions</title>
+  <style>
+    :root{--bg:#0b1220;--panel:#121a2b;--muted:#9fb0d7;--accent:#4da3ff;--text:#e6edff}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg);color:var(--text)}
+    header{display:flex;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid rgba(255,255,255,.08);background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,0))}
+    header h1{font-size:18px;margin:0;font-weight:600}
+    header .hint{color:var(--muted);font-size:12px}
+    .wrap{max-width:980px;margin:0 auto;padding:20px}
+    .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:16px}
+    .controls input[type=text]{flex:1 1 260px;padding:10px 12px;border-radius:10px;border:1px solid rgba(255,255,255,.12);background:var(--panel);color:var(--text)}
+    .controls select,.controls button{padding:10px 14px;border-radius:10px;border:1px solid rgba(255,255,255,.12);background:#17223a;color:var(--text);cursor:pointer}
+    .controls button:hover{background:#1b2947}
+    .stats{display:flex;gap:10px;align-items:center;color:var(--muted);font-size:13px;margin-bottom:12px}
+    .stat{background:#0e1730;padding:6px 10px;border-radius:999px;border:1px solid rgba(255,255,255,.08)}
+    .card{position:relative;min-height:320px;border-radius:16px;background:linear-gradient(180deg,#12203a,#0f1b31);border:1px solid rgba(255,255,255,.08);box-shadow:0 10px 30px rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;padding:24px;text-align:center;cursor:pointer;perspective:1000px}
+    .inner{position:relative;width:100%;min-height:260px;transition:transform .6s;transform-style:preserve-3d}
+    .card.flipped .inner{transform:rotateY(180deg)}
+    .face{position:absolute;inset:0;padding:24px;display:flex;align-items:center;justify-content:center;backface-visibility:hidden}
+    .front{font-size:1.25rem;line-height:1.5;white-space:pre-line}
+    .back{transform:rotateY(180deg);background:linear-gradient(180deg,#0f1a31,#0d172a);border-radius:16px;font-size:1.15rem;line-height:1.5}
+    .actions{display:flex;gap:10px;margin-top:14px}
+    .btn{flex:1;padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,.12);background:#101a31;color:var(--text);cursor:pointer;font-weight:600}
+    .btn.good:hover{background:#123025}.btn.again:hover{background:#2f1f14}
+    .empty{padding:30px;border:1px dashed rgba(255,255,255,.18);border-radius:16px;text-align:center;color:var(--muted);white-space:pre-wrap}
+    footer{text-align:center;color:var(--muted);font-size:12px;padding:18px 0 30px}
+    code.small{background:#0e1730;padding:2px 6px;border-radius:6px;border:1px solid rgba(255,255,255,.08)}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Multiple Choice Questions</h1>
+    <span class="hint">Flip: <b>Space</b> · Prev/Next: <b>←/→</b> · Grade: <b>G</b> / <b>A</b></span>
+  </header>
+
+  <div class="wrap">
+    <div class="controls">
+      <input id="search" type="text" placeholder="Search cards…" />
+      <select id="source">
+        <option value="AWTQB.csv" selected>Advanced Water Treatment</option>
+              </select>
+      <button id="shuffle">Shuffle</button>
+      <span class="stat">Loaded: <span id="count">0</span></span>
+    </div>
+
+    <div class="stats">
+      <span class="stat">Due: <span id="due">0</span></span>
+      <span class="stat">Known: <span id="known">0</span></span>
+      <span class="stat">Again: <span id="again">0</span></span>
+    </div>
+
+    <div id="stage">
+      <div class="empty">
+        Drop the CSV files listed in the selector into this folder.
+        Expected columns: <b>Front,Back</b> (quote any field containing commas).
+      </div>
+    </div>
+
+  <footer>
+  <p style="color:#9fb0d7; font-size:12px; line-height:1.4;">
+    Compiled by <strong>Shabbir Basrai</strong> · Bassett Adult School – Water Technology Program<br>
+    These flashcards are for educational use only, compiled from publicly available online sources.<br>
+    Accuracy is not guaranteed — always refer to official regulations and standards.<br>
+    Found an error? <a href="https://forms.gle/cTLsfHgNTwPptLCq5" target="_blank" style="color:#4da3ff;">Submit feedback here</a>.
+  </p>
+</footer>
+  </div>
+
+  <script>
+    // --- Robust CSV utilities ---
+    function parseCSV(text, delimiter = ',') {
+      const rows = []; let i=0, field='', row=[], inQuotes=false;
+      const pushField=()=>{row.push(field); field='';};
+      const pushRow=()=>{rows.push(row); row=[];};
+      while(i<text.length){
+        const c=text[i];
+        if(inQuotes){
+          if(c === '"'){ if(text[i+1] === '"'){ field += '"'; i++; } else { inQuotes=false; } }
+          else { field += c; }
+        } else {
+          if(c === '"') inQuotes = true;
+          else if(c === delimiter) pushField();
+          else if(c === '\n'){ pushField(); pushRow(); }
+          else if(c === '\r'){ /* ignore */ }
+          else { field += c; }
+        }
+        i++;
+      }
+      pushField(); if(row.length) pushRow();
+      return rows.filter(r => r.some(x => (x||'').trim().length));
+    }
+
+    function detectDelimiter(text){
+      const candidates=[',','\t',';','|'];
+      const lines=text.split(/\r?\n/).slice(0,6);
+      let best=',',score=-1;
+      for(const d of candidates){
+        let s=0; for(const ln of lines){ if(!ln) continue; const parts=parseCSV(ln+'\n',d)[0]||[]; if(parts.length>=2) s++; }
+        if(s>score){ score=s; best=d; }
+      }
+      return best;
+    }
+
+    async function loadDeck(url){
+      try{
+        const res = await fetch(url + `?t=${Date.now()}`);
+        if(!res.ok) throw new Error(`Fetch failed: ${res.status} ${res.statusText}`);
+        let text = await res.text();
+
+        // Normalize troublesome characters
+        if(/\u0000/.test(text)) throw new Error('File looks like UTF-16. Re-save as UTF-8 (Notepad: Save As → Encoding UTF-8; Excel: CSV UTF-8).');
+        text = text
+          .replace(/^\uFEFF/, '')      // strip BOM
+          .replace(/[“”]/g, '"')       // curly quotes -> "
+          .replace(/[‘’]/g, "'")       // curly apostrophes -> '
+          .replace(/\u00A0/g, ' ')     // NBSP -> space
+          .replace(/\uFF0C/g, ',');    // full-width comma -> ,
+
+        const delim = detectDelimiter(text);
+        const rows = parseCSV(text, delim);
+        if(!rows.length) throw new Error('CSV parsed but has 0 rows.');
+
+        const h0 = (rows[0][0]||'').trim().replace(/^"|"$/g,'').toLowerCase();
+        const h1 = (rows[0][1]||'').trim().replace(/^"|"$/g,'').toLowerCase();
+        const hasHeader = h0.includes('front') && h1.includes('back');
+
+        const cards = (hasHeader ? rows.slice(1) : rows)
+          .map(r => ({ front: (r[0]||'').trim(), back: (r[1]||'').trim() }))
+          .filter(c => c.front && c.back);
+
+        if(!cards.length) throw new Error('Found file but no valid “Front/Back” rows.');
+        return cards;
+      } catch(e){
+        document.getElementById('stage').innerHTML =
+          `<div class="empty">Could not load <code class="small">${url}</code>.\n${e.message}</div>`;
+        return [];
+      }
+    }
+
+    // --- App state ---
+    let cards=[], filtered=[], idx=0, flipped=false, known=0, again=0;
+
+    function escapeHtml(s){return (s||'').replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));}
+    function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}}
+
+    function renderCard(){
+      const stage=document.getElementById('stage');
+      stage.innerHTML='';
+      if(!filtered.length){ stage.innerHTML='<div class="empty">No cards match the current filter.</div>'; return; }
+      const c=filtered[idx];
+      const card=document.createElement('div');
+      card.className='card'+(flipped?' flipped':'');
+      console.log(c.front)
+      card.innerHTML=`<div class="inner"><div class="face front">${escapeHtml(c.front)}</div><div class="face back">${escapeHtml(c.back)}</div></div>`;
+      card.onclick=()=>{flipped=!flipped; renderCard();};
+      stage.appendChild(card);
+      renderActions();
+      document.getElementById('due').textContent=String(filtered.length - known);
+    }
+
+    function renderActions(){
+      let actions=document.querySelector('.actions');
+      if(!actions){actions=document.createElement('div');actions.className='actions';document.querySelector('.wrap').appendChild(actions);}
+      actions.innerHTML='';
+      const againBtn=document.createElement('button'); againBtn.className='btn again'; againBtn.textContent='Again'; againBtn.onclick=()=>{again++; next();};
+      const goodBtn=document.createElement('button'); goodBtn.className='btn good'; goodBtn.textContent='Next'; goodBtn.onclick=()=>{known++; next();};
+      actions.append(againBtn,goodBtn);
+      document.getElementById('known').textContent=String(known);
+      document.getElementById('again').textContent=String(again);
+    }
+
+    function next(){flipped=false; idx=(idx+1)%filtered.length; renderCard();}
+    function prev(){flipped=false; idx=(idx-1+filtered.length)%filtered.length; renderCard();}
+
+    function applyFilter(q){
+      const query=(q||'').toLowerCase();
+      filtered = cards.filter(c => c.front.toLowerCase().includes(query) || c.back.toLowerCase().includes(query));
+      idx=0; flipped=false; known=0; again=0; renderCard();
+    }
+
+    async function boot(){
+      const sel=document.getElementById('source');
+      const param = new URLSearchParams(location.search).get('src');
+      if(param) sel.value = param;
+      cards = await loadDeck(sel.value);
+      document.getElementById('count').textContent=String(cards.length);
+      filtered = cards.slice(); shuffle(filtered); renderCard();
+
+      sel.onchange = async (e) => {
+        cards = await loadDeck(e.target.value);
+        document.getElementById('count').textContent=String(cards.length);
+        applyFilter(document.getElementById('search').value);
+      };
+      document.getElementById('shuffle').onclick=()=>{shuffle(filtered); idx=0; flipped=false; renderCard();};
+      document.getElementById('search').oninput=(e)=>applyFilter(e.target.value);
+      document.addEventListener('keydown',e=>{
+        if(e.key===' '){e.preventDefault();flipped=!flipped;renderCard();}
+        else if(e.key==='ArrowRight'){next();}
+        else if(e.key==='ArrowLeft'){prev();}
+        else if(e.key.toLowerCase()==='g'){known++; next();}
+        else if(e.key.toLowerCase()==='a'){again++; next();}
+      });
+    }
+    boot();
+  </script>
+</body>
+</html>
+
