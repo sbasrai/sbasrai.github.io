@@ -1,0 +1,566 @@
+Front,Back
+"Under California’s operator certification requirements, a T3 plant
+must be operated by:
+a. An operator certified at least at the T3 level or higher
+b. Any operator regardless of grade
+c. A distribution operator only
+d. A professional engineer only",Answer: a. An operator certified at least at the T3 level or higher
+"Distribution system operator certification (D1–D5) is required for:
+a. Persons in direct charge of distribution operations
+b. Only construction contractors
+c. Only administrative staff
+d. Only laboratory personnel",Answer: a. Persons in direct charge of distribution operations
+"Operator certification is important because:
+operated in compliance with Title 22
+a. It helps ensure that treatment and distribution facilities are
+b. It satisfies only insurance requirements
+c. It replaces the need for monitoring
+d. It eliminates the need for written SOPs",Answer: a. It helps ensure that treatment and distribution facilities are
+"A cross-connection is:
+water system and a non-potable system
+a. Any actual or potential physical connection between a potable
+b. A connection between two potable mains
+c. A pipe that crosses a road
+d. Only a service connection",Answer: a. Any actual or potential physical connection between a potable
+"Cross-connection control programs typically require:
+certified personnel
+a. Surveys, approved backflow devices, and periodic testing by
+b. Only warning signs
+c. Only annual CCRs
+d. Only booster chlorination","Answer: a. Surveys, approved backflow devices, and periodic testing by"
+"A reduced-pressure (RP) backflow device is generally required for:
+a. High-hazard cross-connections
+b. Any residential service connection
+c. All fire hydrants
+d. All raw-water intakes",Answer: a. High-hazard cross-connections
+"Dual-plumbed buildings using recycled water must:
+a. Undergo initial and periodic cross-connection testing
+b. Be exempt from cross-connection control
+c. Use only green pipe for recycled water
+d. Have no signage regarding recycled water",Answer: a. Undergo initial and periodic cross-connection testing
+"A Recycled Water Use Site Supervisor is responsible for:
+protection
+a. Ensuring proper on-site use, signage, and cross-connection
+b. Setting system-wide water rates
+c. Approving new sources
+d. Issuing operator certificates","Answer: a. Ensuring proper on-site use, signage, and cross-connection"
+"When a potable and recycled water line are installed in parallel
+trenches:
+regulation must be maintained
+a. Minimum horizontal separation and vertical offsets specified by
+b. They may be bundled in the same pipe
+c. They must always be the same color
+d. No separation is required as long as both are under pressure",Answer: a. Minimum horizontal separation and vertical offsets specified by
+"Title 22’s recycled water criteria (Division 4) are intended to:
+wastewater
+a. Protect public health while allowing beneficial reuse of treated
+b. Eliminate all wastewater discharges to the environment
+c. Replace potable water regulations
+d. Address only industrial users",Answer: a. Protect public health while allowing beneficial reuse of treated
+"A system that consistently violates Title 22 requirements may:
+a. Be subject to enforcement actions, fines, and compliance orders
+b. Only receive a warning letter with no further action
+c. Be exempted from future monitoring
+d. Automatically lose all operating permits with no appeal","Answer: a. Be subject to enforcement actions, fines, and compliance orders"
+"Operators must report suspected contamination events:
+required
+a. Promptly to system management and to the regulatory agency as
+b. Only if customers complain
+c. Only at the end of the year
+d. Only if the source is chemical, not microbial",Answer: a. Promptly to system management and to the regulatory agency as
+"Good documentation and recordkeeping help the operator:
+inspections
+a. Demonstrate compliance, support troubleshooting, and prepare for
+b. Avoid using SCADA
+c. Replace sampling and analysis
+d. Increase chemical use","Answer: a. Demonstrate compliance, support troubleshooting, and prepare for"
+"The ultimate objective of Title 22 regulations is to:
+a. Protect public health by ensuring safe, reliable drinking water
+b. Maximize chemical sales
+c. Simplify engineering design
+d. Reduce operator staffing","Answer: a. Protect public health by ensuring safe, reliable drinking water"
+"A community water system is defined as one serving at least:
+a. 15 service connections or 25 residents year-round
+b. 10 service connections only
+c. 25 connections for any 30 days
+d. Any number if serving agriculture",Answer: a. 15 service connections or 25 residents year-round
+"A non-transient non-community system serves:
+a. Seasonal campgrounds
+b. 25 of the same people for ≥6 months
+c. Temporary construction
+d. Schools only",Answer: b. 25 of the same people for ≥6 months
+"Title 22 defines “maximum contaminant level” (MCL) as:
+a. Operational target
+b. Highest level allowed in drinking water
+c. Treatment technique
+d. Advisory goal",Answer: b. Highest level allowed in drinking water
+"A water system must notify DDW of any MCL violation:
+a. Within the required time frame dependent on tier
+b. Within 30 days always
+c. Only after confirmation samples
+d. Only during sanitary surveys",Answer: a. Within the required time frame dependent on tier
+"Title 22 requires sanitary surveys at least every:
+a. 3 or 5 years depending on system type
+b. 10 years
+c. 2 years
+d. Annually",Answer: a. 3 or 5 years depending on system type
+"Title 22 requires a bacteriological sample siting plan:
+a. For all public water systems
+b. Only for surface water systems
+c. Only systems serving >10,000
+d. Only if turbidity >0.5 NTU",Answer: a. For all public water systems
+"Failure to maintain minimum pressure under Title 22 is:
+a. A distribution system violation
+b. Only an operational advisory
+c. Reported annually
+d. Not regulated",Answer: a. A distribution system violation
+"The required minimum distribution system pressure is:
+a. 10 psi
+b. 20 psi
+c. 35 psi
+d. 50 psi",Answer: b. 20 psi
+"Public notification Tier 1 must be completed:
+a. Within 24 hours
+b. Within 48 hours
+c. Within 30 days
+d. Within 1 year",Answer: a. Within 24 hours
+"Title 22 requires reporting of system changes: *a. Prior to
+implementation when affecting safety
+b. Only after installation
+c. Only during sanitary surveys
+d. Only for chemical systems",Answer: (not marked)
+"An MCL exceedance requires:
+a. Public notification
+b. Nothing until two months of exceedances
+c. Blending only
+d. Only internal documentation",Answer: a. Public notification
+"A Consumer Confidence Report must be delivered:
+a. Annually by July 1
+b. Every month
+c. Only after an MCL violation
+d. Every 3 years",Answer: a. Annually by July 1
+"Monthly monitoring reports (MORs) must be submitted:
+a. Monthly or as required in the permit
+b. Quarterly
+c. Only during inspections
+d. Annually",Answer: a. Monthly or as required in the permit
+"Operator certification must match:
+a. The classification of the treatment facility
+b. Population served only
+c. Pipe diameter
+d. Source water TDS",Answer: a. The classification of the treatment facility
+"A Title 22 treatment technique violation includes:
+a. Failure to maintain turbidity and disinfectant requirements
+b. Any pressure >50 psi
+c. Low alkalinity
+d. Customer complaints",Answer: a. Failure to maintain turbidity and disinfectant requirements
+"Minimum detectable residual for CT credit:
+a. 0.2 mg/L free chlorine
+b. 0.1 mg/L
+c. 1.0 mg/L
+d. 2.0 mg/L",Answer: a. 0.2 mg/L free chlorine
+"Minimum entry point residual for systems using free chlorine:
+a. 0.1 mg/L
+b. 0.2 mg/L
+c. 1.0 mg/L
+d. 2.0 mg/L",Answer: b. 0.2 mg/L
+"Required Giardia log removal/inactivation:
+a. 2-log
+b. 3-log
+c. 4-log
+d. 6-log",Answer: b. 3-log
+"Virus log removal/inactivation required:
+a. 2-log
+b. 3-log
+c. 4-log
+d. 6-log",Answer: c. 4-log
+"SWTR turbidity limit for conventional filtration (95
+a. 0.1 NTU
+b. 0.3 NTU
+c. 0.5 NTU
+d. 1.0 NTU",Answer: b. 0.3 NTU
+"Maximum turbidity ""never to exceed"":
+a. 0.3 NTU
+b. 0.5 NTU
+c. 1.0 NTU
+d. 2.0 NTU",Answer: c. 1.0 NTU
+"Profiling and benchmarking required when:
+a. Changing disinfection practices
+b. Changing operators
+c. During droughts only
+d. When UVT drops",Answer: a. Changing disinfection practices
+"Fecal indicator sample positive triggers:
+a. Repeat monitoring within 24 hours
+b. No action until second sample
+c. Annual report only
+d. No requirement",Answer: a. Repeat monitoring within 24 hours
+"Under RTCR, an E. coli MCL violation occurs when:
+a. Routine E. coli + repeat E. coli
+b. Any total coliform positive
+c. No repeats collected
+d. High turbidity only",Answer: a. Routine E. coli + repeat E. coli
+"Chlorine CT increases when: *a. Lower temperature or lower pH
+b. Higher temperature
+c. Higher pH
+d. Higher TDS",Answer: (not marked)
+"Combined chlorine as chloramine must maintain:
+a. Detectable residual
+b. ≥1.0 mg/L everywhere
+c. ≥4.0 mg/L
+d. Zero residual",Answer: a. Detectable residual
+"Turbidity analyzers must be:
+a. Calibrated according to manufacturer requirements
+b. Calibrated yearly only
+c. Never calibrated
+d. Only calibrated after storms",Answer: a. Calibrated according to manufacturer requirements
+"For surface water, minimum monitoring of turbidity is:
+a. Continuous
+b. Weekly
+c. Monthly
+d. Daily grab",Answer: a. Continuous
+"Surface water filtration avoidance requires:
+a. Meeting watershed and source criteria
+b. High pH
+c. High ORP
+d. High UVT",Answer: a. Meeting watershed and source criteria
+"Groundwater under the influence (GWUDI) is identified by:
+a. Microscopic particulate analysis
+b. Turbidity only
+c. Conductivity
+d. Color",Answer: a. Microscopic particulate analysis
+"The CT concept is defined as:
+a. Disinfectant concentration × contact time
+b. Flow ÷ pressure
+c. ORP × pH
+d. Turbidity ÷ flow",Answer: a. Disinfectant concentration × contact time
+"Systems must maintain detectable chlorine residual:
+a. Throughout the distribution system
+b. Only at plant effluent
+c. At storage tanks only
+d. Only during emergencies",Answer: a. Throughout the distribution system
+"Breakpoint chlorination refers to:
+demand
+a. Point at which free chlorine residual increases after satisfying
+b. Chlorine booster failure
+c. Peak hour demand
+d. Endpoint pH",Answer: a. Point at which free chlorine residual increases after satisfying
+"A nitrification event is most often associated with:
+a. Chloraminated systems
+b. Ozonation
+c. UV disinfection
+d. High turbidity",Answer: a. Chloraminated systems
+"Nitrate (as N) MCL:
+a. 10 mg/L
+b. 5 mg/L
+c. 45 mg/L
+d. 1 mg/L",Answer: a. 10 mg/L
+"Nitrite (as N) MCL:
+a. 1 mg/L
+b. 2 mg/L
+c. 10 mg/L
+d. 45 mg/L",Answer: a. 1 mg/L
+"Arsenic MCL:
+a. 20 µg/L
+b. 10 µg/L
+c. 5 µg/L
+d. 50 µg/L",Answer: b. 10 µg/L
+"Fluoride MCL (natural sources):
+a. 0.7 mg/L
+b. 2.0 mg/L
+c. 4.0 mg/L
+d. 10 mg/L",Answer: b. 2.0 mg/L
+"Perchlorate MCL:
+a. 10 µg/L
+b. 6 µg/L
+c. 1 µg/L
+d. 15 µg/L",Answer: b. 6 µg/L
+"Chromium-6 MCL (California):
+a. 10 µg/L
+b. 50 µg/L
+c. 1 µg/L
+d. 80 µg/L",Answer: a. 10 µg/L
+"Lead action level under LCR:
+a. 15 µg/L
+b. 10 µg/L
+c. 5 µg/L
+d. 50 µg/L",Answer: a. 15 µg/L
+"Copper action level:
+a. 1.3 mg/L
+b. 0.3 mg/L
+c. 3.0 mg/L
+d. 10 mg/L",Answer: a. 1.3 mg/L
+"TTHM MCL:
+a. 40 µg/L
+b. 80 µg/L
+c. 100 µg/L
+d. 120 µg/L",Answer: b. 80 µg/L
+"HAA5 MCL:
+a. 20 µg/L
+b. 40 µg/L
+c. 60 µg/L
+d. 80 µg/L",Answer: c. 60 µg/L
+"Benzene MCL:
+a. 5 µg/L
+b. 1 µg/L
+c. 10 µg/L
+d. 0.1 µg/L",Answer: b. 1 µg/L
+"Toluene MCL:
+a. 150 µg/L
+b. 5 µg/L
+c. 1 µg/L
+d. 500 µg/L",Answer: a. 150 µg/L
+"Tetrachloroethylene (PCE) MCL:
+a. 5 µg/L
+b. 10 µg/L
+c. 20 µg/L
+d. 50 µg/L",Answer: a. 5 µg/L
+"Trichloroethylene (TCE) MCL: *a. 5 µg/L
+b. 10 µg/L
+c. 20 µg/L
+d. 50 µg/L",Answer: (not marked)
+"Gross alpha MCL:
+a. 15 pCi/L
+b. 5 pCi/L
+c. 50 pCi/L
+d. 500 pCi/L",Answer: a. 15 pCi/L
+"Gross beta MCL (screening):
+a. 4 mrem/yr
+b. 40 mrem/yr
+c. 10 mrem/yr
+d. 15 mrem/yr",Answer: a. 4 mrem/yr
+"Radium-226/228 combined:
+a. 5 pCi/L
+b. 10 pCi/L
+c. 50 pCi/L
+d. 15 pCi/L",Answer: a. 5 pCi/L
+"Uranium MCL:
+a. 20 pCi/L
+b. 200 pCi/L
+c. 5 pCi/L
+d. 50 pCi/L",Answer: a. 20 pCi/L
+"MTBE MCL:
+a. 13 µg/L
+b. 50 µg/L
+c. 5 µg/L
+d. 100 µg/L",Answer: a. 13 µg/L
+"A water system must keep bacteriological records for:
+a. 5 years
+b. 1 year
+c. 2 years
+d. 10 years",Answer: a. 5 years
+"Chemical monitoring records must be kept for:
+a. 10 years
+b. 2 years
+c. 3 years
+d. 1 year",Answer: a. 10 years
+"Violations must be reported to DDW:
+a. As specified by violation tier (24 hours to 30 days)
+b. Annually
+c. Only when asked
+d. Monthly",Answer: a. As specified by violation tier (24 hours to 30 days)
+"Title 22 requires distribution of CCRs to:
+a. All customers
+b. Only regulators
+c. Only new customers
+d. Only large customers",Answer: a. All customers
+"Operators must be certified according to:
+a. Facility classification (T1–T5, D1–D5)
+b. Local contract
+c. Bureau of Reclamation
+d. OSHA guidelines","Answer: a. Facility classification (T1–T5, D1–D5)"
+"Systems must report chlorine residuals:
+a. Daily or continuous, depending on plant type
+b. Annually
+c. Only after complaints
+d. Monthly","Answer: a. Daily or continuous, depending on plant type"
+"Surface water systems must monitor turbidity:
+a. Continuously
+b. Weekly
+c. Monthly
+d. Quarterly",Answer: a. Continuously
+"If a sample is invalidated by DDW:
+a. A replacement sample is required
+b. System is not required to resample
+c. MCL violation is automatic
+d. Only monthly reporting changes",Answer: a. A replacement sample is required
+"Revised Total Coliform Rule requires:
+a. Repeat monitoring and Level 1/2 assessments
+b. Equalized monitoring only
+c. Simple averaging
+d. Outage reporting",Answer: a. Repeat monitoring and Level 1/2 assessments
+"Public Notification Tier 2 must be completed:
+a. Within 30 days
+b. Within 24 hours
+c. Within 48 hours
+d. Within 1 year",Answer: a. Within 30 days
+"Monthly bacteriological monitoring for groundwater systems is:
+a. Based on population served
+b. Not required
+c. Only for chloraminated systems
+d. Weekly always",Answer: a. Based on population served
+"A Boil Water Notice is issued for:
+a. E. coli positive in distribution
+b. High turbidity only
+c. High TDS
+d. Low alkalinity",Answer: a. E. coli positive in distribution
+"Pressure <5 psi event requires:
+a. Immediate public notification
+b. Only internal reporting
+c. No action
+d. Notify customers within a year",Answer: a. Immediate public notification
+"Backflow prevention program must include:
+a. Certified specialist and annual testing
+b. Customer self-reporting
+c. Visual survey only
+d. No documentation",Answer: a. Certified specialist and annual testing
+"Regulation of recycled water for non-potable reuse is under:
+a. Title 22 Division 4
+b. Title 17 only
+c. Title 8
+d. OSHA CFR 1910",Answer: a. Title 22 Division 4
+"Recycled water piping in California is typically colored:
+a. Purple (lavender) to distinguish it from potable water piping
+b. Blue, same as potable water piping
+c. Green
+d. Red",Answer: a. Purple (lavender) to distinguish it from potable water piping
+"Disinfected tertiary recycled water must generally meet:
+5 NTU maximum
+a. Turbidity less than or equal to 2 NTU on a daily average with a
+b. Turbidity less than or equal to 0.3 NTU at all times
+c. Turbidity less than or equal to 10 NTU
+d. No turbidity requirement",Answer: a. Turbidity less than or equal to 2 NTU on a daily average with a
+"Total coliform limits for disinfected tertiary recycled water are
+typically:
+a. A 7-day median of not more than 2.2 MPN/100 mL
+b. A 7-day median of not more than 23 MPN/100 mL
+c. No coliform limit
+d. Based only on E. coli",Answer: a. A 7-day median of not more than 2.2 MPN/100 mL
+"Recycled water impoundments must:
+access, as required
+a. Be posted with appropriate signs and controlled to limit public
+b. Be accessible for swimming
+c. Be treated as potable storage
+d. Have no special requirements",Answer: a. Be posted with appropriate signs and controlled to limit public
+"Title 22 prohibits recycled water from being used for:
+a. Direct human consumption
+b. Landscape irrigation
+c. Industrial cooling
+d. Toilet flushing in dual-plumbed buildings",Answer: a. Direct human consumption
+"Under California Title 22, which treatment barrier in an MF–RO–UV
+AOP train provides the greatest pathogen log removal credit?
+a. Reverse Osmosis (RO)
+b. Microfiltration (MF)
+c. UV disinfection alone
+d. GAC adsorption",Answer: a. Reverse Osmosis (RO)
+"Title 22 requires continuous monitoring of which parameter at a
+Critical Control Point (CCP)?
+credit
+a. The performance criteria directly associated with log removal
+b. Influent temperature
+c. Finished water alkalinity
+d. GAC bed depth",Answer: a. The performance criteria directly associated with log removal
+"Under Title 22, which of the following must be included in an
+Engineering Report for potable reuse?
+redundancy
+a. Description of treatment barriers and demonstration of
+b. Detailed architectural drawings
+c. Staffing schedules for operators
+d. HVAC load calculations",Answer: a. Description of treatment barriers and demonstration of
+"Title 22 requires RO to remove a minimum of:
+a. 2.0-log virus credit (as part of pathogen LRV requirements)
+b. 0.5-log Giardia
+c. 1.0-log Cryptosporidium
+d. 10-log TOC",Answer: a. 2.0-log virus credit (as part of pathogen LRV requirements)
+"Which Title 22 requirement ensures barriers are functioning
+correctly in real time?
+a. Monitoring of surrogate parameters linked to pathogen LRVs
+b. Weekly visual inspections
+c. Quarterly bacteriological sampling
+d. Annual membrane autopsies",Answer: a. Monitoring of surrogate parameters linked to pathogen LRVs
+"Under Title 22, a UV reactor must be validated to demonstrate:
+conditions
+a. Delivered RED (Reduction Equivalent Dose) under worst-case
+b. Maximum lamp temperature
+c. Exact pathogen concentration in the influent
+d. Ability to produce hydroxyl radicals without peroxide",Answer: a. Delivered RED (Reduction Equivalent Dose) under worst-case
+"Title 22 requires that RO permeate salinity be monitored because:
+chemical removal performance
+a. Increased salt passage can indicate loss of microbial and
+b. It ensures GAC bed contact time is adequate
+c. It determines the need for chloramination
+d. It controls UVT in MF systems",Answer: a. Increased salt passage can indicate loss of microbial and
+"In a potable reuse facility, Title 22 requires that the MF/UF
+integrity test demonstrate:
+a. No breach allowing pathogen passage
+b. That TMP is below 2 psi
+c. That chlorine demand is satisfied
+d. That TDS is within specification",Answer: a. No breach allowing pathogen passage
+"Title 22 defines a Critical Control Point (CCP) as: *a. A treatment
+step essential for achieving pathogen log removal requirements
+b. A sampling point after the clearwell
+c. A maintenance location for chemical pumps
+d. Any point where SCADA displays a parameter",Answer: (not marked)
+"Under Title 22, which of the following is required for process
+reliability?
+a. Redundant monitoring and alarms for critical barriers
+b. Full-time onsite engineer
+c. Three independent power feeds
+d. Manual chart recorders",Answer: a. Redundant monitoring and alarms for critical barriers
+"Under Title 22 potable reuse criteria, MF/UF provides which minimum
+LRV credit? *a. 2.5-log virus credit (when integrity-tested)
+b. 0.1-log for all pathogens
+c. 10-log Cryptosporidium
+d. No credit is allowed",Answer: (not marked)
+"According to Title 22, which parameter must be continuously
+monitored for UV disinfection?
+a. UV intensity or validated surrogate parameter
+b. Permeate alkalinity
+c. Free chlorine residual
+d. GAC effluent TOC",Answer: a. UV intensity or validated surrogate parameter
+"Title 22 requires storage retention time for:
+trains
+a. Ensuring adequate disinfectant contact time in potable reuse
+b. Allowing temperature equalization before RO
+c. Ensuring GAC contact time is >10 minutes
+d. Adjusting pH naturally",Answer: a. Ensuring adequate disinfectant contact time in potable reuse
+"Under Title 22, treatment processes must collectively achieve:
+a. Specified LRVs for virus, Giardia, and Cryptosporidium
+b. 100 c. Removal of all dissolved organics
+d. Zero nitrate residual","Answer: a. Specified LRVs for virus, Giardia, and Cryptosporidium"
+"In Title 22, the “performance target” refers to:
+a. The required treatment effectiveness to achieve regulatory LRVs
+b. The electrical efficiency of UV lamps
+c. The return-on-investment for the facility
+d. The operator shift schedule",Answer: a. The required treatment effectiveness to achieve regulatory LRVs
+"Title 22 requires that SCADA alarms:
+a. Notify operators of CCP deviations immediately
+b. Be reviewed annually only
+c. Trigger shutdowns after 24 hours
+d. Only monitor chemical feed pumps",Answer: a. Notify operators of CCP deviations immediately
+"In Title 22 potable reuse, which sample is required to verify
+disinfection and oxidation performance?
+conductivity)
+a. Online surrogate measurements (e.g., UV intensity,
+b. Monthly pathogen enumeration by culture
+c. Annual virus spike challenge tests
+d. Manual jar testing","Answer: a. Online surrogate measurements (e.g., UV intensity,"
+"What is the Title 22 requirement if an MF/UF system fails a
+pressure decay test?
+restored
+a. The barrier must be removed from service until integrity is
+b. Increase backwash frequency
+c. Reduce feed temperature
+d. Increase RO pressure",Answer: a. The barrier must be removed from service until integrity is
+"Title 22 requires that UV reactors be validated primarily to
+ensure:
+a. They deliver the required dose for pathogen inactivation
+b. They maintain temperature <25°C
+c. Lamp sleeves remain clear
+d. GAC achieves required LRVs",Answer: a. They deliver the required dose for pathogen inactivation
+"Under Title 22 potable reuse criteria, RO is required primarily
+because:
+emerging concern (CECs), and salts
+a. It provides significant removal of viruses, chemicals of
+b. It reduces pH to ideal levels
+c. It forms chloramines
+d. It maximizes silica solubility","Answer: a. It provides significant removal of viruses, chemicals of"

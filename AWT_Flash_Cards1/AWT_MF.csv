@@ -1,0 +1,399 @@
+Front,Back
+"Microfiltration and ultrafiltration are generally used to remove:
+a. Suspended solids and microorganisms
+b. Dissolved salts only
+c. Only gases
+d. Only color",Answer: a. Suspended solids and microorganisms
+"MF/UF membranes are typically operated:
+a. In either dead-end or cross-flow configurations
+b. Only as vacuum filters
+c. Only in series with sand filters
+d. Without any backwash",Answer: a. In either dead-end or cross-flow configurations
+"Transmembrane pressure (TMP) is:
+permeate
+a. The average pressure difference between feed/retentate and
+b. The static head in the clearwell
+c. The suction pressure of a pump
+d. The discharge pressure of the chemical pump",Answer: a. The average pressure difference between feed/retentate and
+"A rising TMP during MF operation usually indicates:
+a. Fouling or plugging of the membrane pores
+b. Loss of membrane integrity
+c. Decreasing feed flow
+d. Lower water temperature",Answer: a. Fouling or plugging of the membrane pores
+"A common method to restore MF/UF performance is:
+a. Backwashing and chemically enhanced backwash (CEB)
+b. Increasing feed pH only
+c. Adding more sand to filters
+d. Reducing membrane area",Answer: a. Backwashing and chemically enhanced backwash (CEB)
+"An integrity test for MF/UF primarily detects:
+a. Fiber breaks or leaks allowing particle passage
+b. TMP changes due to fouling
+c. Loss of disinfectant residual
+d. Changes in hardness",Answer: a. Fiber breaks or leaks allowing particle passage
+"A pressure decay test (PDT) on MF/UF is used to:
+a. Determine if air is leaking through damaged fibers
+b. Measure RO recovery
+c. Measure UV dose
+d. Evaluate filter media depth",Answer: a. Determine if air is leaking through damaged fibers
+"Permeate from an MF system is often used as:
+a. Pretreatment feed to an RO system
+b. Final product water without further treatment in all cases
+c. Backwash water only
+d. Sludge thickening water",Answer: a. Pretreatment feed to an RO system
+"A low-permeate flow with normal TMP might indicate:
+a. Instrument or flow meter error
+b. Severe fouling
+c. Fiber breaks
+d. High feed turbidity",Answer: a. Instrument or flow meter error
+"Air scour during MF backwash is primarily used to:
+a. Dislodge particles from the membrane surface
+b. Disinfect the membrane
+c. Increase permeate recovery
+d. Control pH",Answer: a. Dislodge particles from the membrane surface
+"Chemical clean-in-place (CIP) on MF/UF membranes is performed when:
+a. CEBs and backwash no longer restore TMP or flux
+b. The plant shuts down daily
+c. The membranes pass integrity testing
+d. Turbidity is very low",Answer: a. CEBs and backwash no longer restore TMP or flux
+"High pH cleaning solutions on MF/UF are most effective for:
+a. Organic and biological fouling
+b. Inorganic scaling only
+c. Removing chlorine
+d. Adjusting alkalinity",Answer: a. Organic and biological fouling
+"Low pH cleaning solutions on MF/UF are most effective for:
+a. Removing inorganic scales such as calcium carbonate
+b. Removing biofilm only
+c. Removing organics only
+d. Adjusting CT",Answer: a. Removing inorganic scales such as calcium carbonate
+"If MF filtrate turbidity suddenly increases, operators should first:
+operation
+a. Check integrity tests, valves, and analyzers for correct
+b. Increase plant flow
+c. Decrease backwash frequency
+d. Turn off air scour","Answer: a. Check integrity tests, valves, and analyzers for correct"
+"Operating MF at too high a flux typically:
+a. Accelerates fouling and shortens run times
+b. Reduces fouling
+c. Eliminates the need for backwash
+d. Improves permeate quality",Answer: a. Accelerates fouling and shortens run times
+"Recovery for an MF/UF skid is often limited by:
+a. Solids loading and backwash waste requirements
+b. RO feed pressure
+c. UV intensity
+d. Finished water pH",Answer: a. Solids loading and backwash waste requirements
+"The primary measurement used as a pretreatment performance indicator
+for RO is:
+a. Silt density index (SDI) or particle index
+b. Specific conductance
+c. Color units
+d. Alkalinity",Answer: a. Silt density index (SDI) or particle index
+"Operating MF/UF in “submerged” mode means:
+permeate side
+a. Membranes are immersed in a tank and suction is applied on the
+b. Membranes operate under high pressure in pressure vessels
+c. Membranes are located inside the clearwell
+d. Membranes are placed in the distribution system",Answer: a. Membranes are immersed in a tank and suction is applied on the
+"A typical driving force for pressure UF is:
+a. 20–60 psi (140–415 kPa)
+b. 1–2 psi
+c. 200–300 psi
+d. Atmospheric pressure only",Answer: a. 20–60 psi (140–415 kPa)
+"Inadequate pretreatment ahead of MF/UF may lead to:
+a. Rapid fouling and shortened membrane life
+b. Higher recovery
+c. Lower TMP
+d. Improved flux",Answer: a. Rapid fouling and shortened membrane life
+"MF filtrate turbidity is stable, but TMP increases rapidly during
+each cycle. What is the most likely cause?
+a. Reversible fouling buildup between backwashes
+b. Fiber break
+c. Analyzer malfunction
+d. Air scour failure",Answer: a. Reversible fouling buildup between backwashes
+"MF integrity test passes, but filtrate turbidity spikes briefly
+during transitions. Why?
+a. Fiber failure
+b. Air intrusion or bubbles reaching turbidity analyzer
+c. Module breach
+d. CEB under-dosing",Answer: b. Air intrusion or bubbles reaching turbidity analyzer
+"MF backwash frequency is reduced without adjusting flux. Expected
+outcome?
+a. Faster TMP rise
+b. Lower TMP
+c. Higher filtrate turbidity
+d. Lower energy use",Answer: a. Faster TMP rise
+"MF CEB chlorine concentration is lower than target. What will
+operators observe?
+a. Poor chemical cleaning effectiveness
+b. Higher UVT
+c. Higher filtrate turbidity
+d. Lower TMP",Answer: a. Poor chemical cleaning effectiveness
+"MF TMP begins rising earlier in each filtration cycle. What is the
+most likely cause?
+a. Insufficient backwash frequency
+b. Analyzer drift
+c. Integrity failure
+d. Chemical under-dosing",Answer: a. Insufficient backwash frequency
+"MF filtrate turbidity increases slightly while TMP remains stable.
+Most likely:
+a. Fouling
+b. Fiber break or localized leak
+c. TMP probe drift
+d. Low flux",Answer: b. Fiber break or localized leak
+"MF integrity test fails with a high air decay rate. First step?
+a. Verify test setup and repeat the test
+b. Replace the entire rack
+c. Increase flux
+d. Conduct CIP",Answer: a. Verify test setup and repeat the test
+"MF CEBs become less effective over time. Root cause?
+a. High UVT
+b. Chemical strength deterioration or incorrect mixing
+c. Analyzer error
+d. Excessive air scour",Answer: b. Chemical strength deterioration or incorrect mixing
+"An MF train passes integrity testing, but TMP continues to rise
+while filtrate turbidity remains  ≤ 0.05 NTU. What is the most
+likely interpretation?
+a. Gradual, reversible fouling
+b. Catastrophic fiber break
+c. Analyzer drift
+d. Header O-ring leak","Answer: a. Gradual, reversible fouling"
+"Operators increased low-pH CEB frequency with minimal TMP
+improvement. What is the best next step?
+a. Switch to high-pH CEB targeting organic fouling
+b. Reduce air scour
+c. Reduce flux
+d. Increase backwash frequency only",Answer: a. Switch to high-pH CEB targeting organic fouling
+"For an MF system operating at constant flux, what happens when
+recovery is increased?
+a. Solids loading per unit membrane area increases
+b. TMP decreases
+c. Backwash frequency decreases
+d. Integrity credit decreases",Answer: a. Solids loading per unit membrane area increases
+"An MF integrity test shows a repeatable small leak equivalent to a
+single broken fiber. If ignored, the main risk is:
+a. Loss of log removal credit
+b. Increased TMP
+c. Shorter cycle times
+d. Higher filtrate pH",Answer: a. Loss of log removal credit
+"MF filtrate turbidity begins trending upward from 0.03 NTU to 0.07
+NTU, but TMP is stable. Most likely cause?
+a. Fiber break in multiple modules
+b. Turbidity analyzer drift or fouling
+c. Irreversible fouling
+d. Backwash air scour malfunction",Answer: b. Turbidity analyzer drift or fouling
+"MF TMP rises during the filtration cycle but resets normally after
+backwash. Interpretation?
+a. Reversible fouling
+b. Irreversible fouling
+c. Broken fibers
+d. Chemical cleaning required immediately",Answer: a. Reversible fouling
+"MF integrity test fails with a bubble point slightly below
+threshold. First operator action?
+a. Remove module from service
+b. Repeat the integrity test
+c. Perform full CEB
+d. Increase flux to verify",Answer: b. Repeat the integrity test
+"MF CEB frequency is too low. What is the likely symptom?
+a. Lower TMP
+b. Faster TMP rise between cycles
+c. Higher filtrate turbidity
+d. Improved cycle time",Answer: b. Faster TMP rise between cycles
+"MF filtrate turbidity remains low, but TMP gradually increases from
+cycle to cycle. What is the most likely cause?
+a. Reversible fouling accumulating between cycles
+b. Multiple fiber breaks
+c. Analyzer malfunction
+d. Air scour failure",Answer: a. Reversible fouling accumulating between cycles
+"MF backwash air flow suddenly drops. Immediate likely cause?
+a. Broken fibers
+b. Blower or valve failure
+c. High turbidity in filtrate
+d. Low hypochlorite residual",Answer: b. Blower or valve failure
+"MF integrity test passes but filtrate turbidity shows occasional
+spikes. Cause?
+a. Fiber break
+b. Analyzer bubble interference
+c. Over-fluxing
+d. Permeate tank contamination",Answer: b. Analyzer bubble interference
+"Increasing MF flux without increasing backwash frequency will most
+likely lead to:
+a. Lower TMP
+b. Faster TMP rise
+c. Higher filtrate turbidity
+d. Lower energy use",Answer: b. Faster TMP rise
+"In MF/UF systems, which operational indicator best reflects the
+onset of membrane fouling?
+a. A gradual increase in TMP at constant flux
+b. A decrease in filtrate turbidity
+c. A decrease in recovery
+d. A drop in permeate conductivity",Answer: a. A gradual increase in TMP at constant flux
+"A sudden spike in filtrate turbidity in an MF system most likely
+indicates:
+a. A fiber break or loss of membrane integrity
+b. Low coagulant feed
+c. Reduced backwash flow rate
+d. Low feed alkalinity",Answer: a. A fiber break or loss of membrane integrity
+"What is the primary purpose of a pressure decay test (PDT)?
+a. To confirm membrane integrity and detect leaks or breaks
+b. To adjust backwash duration
+c. To optimize chemical cleaning pH
+d. To measure feed SDI",Answer: a. To confirm membrane integrity and detect leaks or breaks
+"Which condition most contributes to irreversible fouling in MF
+systems?
+CEB
+a. Accumulation of organic matter not removed through backwash or
+b. Low feed temperature
+c. Elevated air scour rate
+d. High flux operation only",Answer: a. Accumulation of organic matter not removed through backwash or
+"Chemically enhanced backwash (CEB) is used primarily to:
+backwash
+a. Remove organic and biological foulants not removed by hydraulic
+b. Restore full membrane integrity
+c. Increase disinfection credit
+d. Reduce permeate salinity",Answer: a. Remove organic and biological foulants not removed by hydraulic
+"Which parameter is most important to control to reduce particulate
+fouling in MF systems?
+a. Silt density index (SDI) of the influent
+b. Alkalinity
+c. pH
+d. Turbidity only",Answer: a. Silt density index (SDI) of the influent
+"Which MF cleaning strategy is used to remove inorganic scale?
+a. Acid-based chemical cleaning
+b. High-pH cleaning
+c. Chlorination
+d. Air scouring only",Answer: a. Acid-based chemical cleaning
+"The primary purpose of air scour during MF backwashing is to:
+a. Dislodge accumulated solids on the membrane surface
+b. Remove dissolved organics
+c. Reduce pH
+d. Increase flux beyond design limits",Answer: a. Dislodge accumulated solids on the membrane surface
+"What is the most likely cause of a rapid TMP increase during a
+single filtration cycle? *a. A sudden increase in feed solids
+loading
+b. Low permeability of aged membranes
+c. Elevated pH
+d. A failed CEB pump",Answer: (not marked)
+"A fiber break in MF/UF is typically confirmed by:
+integrity test
+a. Elevated filtrate particle counts or turbidity during an
+b. High permeate TDS
+c. Reduced feed pressure
+d. Increased backwash frequency",Answer: a. Elevated filtrate particle counts or turbidity during an
+"Which factor most improves MF/UF membrane life expectancy? *a.
+Operating within the recommended flux and TMP limits
+b. Using only water for backwashing
+c. Increasing recovery above design
+d. Operating at maximum pressure",Answer: (not marked)
+"Which condition most increases the frequency of CEBs?
+a. High organic loading in the feedwater
+b. Low temperature
+c. High pH
+d. Low air scour flow",Answer: a. High organic loading in the feedwater
+"The purpose of a CIP (Clean-in-Place) in MF systems is to:
+hydraulic cleaning
+a. Restore permeability by removing foulants not removed by CEB or
+b. Reduce TMP permanently to zero
+c. Change membrane pore size
+d. Remove silica only",Answer: a. Restore permeability by removing foulants not removed by CEB or
+"During backwash, what does an increase in required backwash pressure
+indicate?
+a. Fouling or clogging of membrane pores
+b. Reduced feed TDS
+c. Lower pH
+d. Air in permeate headers",Answer: a. Fouling or clogging of membrane pores
+"Which variable most strongly influences MF membrane flux?
+a. Water temperature
+b. Permeate pH
+c. Chlorine concentration
+d. Turbidity alone",Answer: a. Water temperature
+"A low air scour rate during backwash has what effect?
+a. Reduced removal of accumulated solids
+b. Increased permeate salinity
+c. Higher recovery
+d. Reduced TMP",Answer: a. Reduced removal of accumulated solids
+"What is a typical design purpose of equalization upstream of MF?
+a. To provide stable feed quality and minimize fouling events
+b. To chlorinate the water thoroughly
+c. To reduce TDS prior to RO
+d. To maximize silica solubility",Answer: a. To provide stable feed quality and minimize fouling events
+"MF filtrate quality is primarily measured using:
+a. Turbidity or particle counts
+b. pH
+c. Chlorine dose
+d. TDS",Answer: a. Turbidity or particle counts
+"Which MF operational condition most directly increases fouling rate?
+a. Operating above design flux
+b. High permeate temperature
+c. Low recovery
+d. High air scour rate",Answer: a. Operating above design flux
+"Which scenario most likely requires immediate removal of an MF unit
+from service?
+integrity
+a. Failure of pressure decay testing indicating compromised
+b. TMP rising 0.1 psi above baseline
+c. Slight increase in filtrate turbidity under 0.05 NTU
+d. Backwash pump operating at reduced efficiency",Answer: a. Failure of pressure decay testing indicating compromised
+"In a microfiltration (MF) system used upstream of RO, which
+operational indicator best reflects the onset of membrane fouling?
+flux.
+a. Permeate conductivity decreases.
+b. Transmembrane pressure (TMP) gradually increases at constant
+c. Recovery increases above the design limit.
+d. Feed pH decreases below the target value.",Answer: b. Transmembrane pressure (TMP) gradually increases at constant
+"What is the primary purpose of conducting a membrane integrity test
+(MIT) on MF or UF membranes used in potable reuse?
+passage.
+a. To determine whether the membranes require chemical cleaning.
+b. To measure the salt rejection performance under variable flows.
+c. To verify that no breaches exist that would allow pathogen
+d. To evaluate long-term scaling tendencies in the RO system.",Answer: c. To verify that no breaches exist that would allow pathogen
+"A plant monitoring its MF system observes a rapid increase in TMP
+during a single filtration cycle. Which operational issue does this
+most likely indicate?
+a. Gradual fouling over several days.
+b. Loss of membrane structural integrity.
+c. Sudden particulate breakthrough or excessive solids loading.
+d. Underfeeding of coagulant upstream.",Answer: c. Sudden particulate breakthrough or excessive solids loading.
+"A sudden increase in MF filtrate turbidity indicates:
+a. Scaling inside the permeate piping.
+b. Potential membrane integrity failure or fiber break.
+c. Decreased feed temperature.
+d. Excessive peroxide residual from upstream AOP.",Answer: b. Potential membrane integrity failure or fiber break.
+"In MF operations, backwashing is primarily performed to:
+flux.
+a. Reduce permeate salinity.
+b. Remove accumulated solids from membrane surfaces to restore
+c. Increase recovery above design limits.
+d. Improve final disinfection effectiveness.",Answer: b. Remove accumulated solids from membrane surfaces to restore
+"A MF system displays stable TMP but a significant decrease in
+filtrate flow. What operational issue is most likely?
+a. Membrane fouling.
+b. Irreversible clogging of feed channels.
+c. Flow meter calibration error or valve restriction downstream.
+d. Loss of membrane integrity.",Answer: c. Flow meter calibration error or valve restriction downstream.
+"In MF systems, fiber breaks are typically detected by:
+a. A decrease in TMP.
+b. A sudden increase in filtrate turbidity or particle counts.
+c. A gradual increase in flux.
+d. Reduced backwash frequency.",Answer: b. A sudden increase in filtrate turbidity or particle counts.
+"In MF/UF systems, the clean-in-place (CIP) procedure is initiated
+when:
+a. TMP decreases below the baseline.
+b. Permeate turbidity decreases.
+c. TMP rises to a predetermined threshold above baseline.
+d. Recovery exceeds design value.",Answer: c. TMP rises to a predetermined threshold above baseline.
+"In MF operations, what is the impact of excessively long filtration
+cycles?
+a. Reduced need for chemical cleaning.
+b. Decrease in membrane permeability.
+c. Increased solids loading leading to higher TMP rise.
+d. Improved filtrate quality.",Answer: c. Increased solids loading leading to higher TMP rise.
+"In MF/UF systems, air scouring during backwash is primarily used to:
+a. Reduce pH in the membrane tank.
+b. Remove dissolved solids.
+c. Dislodge accumulated particles from the membrane surface.
+d. Restore membrane integrity.",Answer: c. Dislodge accumulated particles from the membrane surface.
+"The “headloss” across a membrane system primarily depends on:
+a. Flow rate, viscosity, and fouling
+b. Total hardness only
+c. Chlorine residual
+d. Color of the water","Answer: a. Flow rate, viscosity, and fouling"

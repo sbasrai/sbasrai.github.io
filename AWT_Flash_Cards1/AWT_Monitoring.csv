@@ -1,0 +1,231 @@
+Front,Back
+"SCADA stands for:
+a. Supervisory Control and Data Acquisition
+b. Simple Computer Data Analysis
+c. Sequential Control and Distribution Automation
+d. Supervisory Chemical Dosing Application",Answer: a. Supervisory Control and Data Acquisition
+"A trending graph in SCADA helps the operator:
+a. Identify patterns and gradual changes in process variables
+b. Replace instrument calibrations
+c. Eliminate lab testing
+d. Estimate pipe diameter",Answer: a. Identify patterns and gradual changes in process variables
+"An analog signal from a transmitter is most commonly:
+a. A 4–20 mA current loop
+b. 0–1 V DC
+c. A binary contact closure only
+d. A 120 V AC signal",Answer: a. A 4–20 mA current loop
+"A “fail-safe” valve position is chosen to:
+is lost
+a. Place the system in the safest state if power or control signal
+b. Maximize production under all conditions
+c. Maintain maximum pressure
+d. Reduce operator involvement",Answer: a. Place the system in the safest state if power or control signal
+"Alarm deadband is used to:
+a. Prevent nuisance alarms due to minor signal fluctuations
+b. Increase alarm volume
+c. Eliminate alarms
+d. Change setpoints automatically",Answer: a. Prevent nuisance alarms due to minor signal fluctuations
+"A permissive in a start sequence means:
+a. A condition that must be satisfied before equipment can start
+b. A condition that stops equipment
+c. A manual override
+d. A high-priority alarm",Answer: a. A condition that must be satisfied before equipment can start
+"Flow pacing of chemical feed means:
+a. Chemical dose is automatically adjusted in proportion to flow
+b. Chemicals are added at a constant rate
+c. Operators manually adjust pumps hourly
+d. Dosing is based on tank level only",Answer: a. Chemical dose is automatically adjusted in proportion to flow
+"A totalizer on a flow meter is used to:
+a. Measure cumulative flow over time
+b. Measure instantaneous pressure
+c. Measure turbidity
+d. Measure conductivity",Answer: a. Measure cumulative flow over time
+"A sudden flat-line reading on a transmitter usually indicates:
+a. Loss of signal, power, or instrument failure
+b. Perfect process stability
+c. Excellent water quality
+d. Normal calibration","Answer: a. Loss of signal, power, or instrument failure"
+"Cybersecurity in SCADA systems is important because:
+safety
+a. Unauthorized access could disrupt operations or compromise
+b. It eliminates the need for physical security
+c. It is required only for financial systems
+d. It only affects email",Answer: a. Unauthorized access could disrupt operations or compromise
+"A calibration check on an online analyzer is done to:
+a. Confirm the instrument is reading accurately
+b. Change its measurement range
+c. Adjust pump speeds
+d. Replace the sensor",Answer: a. Confirm the instrument is reading accurately
+"When field readings and lab results do not match, the operator
+should:
+a. Investigate possible sampling, handling, or instrument issues
+b. Ignore the lab results
+c. Ignore the field readings
+d. Immediately change all setpoints","Answer: a. Investigate possible sampling, handling, or instrument issues"
+"Standard operating logs are important because they:
+a. Document conditions, actions, and help in troubleshooting
+b. Replace the need for SCADA
+c. Are only for regulatory inspectors
+d. Eliminate need for communication","Answer: a. Document conditions, actions, and help in troubleshooting"
+"During a plant upset, the best initial operator response is to:
+changes
+a. Stabilize flows and verify key instruments before making major
+b. Shut down all equipment immediately
+c. Increase all chemical feeds
+d. Ignore alarms temporarily",Answer: a. Stabilize flows and verify key instruments before making major
+"A well-designed start-up procedure for an RO train should include:
+full flow
+a. Flushing, gradual pressurization, and checking for leaks before
+b. Immediate operation at full pressure
+c. Starting with concentrate valve closed
+d. Skipping all pretreatment","Answer: a. Flushing, gradual pressurization, and checking for leaks before"
+"A clear communication handoff between shifts should:
+actions
+a. Summarize current plant status, recent issues, and pending
+b. Only record normal operations
+c. Be verbal only with no written records
+d. Occur only weekly","Answer: a. Summarize current plant status, recent issues, and pending"
+"A key performance indicator (KPI) for an RO system might be:
+a. Normalized permeate flow and salt rejection
+b. Color of the pump room
+c. Number of valves installed
+d. Size of the chemical tanks",Answer: a. Normalized permeate flow and salt rejection
+"Standard emergency response plans should include:
+communication
+a. Procedures for spills, power loss, contamination, and
+b. Only phone numbers of managers
+c. Only equipment warranties
+d. Only financial contacts","Answer: a. Procedures for spills, power loss, contamination, and"
+"Good housekeeping in a treatment plant:
+a. Reduces accidents, improves efficiency, and aids inspections
+b. Has no impact on safety
+c. Only matters in office areas
+d. Replaces preventive maintenance","Answer: a. Reduces accidents, improves efficiency, and aids inspections"
+"The most important habit for an AWT Level 3 operator is to:
+changing conditions
+a. Continuously monitor, think critically, and respond safely to
+b. Memorize setpoints without understanding
+c. Rely solely on alarms for decision-making
+d. Avoid documenting actions in logs","Answer: a. Continuously monitor, think critically, and respond safely to"
+"SCADA shows stable flow, but field gauge fluctuates heavily. Cause?
+a. SCADA failure
+b. PLC signal damping/filtering
+c. Fouled flow meter
+d. Air scour interference",Answer: b. PLC signal damping/filtering
+"PID-controlled pH system oscillates. Root cause?
+a. Analyzer drift
+b. Pump cavitation
+c. Controller gain too high
+d. Low ORP",Answer: c. Controller gain too high
+"A VFD pump runs hot even at low speeds. Reason?
+a. Cavitation
+b. Fouling
+c. Harmonic heating at low frequency
+d. Valve misalignment",Answer: c. Harmonic heating at low frequency
+"A flow transmitter suddenly reads zero while the pump is running.
+Most likely:
+a. Transmitter or wiring failure
+b. Valve closed
+c. Cavitation
+d. Air entrainment",Answer: a. Transmitter or wiring failure
+"VFD motor temperature rises even at low speed. Why?
+a. Fouling
+b. Pump cavitation
+c. Harmonic heating at low frequencies
+d. Peroxide overdose",Answer: c. Harmonic heating at low frequencies
+"pH control oscillates around the setpoint. Cause?
+a. Analyzer drift
+b. PID tuning too aggressive (high gain)
+c. Low ORP
+d. Pump cavitation",Answer: b. PID tuning too aggressive (high gain)
+"A flow-paced chemical dosing pump overshoots the setpoint. Most
+likely cause:
+a. Low pH
+b. Poor PID tuning or excessive gain
+c. Analyzer failure
+d. High UVT",Answer: b. Poor PID tuning or excessive gain
+"A pressure transmitter reads erratically with small oscillations.
+Root cause?
+a. Fouling
+b. Scaling
+c. Electrical noise or grounding issue
+d. High ORP",Answer: c. Electrical noise or grounding issue
+"SCADA displays stable analog readings but field gauge shows
+fluctuations. Cause?
+a. SCADA failure
+b. Signal damping/filtering in PLC
+c. Analyzer malfunction
+d. Fiber break",Answer: b. Signal damping/filtering in PLC
+"MF filtrate flow is 10 MGD. RO feed is controlled at 95% of MF
+filtrate by ratio control. MF flow drops, but RO feed remains
+unchanged. Why?
+a. The RO feed flow controller is in manual mode
+b. MF TMP alarm has latched
+c. UV system is in local mode
+d. Turbidity analyzer has failed",Answer: a. The RO feed flow controller is in manual mode
+"Operators experience numerous nuisance alarms due to small analyzer
+fluctuations around alarm limits. What is the best long-term fix?
+a. Disable all low-priority alarms
+b. Increase alarm deadbands and rationalize alarm setpoints
+c. Reduce SCADA scan rates
+d. Convert all alarms to simple event logs",Answer: b. Increase alarm deadbands and rationalize alarm setpoints
+"A turbidity analyzer suddenly drops from 1.0 NTU to 0.1 NTU with no
+observed process change. What is the most likely cause?
+a. Air bubble or maintenance interference at the sensor
+b. Automatic range change within the analyzer
+c. Coagulant overfeed upstream
+d. True rapid improvement in water quality",Answer: a. Air bubble or maintenance interference at the sensor
+"Flow-paced chemical dosing depends primarily on:
+a. Reliable flow measurement
+b. ORP
+c. UVT
+d. TMP",Answer: a. Reliable flow measurement
+"A VFD-driven pump shows pressure oscillations at certain speeds. The
+root cause is likely:
+a. Cavitation
+b. Harmonic resonance
+c. Scaling
+d. Bearing failure",Answer: b. Harmonic resonance
+"A PLC analog input reads noisy signals from a turbidity sensor. Best
+corrective action?
+a. Use shielded, grounded signal cable
+b. Increase pump speed
+c. Decrease UV dose
+d. Increase CEB frequency","Answer: a. Use shielded, grounded signal cable"
+"A SCADA system’s main purpose is to perform high-level supervisory
+functions. Which of the following is the primary real-time control
+function performed by the local PLC rather than the SCADA software?
+chemical feed setpoint based on an online analyzer.
+device.
+setpoint for the plant.
+a. Long-term data historian and trending for regulatory reports.
+b. Executing the filter backwash sequence and maintaining a
+c. Generating alarms and notifications to the operator’s mobile
+d. Allowing the operator to remotely change the master flow rate",Answer: b. Executing the filter backwash sequence and maintaining a
+"A plant observes that RO recovery has dropped while TMP remains
+stable. Which condition does this most likely indicate?
+error.
+a. Organic fouling.
+b. Scaling on the concentrate side.
+c. Permeate flow control valve restriction or instrumentation
+d. Sudden increase in feed salinity.",Answer: c. Permeate flow control valve restriction or instrumentation
+"In RO operations, which parameter is most useful for detecting early
+membrane fouling?
+a. Permeate pH.
+b. Normalized permeate flow.
+c. Concentrate conductivity.
+d. Permeate temperature.",Answer: b. Normalized permeate flow.
+"What is the primary reason to maintain minimum velocity in RO feed
+channels?
+a. To reduce permeate TDS.
+b. To minimize particulate settling and biofilm formation.
+c. To increase osmotic pressure.
+d. To reduce energy consumption.",Answer: b. To minimize particulate settling and biofilm formation.
+"A utility monitors DBP formation potential (DBPFP). A high DBPFP
+value suggests:
+disinfectants.
+chlorinated DBPs.
+a. The water has low NOM content and low reactivity with
+b. The water contains reactive organic matter likely to form
+c. Disinfection is inadequate at the plant.
+d. Chloramination cannot be used as a secondary disinfectant.",Answer: b. The water contains reactive organic matter likely to form

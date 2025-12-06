@@ -1,0 +1,575 @@
+Front,Back
+"Reverse osmosis primarily removes:
+a. Dissolved salts and many dissolved organics
+b. Only suspended solids
+c. Only bacteria
+d. Only gases",Answer: a. Dissolved salts and many dissolved organics
+"The “permeate” stream in an RO system is:
+membranes
+a. The treated, low-salinity water that has passed through the
+b. The concentrated reject stream
+c. The feed entering the RO skid
+d. The backwash water","Answer: a. The treated, low-salinity water that has passed through the"
+"The “concentrate” or “brine” stream is:
+a. The high-salt reject from RO membranes
+b. The finished water
+c. The MF filtrate
+d. The chemical waste",Answer: a. The high-salt reject from RO membranes
+"Recovery in an RO train is typically limited by:
+a. Scaling and concentration of sparingly soluble salts
+b. Membrane color
+c. Permeate tank size only
+d. Chlorine residual",Answer: a. Scaling and concentration of sparingly soluble salts
+"An increase in RO differential pressure (Delta P) usually indicates:
+a. Fouling or plugging of the RO elements
+b. Membrane oxidation
+c. Loss of salt rejection
+d. Lower feed TDS",Answer: a. Fouling or plugging of the RO elements
+"Loss of salt rejection with normal differential pressure (Delta P)
+often indicates:
+a. Membrane damage or chemical attack
+b. Colloidal fouling
+c. Air entrainment
+d. Low feed temperature",Answer: a. Membrane damage or chemical attack
+"The most common cause of irreversible damage to polyamide RO
+membranes is:
+a. Exposure to free chlorine or strong oxidants
+b. Low pH cleaning
+c. Low temperature
+d. Flow variations",Answer: a. Exposure to free chlorine or strong oxidants
+"Antiscalant is added to RO feedwater to:
+a. Inhibit precipitation of sparingly soluble salts
+b. Increase pH
+c. Disinfect the membranes
+d. Remove turbidity",Answer: a. Inhibit precipitation of sparingly soluble salts
+"SDI greater than 5 at 15 minutes usually indicates:
+a. High fouling potential and need for improved pretreatment
+b. Membrane oxidation
+c. Adequate pretreatment
+d. Low hardness",Answer: a. High fouling potential and need for improved pretreatment
+"Normalized permeate flow is used to:
+pressure changes
+a. Compare performance over time independent of temperature and
+b. Measure instantaneous pressure only
+c. Replace differential pressure monitoring
+d. Measure turbidity",Answer: a. Compare performance over time independent of temperature and
+"A sudden drop in RO permeate flow with stable differential pressure
+may indicate:
+a. Feed valve closure or pump malfunction
+b. Biofouling
+c. Membrane oxidation
+d. Increased SDI",Answer: a. Feed valve closure or pump malfunction
+"A low pH cleaning solution for RO membranes is used mainly to:
+a. Dissolve inorganic scales such as calcium carbonate
+b. Remove biofilm only
+c. Increase salt rejection temporarily
+d. Remove free chlorine",Answer: a. Dissolve inorganic scales such as calcium carbonate
+"A high pH cleaning solution for RO membranes is used mainly to:
+a. Remove organic and biological foulants
+b. Remove silica scale only
+c. Lower alkalinity
+d. Remove iron scale only",Answer: a. Remove organic and biological foulants
+"Scaling in the tail-end RO elements is often indicated by:
+permeate flow
+a. Increased differential pressure and reduced tail-element
+b. Decreased permeate conductivity
+c. Low feed pH
+d. Higher UVT",Answer: a. Increased differential pressure and reduced tail-element
+"Permeate conductivity increasing gradually over months usually
+means:
+a. Gradual membrane aging or damage
+b. Instrument calibration error only
+c. Lower feed conductivity
+d. Lower recovery",Answer: a. Gradual membrane aging or damage
+"RO feed pumps are typically controlled to maintain:
+a. A target feed pressure or flow to achieve design recovery
+b. Constant motor speed in all cases
+c. Only suction pressure
+d. Only concentrate flow",Answer: a. A target feed pressure or flow to achieve design recovery
+"Energy recovery devices in RO systems are used to:
+a. Recover hydraulic energy from the concentrate stream
+b. Increase differential pressure across membranes
+c. Reduce flux
+d. Increase chlorine residual",Answer: a. Recover hydraulic energy from the concentrate stream
+"High recovery in RO systems tends to:
+a. Increase scaling tendency and concentrate TDS
+b. Reduce scaling tendency
+c. Eliminate need for antiscalant
+d. Have no impact on concentrate quality",Answer: a. Increase scaling tendency and concentrate TDS
+"A typical first response to fouling in an RO skid is:
+cleaning
+a. Verify instruments and then schedule appropriate chemical
+b. Increase feed pressure indefinitely
+c. Double the recovery
+d. Turn off pretreatment",Answer: a. Verify instruments and then schedule appropriate chemical
+"A permeate backpressure can:
+a. Reduce driving force and lower permeate flow
+b. Increase flux
+c. Reduce differential pressure
+d. Improve salt passage",Answer: a. Reduce driving force and lower permeate flow
+"RO ΔP increases but permeate conductivity remains constant. What
+does this indicate?
+a. Membrane breach
+b. Hydraulic fouling (particulate/biofouling)
+c. Analyzer drift
+d. Chemical scaling",Answer: b. Hydraulic fouling (particulate/biofouling)
+"RO permeate conductivity increases but ΔP is stable. Which is true?
+a. Fouling
+b. Membrane salt rejection loss
+c. Scaling
+d. Air entrainment",Answer: b. Membrane salt rejection loss
+"RO stage-by-stage flows show high lead-stage permeate and very low
+tail-stage permeate. Cause?
+a. O-ring leak
+b. Analyzer drift
+c. Tail-stage fouling or scaling
+d. Air entrainment",Answer: c. Tail-stage fouling or scaling
+"RO feed ORP suddenly drops. Why?
+a. Analyzer malfunction
+b. Excess bisulfite feed
+c. UVT increased
+d. pH decreased",Answer: b. Excess bisulfite feed
+"RO NDP decreases even though feed TDS increases. Why?
+a. Membrane fouling
+b. Higher temperature reduces viscosity
+c. Lower recovery
+d. Analyzer drift",Answer: b. Higher temperature reduces viscosity
+"RO feed SDI increases steadily. Which upstream process is most
+likely underperforming?
+a. UV
+b. MF/UF
+c. RO concentrate tank
+d. Permeate pump",Answer: b. MF/UF
+"RO lead-element permeate flow drops while tail-element flow stays
+normal. Explanation?
+a. Lead-element fouling or scaling
+b. Tail-element fouling
+c. O-ring failure
+d. Analyzer drift",Answer: a. Lead-element fouling or scaling
+"RO ΔP decreases unexpectedly while flows remain constant. Cause?
+a. Scaling
+b. Fouling
+c. Temperature increase reducing viscosity
+d. Analyzer failure",Answer: c. Temperature increase reducing viscosity
+"Permeate conductivity decreases while feed conductivity is stable.
+Most likely:
+a. Analyzer error
+b. Lower temperature improving salt rejection
+c. Membrane damage
+d. O-ring leak",Answer: b. Lower temperature improving salt rejection
+"RO concentrate flow increases without change in feed flow. Which is
+true?
+a. Recovery has decreased
+b. Recovery has increased
+c. Feed pressure has dropped
+d. Lead-element fouling occurred",Answer: a. Recovery has decreased
+"Normalized permeate flow is decreasing while normalized salt passage
+is constant. Interpretation?
+a. Fouling or compaction
+b. Scaling
+c. Membrane breach
+d. Analyzer drift",Answer: a. Fouling or compaction
+"RO tail element pressure increases more rapidly than lead elements.
+Most likely:
+a. Biofouling in lead stage
+b. Colloidal or particulate fouling in tail stage
+c. Oxidation of membranes
+d. Low pH",Answer: b. Colloidal or particulate fouling in tail stage
+"RO feed ORP rises unexpectedly even though bisulfite dosing is
+stable. Cause?
+a. Bisulfite pump losing prime or injection failure
+b. High temperature
+c. Low pH
+d. Analyzer drift",Answer: a. Bisulfite pump losing prime or injection failure
+"RO system experiences permeate conductivity drift upward but ΔP
+remains normal. Cause?
+a. Gradual loss of salt rejection
+b. Colloidal fouling
+c. Air entrainment
+d. Analyzer turbidity error",Answer: a. Gradual loss of salt rejection
+"RO feed pump cavitation is most likely due to:
+a. High feed pressure
+b. Membrane fouling
+c. Low net positive suction head (NPSHa)
+d. High temperature",Answer: c. Low net positive suction head (NPSHa)
+"RO concentrate flow suddenly drops with stable feed flow. Most
+likely cause:
+a. Scaling
+b. Concentrate valve partially closed or drifting
+c. Analyzer error
+d. High UVT",Answer: b. Concentrate valve partially closed or drifting
+"Lead-stage ΔP is stable, tail-stage ΔP is increasing, and permeate
+conductivity is unchanged. This pattern indicates:
+a. Biofouling in lead elements
+b. Colloidal/particulate fouling in tail stage
+c. Membrane oxidation
+d. Undersized concentrate valve",Answer: b. Colloidal/particulate fouling in tail stage
+"Scaling persists in the RO tail despite correct antiscalant dose.
+Most likely explanation:
+mixing)
+a. Antiscalant is injected too close to the RO (insufficient
+b. Antiscalant is incompatible with the membrane
+c. Antiscalant is inactivated by low pH
+d. Temperature is too high and destroys the antiscalant",Answer: a. Antiscalant is injected too close to the RO (insufficient
+"Permeate conductivity slowly increases while ΔP and flows remain
+stable. What is the most likely cause?
+a. Gradual loss of salt rejection (membrane aging/oxidation)
+b. Colloidal fouling in the tail
+c. VFD/pump mechanical issues
+d. Flow meter drift",Answer: a. Gradual loss of salt rejection (membrane aging/oxidation)
+"Net driving pressure (NDP) increases significantly, but feed
+conductivity and temperature remain constant. Which is most likely?
+pressure
+a. Osmotic pressure increased
+b. Fouling increased hydraulic resistance, requiring higher feed
+c. Permeate pressure dropped to zero
+d. Membranes compacted due to chemical cleaning","Answer: b. Fouling increased hydraulic resistance, requiring higher feed"
+"An RO system shows both increasing ΔP and rising permeate
+conductivity. What cleaning sequence is most appropriate?
+a. Caustic/surfactant cleaning followed by acid cleaning
+b. Acid cleaning only
+c. High-pH cleaning only
+d. Sodium bisulfite flush only",Answer: a. Caustic/surfactant cleaning followed by acid cleaning
+"RO feed conductivity increases while permeate conductivity stays
+stable. This indicates:
+a. Osmotic pressure increase
+b. Membrane breach
+c. Scaling in tail elements
+d. Flow meter drift",Answer: a. Osmotic pressure increase
+"RO normalized permeate flow is decreasing but ΔP is stable. Cause?
+a. Loss of membrane permeability (fouling/compaction)
+b. Scaling
+c. Analyzer failure
+d. Air entrainment",Answer: a. Loss of membrane permeability (fouling/compaction)
+"Tail-stage permeate flow decreases while lead-stage remains
+constant. Most likely:
+a. Biofouling in lead stage
+b. Scaling/fouling in tail stage
+c. Pump cavitation
+d. Valve malfunction",Answer: b. Scaling/fouling in tail stage
+"RO permeate pH slowly increases over weeks. Which scenario fits?
+a. CO₂ stripping in permeate tank
+b. Weak-base amines passing through membranes
+c. Antiscalant overdose
+d. Caustic feed pump failure",Answer: b. Weak-base amines passing through membranes
+"During startup, RO feed pressure spikes and permeate flow stalls.
+Cause?
+a. High temperature
+b. High recovery
+c. Trapped air in pressure vessel
+d. High pH",Answer: c. Trapped air in pressure vessel
+"Sudden drop in RO feed ORP despite stable bisulfite dosing.
+Explanation?
+a. Bisulfite line plugging or pump failure
+b. High pH
+c. Scaling
+d. Membrane oxidation",Answer: a. Bisulfite line plugging or pump failure
+"A gradual increase in RO transmembrane pressure (TMP) while permeate
+quality remains stable most likely indicates:
+a. Organic fouling on the membrane surface
+b. Membrane integrity failure
+c. Increased feed salinity
+d. Permeate backpressure",Answer: a. Organic fouling on the membrane surface
+"A sudden increase in RO feed pressure while maintaining constant
+recovery most likely indicates:
+a. Increased membrane fouling requiring higher operating pressure
+b. Scaling in the tail elements only
+c. Membrane compaction
+d. Insufficient antiscalant dosage",Answer: a. Increased membrane fouling requiring higher operating pressure
+"Which condition most promotes calcium carbonate scaling in RO
+concentrate?
+a. Increasing pH in the concentrate stream
+b. Low alkalinity in the feed
+c. High temperature in the feedwater
+d. Decreasing recovery",Answer: a. Increasing pH in the concentrate stream
+"A rapid decline in permeate quality (higher TDS) without a change in
+TMP most likely indicates:
+a. Membrane damage or loss of salt rejection
+b. Biological fouling
+c. Low temperature
+d. Reduced antiscalant feed",Answer: a. Membrane damage or loss of salt rejection
+"Normalized permeate flow is used to:
+temperature and pressure changes
+a. Compare membrane performance over time independent of
+b. Measure instantaneous salt rejection
+c. Calculate net driving pressure
+d. Adjust pH setpoints",Answer: a. Compare membrane performance over time independent of
+"Increased concentration polarization at the membrane surface results
+in:
+a. Higher osmotic pressure and reduced permeate flux
+b. Lower potential for scaling
+c. Reduced need for antiscalant
+d. Improved salt rejection",Answer: a. Higher osmotic pressure and reduced permeate flux
+"A differential pressure increase only in the first RO stage most
+likely indicates:
+lead elements
+a. Accumulation of suspended solids or biological growth in the
+b. Scaling in the tail elements
+c. Membrane compaction
+d. Permeate backpressure",Answer: a. Accumulation of suspended solids or biological growth in the
+"Which parameter has the strongest direct effect on osmotic pressure?
+a. Feedwater TDS concentration
+b. Temperature
+c. Total hardness
+d. pH",Answer: a. Feedwater TDS concentration
+"The primary reason RO membranes undergo clean-in-place (CIP) is to:
+a. Remove accumulated foulants and restore flux and performance
+b. Reduce permeate salinity permanently
+c. Increase silica solubility
+d. Improve UVT for downstream UV AOP",Answer: a. Remove accumulated foulants and restore flux and performance
+"Which foulant is best removed using acid-based cleaning? *a. Calcium
+carbonate scale
+b. Biological slime
+c. Organic fouling
+d. Silica polymerization",Answer: (not marked)
+"Membrane compaction is most likely to occur when:
+a. Operating at high pressures for extended periods
+b. Recovery is too low
+c. Permeate backpressure is reduced
+d. Feedwater temperature increases",Answer: a. Operating at high pressures for extended periods
+"What effect does elevated feedwater temperature have on RO
+operation?
+a. Increases permeate flux due to lower viscosity
+b. Decreases permeate flux because membranes contract
+c. Increases scaling potential
+d. Decreases salt passage",Answer: a. Increases permeate flux due to lower viscosity
+"The purpose of a concentrate control valve in RO operation is to:
+flow
+a. Maintain the desired system recovery by regulating concentrate
+b. Control permeate TDS
+c. Increase feed pH
+d. Remove dissolved gases",Answer: a. Maintain the desired system recovery by regulating concentrate
+"A sudden drop in RO permeate pH while feed pH remains unchanged
+suggests:
+a. Membrane degradation allowing passage of acidic species
+b. CO₂ stripping in the feed tank
+c. Antiscalant overdose
+d. Low recovery",Answer: a. Membrane degradation allowing passage of acidic species
+"Concentrate recirculation is sometimes used to:
+a. Improve system recovery without exceeding scaling limits
+b. Reduce feed temperature
+c. Improve permeate salinity
+d. Reduce TMP",Answer: a. Improve system recovery without exceeding scaling limits
+"In RO pretreatment, the most effective method to prevent colloidal
+fouling is:
+a. Reducing SDI (Silt Density Index) below acceptable limits
+b. Adding sodium hypochlorite upstream
+c. Lowering alkalinity
+d. Operating at high pH",Answer: a. Reducing SDI (Silt Density Index) below acceptable limits
+"Which phenomenon increases salt passage at constant TMP?
+a. Membrane oxidation or damage
+b. Improved mass transfer
+c. Reduced concentration polarization
+d. Increased feed temperature",Answer: a. Membrane oxidation or damage
+"High permeate backpressure in RO results in:
+a. Reduced permeate flux and potential membrane damage
+b. Increased recovery
+c. Decreased scaling potential
+d. Lower salt passage",Answer: a. Reduced permeate flux and potential membrane damage
+"Silica fouling is most likely to occur when:
+design
+a. Silica concentration is high and recovery increases beyond
+b. pH is very low
+c. Temperature decreases
+d. Chlorine residual is high",Answer: a. Silica concentration is high and recovery increases beyond
+"What is the primary effect of scaling on RO performance?
+a. Increased TMP and reduced permeate flow
+b. Reduced salt passage
+c. Increased recovery
+d. Improved flux stability",Answer: a. Increased TMP and reduced permeate flow
+"In RO, which cleaning chemical is most appropriate for removing
+calcium carbonate scale?
+a. Sodium hydroxide.
+b. Surfactant solution.
+c. Acid solution (e.g., citric or hydrochloric acid).
+d. Sodium hypochlorite.","Answer: c. Acid solution (e.g., citric or hydrochloric acid)."
+"An RO system operates at a design flux of 15 GFD (gallons per square
+foot per day). If the total membrane area is 40,000 ft² and the
+recovery is 80%, what is the total permeate flow rate in GPM?
+a. 417 GPM
+b. 333 GPM
+c. 521 GPM
+d. 600 GPM",Answer: a. 417 GPM
+"A Reverse Osmosis (RO) system is experiencing a rapid and sustained
+increase in TMP while permeate quality remains high and feed pH is
+unchanged. What is the most likely cause?
+a. Membrane integrity loss due to a tear or hole.
+b. Irreversible organic fouling on the membrane surface.
+c. A significant increase in feedwater temperature.
+d. Failure of the antiscalant chemical feed pump.",Answer: b. Irreversible organic fouling on the membrane surface.
+"In an operating RO system, the salt passage is 5%. If the feedwater
+TDS is 1000 mg/L, what is the expected permeate TDS?
+a. 5 mg/L
+b. 50 mg/L
+c. 95 mg/L
+d. 100 mg/L",Answer: b. 50 mg/L
+"In RO operations, which parameter is most directly affected by
+changes in feedwater temperature?
+a. Permeate TDS
+b. Membrane surface charge
+c. Permeate flux
+d. Concentrate pH",Answer: c. Permeate flux
+"What is the most likely cause of a sudden drop in RO permeate
+quality without a corresponding change in TMP?
+a. Organic fouling on the membrane surface
+b. Membrane damage leading to compromised salt rejection
+c. Reduced antiscalant dosing
+d. Decrease in feed flow rate",Answer: b. Membrane damage leading to compromised salt rejection
+"A plant observes an increase in differential pressure only in the RO
+lead stage. What is the most likely cause?
+first stage
+a. Scaling occurring in the tail elements
+b. Accumulation of suspended solids or biological growth in the
+c. Excessive permeate backpressure affecting all stages equally
+d. A drop in upstream caustic feed causing pH changes",Answer: b. Accumulation of suspended solids or biological growth in the
+"Which statement best describes the role of the concentrate
+minimization step in an AWT facility?
+further treatment.
+a. It increases permeate production by adding RO stages.
+b. It reduces the volume of RO concentrate requiring disposal or
+c. It provides additional disinfection credit under Title 22.
+d. It prevents scaling in upstream MF units.",Answer: b. It reduces the volume of RO concentrate requiring disposal or
+"A decrease in RO permeate flow together with an increase in salt
+passage most likely indicates:
+a. Organic fouling only
+b. Scaling only
+c. Membrane compaction or irreversible degradation
+d. A failure in the concentrate control valve",Answer: c. Membrane compaction or irreversible degradation
+"Which condition most strongly promotes calcium carbonate scaling in
+RO systems?
+a. Low feedwater alkalinity
+b. Decreasing feedwater pH
+c. Increasing pH in the concentrate stream
+d. Higher feed temperature",Answer: c. Increasing pH in the concentrate stream
+"During operation of an RO system, permeate backpressure increases
+significantly. What is the expected effect?
+a. Increases permeate flux
+b. Decreases permeate flux and may damage membranes
+c. Decreases concentrate pressure
+d. Eliminates antiscalant requirements",Answer: b. Decreases permeate flux and may damage membranes
+"In RO concentrate management, which method is considered a
+volume-reduction technology rather than a disposal method?
+a. Deep-well injection
+b. Ocean discharge under NPDES permit
+c. Brine concentrators or evaporators
+d. Land application for irrigation",Answer: c. Brine concentrators or evaporators
+"When operating an RO system, which factor most strongly influences
+scaling potential in the concentrate stream?
+a. Membrane age
+b. Permeate recovery rate
+c. Concentration factor of sparingly soluble ions
+d. Temperature correction factor (TCF)",Answer: c. Concentration factor of sparingly soluble ions
+"What is the primary operational purpose of conducting a
+clean-in-place (CIP) on an RO system?
+a. To restore RO permeate salinity to its theoretical minimum
+b. To remove accumulated foulants and restore flux and efficiency
+c. To reduce antiscalant demand
+d. To disinfect downstream pipelines",Answer: b. To remove accumulated foulants and restore flux and efficiency
+"In RO pretreatment, which method is most effective at preventing
+biological fouling of membranes?
+a. Increasing pH above 9.0
+b. Using high-dose polymeric coagulant
+c. Maintaining a consistent disinfectant residual upstream of MF/UF
+d. Reducing feed temperature",Answer: c. Maintaining a consistent disinfectant residual upstream of MF/UF
+"In UV AOP systems, an RO–UV train often shows increased UVT after
+RO. What is the primary reason?
+a. RO increases the concentration of NOM
+b. MF removes all dissolved organics
+c. RO removes DOC and chromophores that absorb UV light
+d. UVT is independent of dissolved organic matter",Answer: c. RO removes DOC and chromophores that absorb UV light
+"In RO systems, which operational parameter is most directly
+influenced by feed TDS?
+a. pH
+b. Temperature
+c. Osmotic pressure
+d. Alkalinity",Answer: c. Osmotic pressure
+"A plant observes that RO recovery has dropped while TMP remains
+stable. What is the most likely cause?
+a. Organic fouling
+b. Scaling on the concentrate side
+c. Permeate flow control valve restriction or instrumentation error
+d. Sudden increase in feed salinity",Answer: c. Permeate flow control valve restriction or instrumentation error
+"In RO systems, elevated feedwater temperature generally:
+a. Increases permeate TDS
+b. Increases permeate flux due to lower viscosity
+c. Increases scaling tendency
+d. Increases membrane compaction",Answer: b. Increases permeate flux due to lower viscosity
+"Which operational condition most contributes to colloidal fouling in
+RO systems?
+a. High feed temperature
+b. High silt density index (SDI) in the pretreatment filtrate
+c. Low alkalinity
+d. Low recovery operation",Answer: b. High silt density index (SDI) in the pretreatment filtrate
+"A sudden increase in RO feed pressure while maintaining constant
+recovery most likely indicates:
+a. Scaling in the tail elements
+b. Increased membrane fouling requiring higher operating pressure
+c. Membrane compaction
+d. Reduced concentrate backpressure",Answer: b. Increased membrane fouling requiring higher operating pressure
+"A utility observes an unexpected increase in permeate conductivity
+while permeate flow remains normal. What is the most likely cause?
+a. Scaling in the concentrate stage
+b. Membrane surface damage or loss of rejection
+c. Low temperature reducing flux
+d. Backpressure on the concentrate line",Answer: b. Membrane surface damage or loss of rejection
+"Which cleaning chemistry is most appropriate for removing organic
+biofouling?
+a. Citric acid
+b. Hydrochloric acid
+c. High-pH cleaners with surfactants
+d. Sodium bisulfite",Answer: c. High-pH cleaners with surfactants
+"What is the primary reason to maintain minimum velocity in RO feed
+channels?
+a. To reduce permeate TDS
+b. To minimize particulate settling and biofilm formation
+c. To increase osmotic pressure
+d. To reduce energy consumption",Answer: b. To minimize particulate settling and biofilm formation
+"In an MF–RO–UV AOP treatment train, which barrier provides the
+greatest removal of dissolved inorganic constituents?
+a. UV AOP
+b. GAC adsorption
+c. Reverse Osmosis (RO)
+d. Microfiltration (MF)",Answer: c. Reverse Osmosis (RO)
+"In an MF–RO–UV AOP train, the primary pathogen removal barrier is:
+a. MF
+b. UV AOP
+c. RO
+d. GAC",Answer: c. RO
+"In RO operations, which condition most increases the potential for
+silica scaling?
+a. Low feed temperature
+b. High pH in the feed stream
+c. High silica concentration combined with high recovery
+d. High free chlorine residual",Answer: c. High silica concentration combined with high recovery
+"RO energy consumption is most directly influenced by:
+a. Permeate temperature
+b. Feed pressure required to overcome osmotic pressure
+c. Free chlorine concentration
+d. Permeate pH",Answer: b. Feed pressure required to overcome osmotic pressure
+"A potable reuse system uses RO followed by UV AOP. Which parameter
+must be minimized to ensure efficient hydroxyl radical generation?
+a. Dissolved oxygen.
+b. Hardness.
+c. Radical scavengers such as bicarbonate and carbonate.
+d. Silica concentration.",Answer: c. Radical scavengers such as bicarbonate and carbonate.
+"In RO operations, normalized permeate flow (NPF) is used to:
+temperature and pressure changes.
+a. Measure membrane compaction only.
+b. Track changes in salt passage.
+c. Compare membrane performance over time independent of
+d. Control chloramine dose automatically.",Answer: c. Compare membrane performance over time independent of
+"What is the primary purpose of decarbonation after RO treatment?
+a. Increase corrosion control.
+b. Strip dissolved CO₂ to increase permeate pH and stabilize water.
+c. Reduce nitrate concentration.
+d. Improve UVT for downstream UV disinfection.",Answer: b. Strip dissolved CO₂ to increase permeate pH and stabilize water.
+"In RO systems, which factor most increases energy demand?
+a. High-temperature feedwater.
+b. Increased osmotic pressure due to higher feed TDS.
+c. Reduced concentrate flow.
+d. Lower feed pH.",Answer: b. Increased osmotic pressure due to higher feed TDS.
+"In RO pretreatment, coagulation is sometimes used to:
+a. Increase permeate flux.
+b. Reduce colloidal and particulate loading on MF or UF systems.
+c. Decrease TMP in RO.
+d. Prevent membrane compaction.",Answer: b. Reduce colloidal and particulate loading on MF or UF systems.

@@ -1,0 +1,176 @@
+Front,Back
+"The primary goal of advanced water treatment is to:
+a. Produce high-quality water that meets specific use or regulatory requirements
+b. Reduce pipe breaks in the distribution system
+c. Eliminate all minerals from water
+d. Increase pumping efficiency",Answer: a. Produce high-quality water that meets specific use or regulatory requirements
+"The term “feedwater” in advanced treatment typically refers to:
+a. Water entering a treatment process such as MF or RO
+b. Only finished water entering the distribution system
+c. Only raw surface water
+d. Water used for backwashing",Answer: a. Water entering a treatment process such as MF or RO
+"Recovery in a membrane process is defined as:
+a. Permeate flow divided by feed flow
+b. Concentrate flow divided by feed flow
+c. Feed flow divided by permeate flow
+d. Permeate flow divided by concentrate flow",Answer: a. Permeate flow divided by feed flow
+"Specific flux is usually expressed as:
+a. Permeate flow per unit membrane area per unit driving force
+b. Feed flow per unit membrane area
+c. Permeate flow per unit time only
+d. Concentrate flow per unit pressure",Answer: a. Permeate flow per unit membrane area per unit driving force
+"In advanced treatment, “fouling” generally means:
+flow
+a. Accumulation of material on membranes or media that restricts
+b. Short-term air entrainment
+c. Intentional scaling for corrosion control
+d. Movement of water between stages",Answer: a. Accumulation of material on membranes or media that restricts
+"A pilot study is conducted primarily to:
+a. Evaluate process performance under site-specific conditions
+b. Replace the need for operator training
+c. Demonstrate compliance without monitoring
+d. Eliminate the need for maintenance",Answer: a. Evaluate process performance under site-specific conditions
+"A process control diagram (P&ID) shows:
+a. Piping, valves, instruments, and control loops
+b. Only electrical wiring
+c. Only building layouts
+d. Only hydraulic grade lines","Answer: a. Piping, valves, instruments, and control loops"
+"In an advanced treatment facility, the term “intermediate storage”
+usually refers to:
+a. A tank between process steps used for flow equalization
+b. Finished water storage only
+c. Sludge storage tanks
+d. Chemical day tanks",Answer: a. A tank between process steps used for flow equalization
+"A typical reason to add advanced treatment to conventional treatment
+is to:
+a. Remove trace organics, salts, or microconstituents
+b. Reduce hardness only
+c. Simplify operations
+d. Eliminate the need for disinfection","Answer: a. Remove trace organics, salts, or microconstituents"
+"An advanced water treatment train is commonly arranged as:
+a. Pretreatment → MF/UF → RO → UV/AOP → Post-treatment
+b. RO → MF/UF → Sedimentation → Disinfection
+c. Disinfection → Coagulation → RO
+d. UV → Storage → Coagulation",Answer: a. Pretreatment → MF/UF → RO → UV/AOP → Post-treatment
+"Corrective maintenance is:
+a. Work performed after a failure or problem occurs
+b. Work scheduled to prevent failures
+c. Work done only during construction
+d. Work limited to electrical systems",Answer: a. Work performed after a failure or problem occurs
+"Predictive maintenance relies on:
+a. Condition monitoring data to anticipate problems
+b. Random inspections only
+c. Emergency call-outs
+d. Annual shutdowns only",Answer: a. Condition monitoring data to anticipate problems
+"A safety data sheet (SDS) provides:
+chemicals
+a. Hazard information, handling, and first aid instructions for
+b. Electrical wiring diagrams
+c. Process control strategies
+d. Building codes","Answer: a. Hazard information, handling, and first aid instructions for"
+"The most important factor in avoiding chemical mixing accidents is:
+a. Clear labeling and dedicated transfer equipment
+b. High-pressure pumps
+c. Using only powdered chemicals
+d. Minimizing operator training",Answer: a. Clear labeling and dedicated transfer equipment
+"In an emergency shutdown, the operator should first:
+a. Ensure personnel safety and secure hazardous energy
+b. Immediately start all standby pumps
+c. Drain all chemical tanks
+d. Increase flow to clear lines",Answer: a. Ensure personnel safety and secure hazardous energy
+"A standard operating procedure (SOP) is:
+safely and consistently
+a. A written, step-by-step description of how to perform a task
+b. A summary of regulations
+c. A financial report
+d. A computer program","Answer: a. A written, step-by-step description of how to perform a task"
+"An interlock in a control system is used to:
+a. Prevent equipment from operating under unsafe conditions
+b. Increase flow automatically during peak demand
+c. Adjust pH continuously
+d. Replace the need for alarms",Answer: a. Prevent equipment from operating under unsafe conditions
+"A confined space hazard in advanced treatment facilities could
+include:
+a. Low oxygen levels or toxic gas accumulation in tanks or vaults
+b. High turbidity in the effluent
+c. Elevated pH levels in the lab
+d. High THM concentrations at the tap",Answer: a. Low oxygen levels or toxic gas accumulation in tanks or vaults
+"The purpose of personal protective equipment (PPE) is to:
+a. Reduce exposure to physical, chemical, and biological hazards
+b. Replace the need for engineering controls
+c. Allow work without training
+d. Satisfy only insurance requirements","Answer: a. Reduce exposure to physical, chemical, and biological hazards"
+"Which of the following conditions is most critical for achieving
+maximum TOC removal during Enhanced Coagulation for DBP control?
+operating range.
+coagulation.
+a. Maintaining a pH of 8.5 or higher.
+b. Operating the process at a pH lower than the conventional
+c. Using a non-ionic polymer as a sole coagulant aid.
+d. Pre-oxidizing with a strong oxidant like KMnO₄ before",Answer: b. Operating the process at a pH lower than the conventional
+"In the context of corrosion control, a water quality analysis yields
+a Langelier Saturation Index (LSI) of +0. What is the appropriate
+operational interpretation of this result?
+material.
+calcium carbonate.
+corrosive.
+bacterial growth.
+a. The water is extremely aggressive and will quickly dissolve pipe
+b. The water is moderately scale-forming and is saturated with
+c. The water is perfectly balanced and is neither scaling nor
+d. The water lacks the necessary disinfectant residual to prevent",Answer: b. The water is moderately scale-forming and is saturated with
+"When operating a GAC contactor for PFAS removal, what operational
+metric indicates that the carbon bed is nearing exhaustion?
+approaching the regulatory MCL.
+contactor.
+cycle.
+a. A sudden increase in the head loss across the GAC bed.
+b. The measured PFAS concentration in the GAC effluent is
+c. A measured decrease in the temperature of the water exiting the
+d. An increase in the total amount of backwash water required per",Answer: b. The measured PFAS concentration in the GAC effluent is
+"What is the primary purpose of maintaining a stable pH in
+coagulation processes?
+a. To improve filter backwash efficiency.
+b. To maximize disinfection by-product (DBP) formation.
+c. To optimize coagulant hydrolysis and charge neutralization.
+d. To prevent corrosion in distribution pipelines.",Answer: c. To optimize coagulant hydrolysis and charge neutralization.
+"In RO pretreatment, coagulation is sometimes used to:
+a. Increase permeate flux.
+b. Reduce colloidal and particulate loading on MF or UF systems.
+c. Decrease TMP in RO.
+d. Prevent membrane compaction.",Answer: b. Reduce colloidal and particulate loading on MF or UF systems.
+"Which parameter is most useful for characterizing natural organic
+matter (NOM) reactivity in drinking water?
+a. Permeate turbidity.
+b. pH.
+c. SUVA (Specific Ultraviolet Absorbance).
+d. Hardness.",Answer: c. SUVA (Specific Ultraviolet Absorbance).
+"Which factor most affects the adsorption capacity of GAC for organic
+micro-pollutants?
+a. Water temperature.
+b. pH below 5.0.
+c. GAC pore structure and surface area.
+d. Hardness concentration.",Answer: c. GAC pore structure and surface area.
+"A potable reuse system blends RO permeate with treated non-RO water.
+What is the primary purpose of this blending?
+targets.
+a. To reduce DBP formation.
+b. To reduce RO membrane fouling.
+c. To stabilize water chemistry and meet mineral/alkalinity
+d. To increase UV dose effectiveness.",Answer: c. To stabilize water chemistry and meet mineral/alkalinity
+"Which factor most strongly increases the formation of nitrosamines
+during chloramination?
+a. Low ammonia levels.
+b. High chlorine-to-ammonia ratio.
+c. High organic nitrogen concentration.
+d. Low water temperature.",Answer: c. High organic nitrogen concentration.
+"What is the primary purpose of decarbonation after RO treatment?
+a. Increase corrosion control.
+b. Strip dissolved CO₂ to increase permeate pH and stabilize water.
+c. Reduce nitrate concentration.
+d. Improve UVT for downstream UV disinfection.",Answer: b. Strip dissolved CO₂ to increase permeate pH and stabilize water.
+"In GAC systems, adsorption capacity decreases significantly when:
+a. Water temperature increases.
+b. Competing organic compounds occupy adsorption sites.
+c. Turbidity is below 0.1 NTU.
+d. Dissolved oxygen increases.",Answer: b. Competing organic compounds occupy adsorption sites.

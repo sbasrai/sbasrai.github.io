@@ -1,0 +1,405 @@
+Front,Back
+"RO feed SDI increases and MF TMP rises simultaneously. Why?
+a. Higher solids loading in source water
+b. Analyzer drift
+c. Low ORP
+d. UV fault",Answer: a. Higher solids loading in source water
+"Sudden MF filtrate turbidity decrease without process change likely
+indicates:
+a. Improved performance
+b. Analyzer dilution or flushing effect
+c. Fiber break
+d. CEB effectiveness",Answer: b. Analyzer dilution or flushing effect
+"RO permeate flow decreases while concentrate flow increases.
+Meaning?
+a. Membrane breach
+b. Recovery decrease (valve drift)
+c. Fouling
+d. Analyzer error",Answer: b. Recovery decrease (valve drift)
+"RO feed pump trips intermittently on low suction pressure. Cause?
+a. Analyzer drift
+b. Scaling
+c. Air entrainment or low NPSH
+d. High recovery",Answer: c. Air entrainment or low NPSH
+"UV system shows high apparent dose despite fouling. Why?
+a. Sensor over-reading (miscalibration)
+b. High UVT
+c. Peroxide overfeed
+d. Increased flow",Answer: a. Sensor over-reading (miscalibration)
+"RO permeate conductivity spikes briefly after CEB or CIP.
+Explanation?
+a. Analyzer drift
+b. Chemical cleaning causes temporary rejection loss
+c. Scaling
+d. Low pH",Answer: b. Chemical cleaning causes temporary rejection loss
+"MF fouling increases rapidly following a raw water change. RO ΔP
+also increases slightly. Why?
+a. Higher solids loading from source water
+b. Valve misalignment
+c. Permeate blending error
+d. High pH",Answer: a. Higher solids loading from source water
+"RO feed pump trips frequently on low suction pressure. Most likely:
+a. High ORP
+b. Low NPSH or suction blockage
+c. Analyzer drift
+d. MF turbine fault",Answer: b. Low NPSH or suction blockage
+"Sudden RO permeate conductivity spike coincides with cleaning. Why?
+a. Analyzer drift
+b. Chemical cleaning temporarily changes rejection
+c. High pH
+d. Scaling",Answer: b. Chemical cleaning temporarily changes rejection
+"RO normalized flows vary widely between trains but pressures are
+identical. Cause?
+a. Instrument calibration drift
+b. Scaling
+c. Fouling
+d. Cavitation",Answer: a. Instrument calibration drift
+"MF filtrate turbidity drops after a storm. Interpretation?
+a. Treatment improvements
+b. Dilution effect or sample line flushing
+c. Analyzer failure
+d. Increased CEB frequency",Answer: b. Dilution effect or sample line flushing
+"UV system shows high dose despite lamp age and low UVT. Why?
+a. UV sensor calibration drift (reading artificially high)
+b. High UVT
+c. Peroxide overdose
+d. Analyzer wiring failure",Answer: a. UV sensor calibration drift (reading artificially high)
+"MF TMP increases and RO feed SDI increases at the same time. Likely
+cause:
+a. High solids loading from raw water
+b. Biofilm in RO
+c. Analyzer drift
+d. Valve malfunction",Answer: a. High solids loading from raw water
+"RO permeate conductivity spikes while ΔP is stable. Most likely:
+a. Scaling
+b. O-ring leak or membrane breach
+c. Air entrainment
+d. Analyzer turbidity error",Answer: b. O-ring leak or membrane breach
+"Sudden drop in MF cycle time with normal TMP likely indicates:
+a. Fouling
+b. Flux too high
+c. Backwash valve or cycle control issue
+d. Analyzer drift",Answer: c. Backwash valve or cycle control issue
+"RO pump trips on low suction pressure intermittently. Cause?
+a. High ORP
+b. Air entrainment or low NPSH
+c. Scaling
+d. High UVT",Answer: b. Air entrainment or low NPSH
+"UV dose suddenly drops though UVT is high and lamps are near-new.
+Cause?
+a. Excess peroxide
+b. UV sensor fouling or misalignment
+c. Air scour issue
+d. Concentrate valve drift",Answer: b. UV sensor fouling or misalignment
+"After a storm event, MF filtrate turbidity increases but TMP
+decreases. Why?
+a. Membrane break
+b. Analyzer dilution or inlet sample line flooded
+c. Backwash failure
+d. Concentrate valve stuck open",Answer: b. Analyzer dilution or inlet sample line flooded
+"MF TMP increases and RO ΔP increases after a storm. Most likely
+explanation:
+a. Increased solids loading to MF and RO
+b. Air entrainment
+c. Antiscalant pump failure
+d. Analyzer malfunction",Answer: a. Increased solids loading to MF and RO
+"MF filtrate flow decreases but TMP stays constant. Why?
+a. Flow meter error or calibration drift
+b. Fouling
+c. Scaling
+d. Backwash failure",Answer: a. Flow meter error or calibration drift
+"RO tail elements show declining permeate flow and higher
+differential pressure. Most likely cause:
+a. Biofouling in lead stage
+b. Scaling in tail stage
+c. Analyzer failure
+d. Low ORP",Answer: b. Scaling in tail stage
+"UV-AOP system shows low peroxide consumption and lower-than-expected
+radical production. Cause?
+a. Low pH
+b. Peroxide underfeed
+c. Lamp overdrive
+d. High temperature",Answer: b. Peroxide underfeed
+"A sudden RO permeate conductivity spike with normal ΔP indicates:
+a. Membrane breach or o-ring seal failure
+b. Scaling
+c. Biofouling
+d. Analyzer turbidity drift",Answer: a. Membrane breach or o-ring seal failure
+"MF system cycles shorten dramatically without TMP change. Most
+likely:
+a. Scaling
+b. High flux
+c. Control valve or backwash valve malfunction
+d. Low air scour",Answer: c. Control valve or backwash valve malfunction
+"RO recovery drops without change in feed flow or pressure. Cause?
+a. CIP needed
+b. Membrane breach
+c. Concentrate valve drifting toward open
+d. High pH feed",Answer: c. Concentrate valve drifting toward open
+"After a heavy rain event, MF TMP increases, RO feed SDI increases,
+and RO ΔP begins trending upward. What is the best immediate
+operational response?
+a. Increase RO recovery to maintain permeate production
+b. Reduce MF flux and increase the frequency of backwash/CEB cycles
+c. Lower RO feed pressure to reduce ΔP
+d. Increase antiscalant dose only",Answer: b. Reduce MF flux and increase the frequency of backwash/CEB cycles
+"UV dose begins to fall short of setpoint despite full lamp power and
+normal UVT. Operators recently increased RO recovery. How does this
+indirectly impact UV-AOP?
+a. Lower flow to the UV system, increasing dose
+b. Higher permeate flow to UV, reducing hydraulic contact time
+c. Lower permeate TDS, reducing UV absorbance
+d. Incorrect UV setpoint in the SCADA system","Answer: b. Higher permeate flow to UV, reducing hydraulic contact time"
+"Two identical RO trains operate in parallel. Train A has a
+significantly higher ΔP than Train B, but both produce similar
+permeate quality and flow. What is the first troubleshooting step?
+a. Immediately CIP both trains
+b. Verify instrument calibration and check all valve positions
+c. Increase feed pressure to Train A
+d. Increase antiscalant dose to both trains",Answer: b. Verify instrument calibration and check all valve positions
+"An RO skid experiences random pressure spikes, and the MF filtrate
+flow meter upstream shows occasional negative flow spikes. What is
+the most likely cause?
+a. Harmonic distortion from the RO feed pump VFD
+b. Air entrainment in suction piping or common headers
+c. CO₂ stripping in the MF filtrate line
+d. SCADA trending or analyzer malfunction",Answer: b. Air entrainment in suction piping or common headers
+"RO permeate conductivity rises slightly, but sodium and chloride
+remain low while ammonia and neutral organics appear higher in lab
+data. What is the best interpretation?
+and changing water chemistry
+a. Membrane failure with salt passage
+b. Analyzer/conductivity reading influenced by non-ionic species
+c. Antiscalant breakdown products leaking into permeate
+d. Biofilm growth in lead elements",Answer: b. Analyzer/conductivity reading influenced by non-ionic species
+"MF flux is lowered to reduce TMP. TMP improves, but the frequency of
+integrity test failures increases. What is the most likely
+explanation?
+pressure spikes during integrity tests
+a. Lower flux mechanically damages fibers
+b. Backwash pressure at lower flux becomes too high
+c. Lower flux reduces scouring; solids bridging causes localized
+d. Flux must be higher to maintain integrity performance",Answer: c. Lower flux reduces scouring; solids bridging causes localized
+"An MF system shows a sudden spike in filtrate turbidity, but TMP
+remains stable. What is the most likely issue?
+a. A fiber break causing loss of integrity
+b. Insufficient air scour during backwash
+c. Organic fouling beginning to develop
+d. A faulty TMP sensor",Answer: a. A fiber break causing loss of integrity
+"An RO train experiences rising differential pressure in the first
+stage only. What is the most likely cause? *a. Accumulation of
+suspended solids or biological fouling in lead elements
+b. Calcium carbonate scaling in the tail elements
+c. Membrane compaction
+d. Antiscalant overdose",Answer: (not marked)
+"A UV reactor shows normal lamp power but decreased UV intensity
+readings. What is the likely cause?
+a. Quartz sleeve fouling
+b. Lamp failure
+c. Low UVT
+d. Sensor wiring failure",Answer: a. Quartz sleeve fouling
+"A plant observes permeate conductivity increasing while permeate
+flow remains stable. What is the most probable cause?
+a. Membrane damage resulting in reduced salt rejection
+b. Low feed pH
+c. Reduced RO feed pressure
+d. Temperature drop in the feedwater",Answer: a. Membrane damage resulting in reduced salt rejection
+"During MF operation, TMP rises rapidly during a single cycle rather
+than gradually over days. What does this indicate? *a. A sudden
+increase in feed solids loading
+b. A membrane fiber break
+c. Low backwash frequency
+d. Membrane aging",Answer: (not marked)
+"In UV AOP, the operator notices a sudden drop in UVT but stable NOM
+in upstream monitoring. What could be happening?
+a. Organic contamination or chemical breakthrough upstream of UV
+b. Lamp aging
+c. Low peroxide dose
+d. Reduced flow rate",Answer: a. Organic contamination or chemical breakthrough upstream of UV
+"An RO system shows reduced recovery while TMP remains stable. What
+is the likely cause?
+a. Restriction or malfunction of the concentrate control valve
+b. Scaling in the tail elements
+c. Low feed temperature
+d. Membrane compaction",Answer: a. Restriction or malfunction of the concentrate control valve
+"During PDT (pressure decay testing), the system fails despite no
+visible leaks. What is the most likely cause? *a. A pinhole or
+microcrack in the membrane fibers
+b. Bad pressure gauge calibration
+c. Low feed conductivity
+d. Excessive turbidity",Answer: (not marked)
+"A UV reactor triggers a low-dose alarm even though lamp intensity is
+within range. What could be the reason?
+a. Flow rate is too high for validated RED delivery
+b. Peroxide dose is too high
+c. Temperature is too low
+d. Nitrate levels are high",Answer: a. Flow rate is too high for validated RED delivery
+"An RO system shows increasing salt passage and decreasing permeate
+flow. Which condition is indicated?
+a. Membrane degradation or oxidation damage
+b. Concentration polarization reduction
+c. Low pH scaling
+d. Reduced feed alkalinity",Answer: a. Membrane degradation or oxidation damage
+"Operators notice that peroxide residual is consistently high
+post-UV. What does this suggest?
+reduced
+a. Hydroxyl radicals are being scavenged and AOP efficiency is
+b. UV dose is too high
+c. RO rejection is failing
+d. Feedwater is too warm",Answer: a. Hydroxyl radicals are being scavenged and AOP efficiency is
+"A SCADA trend shows sudden oscillation in RO feed pressure. What is
+the most likely cause?
+a. A malfunctioning or unstable control valve
+b. Loss of membrane integrity
+c. Low temperature compensation factor (TCF)
+d. Fouling in the concentrate stage",Answer: a. A malfunctioning or unstable control valve
+"A GAC contactor used for microconstituent removal shows early
+breakthrough. What is the likely reason?
+a. High influent organic loading saturating adsorption sites
+b. Excessive backwashing frequency
+c. Reduced RO rejection upstream
+d. High alkalinity",Answer: a. High influent organic loading saturating adsorption sites
+"An MF rack repeatedly fails integrity testing after passing earlier
+in the day. What could explain this?
+a. Temperature or pressure instability during the test
+b. Membrane oxidation
+c. Incorrect calibration of turbidity meter
+d. Low air scour rate",Answer: a. Temperature or pressure instability during the test
+"RO permeate flow slowly decreases over several weeks while salt
+passage remains unchanged. What is the most likely cause?
+a. Organic or particulate fouling
+b. Membrane oxidation
+c. Loss of integrity
+d. Concentrate valve sticking",Answer: a. Organic or particulate fouling
+"After a power interruption, a UV system restarts but immediately
+generates “lamp strike failure” alarms. What is the likely cause?
+a. Insufficient warm-up time or ballast malfunction
+b. Quartz sleeve fouling
+c. High UVT
+d. Excessive peroxide dose",Answer: a. Insufficient warm-up time or ballast malfunction
+"A plant observes that MF TMP increases only when operating during
+peak daytime hours. What may be occurring?
+a. Increased solids loading due to diurnal source water changes
+b. Reduced backwash pressure
+c. Peroxide carryover from UV
+d. Lower feed temperature",Answer: a. Increased solids loading due to diurnal source water changes
+"An RO cleaning-in-place (CIP) restores permeate flow only partially.
+What does this indicate?
+a. Irreversible fouling or membrane compaction
+b. Underfeeding of antiscalant
+c. Low concentrate pH
+d. Excessive feed pressure",Answer: a. Irreversible fouling or membrane compaction
+"A UV AOP system shows normal UVT and lamp power, but oxidation
+performance is low. What is the likely cause?
+a. Underfeeding or overdosing hydrogen peroxide
+b. High RO permeate pH
+c. Lamp fouling
+d. High dissolved oxygen",Answer: a. Underfeeding or overdosing hydrogen peroxide
+"A SCADA system alarms for “CCP deviation” upstream of UV AOP. What
+is the operator’s required response under Title 22?
+reporting and response protocols immediately
+a. Investigate, correct the parameter, and follow required
+b. Wait for the next shift to respond
+c. Silence the alarm if water appears clear
+d. Resume normal operation without action","Answer: a. Investigate, correct the parameter, and follow required"
+"A MF system displays a rapid increase in TMP during a single
+filtration cycle. Which operational issue does this most likely
+indicate?
+a. Gradual fouling over several days.
+b. Loss of membrane structural integrity.
+c. Sudden particulate breakthrough or excessive solids loading.
+d. Underfeeding of upstream coagulant.",Answer: c. Sudden particulate breakthrough or excessive solids loading.
+"A sudden increase in MF filtrate turbidity indicates:
+a. Scaling inside the permeate piping.
+b. Potential membrane integrity failure or fiber break.
+c. Decreased feed temperature.
+d. Excessive peroxide residual from upstream AOP.",Answer: b. Potential membrane integrity failure or fiber break.
+"A GAC contactor used for PFAS removal is nearing exhaustion. Which
+operational metric indicates the bed requires regeneration or
+replacement?
+regulatory MCL.
+a. A sudden increase in headloss across the GAC bed.
+b. PFAS concentration in the GAC effluent approaching the
+c. A decrease in water temperature exiting the contactor.
+d. An increase in the total amount of backwash water per cycle.",Answer: b. PFAS concentration in the GAC effluent approaching the
+"A GAC bed used for removal of trace organic contaminants begins to
+release previously adsorbed contaminants. This phenomenon is called:
+a. Bed breakthrough.
+b. Carbon attrition.
+c. Desorption.
+d. Regeneration failure.",Answer: c. Desorption.
+"A plant observes an unexpected increase in RO permeate conductivity
+while permeate flow remains normal. What is the most likely cause?
+a. Scaling in the concentrate stage.
+b. Membrane surface damage or loss of rejection.
+c. Low temperature reducing flux.
+d. Concentrate-line backpressure issues.",Answer: b. Membrane surface damage or loss of rejection.
+"A plant observes a rapid decrease in RO feed pH without any changes
+in chemical feed. What is the most likely cause?
+a. Scaling in the tail elements.
+b. CO₂ release or absorption imbalance in pretreatment.
+c. Excess antiscalant residual.
+d. Membrane oxidation.",Answer: b. CO₂ release or absorption imbalance in pretreatment.
+"A plant using chloramination identifies an increasing trend of
+nitrosamine formation. Which condition most contributes to this?
+a. Low ammonia levels.
+b. High chlorine-to-ammonia ratio.
+c. High organic nitrogen concentration.
+d. Low water temperature.",Answer: c. High organic nitrogen concentration.
+"A potable reuse AWT facility observes that nitrification is
+occurring in the distribution system. Which condition most increases
+this risk?
+a. Low water age combined with high residuals.
+b. Maintaining pH below 6.5.
+c. Warm temperatures combined with low chloramine residual.
+d. High free chlorine applied at the plant.",Answer: c. Warm temperatures combined with low chloramine residual.
+"MF filtrate turbidity increases while TMP remains stable. What does
+this most likely indicate?
+a. Severe fouling.
+b. Possible fiber break or membrane breach.
+c. Underfed coagulant.
+d. Overdosed chlorine residual.",Answer: b. Possible fiber break or membrane breach.
+"A plant’s UV disinfection system shows a significant drop in RED
+(Reduction Equivalent Dose). Which operational condition most likely
+caused this decrease?
+a. Higher lamp power.
+b. Increased flow rate.
+c. Reduced UVT due to increased organic matter.
+d. Lower lamp cooling water temperature.",Answer: c. Reduced UVT due to increased organic matter.
+"A plant operating a UV system notes sleeve fouling. This most
+directly decreases which parameter?
+a. Flow through the reactor.
+b. Lamp electrical efficiency.
+c. UV intensity delivered to the water.
+d. Reactor chamber temperature.",Answer: c. UV intensity delivered to the water.
+"A plant operating an MF–RO–UV AOP system sees a sudden decrease in
+UVT after RO. What is the most common cause?
+a. Lamp aging.
+b. Excess peroxide feed.
+c. Dissolved organic matter entering the UV stage.
+d. Flow decrease.",Answer: c. Dissolved organic matter entering the UV stage.
+"A potable reuse facility notes a drop in RO recovery while TMP
+remains stable. Which operational issue does this most likely
+indicate?
+a. Organic fouling.
+b. Scaling on the concentrate side.
+c. Permeate valve restriction or instrumentation error.
+d. Sudden increase in feed TDS.",Answer: c. Permeate valve restriction or instrumentation error.
+"A sudden increase in RO feed pressure is required to maintain the
+same flux. What is the most likely cause?
+a. Scaling in the tail elements.
+b. Increased membrane fouling.
+c. Membrane compaction.
+d. Reduced concentrate backpressure.",Answer: b. Increased membrane fouling.
+"During RO operations, normalized permeate flow begins to decline.
+What does this most commonly indicate?
+a. Membrane oxidation.
+b. Early-stage fouling (organic, biological, or colloidal).
+c. Temperature increase in the feed.
+d. Increased recovery.","Answer: b. Early-stage fouling (organic, biological, or colloidal)."
+"A potable reuse plant observes an unexpected shift in permeate pH.
+Feed pH remains constant. What is the most likely cause?
+a. Scaling upstream of the membranes.
+b. Crossflow velocity too high.
+c. Membrane degradation allowing passage of acidic species.
+d. Low disinfectant residual in pretreatment.",Answer: c. Membrane degradation allowing passage of acidic species.

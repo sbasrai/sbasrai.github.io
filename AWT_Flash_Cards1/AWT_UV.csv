@@ -1,0 +1,410 @@
+Front,Back
+"UV disinfection primarily inactivates microorganisms by:
+a. Damaging nucleic acids (DNA/RNA)
+b. Removing cell walls
+c. Oxidizing metals
+d. Stripping gases",Answer: a. Damaging nucleic acids (DNA/RNA)
+"UV dose is the product of:
+a. UV intensity and exposure time
+b. Lamp power and lamp age
+c. Color and turbidity
+d. Flow and temperature",Answer: a. UV intensity and exposure time
+"UV transmittance (UVT) is a measure of:
+a. How much UV light passes through the water
+b. Chlorine residual
+c. pH
+d. Turbidity only",Answer: a. How much UV light passes through the water
+"Low UVT water requires:
+a. Higher lamp power or more reactors to achieve the same dose
+b. Less lamp power
+c. No UV treatment
+d. Only chlorine treatment",Answer: a. Higher lamp power or more reactors to achieve the same dose
+"UV/AOP (advanced oxidation) combines UV with:
+radicals
+a. A chemical such as hydrogen peroxide or ozone to form hydroxyl
+b. Lime softening
+c. Ion exchange resin
+d. Sand filtration",Answer: a. A chemical such as hydrogen peroxide or ozone to form hydroxyl
+"AOP is particularly effective at:
+a. Oxidizing trace organic compounds and some taste/odor compounds
+b. Removing hardness only
+c. Removing dissolved gases only
+d. Removing suspended solids only",Answer: a. Oxidizing trace organic compounds and some taste/odor compounds
+"Excess peroxide downstream of UV/AOP can:
+a. Increase residual oxidant that may need quenching
+b. Increase turbidity
+c. Reduce UV dose
+d. Increase scaling",Answer: a. Increase residual oxidant that may need quenching
+"UV reactors typically require:
+a. Clean quartz sleeves to maintain adequate intensity
+b. Excess chlorine residual
+c. High turbidity
+d. High hardness",Answer: a. Clean quartz sleeves to maintain adequate intensity
+"Online UV intensity sensors must be:
+a. Calibrated and kept clean for accurate dose control
+b. Left untouched once installed
+c. Operated only in manual mode
+d. Used only for alarm, not control",Answer: a. Calibrated and kept clean for accurate dose control
+"A sudden drop in UV dose with normal UVT and lamp status often
+indicates:
+a. Fouled intensity sensors or incorrect readings
+b. Low pH
+c. High hardness
+d. High alkalinity",Answer: a. Fouled intensity sensors or incorrect readings
+"Disinfection by chloramines is often used to:
+potential
+a. Provide a more stable residual with lower THM formation
+b. Increase taste and odor complaints
+c. Increase CT significantly
+d. Eliminate nitrification",Answer: a. Provide a more stable residual with lower THM formation
+"Nitrification in chloraminated systems occurs when:
+nitrate
+a. Ammonia-oxidizing bacteria convert ammonia to nitrite and
+b. Chlorine reacts with organics
+c. Hardness precipitates
+d. UV dose is too high",Answer: a. Ammonia-oxidizing bacteria convert ammonia to nitrite and
+"To control nitrification, operators commonly:
+chlorination
+a. Increase free chlorine temporarily or perform breakpoint
+b. Decrease chlorine dose to zero
+c. Add more ammonia
+d. Remove all storage tanks from service",Answer: a. Increase free chlorine temporarily or perform breakpoint
+"pH adjustment after RO is often required to:
+a. Reduce corrosivity and adjust finished water alkalinity
+b. Increase turbidity
+c. Increase TDS
+d. Eliminate the need for disinfectant",Answer: a. Reduce corrosivity and adjust finished water alkalinity
+"Caustic soda (NaOH) is commonly used in advanced treatment to:
+a. Increase pH and alkalinity
+b. Decrease hardness
+c. Remove TOC
+d. Form chloramines",Answer: a. Increase pH and alkalinity
+"Carbon dioxide addition to RO permeate is sometimes used to:
+a. Increase alkalinity before lime or caustic addition
+b. Disinfect water
+c. Remove hardness
+d. Remove color",Answer: a. Increase alkalinity before lime or caustic addition
+"Sodium hypochlorite solutions gradually:
+temperature
+a. Decompose, losing strength over time, especially at high
+b. Gain strength with time
+c. Become less corrosive but more concentrated
+d. Turn into caustic soda only","Answer: a. Decompose, losing strength over time, especially at high"
+"The best location to sample for UVT in a UV-AOP system is:
+a. Immediately upstream of the UV reactor
+b. In the raw water source
+c. In the concentrate line
+d. In the chemical storage room",Answer: a. Immediately upstream of the UV reactor
+"When switching from free chlorine to chloramines, the operator must:
+nitrosamine formation
+a. Avoid overlapping high free chlorine with ammonia, to prevent
+b. Add ammonia first with no chlorine
+c. Immediately stop monitoring residual
+d. Turn off all analyzers","Answer: a. Avoid overlapping high free chlorine with ammonia, to prevent"
+"UV lamps require less power to maintain dose than last month. Why?
+a. Sleeve fouling
+b. UVT increase
+c. Lamp aging
+d. Peroxide underfeed",Answer: b. UVT increase
+"UV intensity sensors suddenly read higher than expected. Cause?
+a. Sensor calibration drift
+b. Sleeve fouling
+c. Lamp failures
+d. Analyzer wiring error",Answer: a. Sensor calibration drift
+"UV-AOP reactor shows reduced peroxide consumption. Which is likely?
+a. High UVT
+b. High pH
+c. Peroxide injection underfeed
+d. Lamp overdrive",Answer: c. Peroxide injection underfeed
+"UV sleeve fouling will cause:
+a. Higher UVT
+b. Lower UV intensity readings
+c. Lower ORP
+d. Higher dose for same power",Answer: b. Lower UV intensity readings
+"UV lamps require higher power to maintain dose, but UVT is
+unchanged. Cause?
+a. Quartz sleeve fouling
+b. High peroxide
+c. Air entrainment
+d. Analyzer drift",Answer: a. Quartz sleeve fouling
+"UVT shows sudden drop from 92% to 86% with no upstream changes. Most
+likely:
+a. Analyzer fouling or stray light error
+b. Lamp failure
+c. Sleeve break
+d. High pH",Answer: a. Analyzer fouling or stray light error
+"UV radical generation decreases unexpectedly. Why?
+a. High UVT
+b. Lamp age
+c. Peroxide under-dosing
+d. High temperature",Answer: c. Peroxide under-dosing
+"UV dose increases with:
+a. Decreased UVT
+b. Decreased flow rate (longer residence time)
+c. Lamp fouling
+d. Peroxide overfeed",Answer: b. Decreased flow rate (longer residence time)
+"UV intensity decreases gradually while UVT is stable. Most likely
+cause:
+a. Quartz sleeve fouling
+b. Lamp failure
+c. High peroxide
+d. High pH",Answer: a. Quartz sleeve fouling
+"UV reactor shows increased headloss. Why?
+a. Peroxide overdose
+b. Quartz sleeve fouling or debris accumulation
+c. Low UVT
+d. High UV dose",Answer: b. Quartz sleeve fouling or debris accumulation
+"UV-AOP uses peroxide as a radical promoter. A sudden drop in radical
+production is likely due to:
+a. High pH
+b. Peroxide underfeed
+c. UV overdrive
+d. High ORP",Answer: b. Peroxide underfeed
+"UV dose increases with:
+a. Lower UVT
+b. Longer hydraulic residence time
+c. Lamp fouling
+d. Lamp aging",Answer: b. Longer hydraulic residence time
+"UVT decreases from 94% to 88%. The controller increases lamp power
+to maintain dose. What is the primary operational concern?
+a. Increased power consumption per unit of water treated
+b. Excess production of hydroxyl radicals
+c. Loss of NDMA destruction credit
+d. Reduced RO recovery",Answer: a. Increased power consumption per unit of water treated
+"Downstream peroxide residual is consistently higher than expected
+after UV-AOP. What is the most likely explanation?
+a. Excess peroxide is being overfed and is not fully consumed
+b. UV dose is too low
+c. UV dose is too high
+d. Peroxide dose is too low",Answer: a. Excess peroxide is being overfed and is not fully consumed
+"Reduced hydraulic mixing in a UV reactor poses which primary risk?
+a. Higher UVT
+b. Short-circuiting leading to under-dosed regions
+c. Increased lamp fouling
+d. Higher peroxide residual",Answer: b. Short-circuiting leading to under-dosed regions
+"Which operating condition most increases bromate formation risk in
+UV-AOP for high-bromide water?
+a. High pH + high peroxide dose + high UV dose
+b. Low pH + low UV dose
+c. High pH + low UV dose
+d. Low pH + high UV dose",Answer: a. High pH + high peroxide dose + high UV dose
+"UV intensity sensors read low, but UVT and lamp age are normal. Most
+likely issue?
+a. Fouled or dirty UV sensor window
+b. Lamp failure
+c. Peroxide overdose
+d. Valve misalignment",Answer: a. Fouled or dirty UV sensor window
+"Peroxide consumption suddenly decreases in UV-AOP. Cause?
+a. Lower UV dose
+b. Peroxide underfeed or injection pump failure
+c. High pH
+d. High temperature",Answer: b. Peroxide underfeed or injection pump failure
+"UV reactor pressure drop increases. Most likely cause:
+a. Quartz sleeve fouling
+b. High UVT
+c. Low peroxide
+d. Lamp overdrive",Answer: a. Quartz sleeve fouling
+"UV dose reaches setpoint at lower lamp power than usual. Why?
+a. UVT decreased
+b. UVT increased
+c. Peroxide residual high
+d. Lamp fouling",Answer: b. UVT increased
+"The primary purpose of UV AOP in advanced water treatment is to:
+contaminants
+a. Generate hydroxyl radicals for destruction of trace organic
+b. Pasteurize water through heat transfer
+c. Remove dissolved inorganic salts
+d. Increase pH for downstream RO operation",Answer: a. Generate hydroxyl radicals for destruction of trace organic
+"UV transmittance (UVT) is a critical parameter because it:
+disinfection and oxidation performance
+a. Determines how much UV light penetrates the water to achieve
+b. Measures turbidity directly
+c. Adjusts hydrogen peroxide dose automatically
+d. Indicates lamp temperature",Answer: a. Determines how much UV light penetrates the water to achieve
+"Which factor most reduces UV lamp output over time?
+a. Lamp aging and gradual decline of arc efficiency
+b. High UVT
+c. Low water temperature
+d. Reduced lamp power input",Answer: a. Lamp aging and gradual decline of arc efficiency
+"In UV systems, fouling of quartz sleeves primarily causes:
+a. Reduced UV intensity delivered to the water
+b. Increased UV dose
+c. Higher lamp temperature
+d. Improved efficiency of RED",Answer: a. Reduced UV intensity delivered to the water
+"In UV AOP, overdosing hydrogen peroxide has what operational effect?
+a. Hydroxyl radical scavenging, which reduces oxidation efficiency
+b. Increased UVT
+c. Reduced consumption of peroxide
+d. Improved RED consistency","Answer: a. Hydroxyl radical scavenging, which reduces oxidation efficiency"
+"The ""Reduction Equivalent Dose"" (RED) represents:
+inactivation of microorganisms
+a. The validated UV dose required to achieve a specific log
+b. The maximum lamp output available
+c. The dose delivered at the reactor inlet only
+d. The ideal theoretical UV dose without losses",Answer: a. The validated UV dose required to achieve a specific log
+"In UV reactors, the purpose of sleeve wiping systems is to: *a.
+Remove fouling and maintain UV intensity
+b. Reduce lamp power
+c. Maintain water temperature
+d. Increase RED beyond validated levels",Answer: (not marked)
+"Low UVT water entering a UV reactor will most likely require:
+a. Higher lamp power or reduced flow to maintain dose
+b. Lower RED setpoint
+c. Higher pH adjustment
+d. No operational change",Answer: a. Higher lamp power or reduced flow to maintain dose
+"The generation of nitrite during UV exposure occurs primarily when:
+a. Nitrate is present in the influent water
+b. Free chlorine is high
+c. H₂O₂ is overdosed
+d. TDS is high",Answer: a. Nitrate is present in the influent water
+"UV lamp efficiency is most sensitive to:
+a. On/off cycling frequency
+b. Turbidity below 0.1 NTU
+c. pH changes
+d. High dissolved oxygen",Answer: a. On/off cycling frequency
+"In UV AOP, hydroxyl radicals are effective because:
+contaminants
+a. They are highly reactive and non-selective toward most organic
+b. They persist for long periods in water
+c. They improve disinfection only
+d. They reduce scaling potential",Answer: a. They are highly reactive and non-selective toward most organic
+"The parameter most affected when water temperature significantly
+decreases in a UV system is:
+a. Lamp output (lower at cold temperatures)
+b. Peroxide decomposition rate increases
+c. Quartz sleeve fouling rate increases
+d. UVT improves automatically",Answer: a. Lamp output (lower at cold temperatures)
+"The most common cause of UV intensity sensor drift is:
+a. Sensor fouling or lack of calibration
+b. High flow rate
+c. Elevated nitrate levels
+d. Reduced lamp age",Answer: a. Sensor fouling or lack of calibration
+"In UV AOP, peroxide residual is monitored because:
+treatment efficiency
+a. Excess peroxide can scavenge hydroxyl radicals and reduce
+b. It increases RED
+c. It indicates permeate salinity
+d. It measures silica loading",Answer: a. Excess peroxide can scavenge hydroxyl radicals and reduce
+"A drop in UVT following upstream RO treatment likely indicates:
+a. Organic breakthrough or upstream contamination
+b. Lamp failure in the UV reactor
+c. Hydrogen peroxide overdosing
+d. Increased feed temperature",Answer: a. Organic breakthrough or upstream contamination
+"UV reactor validation is required to:
+UVT conditions
+a. Demonstrate actual dose delivery under worst-case hydraulic and
+b. Measure lamp temperature distribution
+c. Ensure peroxide is fully consumed
+d. Compare actual RO rejection",Answer: a. Demonstrate actual dose delivery under worst-case hydraulic and
+"In UV AOP, hydroxyl radicals are primarily formed when UV light
+interacts with:
+a. Hydrogen peroxide (H₂O₂)
+b. Chloramines
+c. Ozone only
+d. Calcium bicarbonate",Answer: a. Hydrogen peroxide (H₂O₂)
+"A decrease in UV intensity with stable UVT is most likely caused by:
+a. Lamp aging or fouling of quartz sleeves
+b. Increased NOM concentration
+c. Higher nitrate levels
+d. Reduced H₂O₂ feed",Answer: a. Lamp aging or fouling of quartz sleeves
+"In UV disinfection, the delivered UV dose is directly proportional
+to:
+a. Intensity × exposure time
+b. Water temperature only
+c. Chlorine concentration
+d. Feed TDS",Answer: a. Intensity × exposure time
+"In UV AOP, which parameter must be closely controlled to maintain
+consistent hydroxyl radical formation?
+a. Hydrogen peroxide dose
+b. Alkalinity
+c. Silica concentration
+d. Hardness",Answer: a. Hydrogen peroxide dose
+"The primary objective of using the UV/H₂O₂ Advanced Oxidation
+Process (AOP) is to:
+conventional filtration.
+alone.
+refractory organic CECs.
+scaling.
+a. Physically screen out pathogens and suspended solids that passed
+b. Achieve high levels of pathogen inactivation using UV light
+c. Generate ⋅OH (hydroxyl radicals) to non-selectively destroy
+d. Convert insoluble metal hydroxides into soluble ions to prevent",Answer: c. Generate ⋅OH (hydroxyl radicals) to non-selectively destroy
+"Which oxidation process is most effective for the destruction of
+1,4-dioxane in an advanced water treatment system?
+a. Chlorination followed by sedimentation.
+b. Ozone only, without hydrogen peroxide.
+c. UV/H₂O₂ Advanced Oxidation Process.
+d. Slow sand filtration.",Answer: c. UV/H₂O₂ Advanced Oxidation Process.
+"A UV disinfection unit operator observes a sustained 20% decrease in
+UV intensity despite the lamps being clean and recently replaced.
+What is the most likely cause?
+increased TOC.
+actual flow.
+a. The UV transmission (UVT) of the water has decreased due to
+b. Incorrect calibration of the flow meter, resulting in higher
+c. Quartz sleeves have developed mineral scaling or biofouling.
+d. An increase in water temperature, reducing lamp efficiency.",Answer: a. The UV transmission (UVT) of the water has decreased due to
+"In UV reactor validation, what does the reduction equivalent dose
+(RED) represent?
+of a surrogate microorganism.
+a. The maximum UV lamp output under clean-sleeve conditions.
+b. The amount of hydroxyl radicals produced during AOP.
+c. The delivered UV dose that achieves a specified log inactivation
+d. The lamp age compensation factor for long-term operation.",Answer: c. The delivered UV dose that achieves a specified log inactivation
+"A potable reuse facility observes a significant increase in UV
+transmittance (UVT) after RO treatment. What is the primary reason
+for this improvement?
+UV light.
+a. RO increases the concentration of natural organic matter (NOM).
+b. MF removes all particulate and dissolved organics before RO.
+c. RO removes dissolved organic carbon and chromophores that absorb
+d. UVT is independent of dissolved organic matter.",Answer: c. RO removes dissolved organic carbon and chromophores that absorb
+"In UV AOP systems, which water quality parameter most significantly
+reduces hydroxyl radical efficiency?
+a. Low temperature.
+b. High dissolved oxygen concentration.
+c. High nitrate, bicarbonate, or carbonate concentrations.
+d. Low alkalinity.","Answer: c. High nitrate, bicarbonate, or carbonate concentrations."
+"When hydrogen peroxide is overdosed in UV AOP systems:
+a. Hydroxyl radical generation increases exponentially.
+b. UV dose increases proportionally.
+c. Hydroxyl radicals are scavenged, reducing AOP efficiency.
+d. No significant impact occurs.","Answer: c. Hydroxyl radicals are scavenged, reducing AOP efficiency."
+"A utility operating a UV AOP system observes that UVT drops suddenly
+from 98% to 85%. What is the most likely cause?
+a. Lamp aging beyond 12,000 hours.
+b. Increased hydrogen peroxide dosing.
+c. An increase in dissolved organic matter entering the UV reactor.
+d. A decrease in reactor flow rate.",Answer: c. An increase in dissolved organic matter entering the UV reactor.
+"In a UV reactor, sleeve fouling most significantly impacts which
+parameter?
+a. Flow rate through the reactor.
+b. Lamp electrical efficiency.
+c. UV intensity delivered to the water.
+d. Temperature of the reactor chamber.",Answer: c. UV intensity delivered to the water.
+"In UV AOP, the main purpose of adding hydrogen peroxide is to:
+a. Increase UV lamp efficiency.
+b. Reduce nitrate formation.
+c. Generate hydroxyl radicals when exposed to UV light.
+d. Neutralize carbonate ions.",Answer: c. Generate hydroxyl radicals when exposed to UV light.
+"Which AOP byproduct may form when nitrate is exposed to UV light?
+a. Bromate.
+b. Free chlorine.
+c. Nitrite.
+d. Chlorite.",Answer: c. Nitrite.
+"In UV systems, what is the effect of overcooling lamp sleeves?
+a. Increased UV intensity.
+b. Decreased lamp efficiency.
+c. Higher RED value.
+d. Increased hydroxyl radical production.",Answer: b. Decreased lamp efficiency.
+"In UV AOP, hydroxyl radicals are effective primarily because they:
+contaminants.
+a. Selectively oxidize aromatic compounds only.
+b. React only with inorganic species.
+c. Are highly reactive and non-selective toward most organic
+d. Can be stored in solution for long periods.",Answer: c. Are highly reactive and non-selective toward most organic
+"In UV systems, lamp output is most directly proportional to:
+a. Water temperature.
+b. pH.
+c. Hydrogen peroxide concentration.
+d. Lamp current (power input).",Answer: d. Lamp current (power input).
