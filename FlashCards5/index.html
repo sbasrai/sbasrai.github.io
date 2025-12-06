@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Multiple Choice Questions</title>
+  <title>Flashcards</title>
   <style>
     :root{--bg:#0b1220;--panel:#121a2b;--muted:#9fb0d7;--accent:#4da3ff;--text:#e6edff}
     *{box-sizing:border-box}
@@ -22,7 +22,7 @@
     .inner{position:relative;width:100%;min-height:260px;transition:transform .6s;transform-style:preserve-3d}
     .card.flipped .inner{transform:rotateY(180deg)}
     .face{position:absolute;inset:0;padding:24px;display:flex;align-items:center;justify-content:center;backface-visibility:hidden}
-    .front{font-size:1.25rem;line-height:1.5;white-space:pre-line}
+    .front{font-size:1.25rem;line-height:1.5}
     .back{transform:rotateY(180deg);background:linear-gradient(180deg,#0f1a31,#0d172a);border-radius:16px;font-size:1.15rem;line-height:1.5}
     .actions{display:flex;gap:10px;margin-top:14px}
     .btn{flex:1;padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,.12);background:#101a31;color:var(--text);cursor:pointer;font-weight:600}
@@ -34,7 +34,7 @@
 </head>
 <body>
   <header>
-    <h1>Multiple Choice Questions</h1>
+    <h1>Flashcards</h1>
     <span class="hint">Flip: <b>Space</b> · Prev/Next: <b>←/→</b> · Grade: <b>G</b> / <b>A</b></span>
   </header>
 
@@ -42,16 +42,15 @@
     <div class="controls">
       <input id="search" type="text" placeholder="Search cards…" />
       <select id="source">
-        <option value="WaterSources.csv" selected>Water Sources</option>
-        <option value="WaterQualityLaboratoryAnalysis.csv">Water Quality & Laboratory Analysis</option>
-        <option value="Regulations.csv">Regulations</option>
-        <option value="Treatment.csv">Treatment</option>
-        <option value="Disinfection.csv">Disinfection</option>
-        <option value="Pumping.csv">Pumping</option>
-        <option value="Distribution.csv">Distribution</option>
-        <option value="Monitoring.csv">Monitoring</option>
-        <option value="Safety.csv">Safety</option>
-        <option value="EthicsSupervisionManagement.csv">Ethics, Supervision & Management</option>
+        <option value="output-water-sources.csv" selected>Water Sources</option>
+        <option value="output-water-quality-lab.csv">Water Quality & Laboratory Analysis</option>
+        <option value="output-regulations.csv">Regulations</option>
+        <option value="output-treatment.csv">Treatment</option>
+        <option value="output-disinfection.csv">Disinfection</option>
+        <option value="output-pumping.csv">Pumping</option>
+        <option value="output-distribution.csv">Distribution</option>
+        <option value="output-safety.csv">Safety</option>
+        <option value="output-ethicssupervisionmanagement.csv">Ethics, Supervision & Management</option>
       </select>
       <button id="shuffle">Shuffle</button>
       <span class="stat">Loaded: <span id="count">0</span></span>
@@ -164,7 +163,6 @@
       const c=filtered[idx];
       const card=document.createElement('div');
       card.className='card'+(flipped?' flipped':'');
-      console.log(c.front)
       card.innerHTML=`<div class="inner"><div class="face front">${escapeHtml(c.front)}</div><div class="face back">${escapeHtml(c.back)}</div></div>`;
       card.onclick=()=>{flipped=!flipped; renderCard();};
       stage.appendChild(card);
