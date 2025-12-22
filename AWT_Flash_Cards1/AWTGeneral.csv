@@ -102,32 +102,20 @@ c. Allow work without training
 d. Satisfy only insurance requirements","Answer: a. Reduce exposure to physical, chemical, and biological hazards"
 "Which of the following conditions is most critical for achieving
 maximum TOC removal during Enhanced Coagulation for DBP control?
-operating range.
-coagulation.
 a. Maintaining a pH of 8.5 or higher.
-b. Operating the process at a pH lower than the conventional
+b. Operating the process at a pH lower than the conventional operating range.
 c. Using a non-ionic polymer as a sole coagulant aid.
-d. Pre-oxidizing with a strong oxidant like KMnO₄ before",Answer: b. Operating the process at a pH lower than the conventional
-"In the context of corrosion control, a water quality analysis yields
-a Langelier Saturation Index (LSI) of +0. What is the appropriate
-operational interpretation of this result?
-material.
-calcium carbonate.
-corrosive.
-bacterial growth.
-a. The water is extremely aggressive and will quickly dissolve pipe
-b. The water is moderately scale-forming and is saturated with
-c. The water is perfectly balanced and is neither scaling nor
-d. The water lacks the necessary disinfectant residual to prevent",Answer: b. The water is moderately scale-forming and is saturated with
-"When operating a GAC contactor for PFAS removal, what operational
-metric indicates that the carbon bed is nearing exhaustion?
-approaching the regulatory MCL.
-contactor.
-cycle.
+d. Pre-oxidizing with a strong oxidant like KMnO₄ before coagulation.",Answer: b. Operating the process at a pH lower than the conventional operating range.
+"In the context of corrosion control, a water quality analysis yields a Langelier Saturation Index (LSI) of +0. What is the appropriate operational interpretation of this result?
+a. The water is extremely aggressive and will quickly dissolve pipe material.
+b. The water is moderately scale-forming and is saturated with calcium carbonate.
+c. The water is perfectly balanced and is neither scaling nor corrosive.
+d. The water lacks the necessary disinfectant residual to prevent bacterial growth.",Answer: b. The water is moderately scale-forming and is saturated with calcium carbonate.
+"When operating a GAC contactor for PFAS removal, what operational metric indicates that the carbon bed is nearing exhaustion?
 a. A sudden increase in the head loss across the GAC bed.
-b. The measured PFAS concentration in the GAC effluent is
-c. A measured decrease in the temperature of the water exiting the
-d. An increase in the total amount of backwash water required per",Answer: b. The measured PFAS concentration in the GAC effluent is
+b. The measured PFAS concentration in the GAC effluent is approaching the regulatory MCL.
+c. A measured decrease in the temperature of the water exiting the contactor.
+d. An increase in the total amount of backwash water required per cycle.",Answer: b. The measured PFAS concentration in the GAC effluent is approaching the regulatory MCL.
 "What is the primary purpose of maintaining a stable pH in
 coagulation processes?
 a. To improve filter backwash efficiency.
