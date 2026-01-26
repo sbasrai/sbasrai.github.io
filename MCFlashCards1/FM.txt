@@ -1,0 +1,1 @@
+\item An extended aeration plant is as follows: 0.28 MGD of 210 mg/l influent BOD, aeration basin volume 0.32 MG.  The MLVSS is 4,450 mg/l (81\% volatile) and the RAS is  9,200 mg/l.  (a) What is the F/M?  [Ans. 0.051 F:M] (b) How many pounds of suspended solids must be wasted to obtain an F/M of .06? [1785.6 lbs MLSS] (c) What is the new MLVSS in mg/l? [Ans. 3781 mg/l MLSS]
