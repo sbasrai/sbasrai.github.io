@@ -1,4 +1,64 @@
 Front,Back
+"What if an RO system experiences a sudden, significant drop in salt rejection while permeate flow remains constant?
+a. Check for a compromised membrane or a leaking O-ring/interconnector.
+b. Decrease the feed pressure to allow more contact time.
+c. Increase the antiscalant dose.
+d. Perform a low-pH cleaning to remove minerals.",Answer: a. Check for a compromised membrane or a leaking O-ring/interconnector.
+"What if the RO permeate conductivity rises specifically in the first stage of a two-stage system?
+a. The membranes are scaling.
+b. The membranes are likely fouled by organics or biological growth.
+c. The feed temperature is too low for the membrane type.
+d. The recovery rate is set too high.",Answer: b. The membranes are likely fouled by organics or biological growth.
+"What if the RO feed water temperature increases by 5°C due to seasonal changes?
+a. Decrease the feed pressure to maintain a constant flux.
+b. Increase the feed pressure to maintain salt rejection.
+c. Double the antiscalant dose.
+d. Switch to a tighter membrane grade.",Answer: a. Decrease the feed pressure to maintain a constant flux.
+"What if the RO recovery rate is set higher than the original design specifications?
+a. Permeate quality will improve.
+b. Scaling (e.g., silica or calcium sulfate) will likely occur in the tail-end elements.
+c. The feed pump will consume less energy.
+d. The flux rate will decrease naturally.",Answer: b. Scaling (e.g., silica or calcium sulfate) will likely occur in the tail-end elements.
+"What if the RO concentrate pressure is found to be equal to the feed pressure?
+a. The system is operating perfectly.
+b. The membrane elements are likely bypassed or the brine seal is damaged.
+c. The membranes are severely fouled.
+d. The pump is undersized.",Answer: b. The membrane elements are likely bypassed or the brine seal is damaged.
+"What if the RO system is shut down for more than 48 hours without a preservation flush?
+a. The membranes will dry out and crack.
+b. Biological growth (biofouling) will occur on the membrane surfaces.
+c. The salt rejection will increase.
+d. The pH will stabilize.",Answer: b. Biological growth (biofouling) will occur on the membrane surfaces.
+"What if the RO permeate flux is noticeably uneven across the length of the pressure vessel?
+a. The feed pressure is too high.
+b. The lead elements are likely fouled, shifting the load to the tail elements.
+c. The antiscalant is working too well.
+d. The permeate valves are closed.",Answer: b. The lead elements are likely fouled, shifting the load to the tail elements.
+"What if the RO antiscalant dosing pump loses prime during a shift?
+a. The permeate conductivity will drop.
+b. Mineral scale will begin to form on the second-stage membranes immediately.
+c. The flux will increase.
+d. The system will automatically switch to a UF bypass.",Answer: b. Mineral scale will begin to form on the second-stage membranes immediately.
+"What if the RO feed water contains high levels of 'Free Chlorine'?
+a. It will prevent biofouling on the membrane.
+b. It will oxidize and permanently damage polyamide RO membranes.
+c. It will increase the flux.
+d. It will lower the SDI.",Answer: b. It will oxidize and permanently damage polyamide RO membranes.
+"What if the RO permeate back-pressure exceeds the feed pressure?
+a. Flux will increase.
+b. The membrane layers can delaminate, causing permanent damage.
+c. The salt rejection will improve.
+d. The pump will speed up.",Answer: b. The membrane layers can delaminate, causing permanent damage.
+"What if the pH of the RO feed water drops to 4.0?
+a. Rejection of certain ions (like boron) will decrease, and organic fouling may lessen.
+b. The membranes will dissolve instantly.
+c. Scaling of calcium carbonate will increase.
+d. The feed pump will cavitate.",Answer: a. Rejection of certain ions (like boron) will decrease, and organic fouling may lessen.
+"What if the RO interstage booster pump fails in a two-stage system?
+a. The first stage will stop.
+b. The second-stage flux will drop significantly, reducing overall recovery.
+c. The permeate quality will improve.
+d. The antiscalant dose must be tripled.",Answer: b. The second-stage flux will drop significantly, reducing overall recovery.
 "Reverse osmosis primarily removes:
 a. Dissolved salts and many dissolved organics
 b. Only suspended solids
