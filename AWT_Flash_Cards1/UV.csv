@@ -1,44 +1,29 @@
 Front,Back
-"What if the Transmembrane Pressure (TMP) in a MF/UF system spikes immediately after a Clean-In-Place (CIP)?
-a. Increase the flux rate to blow out the blockage.
-b. Check for improper chemical concentrations or incompatible cleaning agents that may have caused precipitation.
-c. Restart the system at a higher feed pressure.
-d. Increase the backwash frequency to compensate.",Answer: b. Check for improper chemical concentrations or incompatible cleaning agents that may have caused precipitation.
-"What if a MF/UF fiber integrity test (pressure decay) fails on a specific membrane rack?
-a. Increase the air scour pressure to clear the fibers.
-b. Isolate the rack and perform a sonic or bubble test to identify and plug broken fibers.
-c. Dose more coagulant to seal the leaks.
-d. Increase the permeate pump speed.",Answer: b. Isolate the rack and perform a sonic or bubble test to identify and plug broken fibers.
-"What if the MF/UF system shows high turbidity in the filtrate despite passing a recent pressure decay integrity test?
-a. The fibers are broken.
-b. Check for bypass or leaking seals in the piping and valves post-membrane.
-c. Decrease the coagulant dose.
-d. Increase the flux.",Answer: b. Check for bypass or leaking seals in the piping and valves post-membrane.
-"What if the MF/UF system experiences 'irreversible fouling' that standard backwashing cannot fix?
-a. Perform a standard backwash with air scour.
-b. Perform a Chemically Enhanced Backwash (CEB) or a full Clean-In-Place (CIP).
-c. Increase the filtration cycle time.
-d. Decrease the air scour duration.",Answer: b. Perform a Chemically Enhanced Backwash (CEB) or a full Clean-In-Place (CIP).
-"What if the MF/UF feed water contains high levels of dissolved manganese (Mn) and no pre-oxidant?
-a. It will act as a natural coagulant.
-b. It may cause severe membrane fouling if it oxidizes and precipitates on the membrane surface.
-c. It will protect the UV lamps from fouling.
-d. It will increase the salt rejection of the RO.",Answer: b. It may cause severe membrane fouling if it oxidizes and precipitates on the membrane surface.
-"What if the air-to-water ratio during MF/UF air scouring is set too high?
-a. The membranes may suffer mechanical damage or fiber breakage.
-b. The filtration efficiency will double.
-c. The TMP will drop to zero.
-d. Chemical costs will decrease.",Answer: a. The membranes may suffer mechanical damage or fiber breakage.
-"What if the MF/UF filtrate Silt Density Index (SDI) is consistently above 3.0?
-a. Increase the UF flux to force more water through.
-b. Optimize the MF/UF backwash or check for upstream coagulant overdosing.
-c. Decrease the RO recovery.
-d. Replace the RO membranes.",Answer: b. Optimize the MF/UF backwash or check for upstream coagulant overdosing.
-"What if the 'Flux' in a MF/UF system is set too high for the incoming water quality?
-a. The system will run more efficiently.
-b. The rate of fouling will increase, leading to frequent CIPs and shorter membrane life.
-c. The backwash frequency can be decreased.
-d. The filtrate will be cleaner.",Answer: b. The rate of fouling will increase, leading to frequent CIPs and shorter membrane life.
+"What if the UV transmittance (UVT) of the feed water drops below the design limit for the UV/AOP?
+a. Increase the UF backwash duration.
+b. Adjust the UV/AOP dose by increasing power or decreasing the flow rate.
+c. Add more hydrogen peroxide to the UF feed.
+d. Replace the UF membranes immediately.",Answer: b. Adjust the UV/AOP dose by increasing power or decreasing the flow rate.
+"What if the hydrogen peroxide quenching system fails after the UV/AOP reactor?
+a. The UV lamps will overheat.
+b. Residual peroxide will reach the downstream process, potentially causing oxidation damage to RO membranes.
+c. The RO salt rejection will improve.
+d. The pH of the water will drop to 4.0.",Answer: b. Residual peroxide will reach the downstream process, potentially causing oxidation damage to RO membranes.
+"What if the UV/AOP system alarms for 'Low UV Intensity' but the lamps are relatively new?
+a. Increase the peroxide dose.
+b. Check for sleeve fouling or a failure in the automatic wiping system.
+c. The water is too clean for the sensors to read.
+d. Lower the flow rate.",Answer: b. Check for sleeve fouling or a failure in the automatic wiping system.
+"What if the UV/AOP reactor experiences lamp flickering during operation?
+a. Decrease the water flow.
+b. Inspect the ballasts or electrical connections for failure.
+c. Increase the peroxide concentration.
+d. Clean the quartz sleeves.",Answer: b. Inspect the ballasts or electrical connections for failure.
+"What if the UV lamps in an AOP system reach their 'End of Life' hours?
+a. They will explode within the reactor.
+b. UV output will drop, potentially resulting in failure to meet organic contaminant removal targets.
+c. The water will become toxic to the RO membranes.
+d. The peroxide demand will decrease.",Answer: b. UV output will drop, potentially resulting in failure to meet organic contaminant removal targets.
 "UV disinfection primarily inactivates microorganisms by:
 a. Damaging nucleic acids (DNA/RNA)
 b. Removing cell walls
